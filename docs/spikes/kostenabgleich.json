@@ -1,0 +1,362 @@
+{
+  "kandidatenmodell": "openai/gpt-oss-120b",
+  "anbieter": "deepinfra",
+  "beispiele": 20,
+  "threads": 8,
+  "zeitpunkt": "2026-09-20T02:18:17+02:00",
+  "eigene_erfassung": {
+    "dollar": 0.0022117469999999996,
+    "dollar_je_programmlauf": 0.00011058734999999997,
+    "tokens_prompt": 37291,
+    "tokens_antwort": 4894,
+    "tokens_aus_evaluationen": 42185,
+    "tokens_aus_dem_hauptthread": 0,
+    "lm_aufrufe": 40,
+    "programmlaeufe": 20,
+    "fehlgeschlagene_programmlaeufe": 0,
+    "auswertungen": 1,
+    "anbieter": {
+      "DeepInfra": 40
+    },
+    "stoerungen": [],
+    "bewertung_f1": 0.7193
+  },
+  "gegenprobe_je_aufruf": {
+    "eigene_summe_usd": 0.00221175,
+    "vergleich_usd": 0.00221175,
+    "abweichung_usd": -0.0,
+    "abweichung_prozent": -0.0
+  },
+  "gegenprobe_kontostand": {
+    "eigene_summe_usd": 0.00221175,
+    "vergleich_usd": 0.00221175,
+    "abweichung_usd": 0.0,
+    "abweichung_prozent": 0.0
+  },
+  "kontostand": {
+    "vorher_usd": 0.878299719,
+    "nachher_usd": 0.880511466
+  },
+  "aufrufe": [
+    {
+      "id": "gen-1789863421-dG8eLbsy1y7fwno1CUYs",
+      "kosten_usd": 6.4967e-05,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 1301,
+      "completion_tokens": 99,
+      "abgerechnet_usd": 6.4967e-05
+    },
+    {
+      "id": "gen-1789863421-CF3oMIlCcAN6aBP9pEGD",
+      "kosten_usd": 7.005e-05,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 1420,
+      "completion_tokens": 103,
+      "abgerechnet_usd": 7.005e-05
+    },
+    {
+      "id": "gen-1789863421-Lr4vyAkzgMW8YIG2Sjxs",
+      "kosten_usd": 7.9009e-05,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 1607,
+      "completion_tokens": 115,
+      "abgerechnet_usd": 7.9009e-05
+    },
+    {
+      "id": "gen-1789863423-dxX7xDTw12ouCaxZutcP",
+      "kosten_usd": 1.7737e-05,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 291,
+      "completion_tokens": 41,
+      "abgerechnet_usd": 1.7737e-05
+    },
+    {
+      "id": "gen-1789863421-djyONViMxaDxOBsAQQfb",
+      "kosten_usd": 0.000100511,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 1963,
+      "completion_tokens": 164,
+      "abgerechnet_usd": 0.000100511
+    },
+    {
+      "id": "gen-1789863421-d3OBe13Dg9vp0HKbSCza",
+      "kosten_usd": 8.4437e-05,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 1331,
+      "completion_tokens": 207,
+      "abgerechnet_usd": 8.4437e-05
+    },
+    {
+      "id": "gen-1789863421-TLdutNbJdInwRKXTQ9qA",
+      "kosten_usd": 0.000106077,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 1801,
+      "completion_tokens": 232,
+      "abgerechnet_usd": 0.000106077
+    },
+    {
+      "id": "gen-1789863424-tKa039hM6ce8GZ9DQLgd",
+      "kosten_usd": 1.6162e-05,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 276,
+      "completion_tokens": 35,
+      "abgerechnet_usd": 1.6162e-05
+    },
+    {
+      "id": "gen-1789863421-EXfjLbaoCmnd9s35lUP5",
+      "kosten_usd": 0.000107838,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 1674,
+      "completion_tokens": 270,
+      "abgerechnet_usd": 0.000107838
+    },
+    {
+      "id": "gen-1789863424-l1wdkdY6dLhmPMcv1kML",
+      "kosten_usd": 1.8441e-05,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 333,
+      "completion_tokens": 36,
+      "abgerechnet_usd": 1.8441e-05
+    },
+    {
+      "id": "gen-1789863424-umpCHuuHx26TKPP4FJrD",
+      "kosten_usd": 1.6659e-05,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 317,
+      "completion_tokens": 29,
+      "abgerechnet_usd": 1.6659e-05
+    },
+    {
+      "id": "gen-1789863425-7lv1t6p0Jb0WPHM5sDbB",
+      "kosten_usd": 1.7672e-05,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 326,
+      "completion_tokens": 33,
+      "abgerechnet_usd": 1.7672e-05
+    },
+    {
+      "id": "gen-1789863425-SHrcHRWqbNFRWJIzZHgo",
+      "kosten_usd": 1.8996e-05,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 348,
+      "completion_tokens": 36,
+      "abgerechnet_usd": 1.8996e-05
+    },
+    {
+      "id": "gen-1789863421-mKvilYlPPUhgA5STZwf0",
+      "kosten_usd": 0.000115331,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 1463,
+      "completion_tokens": 360,
+      "abgerechnet_usd": 0.000115331
+    },
+    {
+      "id": "gen-1789863424-wKbmspuSMjIFddamqUfp",
+      "kosten_usd": 1.722e-05,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 300,
+      "completion_tokens": 36,
+      "abgerechnet_usd": 1.722e-05
+    },
+    {
+      "id": "gen-1789863424-TokUfUuFw63nWNtCJvWp",
+      "kosten_usd": 8.1598e-05,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 1484,
+      "completion_tokens": 157,
+      "abgerechnet_usd": 8.1598e-05
+    },
+    {
+      "id": "gen-1789863426-F1NYkwK2bfOZcEGXLeNH",
+      "kosten_usd": 6.4498e-05,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 1394,
+      "completion_tokens": 76,
+      "abgerechnet_usd": 6.4498e-05
+    },
+    {
+      "id": "gen-1789863426-VrFypiJcwW5kJspFtm34",
+      "kosten_usd": 2.4268e-05,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 394,
+      "completion_tokens": 57,
+      "abgerechnet_usd": 2.4268e-05
+    },
+    {
+      "id": "gen-1789863426-hTsVB8dxuJSzoHhH6ths",
+      "kosten_usd": 7.624e-05,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 1500,
+      "completion_tokens": 122,
+      "abgerechnet_usd": 7.624e-05
+    },
+    {
+      "id": "gen-1789863425-u9iODm0kNm1gj1qjdgOx",
+      "kosten_usd": 9.0778e-05,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 1654,
+      "completion_tokens": 174,
+      "abgerechnet_usd": 9.0778e-05
+    },
+    {
+      "id": "gen-1789863427-WcK9uWNVi9Ep7bI40w4g",
+      "kosten_usd": 1.5903e-05,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 269,
+      "completion_tokens": 35,
+      "abgerechnet_usd": 1.5903e-05
+    },
+    {
+      "id": "gen-1789863428-0j5Y9xv6yG3TZzRjHqGb",
+      "kosten_usd": 1.5593e-05,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 279,
+      "completion_tokens": 31,
+      "abgerechnet_usd": 1.5593e-05
+    },
+    {
+      "id": "gen-1789863427-T4BE4kgZ70bAPYXya14S",
+      "kosten_usd": 2.4641e-05,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 303,
+      "completion_tokens": 79,
+      "abgerechnet_usd": 2.4641e-05
+    },
+    {
+      "id": "gen-1789863428-1H85p81EKHc7HuZ9xYXI",
+      "kosten_usd": 1.9807e-05,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 301,
+      "completion_tokens": 51,
+      "abgerechnet_usd": 1.9807e-05
+    },
+    {
+      "id": "gen-1789863426-ftm02DDfXXGMPCTsXA7a",
+      "kosten_usd": 9.6103e-05,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 1389,
+      "completion_tokens": 263,
+      "abgerechnet_usd": 9.6103e-05
+    },
+    {
+      "id": "gen-1789863428-SenC3aMoi4mXsUji6Jx4",
+      "kosten_usd": 6.3322e-05,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 1206,
+      "completion_tokens": 110,
+      "abgerechnet_usd": 6.3322e-05
+    },
+    {
+      "id": "gen-1789863429-5O3ENS96gv3QYXQfP2ZS",
+      "kosten_usd": 0.000117362,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 2616,
+      "completion_tokens": 121,
+      "abgerechnet_usd": 0.000117362
+    },
+    {
+      "id": "gen-1789863430-kdiUMOJQZYrPSJmtkBom",
+      "kosten_usd": 1.8963e-05,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 269,
+      "completion_tokens": 53,
+      "abgerechnet_usd": 1.8963e-05
+    },
+    {
+      "id": "gen-1789863429-ha8BgVMvnoZkb7WfJHMm",
+      "kosten_usd": 2.1089e-05,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 377,
+      "completion_tokens": 42,
+      "abgerechnet_usd": 2.1089e-05
+    },
+    {
+      "id": "gen-1789863428-8no6izTA1gUIMj4kmkf3",
+      "kosten_usd": 9.1548e-05,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 1344,
+      "completion_tokens": 246,
+      "abgerechnet_usd": 9.1548e-05
+    },
+    {
+      "id": "gen-1789863427-S3d3S3cbFjmmKt8NoDcL",
+      "kosten_usd": 0.000107477,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 1531,
+      "completion_tokens": 299,
+      "abgerechnet_usd": 0.000107477
+    },
+    {
+      "id": "gen-1789863431-8Nk61FICifePDrpcwSsb",
+      "kosten_usd": 1.7753e-05,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 319,
+      "completion_tokens": 35,
+      "abgerechnet_usd": 1.7753e-05
+    },
+    {
+      "id": "gen-1789863432-mKfwDys00mm6yJMtJmYD",
+      "kosten_usd": 1.759e-05,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 310,
+      "completion_tokens": 36,
+      "abgerechnet_usd": 1.759e-05
+    },
+    {
+      "id": "gen-1789863432-Do3X8vUwwJgwmMaP6tEH",
+      "kosten_usd": 1.7538e-05,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 304,
+      "completion_tokens": 37,
+      "abgerechnet_usd": 1.7538e-05
+    },
+    {
+      "id": "gen-1789863429-SSYyygOAzx3B7swXfp9A",
+      "kosten_usd": 7.7699e-05,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 1227,
+      "completion_tokens": 190,
+      "abgerechnet_usd": 7.7699e-05
+    },
+    {
+      "id": "gen-1789863425-dbjxQQgX2SOcOc7M6Sc4",
+      "kosten_usd": 0.000133489,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 1577,
+      "completion_tokens": 442,
+      "abgerechnet_usd": 0.000133489
+    },
+    {
+      "id": "gen-1789863433-OCL4MxLGEp4foRb8EtSl",
+      "kosten_usd": 1.7397e-05,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 291,
+      "completion_tokens": 39,
+      "abgerechnet_usd": 1.7397e-05
+    },
+    {
+      "id": "gen-1789863433-GKqaWzW0xxDj1SA6vTJO",
+      "kosten_usd": 1.9926e-05,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 318,
+      "completion_tokens": 48,
+      "abgerechnet_usd": 1.9926e-05
+    },
+    {
+      "id": "gen-1789863429-PYevH9T4SLB8PTZsmhDs",
+      "kosten_usd": 0.000107196,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 1528,
+      "completion_tokens": 298,
+      "abgerechnet_usd": 0.000107196
+    },
+    {
+      "id": "gen-1789863434-fgCbh6FZTdreJzvy3FFT",
+      "kosten_usd": 2.2862e-05,
+      "anbieter": "DeepInfra",
+      "prompt_tokens": 356,
+      "completion_tokens": 57,
+      "abgerechnet_usd": 2.2862e-05
+    }
+  ]
+}

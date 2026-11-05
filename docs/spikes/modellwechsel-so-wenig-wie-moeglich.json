@@ -1,0 +1,128 @@
+{
+  "gelaufen_am": "2026-09-28 00:09:03",
+  "anzahl_fragen": 24,
+  "gleichzeitig": 8,
+  "wiederholungen": 3,
+  "programm": [
+    {
+      "modell": "openai/gpt-oss-120b",
+      "endpunkt": "deepinfra/bf16",
+      "bedient_haben": {
+        "DeepInfra": 48
+      },
+      "beantwortet": 24,
+      "gestellt": 24,
+      "fehler": {},
+      "f1": 0.7193903318903319,
+      "f1_standardfehler": 0.08043152162418221,
+      "exakt": 0.5833333333333334,
+      "lm_aufrufe": 48,
+      "kosten_usd": 0.002647585,
+      "kosten_je_programmlauf_usd": 0.00011031604166666666,
+      "denk_tokens_je_aufruf": 67.83333333333333,
+      "denk_tokens_max": 364,
+      "abgeschnitten": 0,
+      "dauer_s": 18.442085027694702,
+      "fragen_je_minute": 78.08227745602163,
+      "reasoning": {
+        "effort": "low"
+      }
+    },
+    {
+      "modell": "google/gemma-4-31b-it",
+      "endpunkt": "deepinfra/turbo",
+      "bedient_haben": {
+        "DeepInfra": 48
+      },
+      "beantwortet": 24,
+      "gestellt": 24,
+      "fehler": {},
+      "f1": 0.7964646464646464,
+      "f1_standardfehler": 0.066992920165839,
+      "exakt": 0.625,
+      "lm_aufrufe": 48,
+      "kosten_usd": 0.00471758,
+      "kosten_je_programmlauf_usd": 0.00019656583333333333,
+      "denk_tokens_je_aufruf": 0.0,
+      "denk_tokens_max": 0,
+      "abgeschnitten": 0,
+      "dauer_s": 15.494363069534302,
+      "fragen_je_minute": 92.93702448675617,
+      "reasoning": {
+        "enabled": false
+      }
+    },
+    {
+      "modell": "google/gemma-4-31b-it",
+      "endpunkt": "reka",
+      "bedient_haben": {
+        "Reka": 48
+      },
+      "beantwortet": 24,
+      "gestellt": 24,
+      "fehler": {},
+      "f1": 0.7756313131313131,
+      "f1_standardfehler": 0.07388607964308283,
+      "exakt": 0.625,
+      "lm_aufrufe": 48,
+      "kosten_usd": 0.0043495,
+      "kosten_je_programmlauf_usd": 0.00018122916666666667,
+      "denk_tokens_je_aufruf": 0.0,
+      "denk_tokens_max": 0,
+      "abgeschnitten": 0,
+      "dauer_s": 31.081279516220093,
+      "fragen_je_minute": 46.33013899085206,
+      "reasoning": {
+        "enabled": false
+      }
+    },
+    {
+      "modell": "deepseek/deepseek-v4.1-flash",
+      "endpunkt": "open-inference/fp4",
+      "bedient_haben": {
+        "OpenInference": 48
+      },
+      "beantwortet": 24,
+      "gestellt": 24,
+      "fehler": {},
+      "f1": 0.8117424242424242,
+      "f1_standardfehler": 0.07504635682919014,
+      "exakt": 0.75,
+      "lm_aufrufe": 48,
+      "kosten_usd": 0.00240709,
+      "kosten_je_programmlauf_usd": 0.00010029541666666668,
+      "denk_tokens_je_aufruf": 0.0,
+      "denk_tokens_max": 0,
+      "abgeschnitten": 0,
+      "dauer_s": 54.14363932609558,
+      "fragen_je_minute": 26.595921846464503,
+      "reasoning": {
+        "enabled": false
+      }
+    },
+    {
+      "modell": "openai/gpt-6-luna",
+      "endpunkt": "openai",
+      "bedient_haben": {
+        "OpenAI": 48
+      },
+      "beantwortet": 24,
+      "gestellt": 24,
+      "fehler": {},
+      "f1": 0.6176499766573296,
+      "f1_standardfehler": 0.07315569123931853,
+      "exakt": 0.20833333333333334,
+      "lm_aufrufe": 48,
+      "kosten_usd": 0.00634935,
+      "kosten_je_programmlauf_usd": 0.00026455625,
+      "denk_tokens_je_aufruf": 0.0,
+      "denk_tokens_max": 0,
+      "abgeschnitten": 0,
+      "dauer_s": 6.89651346206665,
+      "fragen_je_minute": 208.80115842889705,
+      "reasoning": {
+        "enabled": false
+      }
+    }
+  ]
+}

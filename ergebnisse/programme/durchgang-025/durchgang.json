@@ -1,0 +1,15 @@
+{
+  "durchgang": 25,
+  "seed": 3,
+  "baseline": "ein-modell",
+  "kandidatenmodell": "google/gemma-4-31b-it",
+  "kein_gewinner": true,
+  "paare": [
+    {
+      "datei": "durchgang-025/teilnehmer-google-gemma-4-31b-it.json",
+      "kandidatenmodell": "google/gemma-4-31b-it",
+      "phase": null,
+      "rolle": "teilnehmer"
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "abgerufen_am": "2026-10-10 10:15:30",
+  "quelle": "https://openrouter.ai/api/v1/models/deepseek/deepseek-v4.1-flash/endpoints",
+  "anzahl_endpunkte": 32,
+  "endpunkte": [
+    {
+      "anbieter": "Relace",
+      "tag": "relace",
+      "quantization": "unknown",
+      "preis_prompt_je_mio": 0.0011,
+      "preis_antwort_je_mio": 0.6,
+      "rabatt": 0,
+      "uptime_last_1d": 100,
+      "status": 0
+    },
+    {
+      "anbieter": "OpenInference",
+      "tag": "open-inference/fp4",
+      "quantization": "fp4",
+      "preis_prompt_je_mio": 0.00143,
+      "preis_antwort_je_mio": 0.36,
+      "rabatt": 0,
+      "uptime_last_1d": 88.90459363957596,
+      "status": -5
+    },
+    {
+      "anbieter": "Morph",
+      "tag": "morph/fp8",
+      "quantization": "fp8",
+      "preis_prompt_je_mio": 0.029,
+      "preis_antwort_je_mio": 1.0,
+      "rabatt": 0,
+      "uptime_last_1d": 100,
+      "status": 0
+    },
+    {
+      "anbieter": "Wafer",
+      "tag": "wafer",
+      "quantization": "unknown",
+      "preis_prompt_je_mio": 0.05,
+      "preis_antwort_je_mio": 0.65,
+      "rabatt": 0,
+      "uptime_last_1d": 100,
+      "status": 0
+    },
+    {
+      "anbieter": "InferenceNet",
+      "tag": "inference-net/fp8",
+      "quantization": "fp8",
+      "preis_prompt_je_mio": 0.07,
+      "preis_antwort_je_mio": 0.6,
+      "rabatt": 0,
+      "uptime_last_1d": 100,
+      "status": 0
+    },
+    {
+      "anbieter": "Sail Research",
+      "tag": "sail-research/fp4",
+      "quantization": "fp4",
+      "preis_prompt_je_mio": 0.08,
+      "preis_antwort_je_mio": 0.4,
+      "rabatt": 0,
+      "uptime_last_1d": 100,
+      "status": 0
+    },
+    {
+      "anbieter": "Decart",
+      "tag": "decart/fp4",
+      "quantization": "fp4",
+      "preis_prompt_je_mio": 0.09,
+      "preis_antwort_je_mio": 0.18,
+      "rabatt": 0,
+      "uptime_last_1d": 99.72222222222223,
+      "status": 0
+    },
+    {
+      "anbieter": "Ionstream",
+      "tag": "ionstream",
+      "quantization": "unknown",
+      "preis_prompt_je_mio": 0.1,
+      "preis_antwort_je_mio": 1.1,
+      "rabatt": 0,
+      "uptime_last_1d": 97.70194986072424,
+      "status": 0
+    },
+    {
+      "anbieter": "DekaLLM",
+      "tag": "dekallm",
+      "quantization": "unknown",
+      "preis_prompt_je_mio": 0.12,
+      "preis_antwort_je_mio": 1.2,
+      "rabatt": 0,
+      "uptime_last_1d": 99.93055555555556,
+      "status": 0
+    },
+    {
+      "anbieter": "DeepInfra",
+      "tag": "deepinfra/fp8",
+      "quantization": "fp8",
+      "preis_prompt_je_mio": 0.14,
+      "preis_antwort_je_mio": 0.42,
+      "rabatt": 0.3,
+      "uptime_last_1d": 100,
+      "status": 0
+    },
+    {
+      "anbieter": "StreamLake",
+      "tag": "streamlake/fp8",
+      "quantization": "fp8",
+      "preis_prompt_je_mio": 0.15,
+      "preis_antwort_je_mio": 0.6,
+      "rabatt": 0.5,
+      "uptime_last_1d": 100,
+      "status": 0
+    },
+    {
+      "anbieter": "DeepSeek",
+      "tag": "deepseek",
+      "quantization": "unknown",
+      "preis_prompt_je_mio": 0.15,
+      "preis_antwort_je_mio": 0.6,
+      "rabatt": 0,
+      "uptime_last_1d": 100,
+      "status": 0
+    },
+    {
+      "anbieter": "DigitalOcean",
+      "tag": "digitalocean",
+      "quantization": "unknown",
+      "preis_prompt_je_mio": 0.165,
+      "preis_antwort_je_mio": 0.66,
+      "rabatt": 0,
+      "uptime_last_1d": 99.58333333333333,
+      "status": 0
+    },
+    {
+      "anbieter": "GMICloud",
+      "tag": "gmicloud/fp8",
+      "quantization": "fp8",
+      "preis_prompt_je_mio": 0.18,
+      "preis_antwort_je_mio": 0.72,
+      "rabatt": 0.4,
+      "uptime_last_1d": 99.93055555555556,
+      "status": 0
+    },
+    {
+      "anbieter": "Novita",
+      "tag": "novita/fp8",
+      "quantization": "fp8",
+      "preis_prompt_je_mio": 0.195,
+      "preis_antwort_je_mio": 0.78,
+      "rabatt": 0.35,
+      "uptime_last_1d": 100,
+      "status": 0
+    },
+    {
+      "anbieter": "CoreWeave",
+      "tag": "coreweave/fp8",
+      "quantization": "fp8",
+      "preis_prompt_je_mio": 0.2,
+      "preis_antwort_je_mio": 0.65,
+      "rabatt": 0,
+      "uptime_last_1d": 99.02777777777779,
+      "status": 0
+    },
+    {
+      "anbieter": "Phala",
+      "tag": "phala",
+      "quantization": "unknown",
+      "preis_prompt_je_mio": 0.21,
+      "preis_antwort_je_mio": 0.84,
+      "rabatt": 0.3,
+      "uptime_last_1d": 100,
+      "status": 0
+    },
+    {
+      "anbieter": "Makora",
+      "tag": "makora/fp8",
+      "quantization": "fp8",
+      "preis_prompt_je_mio": 0.27,
+      "preis_antwort_je_mio": 1.15,
+      "rabatt": 0,
+      "uptime_last_1d": 100,
+      "status": 0
+    },
+    {
+      "anbieter": "Crusoe",
+      "tag": "crusoe/fp8",
+      "quantization": "fp8",
+      "preis_prompt_je_mio": 0.29,
+      "preis_antwort_je_mio": 1.2,
+      "rabatt": 0,
+      "uptime_last_1d": 100,
+      "status": 0
+    },
+    {
+      "anbieter": "Baidu",
+      "tag": "baidu/fp8",
+      "quantization": "fp8",
+      "preis_prompt_je_mio": 0.3,
+      "preis_antwort_je_mio": 1.2,
+      "rabatt": 0,
+      "uptime_last_1d": 100,
+      "status": 0
+    },
+    {
+      "anbieter": "AtlasCloud",
+      "tag": "atlas-cloud/fp8",
+      "quantization": "fp8",
+      "preis_prompt_je_mio": 0.3,
+      "preis_antwort_je_mio": 1.2,
+      "rabatt": 0,
+      "uptime_last_1d": 100,
+      "status": 0
+    },
+    {
+      "anbieter": "BaseTen",
+      "tag": "baseten/fp8",
+      "quantization": "fp8",
+      "preis_prompt_je_mio": 0.3,
+      "preis_antwort_je_mio": 1.2,
+      "rabatt": 0,
+      "uptime_last_1d": 100,
+      "status": 0
+    },
+    {
+      "anbieter": "Alibaba",
+      "tag": "alibaba",
+      "quantization": "unknown",
+      "preis_prompt_je_mio": 0.3,
+      "preis_antwort_je_mio": 1.2,
+      "rabatt": 0,
+      "uptime_last_1d": 95.13888888888889,
+      "status": 0
+    },
+    {
+      "anbieter": "Together",
+      "tag": "together",
+      "quantization": "unknown",
+      "preis_prompt_je_mio": 0.3,
+      "preis_antwort_je_mio": 1.2,
+      "rabatt": 0,
+      "uptime_last_1d": 99.58333333333333,
+      "status": 0
+    },
+    {
+      "anbieter": "SiliconFlow",
+      "tag": "siliconflow/fp8",
+      "quantization": "fp8",
+      "preis_prompt_je_mio": 0.3,
+      "preis_antwort_je_mio": 1.2,
+      "rabatt": 0,
+      "uptime_last_1d": 99.79166666666667,
+      "status": 0
+    },
+    {
+      "anbieter": "Modal",
+      "tag": "modal",
+      "quantization": "unknown",
+      "preis_prompt_je_mio": 0.3,
+      "preis_antwort_je_mio": 1.2,
+      "rabatt": 0,
+      "uptime_last_1d": 100,
+      "status": 0
+    },
+    {
+      "anbieter": "BaseTen",
+      "tag": "baseten/fp8",
+      "quantization": "fp8",
+      "preis_prompt_je_mio": 0.3,
+      "preis_antwort_je_mio": 1.2,
+      "rabatt": 0,
+      "uptime_last_1d": 100,
+      "status": 0
+    },
+    {
+      "anbieter": "Parasail",
+      "tag": "parasail/fp8",
+      "quantization": "fp8",
+      "preis_prompt_je_mio": 0.3,
+      "preis_antwort_je_mio": 1.2,
+      "rabatt": 0,
+      "uptime_last_1d": 100,
+      "status": 0
+    },
+    {
+      "anbieter": "Fireworks",
+      "tag": "fireworks",
+      "quantization": "unknown",
+      "preis_prompt_je_mio": 0.3,
+      "preis_antwort_je_mio": 1.2,
+      "rabatt": 0,
+      "uptime_last_1d": 66.66666666666666,
+      "status": -5
+    },
+    {
+      "anbieter": "Venice",
+      "tag": "venice/fp8",
+      "quantization": "fp8",
+      "preis_prompt_je_mio": 0.3,
+      "preis_antwort_je_mio": 1.2,
+      "rabatt": 0,
+      "uptime_last_1d": 100,
+      "status": 0
+    },
+    {
+      "anbieter": "Fireworks",
+      "tag": "fireworks/us",
+      "quantization": "unknown",
+      "preis_prompt_je_mio": 0.45,
+      "preis_antwort_je_mio": 1.8,
+      "rabatt": 0,
+      "uptime_last_1d": 100,
+      "status": 0
+    },
+    {
+      "anbieter": "BaseTen",
+      "tag": "baseten/fast",
+      "quantization": "fp32",
+      "preis_prompt_je_mio": 0.6,
+      "preis_antwort_je_mio": 2.4,
+      "rabatt": 0,
+      "uptime_last_1d": 95.74468085106383,
+      "status": 0
+    }
+  ]
+}

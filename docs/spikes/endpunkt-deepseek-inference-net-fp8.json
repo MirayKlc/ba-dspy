@@ -1,0 +1,65 @@
+{
+  "endpunkt": "inference-net/fp8",
+  "openrouter_angaben": {
+    "anbieter": "InferenceNet",
+    "quantization": "fp8",
+    "preis_prompt_je_mio": 0.07,
+    "preis_antwort_je_mio": 0.6,
+    "rabatt": 0,
+    "uptime_last_1d": 100,
+    "status": 0
+  },
+  "denken": {
+    "nichts": {
+      "angenommen": true,
+      "antwort": "{'text': 'France', 'reasoning_content': 'We need answer. Need obey. Paragraphs A",
+      "denk_tokens": 38,
+      "antwort_tokens": 41,
+      "kosten_usd": 2.957e-05,
+      "anbieter": "InferenceNet"
+    },
+    "enabled_false": {
+      "angenommen": true,
+      "antwort": "France",
+      "denk_tokens": 0,
+      "antwort_tokens": 2,
+      "kosten_usd": 4.35e-06,
+      "anbieter": "InferenceNet"
+    },
+    "effort_low": {
+      "angenommen": true,
+      "antwort": "{'text': 'France', 'reasoning_content': 'We need answer. Need use paragraphs. A ",
+      "denk_tokens": 36,
+      "antwort_tokens": 39,
+      "kosten_usd": 2.837e-05,
+      "anbieter": "InferenceNet"
+    }
+  },
+  "programm_ohne_wiederholungen": {
+    "modell": "deepseek/deepseek-v4.1-flash",
+    "endpunkt": "inference-net/fp8",
+    "reasoning": {
+      "enabled": false
+    },
+    "bedient_haben": {
+      "InferenceNet": 192
+    },
+    "beantwortet": 96,
+    "gestellt": 96,
+    "fehler": {},
+    "f1": 0.7789276695526696,
+    "f1_standardfehler": 0.03777841375328766,
+    "lm_aufrufe": 192,
+    "kosten_usd": 0.02155739,
+    "kosten_je_programmlauf_usd": 0.00022455614583333333,
+    "denk_tokens_je_aufruf": 0.0,
+    "denk_tokens_max": 0,
+    "abgeschnitten": 0,
+    "latenz_median_s": 1.918788532508188,
+    "dauer_s": 24.56456723899464
+  },
+  "gelaufen_am": "2026-10-10 09:59:51",
+  "anzahl_fragen": 96,
+  "gleichzeitig": 8,
+  "wiederholungen": 0
+}

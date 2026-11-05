@@ -1,0 +1,8 @@
+﻿Strategie;C_opt $;Abweichung vom Plan;c_exec $ je 1000;C_opt in Programmläufen je 1000 Antworten;Modellwechsel?;Ausgleichspunkt gegen B1 (Spanne je Seed)
+Verfahren;5,67 (5,62);+2,6 % (+1,7 %);0,284 (0,213);19.969 (26.392);ja in 0 von 3;S1 nie · S2 433.923 · S3 705.007 (S1 1.534.789 · S2 378.211 · S3 616.141)
+B1 ohne Optimierung (Referenz, DeepSeek);0,17;–;0,288 (0,222);"– (Referenz; im Ausgleichspunkt mit 0 gerechnet)";– (Referenz);–
+B2 Gleichverteilung;6,50 (6,46);+8,9 % (+8,1 %);0,245 (0,231);34.466 (28.082);ja in 1 von 3 (ja in 0 von 3);S1 nie · S2 1.474.462 · S3 40.763 (S1 nie · S2 1.183.624 · S3 nie)
+B3 Einzelmodell gpt-oss-120b;5,95;-0,70%;0,147;42.349;– wählt nicht;S1 47.950 · S2 47.112 · S3 34.863 (S1 124.204 · S2 89.333 · S3 55.931)
+B3 Einzelmodell Gemma 4 31B;6,69;11,90%;0,425;15.895;– wählt nicht;nie
+B3 Einzelmodell DeepSeek V4.1 Flash;5,41 (4,74);-9,7 % (-20,9 %);0,316 (0,233);17.105 (20.364);– wählt nicht;nie
+B3 Einzelmodell GPT-6 Luna;5,06;-15,50%;0,591;8.967;– wählt nicht;nie

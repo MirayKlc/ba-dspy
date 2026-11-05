@@ -1,0 +1,7 @@
+﻿Paar;B1;B2;B3
+DeepSeek − Gemma;2 / 3 / 1 (t: 1);0 / 0 / 0 (t: 0);0 / 0 / 0 (t: 0)
+DeepSeek − gpt-oss;3 / 3 / 3 (t: 3);3 / 3 / 3 (t: 3);3 / 3 / 3 (t: 3)
+DeepSeek − Luna;3 / 3 / 3 (t: 3);3 / 3 / 3 (t: 3);3 / 3 / 3 (t: 3)
+Gemma − gpt-oss;1 / 0 / 0 (t: 1);3 / 3 / 3 (t: 3);2 / 2 / 2 (t: 2)
+Gemma − Luna;3 / 3 / 3 (t: 3);3 / 3 / 3 (t: 3);3 / 3 / 3 (t: 3)
+gpt-oss − Luna;3 / 3 / 3 (t: 3);2 / 3 / 3 (t: 2);2 / 3 / 2 (t: 2)

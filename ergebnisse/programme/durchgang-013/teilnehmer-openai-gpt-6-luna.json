@@ -1,0 +1,273 @@
+{
+  "programm.find_evidence": {
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "What is the year of the person who was born first, Wanda Kosakiewicz, or Albert Camus",
+        "paragraphs": "The Stranger (novel): L’Étranger (The Outsider [UK], or The Stranger [US]) is a 1942 novel by French author Albert Camus. Its theme and outlook are often cited as examples of Camus' philosophy of the absurd and existentialism, though Camus personally rejected the latter label.\n\nMarcel J. Melançon: Marcel J. Mélançon is a Canadian philosopher and scientist. He was born in Saint-Barnabé, Quebec, in 1938, and is mostly known for his book on the French philosopher Albert Camus \"Albert Camus, An Analysis of his thought\" (Albert Camus. Analyse de sa pensée). He has mostly worked together with the biologist Richard D. Lambert.\n\nThe Guest: \"The Guest\" (French: \"L'Hôte\" ) is a short story by the French writer Albert Camus. It was first published in 1957 as part of a collection entitled \"Exile and the Kingdom\" (\"L'exil et le royaume\"). The French title \"L'Hôte\" translates into both \"the guest\" and \"the host\" which ties back to the relationship between the main characters of the story. Camus employs this short tale to reflect upon issues raised by the political situation in French North Africa. In particular, he explores the problem of refusing to take sides in the colonial conflict in Algeria, something that mirrors Camus' own non-aligned stance which he had set out in his Nobel Prize acceptance speech.\n\nReflections on the Guillotine: \"Reflections on the Guillotine\" is an extended essay written in 1957 by Albert Camus. In the essay Camus takes an uncompromising position for the abolition of the death penalty. Camus's view is similar to that of Cesare Beccaria and the Marquis de Sade, the latter having also argued that murder premeditated and carried out by the state was the worst kind. Camus states that he does not base his argument on sympathy for the convicted but on logical grounds and on proven statistics. Camus also argues that capital punishment is an easy option for the government where remedy and reform may be possible.\n\nShe Came to Stay: She Came to Stay (French, L'Invitée) is a novel written by French author Simone de Beauvoir first published in 1943. The novel is a fictional account of her and Jean-Paul Sartre's relationship with Olga Kosakiewicz and Wanda Kosakiewicz.\n\nWanda Kosakiewicz: Wanda Kosakiewicz (Ukrainian: Ванда Козакевич ; 1917–1989), French theatre actress in the 1940s, was one of Jean-Paul Sartre's love interests and Olga Kosakiewicz's sister. Sartre wrote that she was one of the reasons that his friendship with Albert Camus went sour. Her relations with both rival philosophers featured in the book \"The Boxer and the Goalkeeper\" by Andy Martin (Simon & Schuster, 2012); she appears as Wanda in \"Lettres à Sartre\", and Tania in \"Lettres au Castor\".\n\nThe Possessed (play): The Possessed (in French Les Possédés) is a play written by Albert Camus in 1959. The piece is a theatrical adaptation of Fyodor Dostoyevsky's novel \"The Possessed\", later renamed \"Demons\". Camus despised nihilism and viewed Dostoyevsky's work as a prophecy about nihilism's devastating effects. He directed a production of the play at the Théâtre Antoine in 1959, the year before he died, which he financed in part with the money he received with his Nobel Prize. It was a critical success as well as an artistic and technical tour de force: 33 actors, 4 hours long, 7 sets, 24 scenes. The walls could move sideways to reduce the size of each location and the whole stage rotated to allow for immediate set transformations. Camus put the painter and set decorator Mayo, who had already illustrated several of his novels (L'Etranger - 1948 Ed.) , in charge of the demanding task of designing these multiple and complex theater sets\n\nThe Fall (Camus novel): The Fall (French: La Chute ) is a philosophical novel by Albert Camus. First published in 1956, it is his last complete work of fiction. Set in Amsterdam, \"The Fall\" consists of a series of dramatic monologues by the self-proclaimed \"judge-penitent\" Jean-Baptiste Clamence, as he reflects upon his life to a stranger. In what amounts to a confession, Clamence tells of his success as a wealthy Parisian defense lawyer who was highly respected by his colleagues; his crisis, and his ultimate \"fall\" from grace, was meant to invoke, in secular terms, The Fall of Man in the Garden of Eden. \"The Fall\" explores themes of innocence, imprisonment, non-existence, and truth. In a eulogy to Albert Camus, existentialist philosopher Jean-Paul Sartre described the novel as \"perhaps the most beautiful and the least understood\" of Camus' books.\n\nHerbert Lottman: Herbert Lottman (August 16, 1927, Brooklyn - August 27, 2014, Paris) was an American author who specialized in writing biographies on French subjects. An influential biographer, he published 17 biographies, 15 of which were related to French culture, commerce, or politics; including works on Albert Camus, Colette, Gustave Flaubert, Henri Philippe Pétain, Jules Verne, and the Rothschild banking family of France. He wrote that, just before dying, Albert Camus was pledged to marry. Camus's estate tried to block his book, partly because of this controversial statement.\n\nAlbert Camus: Albert Camus (] ; 7 November 1913 – 4 January 1960) was a French philosopher, author, and journalist. His views contributed to the rise of the philosophy known as absurdism. He wrote in his essay \"The Rebel\" that his whole life was devoted to opposing the philosophy of nihilism while still delving deeply into individual freedom. He won the Nobel Prize in Literature in 1957.",
+        "relevant_titles": [
+          "Wanda Kosakiewicz",
+          "Albert Camus"
+        ],
+        "relevant_text": "\"Wanda Kosakiewicz (Ukrainian: Ванда Козакевич ; 1917–1989), French theatre actress in the 1940s, was one of Jean-Paul Sartre's love interests and Olga Kosakiewicz's sister.\"\n\"Albert Camus (] ; 7 November 1913 – 4 January 1960) was a French philosopher, author, and journalist.\""
+      },
+      {
+        "augmented": true,
+        "question": "In which year was the album released which included the single \"Long Kiss Goodnight\", which was used as a sample in the song \"Rap name\"?",
+        "paragraphs": "Sons of the P: Sons of the P is the second album by American rap group Digital Underground, released on October 15, 1991. The album featured two hit singles, \"No Nose Job\" and \"Kiss You Back\", both of which were written by, and featured the lead vocals of Greg Jacobs (a.k.a. Shock G/Humpty Hump), and the latter of which featured multi-layered choruses and background vocals sung by Boni Boyer, who briefly worked with D.U. shortly after her stint with Prince's Sign of the Times/Love Sexy band. It is sometimes mistakenly reported that Kiss You Back was co-written & co-performed by George Clinton, but his name appropriately appears in the writers credit due to a sample of \"(Not Just) Knee Deep\" by Funkadelic. He did however actively participate in the writing and recording of the title track \"Sons of the P\", to which he also contributed vocals, and which marked one of the earliest studio guest appearances by Clinton on a Hip Hop release, preceded only by Kurtis Blow's \"Magilla Gorilla\" released in 1986. Both the album and the single \"Kiss You Back\" were each certified Gold by the RIAA.\n\nRap Name: \"Rap Name\" is the debut single of American rapper Obie Trice, released as a limited edition vinyl recording, taken from the deluxe edition of the soundtrack to the film \"8 Mile\". The song features vocals from fellow-label mate Eminem, who sampled the track in two tracks for his album \"The Eminem Show\", released earlier in 2002. These tracks are \"Drips\" and the intro of the album's lead single, \"Without Me\", as well as a few other lines from the song. The song also features a vocal sample of The Notorious B.I.G. from his song \"Long Kiss Goodnight\" from the album \"Life After Death\". The official video was filmed in Detroit with featured cameo appearances by Eminem's group D12.\n\nDisneyland Forever: Disneyland Forever was a nighttime spectacular at Disneyland that premiered alongside the \"Paint the Night\" parade and \"World of Color—Celebrate! \" on May 21, 2015 as part of the park's 60th anniversary celebration. The show was produced by Walt Disney Creative Entertainment, under direction of Steve Davison. \"Disneyland Forever\" incorporates fireworks, projection mapping, fire, lasers, and searchlights to depict scenes from Disney films. The show closed on September 5th, 2016 as the Diamond Celebration concluded along with World of Color Celebrate. The shows exit song \"A Kiss Goodnight\" would be later be released on CD with a book bearing the songs name.\n\nYesterday (Tyler Shaw album): Yesterday is the debut studio album recorded by Canadian singer-songwriter Tyler Shaw, released September 4, 2015 through Tyler Ip, a label imprint of Sony Music Canada. It was preceded by the release of four singles between 2012 and 2015, including the Gold-certified lead single, \"Kiss Goodnight\". Shaw co-wrote twelve of the thirteen songs, including all four of the aforementioned singles.\n\nTyler Shaw: Tyler Shaw (born April 8, 1993) is a Canadian singer and the winner of the \"MuchMusic Coca-Cola Covers Contest 2012\" organized by the specialized Canadian music cable channel Much (TV channel). He rose to fame through the contest and subsequently released his debut single, \"Kiss Goodnight\", through Sony Music Canada in December 2012. The song was certified Gold by Music Canada in April 2013. Shaw's debut studio album, \"Yesterday\", was released on September 4, 2015.\n\nLet Me Rock You: Let Me Rock You is the third album released by former Kiss drummer Peter Criss. Due to poor sales for his previous album, \"Out of Control\", \"Let Me Rock You\" was not released in the United States until 1998, when it was reissued on CD. The album was produced by Vini Poncia, who previously produced Criss's 1978 solo album (officially released as a Kiss album). \"Let Me Rock You\" features the song \"Feels Like Heaven\", written by Criss's former bandmate, Gene Simmons. Vinnie Cusano also co-wrote a song for the album; at the same year the album was released, Cusano became known as Vinnie Vincent when he replaced Kiss guitarist Ace Frehley. The album cover features Peter Criss for the first time without his Kiss makeup, as he didn't appear on the cover of his solo album \"Out of Control\". One year later, Kiss also decided to take off their makeup for their \"Lick It Up\" album.\n\nCharli Baltimore: Tiffany Lane (born August 16, 1974), better known as Charli Baltimore, is an American rapper–songwriter. Her stage name is taken from Geena Davis's character in the film \"The Long Kiss Goodnight\".\n\nMichael Licari: Michael Licari is an American television composer and songwriter. He has worked as a composer on the television series, \"Deliver Me\", documentary \"Triple the Triplets\" (2005). He has also worked as a song writer and performer on the 2007 film \"Charlie Bartlett\" (for the song \"Nice Vibes\"), and on the 1996 film \"The Long Kiss Goodnight\", as an arranger (for the \"Jingle Bells Marching Band\"). He has also worked on award-winning drama series, \"The Guiding Light\", \"Another World\",\"As The World Turns\", \"Sunset Beach\", and \"Santa Barbara\".\n\nLife After Death: Life After Death is the second and final studio album by American rapper The Notorious B.I.G., released on March 25, 1997, on Bad Boy Records and Arista Records. A double album, it was released posthumously following his death on March 9, 1997. It features collaborations with guest artists such as 112, Jay-Z, Lil' Kim, Mase, Bone Thugs-n-Harmony, Too $hort, Angela Winbush, D.M.C. of Run-D.M.C. , R. Kelly, The LOX and Puff Daddy. \"Life After Death\" exhibits The Notorious B.I.G. further delving into the mafioso rap subgenre. The album is a sequel to his first album, \"Ready to Die\", and picks up where the last song, \"Suicidal Thoughts\", ends.\n\nKiss Goodnight: \"Kiss Goodnight\" is the debut single released by Canadian singer-songwriter Tyler Shaw. The song was written by Shaw in conjunction with Stephen Kozmeniuk and Todd Clark, and was produced by Kozmeniuk and Zubin Thakkar. It was released December 4, 2012 through Sony Music Canada as Shaw's first official single following his win of the second CocaCola MuchMusic Covers Contest (2012) and serves as the lead single for Shaw's debut studio album, \"Yesterday\" (2015). A franglais version featuring vocals by french pop artist Nathalie Noël, entitled \"Je veux juste rester là\" (\"I Just Want to Stay There\"), was released April 9, 2013.",
+        "relevant_titles": [
+          "Rap Name",
+          "Life After Death"
+        ],
+        "relevant_text": "\"The song also features a vocal sample of The Notorious B.I.G. from his song \"Long Kiss Goodnight\" from the album \"Life After Death\".\"\n\"Life After Death is the second and final studio album by American rapper The Notorious B.I.G., released on March 25, 1997, on Bad Boy Records and Arista Records.\""
+      },
+      {
+        "augmented": true,
+        "question": "Shanghai Noon was the directorial debut of an American film director whose other credits include Showtime, Failure to Launch, and what other film?",
+        "paragraphs": "Vic Morrow: Victor \"Vic\" Morrow (February 14, 1929 – July 23, 1982) was an American actor and director whose credits include a starring role in the 1960s television series \"Combat! \", prominent roles in a handful of other television and film dramas, and numerous guest roles on television. Morrow and two child actors were killed in 1982 by a stunt helicopter crash during the filming of \"\". Morrow also gained notice for his roles in movies like \"Blackboard Jungle\" (1955), \"God's Little Acre\" (1958), \"Dirty Mary, Crazy Larry\" (1974), and \"The Bad News Bears\" (1976).\n\nMohamed Diab: Mohamed Diab is a writer and director whose work often centers on pressing issues concerning Egyptian society. He is known for his directorial debut film \"Cairo 678\" \"(Les Femmes du bus 678)\", which was released a month before the Egyptian revolution and was described by the New York Times as \"unmistakably a harbinger of that revolution.\" Paulo Coehlo tweeted about the film calling it \"brilliant\" and saying \"it should be mandatory for men, regardless of their religion/culture, to watch it\".\n\nDanny Leiner: Danny Leiner is a film director whose credits include \"The Great New Wonderful\", \"Harold & Kumar Go to White Castle\", \"Dude, Where's My Car? \", \"Layin' Low\", and \"Time Expired\".\n\nMargy Kinmonth: Margy Kinmonth is a film and television director whose credits include feature documentary \"Revolution - New Art for a New World\" (Foxtrot Films Ltd/Arts Alliance), marking the 1917 Russian Revolution, \"War Art with Eddie Redmayne\" ( 2015), which shows on ITV and Ovation, about artists of the First World War, Bafta nominated feature documentary \"Hermitage Revealed\" (Foxtrot Films Ltd/Arts Alliance, Moscow International Film Festival 2014), \"Royal Paintbox\" with HRH the Prince of Wales (Foxtrot Films Ltd/ ITV, MIFF 2013), \"Looking for Lowry\" with Ian McKellen, Noel Gallagher and Dame Paula Rego (Foxtrot Films/ ITV) \"\"Mariinsky Theatre,\" \"Nutcracker Story\"\" and BBC series \"Naked Hollywood\", winner of BAFTA Best Documentary Series.\n\nThe Medallion: The Medallion () is a 2003 American-Hong Kong action-comedy film co-written and directed by Hong Kong filmmaker Gordon Chan, and starring Jackie Chan, Lee Evans, Claire Forlani and Julian Sands. It was much less successful than Chan's other American movies such as the \"Rush Hour\" film series, \"Shanghai Noon\" and its sequel, \"Shanghai Knights\". The film was theatrically released on 15 August 2003 in Hong Kong and 22 August 2003 in the United States by TriStar Pictures.\n\nSteve Jaggi: Steve Jaggi is a Canadian film producer and director. His producing credits include the teen film Rip Tide, which premiered at the 2017 Sydney Film Festival, Embedded, Spirit of the Game, Ambrosia, Circle of Lies, Temptation, the documentary London Tango and the short lived British cable television series Be On TV. His directing credits include Chocolate Oyster and the documentary And The Beat Goes On. Jaggi also acts as an executive producer, and his credits include Rough Stuff, Skin Deep, Zelos and Crushed.\n\nAlan Metter: Alan Metter is an American film director whose most notable credits include \"Back to School\" starring Rodney Dangerfield, and \"Girls Just Want to Have Fun\" with Sarah Jessica Parker. He also produced and directed the 1983 television special \"The Winds of Whoopie\" for Steve Martin.\n\nMikael Salomon: Mikael Salomon (born 24 February 1955) is a Danish-born cinematographer, director and producer of film and television. After a long cinematography career in Danish cinema, he transitioned to the Hollywood film industry in the late 1980s and has remained highly prolific there, earning two Academy Award nominations. He is also an acclaimed and prolific television director whose credits include dozens of series, films and miniseries including \"Band of Brothers, Salem's Lot, Rome,\" and \"The Andromeda Strain\", for which has received numerous awards and nominations including a Primetime Emmy Award and Directors Guild of America Award.\n\nTom Dey: Thomas Ridgeway \"Tom\" Dey (born April 14, 1965) is an American film director, screenwriter, and producer. His credits include \"Shanghai Noon\", \"Showtime\", \"Failure to Launch\", and \"Marmaduke\".\n\nShanghai Noon: Shanghai Noon is a 2000 American-Hong Kong martial arts western comedy film starring Jackie Chan, Owen Wilson and Lucy Liu. The first in the \"Shanghai (film series)\". The film, marking the directorial debut of Tom Dey, was written by Alfred Gough and Miles Millar.",
+        "relevant_titles": [
+          "Tom Dey"
+        ],
+        "relevant_text": "\"His credits include \"Shanghai Noon\", \"Showtime\", \"Failure to Launch\", and \"Marmaduke\".\""
+      },
+      {
+        "id": "5a7ce820554299683c1c63d2",
+        "question": "What actor has appeared in the films \"Hamlet\", \"The Woodlanders\" and \"The Holiday\"?",
+        "answer": "Rufus Frederik Sewell",
+        "paragraphs": [
+          {
+            "title": "Peter Ellis (actor)",
+            "sentences": [
+              "Peter Ellis (born 30 May 1936) is an English actor.",
+              " Peter has worked extensively in theatre and television both as an actor and director.He spent four seasons with the RSC.",
+              " Three years with the Old Vic Co including playing Benvolio in Zeffirelli's \"Romeo and Juliet\".",
+              " Hotspur in \"Henry IV\" and later Rosencrantz in a world tour of \"Hamlet\" starring Derek Jacobi.",
+              " He also played Guildenstern in \"Hamlet\" on the site of the new Globe Theatre.",
+              " Five years at the Crucible Sheffield.",
+              " In the West End he appeared in \"The Tulip Tree\" and in Ray Cooney's \"Funny Money\".",
+              " He is perhaps best known for playing the role of Chief Superintendent Charles Brownlow in the long running ITV drama \"The Bill\".",
+              " Has also appeared as a semi-regular in \"Emmerdale Farm\" and \"Coronation Street\".",
+              " Other series include \"Sam\" \"Lyttons Diary\", \"Edward and Mrs Simpson\", \"The XYY Man\", \"Nolan\", \"The Les Dawson Show\", Victoria Wood's play \"Talent\" for Granada and \"Acorn Antiques\" for BBC TV.",
+              " He appeared in the David Mercer television play \"In Two Minds\" (1967), a work which was directed by Ken Loach."
+            ]
+          },
+          {
+            "title": "Christopher Fairbank",
+            "sentences": [
+              "Christopher \"Chris\" Fairbank (born 4 October 1953) is an English film, stage and television actor, perhaps best known for his role as Moxey in the hit comedy-drama series \"Auf Wiedersehen, Pet\".",
+              " Born in Hertfordshire, he first developed an interest in acting while appearing in a play at his primary school in Clavering, Essex.",
+              " He has numerous television credits to his name, including \"Sapphire and Steel\", \"The Professionals\", and \"The Scarlet Pimpernel\".",
+              " He provided voice talent for both of the Wallace and Gromit feature-length films, \"Curse of the Were-Rabbit\" and \"Flushed Away\".",
+              " Fairbank also appeared as one of the pair of muggers who rob an out-of-town family, heralding the first appearance of the Batman in Tim Burton's 1989 film.",
+              " Fairbank also had roles as Mactilburgh the scientist in the film \"The Fifth Element,\" the prisoner Murphy in \"Alien 3\", and the Player Queen in the Franco Zeffirelli version of \"Hamlet\", opposite Mel Gibson.",
+              " He appeared in the \"Goal!",
+              "\" trilogy as a Newcastle United fan."
+            ]
+          },
+          {
+            "title": "The Holiday",
+            "sentences": [
+              "The Holiday is a 2006 American romantic comedy film written, produced and directed by Nancy Meyers.",
+              " Co-produced by Bruce A. Block, it was filmed in both California and England, and stars Cameron Diaz and Kate Winslet as Amanda and Iris, two lovelorn women from opposite sides of the Atlantic Ocean, who temporarily exchange homes to escape heartbreak during the holiday season.",
+              " Jude Law and Jack Black were cast as the film's leading men Graham and Miles, with Eli Wallach, Shannyn Sossamon, Edward Burns and Rufus Sewell playing key supporting roles."
+            ]
+          },
+          {
+            "title": "Cesco Baseggio",
+            "sentences": [
+              "Francesco \"Cesco\" Baseggio (1897–1971) was an Italian stage, film and television actor.",
+              " He was born in Venice, and was identified with Venetian roles during his film career.",
+              " He appeared in a mixture of serious, dramatic films, as well as comedies such as \"The Brambilla Family Go on Holiday\" (1941).",
+              " On the stage he frequently appeared in plays by Carlo Goldoni."
+            ]
+          },
+          {
+            "title": "Rufus Sewell",
+            "sentences": [
+              "Rufus Frederik Sewell ( ; born 29 October 1967) is an English actor.",
+              " In film, he has appeared in Kenneth Branagh's rendition of \"Hamlet\" (1996) playing Fortinbras, \"The Woodlanders\", \"Dangerous Beauty\", \"Dark City\", \"A Knight's Tale\", \"The Illusionist\", \"Tristan and Isolde\", and \"Martha, Meet Frank, Daniel and Laurence\".",
+              " On television, he starred as \"Obergruppenführer\" John Smith in \"The Man in the High Castle\", an Italian detective in the BBC's television series \"Zen\" (2011) and also appeared in the mini-series \"The Pillars of the Earth\" (2010).",
+              " In 1993 he played the hero, Will Ladislaw, in the BBC's adaptation of George Eliot's \"Middlemarch\".",
+              " In 2003, he appeared in the lead role in \"\".",
+              " He starred in the CBS drama \"Eleventh Hour\", which was cancelled in April 2009.",
+              " On stage, he originated the role of Septimus Hodge in Tom Stoppard's \"Arcadia\" and the role of Jan in Stoppard's \"Rock 'n' Roll\"; the latter earned him an Olivier Award and a Tony Award nomination."
+            ]
+          },
+          {
+            "title": "John Barrymore",
+            "sentences": [
+              "John Barrymore (born John Sidney Blyth; February 14 or 15, 1882 – May 29, 1942) was an American actor on stage, screen and radio.",
+              " A member of the Drew and Barrymore theatrical families, he initially tried to avoid the stage, and briefly attempted a career as an artist, but appeared on stage together with his father Maurice in 1900, and then his sister Ethel the following year.",
+              " He began his career in 1903 and first gained attention as a stage actor in light comedy, then high drama, culminating in productions of \"Justice\" (1916), \"Richard III\" (1920) and \"Hamlet\" (1922); his portrayal of Hamlet led to him being called the \"greatest living American tragedian\"."
+            ]
+          },
+          {
+            "title": "Franz Matter",
+            "sentences": [
+              "Franz Matter (1931–1999) was a Swiss actor and film director.",
+              " A noted stage actor, Matter also appeared in a number of films including the 1958 literary adaptation \"The Cheese Factory in the Hamlet\".",
+              " He also worked as an assistant director, and directed the 1961 film \"Rosen auf Pump\"."
+            ]
+          },
+          {
+            "title": "Skylar Astin",
+            "sentences": [
+              "Skylar Astin Lipstein (born September 23, 1987), known professionally as Skylar Astin, is an American actor and singer.",
+              " He became known for portraying Jesse Swanson in the musical films \"Pitch Perfect\" (2012) and \"Pitch Perfect 2\" (2015).",
+              " He was also in the original cast of the Broadway musical \"Spring Awakening\", and has since appeared in films such as \"Hamlet 2\" (2008), \"Taking Woodstock\" (2009), \"Cavemen\" (2013), and \"21 & Over\" (2013)."
+            ]
+          },
+          {
+            "title": "Gregory Peck",
+            "sentences": [
+              "Eldred Gregory Peck (April 5, 1916 – June 12, 2003) was an American actor who was one of the most popular film stars from the 1940s to the 1960s.",
+              " Peck continued to play major film roles until the late 1980s.",
+              " His performance as Atticus Finch in the 1962 film \"To Kill a Mockingbird\" earned him the Academy Award for Best Actor.",
+              " He had also been nominated for an Oscar for the same category for \"The Keys of the Kingdom\" (1944), \"The Yearling\" (1946), \"Gentleman's Agreement\" (1947) and \"Twelve O'Clock High\" (1949).",
+              " Other notable films he appeared in include \"Spellbound\" (1945), \"Roman Holiday\" (1953), \"Moby Dick\" (1956, and its 1998 miniseries), \"Pork Chop Hill\" (1959), \"The Guns of Navarone\" (1961), \"Cape Fear\" (1962, and its 1991 remake), \"How the West Was Won\" (1962), \"The Omen\" (1976) and \"The Boys from Brazil\" (1978)."
+            ]
+          },
+          {
+            "title": "Alan Cumming",
+            "sentences": [
+              "Alan Cumming, OBE (born 27 January 1965), is a Scottish-American actor, singer/performer, author, and activist who has appeared in numerous films, television shows, and plays.",
+              " His London stage appearances include \"Hamlet\", the Maniac in \"Accidental Death of an Anarchist\" (for which he received an Olivier Award), the lead in \"Bent\", and the National Theatre of Scotland's \"The Bacchae\".",
+              " On Broadway, he has appeared in \"The Threepenny Opera\", as the master of ceremonies in \"Cabaret\" (for which he won a Tony Award), \"Design for Living\" and a one-man adaptation of \"Macbeth\".",
+              " His best-known film roles include his performances in \"Emma\", \"GoldenEye\", the \"Spy Kids\" trilogy, \"Son of the Mask,\" and \"X2\".",
+              " Cumming also introduces \"Masterpiece Mystery!",
+              "\" for PBS and appeared on \"The Good Wife\", for which he has been nominated for three Primetime Emmy Awards, two Screen Actors Guild Awards, two Golden Globe Awards and a Satellite Award.",
+              " A filming of his Las Vegas cabaret show, \"Alan Cumming Sings Sappy Songs\", aired on PBS stations in November 2016."
+            ]
+          }
+        ],
+        "gold_titles": [
+          "The Holiday",
+          "Rufus Sewell"
+        ]
+      }
+    ],
+    "signature": {
+      "instructions": "Analyze the provided question and the set of ten paragraphs to identify the specific evidence required to answer it. Since this is a multi-hop reasoning task, you must determine which two distinct pieces of information (and thus which two paragraphs) are necessary to bridge the gap in the question.\n\n1. Identify the `relevant_titles`: List the titles of the paragraphs that contain the crucial facts needed for the answer. Ignore irrelevant context or distractors.\n2. Extract the `relevant_text`: Quote verbatim the exact sentences from those relevant paragraphs that provide the direct evidence. Ensure these quotes are sufficient to logically derive the final answer.\n\nYour output should clearly separate the titles and the quoted text, focusing on precision and relevance.",
+      "fields": [
+        {
+          "prefix": "Question:",
+          "description": "${question}"
+        },
+        {
+          "prefix": "Paragraphs:",
+          "description": "ten paragraphs, only a few of them are relevant"
+        },
+        {
+          "prefix": "Relevant Titles:",
+          "description": "titles of the paragraphs that are needed to answer the question"
+        },
+        {
+          "prefix": "Relevant Text:",
+          "description": "the sentences from those paragraphs that are needed, quoted verbatim"
+        }
+      ]
+    },
+    "lm": {
+      "_dspy_lm_class": "dspy.clients.lm.LM",
+      "model": "openrouter/openai/gpt-6-luna",
+      "model_type": "chat",
+      "cache": false,
+      "num_retries": 10,
+      "temperature": 0.0,
+      "max_tokens": 1000,
+      "extra_body": {
+        "provider": {
+          "only": [
+            "openai"
+          ],
+          "allow_fallbacks": false
+        },
+        "reasoning": {
+          "enabled": false
+        }
+      },
+      "finetuning_model": null,
+      "launch_kwargs": {},
+      "train_kwargs": {}
+    }
+  },
+  "programm.answer_question": {
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Which cartridge did John Browning design that has a rim that is the same in diameter as the .50 GI?",
+        "relevant_text": "\"The .45 ACP (Automatic Colt Pistol), or .45 Auto (11.43×23mm) is a handgun cartridge designed by John Browning in 1905, for use in his prototype Colt semi-automatic pistol.\"\n\"The round has a rebated rim that is the same diameter as that of the .45 ACP.\"",
+        "answer": ".45 ACP"
+      },
+      {
+        "augmented": true,
+        "question": "Baby stars which American actor born on October 20, 1971?",
+        "relevant_text": "\"Kenneth Choi (born October 20, 1971) is an American actor.\"",
+        "answer": "Kenneth Choi"
+      },
+      {
+        "augmented": true,
+        "question": "Which rock group has more band members in its core group, White Magic or Pale Saints?",
+        "relevant_text": "\"Pale Saints were a British alternative rock band formed in 1987 by Ian Masters (bass/vocals), Graeme Naysmith (guitar), and Chris Cooper (drums) in Leeds, England.\"\n\"White Magic is a psychedelic folk rock group formed in Brooklyn, New York City, and led by singer/guitarist/pianist/composer Mira Billotte.\"",
+        "answer": "Pale Saints"
+      },
+      {
+        "augmented": true,
+        "question": "What year was the man whose car failed to arrive to the 1950 Indianapolis 500 first the Italian champion?",
+        "relevant_text": "\"Giuseppe Farina originally planned to enter, but his car never arrived.\"\n\"He was also the Italian Champion in 1937, 1938 and 1939.\"[[ ## completed ## ]]",
+        "answer": "1937"
+      }
+    ],
+    "signature": {
+      "instructions": "Answer the question based strictly on the provided text snippets. Do not use any external knowledge or make assumptions beyond what is explicitly stated in the relevant sentences. Your response must be a concise, short phrase (not a full sentence) that directly answers the question.",
+      "fields": [
+        {
+          "prefix": "Question:",
+          "description": "${question}"
+        },
+        {
+          "prefix": "Relevant Text:",
+          "description": "the sentences that were found to be relevant"
+        },
+        {
+          "prefix": "Answer:",
+          "description": "a short phrase, not a sentence"
+        }
+      ]
+    },
+    "lm": {
+      "_dspy_lm_class": "dspy.clients.lm.LM",
+      "model": "openrouter/openai/gpt-6-luna",
+      "model_type": "chat",
+      "cache": false,
+      "num_retries": 10,
+      "temperature": 0.0,
+      "max_tokens": 1000,
+      "extra_body": {
+        "provider": {
+          "only": [
+            "openai"
+          ],
+          "allow_fallbacks": false
+        },
+        "reasoning": {
+          "enabled": false
+        }
+      },
+      "finetuning_model": null,
+      "launch_kwargs": {},
+      "train_kwargs": {}
+    }
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.13",
+      "dspy": "3.3.1",
+      "cloudpickle": "3.1"
+    }
+  }
+}

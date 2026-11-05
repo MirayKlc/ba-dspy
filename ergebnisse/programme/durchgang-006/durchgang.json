@@ -1,0 +1,15 @@
+{
+  "durchgang": 6,
+  "seed": 1,
+  "baseline": "ein-modell",
+  "kandidatenmodell": "deepseek/deepseek-v4.1-flash",
+  "kein_gewinner": false,
+  "paare": [
+    {
+      "datei": "durchgang-006/gewinner-deepseek-deepseek-v4.1-flash.json",
+      "kandidatenmodell": "deepseek/deepseek-v4.1-flash",
+      "phase": null,
+      "rolle": "gewinner"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+﻿Gegner;F1 Verfahren;F1 Gegner;Differenz;Programmtest signifikant (x von 3);Gegner unter der Obergrenze (x von 3, abgerechnet / Stichtagspreis)
+B1 ohne Optimierung;0,805 ± 0,011;0,796 ± 0,001;0,009 ± 0,010;1 von 3;3 / 3
+B2 Gleichverteilung, abgerechnet;0,805 ± 0,011;0,783 ± 0,035;0,023 ± 0,032;1 von 3;3 / –
+B2 Gleichverteilung, Stichtagspreis;0,805 ± 0,011;0,803 ± 0,001;0,003 ± 0,010;0 von 3;– / 3
+B3 Einzelmodell gpt-oss-120b;0,805 ± 0,011;0,758 ± 0,014;0,047 ± 0,003;3 von 3;3 / 3
+B3 Einzelmodell Gemma 4 31B;0,805 ± 0,011;0,796 ± 0,003;0,009 ± 0,014;1 von 3;0 / 0
+B3 Einzelmodell DeepSeek V4.1 Flash;0,805 ± 0,011;0,800 ± 0,004;0,005 ± 0,008;0 von 3;2 / 3
+B3 Einzelmodell GPT-6 Luna;0,805 ± 0,011;0,716 ± 0,027;0,089 ± 0,022;3 von 3;0 / 0

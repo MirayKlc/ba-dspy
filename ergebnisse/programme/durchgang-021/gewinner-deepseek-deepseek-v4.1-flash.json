@@ -1,0 +1,899 @@
+{
+  "programm.find_evidence": {
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "id": "5ae68faf55429908198fa618",
+        "question": "Who plays the role of a driver for hire in the film which included the Kanye West single, \"Muzik\" from the extended play L.A. Confidential presents: Knoc-turn'al? ",
+        "answer": "Jason Statham",
+        "paragraphs": [
+          {
+            "title": "L.A. Confidential (soundtrack)",
+            "sentences": [
+              "L.A. Confidential is either the original soundtrack, on the Restless Records label featuring mainly songs and source music, or the original film score, on Varèse Sarabande Records, of the 1997 Academy Award- and Golden Globe Award-winning film \"L.A. Confidential\" starring Kevin Spacey, Russell Crowe, Guy Pearce, James Cromwell, Danny DeVito, and Kim Basinger (who won the Academy Award for Best Supporting Actress for this film).",
+              " The original score was composed by Jerry Goldsmith."
+            ]
+          },
+          {
+            "title": "Jeannine Oppewall",
+            "sentences": [
+              "Jeannine Claudia Oppewall (born November 28, 1946) is an American film art director.",
+              " She has worked on more than 30 movies in such roles as production designer, set decorator and set designer, and has four Academy Award nominations for Best Art Direction for \"L.A. Confidential\", \"Pleasantville\", \"Seabiscuit\" and \"The Good Shepherd\".",
+              " Many of her film sets represented different time periods within the 20th century, including the 1930s (\"Seabiscuit)\", the 1950s (\"L.A. Confidential\" and \"Pleasantville)\", and from the 1960s (\"The Big Easy\", \"The Bridges of Madison County\" and \"Catch Me If You Can).\""
+            ]
+          },
+          {
+            "title": "Dark Sky Paradise",
+            "sentences": [
+              "Dark Sky Paradise is the third studio album by American rapper Big Sean.",
+              " It was released on February 24, 2015, by GOOD Music and Def Jam Recordings.",
+              " The album features guest appearances from Kanye West, Drake, Ariana Grande, Chris Brown, Ty Dolla Sign, Jhené Aiko, PartyNextDoor, Lil Wayne, John Legend and E-40, while the production was handled by a variety of collaborators, including Key Wane, DJ Mustard, DJ Dahi and Kanye West, who also serves as the album's executive producer alongside Big Sean himself.",
+              " The album was supported by five singles: \"I Don't Fuck with You\" featuring E-40, \"Paradise\", \"Blessings\" featuring Drake, \"One Man Can Change the World\" featuring Kanye West and John Legend, and \"Play No Games\" featuring Chris Brown and Ty Dolla Sign."
+            ]
+          },
+          {
+            "title": "54th Annual Grammy Awards",
+            "sentences": [
+              "The 54th Annual Grammy Awards were held on February 12, 2012, at the Staples Center in Los Angeles being broadcast on CBS.",
+              " LL Cool J hosted the show.",
+              " It was the first time in seven years that the event had an official host.",
+              " Nominations were announced on November 30, 2011 on prime-time television as part of \"The GRAMMY Nominations Concert Live!",
+              " – Countdown to Music's Biggest Night\", a one-hour special broadcast live on CBS from Nokia Theatre at L.A. Live.",
+              " Kanye West received the most nominations with seven.",
+              " Adele, Foo Fighters, and Bruno Mars each received six nominations.",
+              " Lil Wayne, Skrillex, and Radiohead all earned five nominations.",
+              " The nominations were criticised by many music journalists as Kanye West's \"My Beautiful Dark Twisted Fantasy\" missed out on a nomination for Album of the Year despite being highly critically acclaimed and topping many end of year charts.",
+              " West's album went on to win Best Rap Album."
+            ]
+          },
+          {
+            "title": "L.A. Confidential (film)",
+            "sentences": [
+              "L.A. Confidential is a 1997 American neo-noir crime film directed, produced and co-written by Curtis Hanson.",
+              " The screenplay by Hanson and Brian Helgeland is loosely based on James Ellroy's 1990 novel of the same name, the third book in his L.A. Quartet series.",
+              " Like the book, the film tells the story of a group of LAPD officers in 1953, and the intersection of police corruption and Hollywood celebrity.",
+              " The title refers to the 1950s scandal magazine \"Confidential\", portrayed in the film as \"Hush-Hush\"."
+            ]
+          },
+          {
+            "title": "L.A. Confidential presents: Knoc-turn'al",
+            "sentences": [
+              "L.A. Confidential presents: Knoc-turn'al is an extended play by rapper Knoc-turn'al.",
+              " The EP was originally released to promote Knoc's unreleased debut album, \"Knoc's Landin<nowiki>'</nowiki>\" (2002), which was shelved due to undisclosed reasons.",
+              " Two singles released from the extended play included the Grammy Award–nominated \"The Knoc,\" and the Kanye West–produced \"Muzik\", which appeared on the Jason Statham film, \"The Transporter\"."
+            ]
+          },
+          {
+            "title": "Slow Jamz",
+            "sentences": [
+              "\"Slow Jamz\" is a single by American rapper Twista featuring Kanye West and Jamie Foxx.",
+              " It was released in late 2003 as the lead single from his album \"Kamikaze\" and the second single from Kanye West's debut album \"The College Dropout\".",
+              " The Kanye West version includes an intro and two extra verses by Jamie Foxx, and excludes the original outro by Twista."
+            ]
+          },
+          {
+            "title": "Bad Intentions (song)",
+            "sentences": [
+              "\"Bad Intentions\" is a single by American rapper Dr. Dre, featuring vocals from fellow rapper Knoc-turn'al, recorded for and taken from the soundtrack to the film \"The Wash\".",
+              " The song was produced by Mahogany Music and co-produced by Dre himself.",
+              " It contains a sample from \"Hollywood Hot\" by Eleventh Hour.",
+              " The single was released on January 7, 2002.",
+              " The song debuted on the UK Singles Chart at number four, staying in the charts for sixteen weeks.",
+              " The music video for \"Bad Intentions\" depicts Dr. Dre and Knoc-turn'al filming a fictional music video at a burlesque house named \"Bad Intentions\".",
+              " Rapper Jay-Z also used the beat as a diss towards fellow rapper Nas during their feud."
+            ]
+          },
+          {
+            "title": "The Transporter",
+            "sentences": [
+              "The Transporter (French: Le Transporteur) is a 2002 English-language French action thriller film directed by Corey Yuen and Louis Leterrier (who is credited as artistic director on the project), and written by Luc Besson, who was inspired by BMW Films' \"The Hire\" series.",
+              " The film stars Jason Statham as Frank Martin, a driver for hire – a mercenary \"transporter\" who will deliver anything, anywhere – no questions asked – for the right price.",
+              " It also stars Shu Qi as Lai Kwai."
+            ]
+          },
+          {
+            "title": "Yelawolf",
+            "sentences": [
+              "Michael Wayne Atha (born December 30, 1979), better known as Yelawolf, is an American rapper from Gadsden, Alabama.",
+              " In his early years, Yelawolf released his first independent album \"Creek Water\", which was released in 2005.",
+              " During 2005 to 2010, he's been putting the releases of one extended play and four mixtapes.",
+              " One extended play (EP), titled \"Trunk Muzik\", amassed a strong attention that would follow the rapper's signing a record deal to Interscope Records, which re-released the mixtape as \"Trunk Muzik 0-60\" later that year."
+            ]
+          }
+        ],
+        "gold_titles": [
+          "L.A. Confidential presents: Knoc-turn'al",
+          "The Transporter"
+        ]
+      },
+      {
+        "id": "5abcfd215542993a06baf9dc",
+        "question": "The mother of Rebecca Miller joined which agency in 1953?",
+        "answer": "Magnum Photos Agency",
+        "paragraphs": [
+          {
+            "title": "Surf Punks",
+            "sentences": [
+              "The Surf Punks were a pop punk band formed in 1976 by Malibu residents Dennis Dragon (son of the Symphony conductor Carmen Dragon, brother of Captain & Tennille's Daryl Dragon and ex-drummer for The Byrds and The Beach Boys in the early seventies), and Drew Steele.",
+              " Dennis recruited the additional talents of Malibu residents Tony Creed AKA \"Hulk\", for lead guitar and blues harp, fellow bodysurfer/frisbeeist John Hunt on bass, and South Bay resident John Heussenstamm for lead guitar.",
+              " This was the original core group, produced and engineered by Dennis in his garage studio across the street from Zuma Beach, his favorite body surfing spot.",
+              " Mark Miller joined them on \"Locals Only.\"",
+              " Jeff Eyrich - AKA \"Ray Ban\" - joined the Surf Punks on bass when John Hunt left the group."
+            ]
+          },
+          {
+            "title": "Rebecca Miller (singer)",
+            "sentences": [
+              "Rebecca Miller is a Canadian country music artist.",
+              " Her 1995 single \"Listen to the Radio\" reached the Top 20 of the \"RPM\" Country Tracks chart.",
+              " An album was planned for release, but shelved when her record label closed.",
+              " In 2009, she was signed to Crystal Shawanda's label, New Sun Records."
+            ]
+          },
+          {
+            "title": "Inge Morath",
+            "sentences": [
+              "Ingeborg Hermine \"Inge\" Morath (   ; May 27, 1923 – January 30, 2002) was an Austrian-born American photographer.",
+              " In 1953, she joined the Magnum Photos Agency, founded by top photographers in Paris, and became a full photographer with the agency in 1955.",
+              " Morath was also the third and last wife of playwright Arthur Miller; their daughter is screenwriter/director Rebecca Miller."
+            ]
+          },
+          {
+            "title": "Early life of Keith Miller",
+            "sentences": [
+              "This article chronicles the life of Keith Miller, an Australian Test cricketer and Australian rules footballer, from his birth on 28 November 1919 until 20 August 1940, when he left civilian life and joined the Militia (army reserve) during World War II.",
+              " Born in the town of Sunshine on the outskirts of Melbourne, Miller made sport the focal point of his early life.",
+              " The youngest of four children of Scottish descent, Miller joined his siblings in being inculcated with a love of sport by their father, playing football in winter and cricket in summer.",
+              " Miller's father—an engineer and sportslover—emphasised the importance of technique over power; Miller benefited as he was of small stature during his childhood and could not rely on brute strength.",
+              " Miller yearned to be a horse racing jockey, as he felt that he would not have the physique to succeed in cricket or football."
+            ]
+          },
+          {
+            "title": "Brant Miller",
+            "sentences": [
+              "Brant Miller (born February 8, 1950) is the chief meteorologist for NBC owned and operated television station WMAQ-TV in Chicago.",
+              " At WMAQ-TV he is the meteorologist on NBC 5 News at 5 p.m., 6 p.m. and 10 p.m. Miller joined NBC5 News in 1991."
+            ]
+          },
+          {
+            "title": "Maggie's Plan",
+            "sentences": [
+              "Maggie's Plan is a 2015 American romantic comedy-drama film directed and written by Rebecca Miller, based on the original story by Karen Rinaldi.",
+              " The film stars Greta Gerwig, Ethan Hawke, Bill Hader, Maya Rudolph, Travis Fimmel, Wallace Shawn, Ida Rohatyn, Monte Greene, and Julianne Moore."
+            ]
+          },
+          {
+            "title": "Rebecca Miller",
+            "sentences": [
+              "Rebecca Augusta Miller, Lady Day-Lewis (born September 15, 1962) is an American independent filmmaker, screenwriter, film director, and novelist, known for her films \"Angela\", \"\", \"The Ballad of Jack and Rose\", \"The Private Lives of Pippa Lee\", and \"Maggie's Plan\", all of which she wrote and directed.",
+              " Miller is the daughter of Magnum photographer Inge Morath and Pulitzer Prize-winning playwright Arthur Miller."
+            ]
+          },
+          {
+            "title": "Charlie Miller",
+            "sentences": [
+              "Charlie Miller (born 18 March 1976) is a retired Scottish football player.",
+              " Miller started his career at Rangers, and won five consecutive Scottish league championships and two Scottish Cup titles.",
+              " Miller was voted the SPFA Young Player of the Year in 1995 during his time with the club.",
+              " After spells with English Premier League clubs Leicester City and Watford, Miller joined Dundee United in 2000 where he played for four seasons.",
+              " Miller played for Norwegian club SK Brann from 2004 to 2006 and won the Norwegian Cup with the club in 2004.",
+              " After spells in Belgium and Australia, Miller returned to Scotland in 2011 when he joined Clyde."
+            ]
+          },
+          {
+            "title": "Jim Miller (athletic director)",
+            "sentences": [
+              "Jim Miller was the athletic director at the University of Richmond from 2000 until 2012.",
+              " Prior to moving to Richmond, Miller was the executive associate director of athletics at North Carolina State University.",
+              " Miller joined the NC State athletic program in 1990 as compliance officer and overseeing public relations and marketing.",
+              " In 1999, a restructuring within the NC State athletic department resulted in athletic director Les Robinson taking responsibility for fundraising and promotion, while Miller became responsible for overseeing the day-to-day activities of the athletic department."
+            ]
+          },
+          {
+            "title": "Proof (2005 film)",
+            "sentences": [
+              "Proof is a 2005 American drama film directed by John Madden and starring Gwyneth Paltrow, Anthony Hopkins, Jake Gyllenhaal, and Hope Davis.",
+              " It was written by Rebecca Miller, based on David Auburn's Pulitzer Prize-winning play \"Proof\"."
+            ]
+          }
+        ],
+        "gold_titles": [
+          "Rebecca Miller",
+          "Inge Morath"
+        ]
+      },
+      {
+        "id": "5a79bf905542994bb9457058",
+        "question": "Rectrix Aviation's jet charter business involves what service?",
+        "answer": "renting an entire aircraft",
+        "paragraphs": [
+          {
+            "title": "Falcon Aviation Services",
+            "sentences": [
+              "Falcon Aviation Services is a certified charter aviation company based in Abu Dhabi, United Arab Emirates.",
+              " It is a corporate jet and helicopter service provider focused on the Middle East and North Africa.",
+              " Falcon’s main operating base is at Al Bateen Executive Airport near Abu Dhabi, dedicated for VIP private charters and oil and gas support.",
+              " Major scope of work is to support the Abu Dhabi oil and gas governmental sectors.",
+              " Falcon offers a variety of services, including worldwide private jet charter and private helicopter charter, wet leasing, aircraft management, aircraft maintenance (MRO), oil & gas aviation support, continuing airworthiness management (CAMO), FBO, aircraft cleaning and aircraft leasing."
+            ]
+          },
+          {
+            "title": "Titan Aviation India",
+            "sentences": [
+              "Titan Aviation is an Aviation Service company specializing in Aircraft Charter, Helicopter Charter, Jet Charter, Aircraft Sales and Leasing, Aircraft Purchase Consultancy, Aircraft Operations Management and Aviation HR Services."
+            ]
+          },
+          {
+            "title": "Aviation Beauport Ltd",
+            "sentences": [
+              "Aviation Beauport Limited is a Jersey-based aviation company offering private aircraft charter, aircraft management, hangarage and handling services.",
+              " The company is the only executive jet charter company in the Channel Islands to hold an Air Operators Certificate (AOC), and is the only fixed-base operator (FBO) in Jersey."
+            ]
+          },
+          {
+            "title": "Rectrix Aviation",
+            "sentences": [
+              "Rectrix Aviation is a jet charter and commuter airline service that primarily serves New England, Florida and the east coast.",
+              " Its commercial operations are based out of Nantucket Memorial Airport and Barnstable Municipal Airport in Nantucket, MA and Hyannis, MA, respectively.",
+              " The only commercial flight it operates is between Nantucket and Hyannis.",
+              " Rectrix Shuttle, the commuter service, was founded when Island Airlines of Nantucket shut down."
+            ]
+          },
+          {
+            "title": "InterJet",
+            "sentences": [
+              "InterJet was a private jet charter operator in the Greek business aviation market.",
+              " InterJet was based in Athens and served the business community by chartering luxury private jets and helicopters for business needs and leisure breaks."
+            ]
+          },
+          {
+            "title": "Clay Lacy",
+            "sentences": [
+              "Clay Lacy (born August 14, 1932) is the founder and chief executive officer of Clay Lacy Aviation, established in 1968 as the first executive jet charter company in the Western United States.",
+              " His professional resume' includes airline captain, military aviator, experimental test pilot, air race champion, world record-setter, aerial cinematographer and business aviation entrepreneur.",
+              " Lacy has flown more than 300 aircraft types, logged more than 50,000 flight hours and accumulated more hours flying turbine aircraft than any other pilot in the world."
+            ]
+          },
+          {
+            "title": "Evojets",
+            "sentences": [
+              "evoJets is a private aviation company specializing in private jet charter and aircraft sales & acquisitions.",
+              " Founded in Aspen, CO in 2006, the company is now headquartered in New York City.",
+              " evoJets primarily offers on-demand jet charter services across USA and other international destinations.",
+              " It is a registered member of the Better Business Bureau in New York and Colorado, but provides charter services in the US and internationally."
+            ]
+          },
+          {
+            "title": "Air Partner",
+            "sentences": [
+              "Air Partner Plc is a global aviation services group.",
+              " The Group is structured into four reporting divisions: Commercial Jet air charter, Private Jet Charter, air freight and Baines Simmons.",
+              " The Commercial Jet division charters large airliners to move groups of any size.",
+              " They also provide remarketing programmes for all types of commercial and corporate aircraft.",
+              " Air Partner is headquartered alongside Gatwick airport in the United Kingdom.",
+              " Air Partner operates 24/7 year-round and has 20 offices across Europe, North America, the Middle East and Asia.",
+              " The company is publicly listed on the London Stock Exchange as LSE: [ AIR] , and is also ISO 9001:2008 compliant for commercial airline and private jet solutions worldwide."
+            ]
+          },
+          {
+            "title": "Air charter",
+            "sentences": [
+              "Air charter is the business of renting an entire aircraft (i.e., chartering) as opposed to individual aircraft seats (i.e., purchasing a ticket through a traditional airline).",
+              " While the airlines specialize in selling transportation by the seat, air charter companies focus on individual private aircraft and itineraries, urgent or time-sensitive cargo, air ambulance service, and other forms of \"ad hoc\" air transportation.",
+              " Some air charters brokers have been given economic authority to sell seats on private jets with mixed success.",
+              " Some air charter companies offer a large variety of aircraft, such as helicopters and business jets.",
+              " Charter jet categories include turbo props, light jets, mid-size jets, super mid-size jets, heavy jets, long-range jets and VIP airliners."
+            ]
+          },
+          {
+            "title": "NetJets",
+            "sentences": [
+              "NetJets Inc., a subsidiary of Berkshire Hathaway, is an American company that sells part ownership or shares (called fractional ownership) of private business jets. NetJets was founded in 1964 as Executive Jet Aviation.",
+              " It was the first private business jet charter and aircraft management company in the world."
+            ]
+          }
+        ],
+        "gold_titles": [
+          "Rectrix Aviation",
+          "Air charter"
+        ]
+      },
+      {
+        "id": "5a85e4d05542994c784ddbb0",
+        "question": "Ronnie Dunn and Jenna Sanz-Agero were both formerly part of bands in which they each acted in what role?",
+        "answer": "singer",
+        "paragraphs": [
+          {
+            "title": "Mama Don't Get Dressed Up for Nothing",
+            "sentences": [
+              "\"Mama Don't Get Dressed Up For Nothing\" is a song co-written and recorded by American country music duo Brooks & Dunn.",
+              " It was released in September 1996 as the third single from their CD \"Borderline\", and their eighteenth single overall.",
+              " The song received moderate success on the US Country chart, where it peaked at number 13, while it was a number 8 hit in Canada.",
+              " It was the first single the duo released that missed the US country top 10, breaking a streak of 17 straight top 10 entries; the next eight singles Brooks and Dunn released after this would also make the country top 10.",
+              " This is the fourth single to feature Kix Brooks on lead vocals instead of Ronnie Dunn.",
+              " Kix and Ronnie wrote this song, along with Don Cook."
+            ]
+          },
+          {
+            "title": "Ronnie Dunn",
+            "sentences": [
+              "Ronnie Gene Dunn (born June 1, 1953) is an American country music singer-songwriter and record executive.",
+              " In 2011, Dunn began working as a solo artist following the breakup of Brooks & Dunn.",
+              " He released his self-titled debut album for Arista Nashville on June 7, 2011, reaching the Top 10 with its lead-off single \"Bleed Red\".",
+              " In 2013, after leaving Arista Nashville in 2012, Dunn founded Little Will-E Records.",
+              " On April 8, 2014, Ronnie Dunn released his second solo album, \"Peace, Love, and Country Music\" through his own Little Will-E Records."
+            ]
+          },
+          {
+            "title": "Kix Brooks",
+            "sentences": [
+              "Leon Eric \"Kix\" Brooks III (born May 12, 1955) is an American country music artist, actor, and film producer best known for being one half of the duo Brooks & Dunn and host of radio's \"American Country Countdown\".",
+              " Prior to the duo's foundation, he was a singer and songwriter, charting twice on Hot Country Songs and releasing an album for Capitol Records.",
+              " Brooks and Ronnie Dunn comprised Brooks & Dunn for 20 years, with both members beginning solo careers.",
+              " Brooks's solo career after Brooks & Dunn has included the album \"New to This Town\"."
+            ]
+          },
+          {
+            "title": "If You See Him/If You See Her",
+            "sentences": [
+              "\"If You See Him/If You See Her\" is a song written by Terry McBride, Jennifer Kimball and Tommy Lee James, and recorded by American country music artist Reba McEntire, along with the duo Brooks & Dunn.",
+              " It served as the title track to each artist's respective 1998 albums (\"If You See Him\" for Reba, and \"If You See Her\" for Brooks & Dunn), both released on June 2 of that year.",
+              " The song was concurrently promoted and distributed by both artists' labels: MCA Nashville and Arista Nashville, then the respective labels for McEntire and Brooks & Dunn.",
+              " It is the only single to feature both Kix Brooks & Ronnie Dunn on vocals."
+            ]
+          },
+          {
+            "title": "Only in America (Brooks &amp; Dunn song)",
+            "sentences": [
+              "\"Only in America\" is a song recorded by American country music duo Brooks & Dunn.",
+              " It was released in June 2001 as the second single from the album \"Steers & Stripes\".",
+              " Kix Brooks, one-half of the duo, co-wrote the song with Don Cook and Ronnie Rogers, although it features Ronnie Dunn on lead vocals.",
+              " \"Only in America\" was also the second of three consecutive Number One hits from that album, reaching its peak on the \"Billboard\" Hot Country Singles & Tracks (now Hot Country Songs) charts for the week of October 27, 2001."
+            ]
+          },
+          {
+            "title": "Jenna Sanz-Agero",
+            "sentences": [
+              "Jenna Sanz-Agero is the former lead singer of the female rock group Vixen, and a former president of Media 8.",
+              " She lives and works in Los Angeles, California."
+            ]
+          },
+          {
+            "title": "Peace, Love, and Country Music",
+            "sentences": [
+              "Peace, Love, and Country Music is the second solo studio album by country music artist Ronnie Dunn.",
+              " The album was released on April 8, 2014 via Dunn's own record label Little Will-E Records.",
+              " \"Peace, Love, and Country Music\" is Dunn's first solo release since 2011's \"Ronnie Dunn\" released on Arista Nashville."
+            ]
+          },
+          {
+            "title": "Ronnie Dunn (album)",
+            "sentences": [
+              "Ronnie Dunn is the debut solo studio album from country music artist Ronnie Dunn.",
+              " The album was released on June 7, 2011, via Arista Nashville.",
+              " The album is Dunn's first release of music in nearly 25 years; he released three singles in the 1980s without issuing an album."
+            ]
+          },
+          {
+            "title": "Polyrically Uncorrect",
+            "sentences": [
+              "Polyrically Uncorrect is the tenth studio album, and fourteenth album release overall, by American country music parodist Cledus T. Judd.",
+              " It was released on June 30, 2009 via E1 Music.",
+              " It includes the singles \"Waitin' on Obama\", \"Garth Must Be Busy\" and \"(If I Had) Kellie Pickler's Boobs\".",
+              " The album includes guest vocals from Ashton Shepherd, Ronnie Dunn, Jamey Johnson, Terry Eldredge (of The Grascals), Colt Ford and Daryle Singletary.",
+              " Chris Neal of \"Country Weekly\" gave the album three stars out of five, citing the Ronnie Dunn collaboration as a standout track."
+            ]
+          },
+          {
+            "title": "Bleed Red",
+            "sentences": [
+              "\"Bleed Red\" is a song written by Tommy Lee James and Andrew Dorff, and recorded by American country music singer Ronnie Dunn.",
+              " The song is Dunn's first solo release after Brooks & Dunn disbanded in 2010.",
+              " \"Bleed Red\" was released to country radio on January 31, 2011.",
+              " It is intended to be the lead-off single from Dunn's first solo album, \"Ronnie Dunn\".",
+              " He had previously released three singles: \"It's Written All Over Your Face\", \"She Put the Sad in All His Songs\", and \"Jessie\"; with the first two singles charting to number 59 on the U.S. \"Billboard\" Hot Country Singles & Tracks (now Hot Country Songs) chart."
+            ]
+          }
+        ],
+        "gold_titles": [
+          "Ronnie Dunn",
+          "Jenna Sanz-Agero"
+        ]
+      }
+    ],
+    "signature": {
+      "instructions": "You are an expert research assistant helping to answer complex multi-hop questions. You will be provided with a question and ten Wikipedia paragraphs. Your task is to identify the specific evidence required to answer the question by determining which paragraphs are relevant and extracting the exact sentences from those paragraphs that contain the necessary facts.\n\n1.  **Identify Relevant Paragraphs**: Analyze the question and read through the provided paragraphs. Determine which titles (paragraph subjects) contain information directly related to answering the question. Ignore paragraphs that are irrelevant or contain only distractor information.\n2.  **Extract Evidence**: From the identified relevant paragraphs, quote verbatim the specific sentences that provide the factual basis for the answer. Do not paraphrase; use the original text.\n3.  **Output Format**: \n    *   `relevant_titles`: A list of strings containing the titles of the paragraphs you identified as necessary.\n    *   `relevant_text`: A string containing the extracted sentences, separated by newlines or clearly delineated.\n\nQuestion: {question}\nParagraphs: {paragraphs}",
+      "fields": [
+        {
+          "prefix": "Question:",
+          "description": "${question}"
+        },
+        {
+          "prefix": "Paragraphs:",
+          "description": "ten paragraphs, only a few of them are relevant"
+        },
+        {
+          "prefix": "Relevant Titles:",
+          "description": "titles of the paragraphs that are needed to answer the question"
+        },
+        {
+          "prefix": "Relevant Text:",
+          "description": "the sentences from those paragraphs that are needed, quoted verbatim"
+        }
+      ]
+    },
+    "lm": {
+      "_dspy_lm_class": "dspy.clients.lm.LM",
+      "model": "openrouter/deepseek/deepseek-v4.1-flash",
+      "model_type": "chat",
+      "cache": false,
+      "num_retries": 20,
+      "temperature": 0.0,
+      "max_tokens": 1000,
+      "extra_body": {
+        "provider": {
+          "only": [
+            "inference-net/fp8"
+          ],
+          "allow_fallbacks": false
+        },
+        "reasoning": {
+          "enabled": false
+        }
+      },
+      "finetuning_model": null,
+      "launch_kwargs": {},
+      "train_kwargs": {}
+    }
+  },
+  "programm.answer_question": {
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "id": "5a80aa47554299485f598694",
+        "question": "US Airways Flight 1549 piloted by Chesley Sullenberger and Jeffrey Skiles struck a flock of geese near this bridge owned by Port Authority of what two states?",
+        "answer": "New York and New Jersey",
+        "paragraphs": [
+          {
+            "title": "George Washington Bridge",
+            "sentences": [
+              "The George Washington Bridge – known informally as the GW Bridge, the GWB, the GW, or the George – is a double-decked suspension bridge spanning the Hudson River between the Washington Heights neighborhood of Manhattan in New York City and Fort Lee, New Jersey.",
+              " s of 2016 , the George Washington Bridge carried over 103 million vehicles per year, making it the world's busiest motor vehicle bridge.",
+              " It is owned by the Port Authority of New York and New Jersey, a bi-state government agency that operates several bridges, tunnels and airports, as well as marine seaports, and the PATH rapid transit system."
+            ]
+          },
+          {
+            "title": "Disaster Eyewitness",
+            "sentences": [
+              "Disaster Eyewitness is a TV program reviewing various disasters, produced by Raw Cut TV for Discovery Channel.",
+              " It features footage recorded by mobile phones, CCTV cameras and digital cameras.",
+              " The program interviews survivors of the disasters, as well as the people who recorded the footage.",
+              " Detailed computer graphics show exactly what caused the disasters.",
+              " One recent disaster shown was the Enschede fireworks disaster in the eastern Dutch city of Enschede, which was caused by mishandling of 900 kg of fireworks, leading to another 177 tons of fireworks to explode.",
+              " Another disaster shown was the US Airways Flight 1549, which crashed into the Hudson River after hitting a flock of Canada geese"
+            ]
+          },
+          {
+            "title": "US Airline Pilots Association",
+            "sentences": [
+              "The US Airline Pilots Association (USAPA) was the collective bargaining agent for the majority former US Airways \"East\" pilots, and the minority former America West Airlines \"West\" pilots.",
+              " USAPA bullied its West pilots, and violated its duty to fairly represent them.",
+              " USAPA was led by East pilot Mike Cleary.",
+              " USAPA was formed by East pilots for the exclusive and immoral - if not illegal - purpose of attempting to renege upon the results of a binding arbitration into which the East pilots had previously entered with the West pilots.",
+              " After USAPA's dissolution, a number of East activists withheld millions of dollars from the entire membership.",
+              " During the fair representation trial, USAPA used as courtroom witnesses East pilots Sully Sullenberger and Jeffrey Skiles of the infamous Hudson River flight 1549.",
+              " Both witnesses testified in support of the discriminatory practices of USAPA, and why they felt justified in bullying, and attempting to break their arbitrated agreement with the innocent West pilots."
+            ]
+          },
+          {
+            "title": "US Airways Express",
+            "sentences": [
+              "US Airways Express was the brand name for the regional affiliate of US Airways, under which a number of individually owned commuter air carriers and regional airlines operate short and medium haul routes.",
+              " This code sharing service was previously operated as USAir Express.",
+              " Mainline carriers often outsource to regional airlines to operate services in order to increase frequency, serve routes that would not sustain larger aircraft, or for other competitive reasons.",
+              " US Airways Express operations were conducted from smaller markets in the United States, Canada, and the Bahamas primarily centered on US Airways' major hubs and focus cities.",
+              " Upon the completion of US Airways' merger process with American Airlines, US Airways Express was rebranded as American Eagle on October 17, 2015."
+            ]
+          },
+          {
+            "title": "Highest Duty: My Search for What Really Matters",
+            "sentences": [
+              "Highest Duty: My Search for What Really Matters is a memoir written by Chesley Sullenberger and Jeffrey Zaslow (1958–2012) describing the events of US Airways Flight 1549.",
+              " The \"New York Times\" bestselling autobiography of Capt. Chesley “Sully” Sullenberger—the pilot who landed a crippled airplane in New York's Hudson River, saving the lives of the 155 passengers—discusses leadership, responsibility, and service, along with his life story."
+            ]
+          },
+          {
+            "title": "Fly by Wire",
+            "sentences": [
+              "Fly by Wire: The Geese, the Glide, the Miracle on the Hudson is a book written in 2009 by William Langewiesche about US Airways Flight 1549 with emphasis on the role played by the advanced fly-by-wire flight control system of the aircraft."
+            ]
+          },
+          {
+            "title": "Chesley Sullenberger",
+            "sentences": [
+              "Chesley Burnett \"Sully\" Sullenberger III (born 1951) is an American retired airline captain celebrated for the January 15, 2009 water landing of US Airways Flight 1549 in the Hudson River off Manhattan after the plane was disabled by striking a flock of Canada geese immediately after takeoff; all 155 people aboard survived.",
+              " Sullenberger is an international speaker on airline safety and has helped develop new protocols for airline safety.",
+              " He served as the co-chairman, along with First Officer Jeffrey Skiles, of the EAA's Young Eagles youth introduction-to-aviation program from 2009 to 2013.",
+              " He retired from US Airways after 30 years as a commercial pilot on March 3, 2010.",
+              " In May of the following year, Sullenberger was hired by CBS News as an Aviation and Safety Expert."
+            ]
+          },
+          {
+            "title": "US Airways Flight 1549",
+            "sentences": [
+              "US Airways Flight 1549 was an Airbus A320-214 which, three minutes after takeoff from New York City's LaGuardia Airport on January 15, 2009, struck a flock of Canada geese just northeast of the George Washington Bridge and consequently lost all engine power.",
+              " Unable to reach any airport, pilots Chesley Sullenberger and Jeffrey Skiles glided the plane to a ditching in the Hudson River off Midtown Manhattan.",
+              " All 155 people aboard were rescued by nearby boats and there were few serious injuries."
+            ]
+          },
+          {
+            "title": "Sully (film)",
+            "sentences": [
+              "Sully (also known as Sully: Miracle on the Hudson) is a 2016 American biographical drama film directed by Clint Eastwood and written by Todd Komarnicki, based on the autobiography \"\" by Chesley Sullenberger and Jeffrey Zaslow.",
+              " The film stars Tom Hanks as Sullenberger, with Aaron Eckhart, Laura Linney, Anna Gunn, Autumn Reeser, Holt McCallany, Jamey Sheridan, and Jerry Ferrara in supporting roles.",
+              " The film follows Sullenberger's January 2009 emergency landing of US Airways Flight 1549 on the Hudson River, in which all 155 passengers and crew survived with only minor injuries, and the subsequent publicity and investigation."
+            ]
+          },
+          {
+            "title": "US Airways Group",
+            "sentences": [
+              "US Airways Group Inc. was an airline holding company based in Tempe, Arizona.",
+              " US Airways Group operated US Airways, along with its subsidiaries PSA Airlines, Inc. and Piedmont Airlines, Inc., which are wholly owned but marketed under the branding of US Airways Express.",
+              " It merged with America West Holdings Corporation, parent of America West Airlines, in 2005, and the combined company adopted the better-known US Airways name; the two airlines' operating certificates merged in 2007.",
+              " It also operates additional companies that provide associated services.",
+              " ACE Aviation Holdings, the Canadian parent of Air Canada retained a roughly 6.1% investment stake in US Airways Group.",
+              " The route network covered destinations in 47 states, as well as international destinations."
+            ]
+          }
+        ],
+        "gold_titles": [
+          "US Airways Flight 1549",
+          "George Washington Bridge"
+        ]
+      },
+      {
+        "id": "5ab2c9f855429916697740d7",
+        "question": "What 2 characteristics do Jolt Cola and Tab Clear share? ",
+        "answer": "contained caffeine",
+        "paragraphs": [
+          {
+            "title": "Tab Clear",
+            "sentences": [
+              "Tab Clear was a variation of Tab.",
+              " It is Coca-Cola's contribution to the short-lived \"clear cola\" movement during the early 1990s.",
+              " It was introduced in the United States on December 14, 1992, in the United Kingdom a month later and in Japan in March 1993 to initially positive results.",
+              " Tab Clear was, however, discontinued after only a short time of marketing in 1994.",
+              " Unlike most other \"clear\" soft drinks, Tab Clear contained caffeine and, according to the company, had the flavor of cola."
+            ]
+          },
+          {
+            "title": "Jolly Cola",
+            "sentences": [
+              "Jolly Cola is an original Danish soft drink dating back to 1959.",
+              " Jolly Cola is now produced by the Danish brewery ‘Vestfyen’, which also produces Jolly Light, the sports drink Jolly Time and Jolly Orange.",
+              " Up until the 1980s, Jolly Cola had a market share of about 40% of the Danish cola market.",
+              " This was extraordinary, as Denmark is one of a few countries in the world, where another cola than the original Coca-Cola has had a larger market share."
+            ]
+          },
+          {
+            "title": "Tab (drink)",
+            "sentences": [
+              "Tab (stylized as TaB) is a diet cola soft drink produced by The Coca-Cola Company, introduced in 1963.",
+              " The soda was popular throughout the 1960s and 1970s, and several variations were made, including Tab Clear as well as caffeine-free versions."
+            ]
+          },
+          {
+            "title": "Samsung Galaxy Tab 2 7.0",
+            "sentences": [
+              "The Samsung Galaxy Tab 2 7.0 is a 7-inch Android tablet produced and marketed by Samsung Electronics.",
+              " Samsung Galaxy Tab 2 is Ice Cream Sandwich sequel.",
+              " It belongs to the second generation of the Samsung Galaxy Tab series, which also includes a 10.1-inch model, the Galaxy Tab 2 10.1.",
+              " It was announced on 13 February 2012, and launched in the US on 22 April 2012.",
+              " It is the successor to the Samsung Galaxy Tab 7.0 Plus."
+            ]
+          },
+          {
+            "title": "Diet Pepsi",
+            "sentences": [
+              "Diet Pepsi and Diet Pepsi Classic Formula Blend (stylized as diet PEPSI CLASSIC SWEETENER BLEND) are no-calorie carbonated cola soft drinks produced by PepsiCo, introduced in 1964 as a variant of Pepsi-Cola with no sugar.",
+              " First test marketed in 1963 under the name Patio Diet Cola, it was re-branded as \"Diet Pepsi\" the following year, becoming the first diet cola to be distributed on a national scale in the United States.",
+              " In the 1960s and 1970s its competition consisted of Tab, produced by The Coca-Cola Company, and Diet Rite soda, produced by Royal Crown.",
+              " Diet Coke was a later entrant to the diet cola market; though shortly after entering production in 1982 it became the primary competing diet cola to Diet Pepsi."
+            ]
+          },
+          {
+            "title": "Tab Energy",
+            "sentences": [
+              "Tab Energy is marketed as a low calorie energy drink named after Tab, Coca-Cola's original low-calorie cola brand.",
+              " While it shares the Tab name, it is not a cola product like the original Tab. \"",
+              "Fashion Week Daily\" describes it as a “sweet and sour beverage” with a taste “reminiscent of a liquid Jolly Rancher”.",
+              " It is sweetened with sucralose (rather than saccharin), is pale pink, and lightly carbonated."
+            ]
+          },
+          {
+            "title": "Jolt Cola",
+            "sentences": [
+              "Jolt Cola was a carbonated soft drink produced by The Jolt Company, Inc. (later known as Wet Planet Beverages).",
+              " The cola drink was created in 1985 by C. J. Rapp as a highly caffeinated beverage.",
+              " It was targeted towards students and young professionals, stressing its use as a stimulant in a similar manner as energy drinks. Its slogan reads \"All the sugar, twice the caffeine!\""
+            ]
+          },
+          {
+            "title": "C. J. Rapp",
+            "sentences": [
+              "C.J. Rapp is an American beverage inventor best known for inventing and marketing high-caffeine Jolt Cola."
+            ]
+          },
+          {
+            "title": "Wet Planet Beverages",
+            "sentences": [
+              "Wet Planet Beverages, of Pittsford, New York is the company which produces Jolt Cola, Napa Valley Soda, Thornwood Estates, Autumn Frost, and DNA.",
+              " They are also a distributor for Martinelli's Sparkling Cider."
+            ]
+          },
+          {
+            "title": "Samsung WatchON",
+            "sentences": [
+              "Samsung WatchON, first introduced on Galaxy S4 devices, was a service that allowed users to view programming information on their TV or set-top box, and choose programs directly from their mobile devices.",
+              " Samsung WatchON also provides real-time programming and VOD content recommendations based on the user's viewing patterns; it also includes a virtual remote controller which uses the built-in IR Blaster of the device to control televisions, home theater systems, and media players of any brand, provided they are IR compatible.",
+              " Samsung WatchON is available on the Galaxy S4, Galaxy S4 Mini, Galaxy S5, Galaxy S5 Mini, Galaxy Note 3, Galaxy Note 3 Neo, Galaxy Note 4, Galaxy Note Edge, Galaxy Alpha, Galaxy Note 8.0, Galaxy Note 10.1, Galaxy Note 10.1 2014 Edition, Galaxy Note Pro 12.2, Galaxy Tab 2 7.0, Galaxy Tab 2 10.1, Galaxy Tab 3 7.0, Galaxy Tab 3 8.0, Galaxy Tab 3 10.1, Galaxy Tab 4 7.0, Galaxy Tab 4 8.0, Galaxy Tab 4 10.1, Galaxy Tab Pro 8.4, Galaxy Tab Pro 10.1, Galaxy Tab Pro 12.2, Galaxy Tab S 8.4, Galaxy Tab S 10.5, and Gear 2 devices."
+            ]
+          }
+        ],
+        "gold_titles": [
+          "Jolt Cola",
+          "Tab Clear"
+        ]
+      },
+      {
+        "id": "5a835b545542992ef85e2283",
+        "question": "In what number military engagement of the Texas revolution was Come and take it used as a slogan?",
+        "answer": "first",
+        "paragraphs": [
+          {
+            "title": "Fort Bend",
+            "sentences": [
+              "Fort Bend was a blockhouse built in a large bend of the Brazos River in what is now Fort Bend County, Texas, to provide protection against Indian raids.",
+              " It was erected in November 1822 by several members of Stephen F. Austin's Old Three Hundred, including William W. Little, Joseph Polley, William Smithers[Smeathers], Charles Beard, Henry Holster and is described as a \"little log shanty.\"",
+              " The location was reportedly selected by Austin, and a settlement soon grew up around the post.",
+              " As the site provided one of the more favorable fords of the Brazos River, it became important during the Texas Revolution.",
+              " The Fort Bend crossing was briefly defended in April 1836 by a rear guard detachment led by Wiley Martin.",
+              " After Martin was maneuvered out of the position Gen. Antonio López de Santa Anna transported a portion of his Mexican army across the Brazos at the crossing.",
+              " After Santa Anna's defeat at the battle of San Jacinto the site was used briefly by the Texas army.",
+              " Troops under Thomas Jefferson Green, who were in pursuit of retreating Mexican forces led by Gen. Vicente Filisola, halted for a short time in mid-May 1836 at Fort Bend.",
+              " Because Fort Bend had been the center of activity in the area its name was given to the county when it was established in 1837.",
+              " The next year nearby Richmond, Texas was selected as the county seat and soon absorbed the smaller Fort Bend settlement.",
+              " In 1936 the Texas Centennial Commission erected a monument to commemorate Fort Bend's role in the Texas Revolution."
+            ]
+          },
+          {
+            "title": "Siege of Béxar",
+            "sentences": [
+              "The Siege of Béxar (or Bejar) was an early campaign of the Texas Revolution in which a volunteer Texian army defeated Mexican forces at San Antonio de Béxar (now San Antonio, Texas, US).",
+              " Texians had become disillusioned with the Mexican government as President and General Antonio Lopez de Santa Anna's tenure became increasingly dictatorial.",
+              " In early October, 1835, Texas settlers gathered in Gonzales to stop Mexican troops from reclaiming a small cannon.",
+              " The resulting skirmish, known as the Battle of Gonzales, launched the Texas Revolution.",
+              " Men continued to assemble in Gonzales and soon established the Texian Army.",
+              " Despite a lack of military training, well-respected local leader General Stephen F. Austin was elected commander."
+            ]
+          },
+          {
+            "title": "Battle of Nogales (1915)",
+            "sentences": [
+              "The Second Battle of Nogales was a three-sided military engagement of the Mexican Revolution, fought in November 1915 at the border towns of Nogales, Sonora and Nogales, Arizona.",
+              " On the morning of November 26, rebel forces of Pancho Villa, who occupied Nogales, Sonora, began firing on United States Army soldiers in Nogales, Arizona.",
+              " The Americans responded with counter fire for over two hours before a force of Carrancistas (aka.",
+              " Constitutionalistas ) arrived to attack the Villistas.",
+              " Later that day, the Constitutionalistas accidentally opened fire on American soldiers and another short skirmish was fought.",
+              " The battle resulted in the deaths of several Mexicans and was the first significant engagement fought between Villistas and the United States military."
+            ]
+          },
+          {
+            "title": "2014 Texas Revolution season",
+            "sentences": [
+              "The 2014 Texas Revolution season was the team's fifteenth season as a professional indoor football franchise, fifth in the Indoor Football League (IFL), and second as the \"Texas Revolution\".",
+              " One of nine teams in the IFL for the 2014 season, the Texas Revolution competed in the United Conference for the second consecutive year.",
+              " The team played their home games at the Allen Event Center in Allen, Texas.",
+              " Chris Williams returned to the IFL as the Texas Revolution's director of football operations and head coach for 2014.",
+              " The team started strong but faltered, compiling a 3–11 record and missing the playoffs.",
+              " In the post-season, Williams resigned and the team announced their departure from the IFL."
+            ]
+          },
+          {
+            "title": "Battle of Gloucester Point (1861)",
+            "sentences": [
+              "The Battle of Gloucester Point, Virginia was an inconclusive exchange of cannon fire between a shore battery on the York River which was manned by Virginia (soon to be Confederate) forces and the Union gunboat USS \"Yankee\".",
+              " The action occurred on May 7, 1861, three weeks after the start of the American Civil War (Civil War) at Fort Sumter in the harbor at Charleston, South Carolina on April 14, 1861.",
+              " The Gloucester Point engagement is notable as the earliest exchange of gunfire between the Union Navy and organized Rebel (Confederate) forces after the U.S. Army surrendered Fort Sumter to the Confederates and as the earliest reported Civil War military engagement in Virginia.",
+              " Like other early engagements between Union gunboats and Confederate shore batteries, the battle at Gloucester Point was part of the Union Navy effort to blockade the Southern States in general and the Chesapeake Bay in particular.",
+              " The engagement also was part of the effort by Confederate forces to deny the use of rivers in Virginia to Union military and commercial traffic."
+            ]
+          },
+          {
+            "title": "Battle of Yurkud (2012)",
+            "sentences": [
+              "The Battle of Yurkud was a three-hour-long military engagement on 10 March 2012 fought between Ethiopian military forces and al-Shabab militants approximately 40 km from the Ethiopian border.",
+              " According to Ethiopian sources, al-Shabab initiated the engagement with an attack on a military base in Yurkud at around 6 a.m. Fighting continued for three hours before, as locals report, al-Shabab was forced to retreat.",
+              " The number of dead on either side is not known, with reports varying widely.",
+              " Al-Shabab claimed to have lost five and killed 73, while one local resident said he saw at least 17 al-Shabab dead and another claimed he had seen six dead Ethiopian soldiers."
+            ]
+          },
+          {
+            "title": "Strategy of the Roman military",
+            "sentences": [
+              "The strategy of the Roman military contains its grand strategy (the arrangements made by the state to implement its political goals through a selection of military goals, a process of diplomacy backed by threat of military action, and a dedication to the military of part of its production and resources), operational strategy (the coordination and combination of the military forces and their tactics for the goals of an overarching strategy) and, on a small scale, its military tactics (methods for military engagement in order to defeat the enemy).",
+              " If a fourth rung of \"engagement\" is added, then the whole can be seen as a ladder, with each level from the foot upwards representing a decreasing concentration on military engagement.",
+              " Whereas the purest form of tactics or engagement are those free of political imperative, the purest form of political policy does not involve military engagement.",
+              " Strategy as a whole is the connection between political policy and the use of force to achieve it."
+            ]
+          },
+          {
+            "title": "2013 Texas Revolution season",
+            "sentences": [
+              "The 2013 Texas Revolution season was the team's fourteenth season as a football franchise, fourth in the Indoor Football League (IFL), and first as the \"Texas Revolution\".",
+              " One of just nine teams competing in the IFL for the 2013 season, the Texas Revolution were realigned to the United Conference.",
+              " The team played their home games at the Allen Event Center in Allen, Texas.",
+              " Head coach Billy Back led the team to a 5–9 record and they failed to qualify for post-season play."
+            ]
+          },
+          {
+            "title": "Come and take it",
+            "sentences": [
+              "\"Come and take it\" is a historic slogan, first used in the Battle of Thermopylae  as \"Molon labe\", and later in 1778 at Fort Morris in the Province of Georgia during the American Revolutionary War, and in 1835 at the Battle of Gonzales during the Texas Revolution."
+            ]
+          },
+          {
+            "title": "Battle of Gonzales",
+            "sentences": [
+              "The Battle of Gonzales was the first military engagement of the Texas Revolution.",
+              " It was fought near Gonzales, Texas, on October 2, 1835, between rebellious Texian settlers and a detachment of Mexican army soldiers ."
+            ]
+          }
+        ],
+        "gold_titles": [
+          "Come and take it",
+          "Battle of Gonzales"
+        ]
+      },
+      {
+        "id": "5ac073325542996f0d89cbd5",
+        "question": "Louis Ngwat-Mahop's childhood idol has won the Afircan Player of the Year award how many times?",
+        "answer": "four",
+        "paragraphs": [
+          {
+            "title": "I'm with Busey",
+            "sentences": [
+              "I'm with Busey was a comedy/documentary television show which aired on Comedy Central in the summer of 2003.",
+              " It revolved around a young writer named Adam de la Peña, who met and befriended his childhood idol, actor Gary Busey.",
+              " Although the show lasted for only one season and the popularity of the show was limited, it has developed a cult following in the years after its cancellation."
+            ]
+          },
+          {
+            "title": "One-Eyed Jack (album)",
+            "sentences": [
+              "One-Eyed Jack is Garland Jeffreys' fourth solo album.",
+              " It was released in 1978 on A&M Records.",
+              " It was recorded at Atlantic Studios, New York City and produced by Jeffreys and David Spinozza.",
+              " It was dedicated: \"in Memory of my childhood idol, Jackie Robinson...here comes the One-Eyed Jack, Sometimes white and sometimes black\"."
+            ]
+          },
+          {
+            "title": "Kellyjackie",
+            "sentences": [
+              "Jackie Chan Hiu-ki, also known as Kellyjackie, is a Hong Kong pop singer and a former member of a band called the Royals.",
+              " Her artist name, Kellyjackie, is an amalgam of the name of her childhood idol, Kelly Chen, and her own name \"Jackie\"."
+            ]
+          },
+          {
+            "title": "Samuel Eto'o",
+            "sentences": [
+              "Samuel Eto'o Fils (] ; born 10 March 1981) is a Cameroonian professional footballer who plays as a striker for Turkish club Antalyaspor.",
+              " He is the most decorated African player of all time, having won the African Player of the Year award a record four times: in 2003, 2004, 2005 and 2010.",
+              " He was third in the FIFA World Player of the Year award in 2005."
+            ]
+          },
+          {
+            "title": "Louis Ngwat-Mahop",
+            "sentences": [
+              "Ngwat-Mahop was born in Yaoundé on 16 September 1987, and grew up having Samuel Eto'o as his idol.",
+              " He started his career for Cameroonian minnows Dragon Club de Yaoundé, being one of the most notable players ever to come out of the club."
+            ]
+          },
+          {
+            "title": "Jack Taylor (wrestler)",
+            "sentences": [
+              "Jack Taylor (born 1887) was a Canadian successful amateur and professional wrestler.",
+              " Considered to be Canada's first great wrestling superstar in his time he was the childhood idol of wrestling icon Stu Hart and trained Toots Mondt."
+            ]
+          },
+          {
+            "title": "Islak Islak",
+            "sentences": [
+              "Islak Islak is the first album by Turkish rock musician Barış Akarsu.",
+              " It was released in 2005 by Seyhan Müzik after Akarsu's success at \"Akademi Türkiye\" (Academy Turkey).",
+              " The album became famous thanks to its first single \"Islak Islak\" which is a well known piece from Cem Karaca, Turkish musician and childhood idol of Akarsu.",
+              " Akarsu also pays tribute to his hometown with the song \"Amasra\"."
+            ]
+          },
+          {
+            "title": "James Younghusband",
+            "sentences": [
+              "James Joseph Younghusband (born 4 September 1986) is a Filipino footballer who plays as right midfielder or Striker for Davao Aguilas and the Philippines national team.",
+              " He was also called as the \"David Beckham of the Philippines\" due to his childhood idol David Beckham and also his playing style is similar to Beckham."
+            ]
+          },
+          {
+            "title": "List of My Hero Academia chapters",
+            "sentences": [
+              "\"My Hero Academia\" is a Japanese manga series written and illustrated by Kōhei Horikoshi.",
+              " It began its serialization in the manga magazine \"Weekly Shōnen Jump\" on July 7, 2014.",
+              " Its individual chapters have been collected into eight \"tankōbon\" volumes, the first released on November 4, 2014.",
+              " The story is set in a world where most of the world population has a superhuman ability known as a \"Quirk\".",
+              " The main character Izuku Midoriya is a teenage boy who does not have a Quirk, despite his longtime dream to be a superhero, until he is approached by All Might, the world's most famous hero and his childhood idol, who chooses him to inherit his Quirk \"One For All\"."
+            ]
+          },
+          {
+            "title": "The Catechism Cataclysm",
+            "sentences": [
+              "The Catechism Cataclysm is a 2011 independent, psychotronic dark comedy film directed by Todd Rohal.",
+              " The film's narrative concerns a bumbling priest named Father Billy who embarks on a camping trip with his childhood idol, Robbie."
+            ]
+          }
+        ],
+        "gold_titles": [
+          "Louis Ngwat-Mahop",
+          "Samuel Eto'o"
+        ]
+      }
+    ],
+    "signature": {
+      "instructions": "You are an expert analyst tasked with providing a precise, short-phrase answer to a critical question based strictly on the provided evidence. The stakes are high: you must not introduce any external knowledge or hallucinate information. Your response must be derived exclusively from the relevant text snippets below. If the answer is a person, name them; if it is a title, provide the title. Keep your reply concise and direct.\n\nQuestion: {question}\n\nRelevant Evidence:\n{relevant_text}\n\nAnswer:",
+      "fields": [
+        {
+          "prefix": "Question:",
+          "description": "${question}"
+        },
+        {
+          "prefix": "Relevant Text:",
+          "description": "the sentences that were found to be relevant"
+        },
+        {
+          "prefix": "Answer:",
+          "description": "a short phrase, not a sentence"
+        }
+      ]
+    },
+    "lm": {
+      "_dspy_lm_class": "dspy.clients.lm.LM",
+      "model": "openrouter/deepseek/deepseek-v4.1-flash",
+      "model_type": "chat",
+      "cache": false,
+      "num_retries": 20,
+      "temperature": 0.0,
+      "max_tokens": 1000,
+      "extra_body": {
+        "provider": {
+          "only": [
+            "inference-net/fp8"
+          ],
+          "allow_fallbacks": false
+        },
+        "reasoning": {
+          "enabled": false
+        }
+      },
+      "finetuning_model": null,
+      "launch_kwargs": {},
+      "train_kwargs": {}
+    }
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.13",
+      "dspy": "3.3.1",
+      "cloudpickle": "3.1"
+    }
+  }
+}

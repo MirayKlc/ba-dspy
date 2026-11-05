@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Environments
+.venv/
+venv/
+.env
+.env.*
+
+# IDE
+.idea/
+.vscode/
+
+# Unter docs/ gehoeren nur die hier freigegebenen Dokumente zum Repository.
+# docs/* statt docs/ ist Absicht: Eine Ausnahme unterhalb eines ausgeschlossenen
+# Verzeichnisses greift in Git nicht.
+docs/*
+!docs/spikes/
+!docs/vorstudie-ergebnisse.md
+!docs/zusatzauswertung-kapitel-6.md
+
+# Messbelege: Das Protokoll gehoert ins Repository. Die je Lauf von MIPROv2 abgelegten
+# Kandidatenprogramme nicht, sie sind gross und dienen nur als Absturzschutz.
+ergebnisse/laeufe/

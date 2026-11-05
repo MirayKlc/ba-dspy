@@ -1,0 +1,353 @@
+[
+  {
+    "durchgang": 1,
+    "zusammenfassung": "This dataset is a multi-hop Question Answering benchmark, likely HotpotQA, where questions require synthesizing information from exactly two distinct Wikipedia articles linked by an intermediate \"bridge\" entity. The task demands robust entity resolution and comparative reasoning to extract concise answers from highly noisy contexts containing significant distractor information. Consequently, it is optimized for training models in evidence-based retrieval and logical deduction across diverse knowledge domains.",
+    "dollar": 0.0031856519999999998,
+    "aufrufe": [
+      {
+        "signatur": "Your input fields are:\n1. `examples` (str): Sample data points from the dataset\n",
+        "abgeschnitten": false,
+        "tokens_eingabe": 15549,
+        "tokens_ausgabe": 449,
+        "zeichen": 2379,
+        "wiederholte_zeilen": 0.0,
+        "anfang": "[[ ## observations ## ]]\nThe dataset consists of examples from a Question Answering (QA) task, specifically resembling the format of the HotpotQA dataset. Each example contains:\n1.  **Question**: A natural language query that typically requires reasoning over multiple pieces of information or identifying relationships between entities. The questions often involve comparative analysis (\"which filmmaker...\", \"same regions?\"), factual retrieval with indirect references (\"adopted father's most prominent PSA role\"), or entity linking.\n2.  **Answer**: A concise string value that directly answers the",
+        "ende": "ons revolve heavily around named entities (people, places, organizations, biological species, media works).\n-   **Contextual Noise**: The provided paragraphs often contain irrelevant information alongside the key facts, testing the ability to filter noise.\n-   **Diverse Domains**: The topics cover a wide range including history, geography, biology, entertainment, sports, and technology.\n\nThis dataset enables training models for complex QA tasks that require understanding dependencies between entities and performing multi-step logical deduction based on unstructured text.\n\n[[ ## completed ## ]]"
+      },
+      {
+        "signatur": "Your input fields are:\n1. `examples` (str): Sample data points from the dataset\n",
+        "abgeschnitten": false,
+        "tokens_eingabe": 15538,
+        "tokens_ausgabe": 435,
+        "zeichen": 2144,
+        "wiederholte_zeilen": 0.0,
+        "anfang": "[[ ## observations ## ]]\n1.  **Comparative and Choice-Based Questions**: A significant portion of the examples involve choosing between two entities or comparing attributes (e.g., \"Who was a Greek film director Andrew Lau or Yannis Smaragdis?\", \"Which rock group has more band members...\"). The model must verify specific attributes for each candidate mentioned in the question.\n2.  **Implicit Entity Resolution**: Several questions do not name all key entities directly but refer to them via descriptions or roles (e.g., \"the King of Ragtime\", \"the author of The Power Broker\"). This requires an int",
+        "ende": "phs often contain multiple sentences about different aspects of the entities (biography, discography, awards, personal life). The relevant fact is usually buried within this text, requiring careful filtering. For example, in the Ronnie Dunn example, details about his solo career are irrelevant to the question about his role in Brooks & Dunn compared to Jenna Sanz-Agero's role in Vixen.\n7.  **Syntactic Patterns**: Questions often use comparative adjectives (\"more\", \"less\", \"older\") or conjunctions (\"and\", \"with\") to link multiple conditions that must be met by the answer.\n\n[[ ## completed ## ]]"
+      },
+      {
+        "signatur": "Your input fields are:\n1. `examples` (str): Sample data points from the dataset\n",
+        "abgeschnitten": false,
+        "tokens_eingabe": 17109,
+        "tokens_ausgabe": 617,
+        "zeichen": 3064,
+        "wiederholte_zeilen": 0.0,
+        "anfang": "[[ ## observations ## ]]\nThe dataset exhibits strong characteristics of a multi-hop QA benchmark (specifically HotpotQA). Key observations include:\n\n1.  **Two-Hop Reasoning Structure**: Nearly all examples require bridging two distinct pieces of information from different paragraphs. The standard pattern is: Paragraph A identifies Entity X and links it to Entity Y; Paragraph B provides the specific attribute or answer regarding Entity Y (or vice versa). The `gold_titles` field consistently contains exactly two titles, reinforcing this two-step retrieval logic.\n2.  **Entity Linking via Intermed",
+        "ende": "del must resolve these descriptions to specific named entities found in the text before proceeding to the second hop.\n8.  **Structured Metadata**: The presence of `id`, `question`, `answer`, `paragraphs` (with `title` and `sentences`), and `gold_titles` indicates a structured dataset designed for evaluating retrieval-augmented generation or extractive QA systems that must justify their answers using specific evidence spans.\n\nThese observations confirm the dataset is optimized for training models in multi-hop reasoning, entity disambiguation, and evidence-based answering.\n\n[[ ## completed ## ]]"
+      },
+      {
+        "signatur": "Your input fields are:\n1. `examples` (str): Sample data points from the dataset\n",
+        "abgeschnitten": false,
+        "tokens_eingabe": 18859,
+        "tokens_ausgabe": 572,
+        "zeichen": 2789,
+        "wiederholte_zeilen": 0.0,
+        "anfang": "[[ ## observations ## ]]\nThe dataset is a multi-hop Question Answering benchmark (specifically HotpotQA), characterized by the following structural and content trends:\n\n1.  **Two-Hop Reasoning Pattern**: The vast majority of examples require synthesizing information from exactly two distinct Wikipedia articles. The first article typically identifies an entity or relationship mentioned in the question, while the second article contains the specific answer or final piece of evidence. This is explicitly signaled by the `gold_titles` field, which consistently lists two titles per example.\n2.  **En",
+        "ende": "fferent paragraphs.\n8.  **Implicit References**: Questions often use descriptive phrases instead of direct names (e.g., \"the directorial debut of...\", \"the American actor who starred in...\"). Resolving these descriptions to specific entities is a crucial intermediate step.\n9.  **Standardized Input Format**: All examples follow a rigid JSON-like structure with `id`, `question`, `answer`, `paragraphs` (list of dicts with `title` and `sentences`), and `gold_titles`. This consistency suggests it is designed for automated evaluation and training of retrieval-augmented models.\n\n[[ ## completed ## ]]"
+      },
+      {
+        "signatur": "Your input fields are:\n1. `examples` (str): Sample data points from the dataset\n",
+        "abgeschnitten": false,
+        "tokens_eingabe": 18210,
+        "tokens_ausgabe": 1025,
+        "zeichen": 4890,
+        "wiederholte_zeilen": 0.0,
+        "anfang": "[[ ## observations ## ]]\nThe dataset exhibits several distinct characteristics regarding its structure, content, and the nature of the reasoning required:\n\n1.  **Multi-Hop Reasoning Structure**: The core challenge is \"multi-hop\" or \"bridge\" reasoning. Questions cannot be answered by a single paragraph. The provided paragraphs (often 5-10 per example) contain a mix of relevant and irrelevant information. The model must identify specific entities across different titles to form a chain of logic. For example, in the 'Rufus Sewell' example, one paragraph lists films he was in, and another identifi",
+        "ende": " flexible, while Nickel metal is also ductile/flexible (in certain contexts/alloys), allows the inference of the common property. This requires cross-referencing material properties and technological applications.\n\nIn summary, this dataset enables the training of models capable of complex multi-step logical deduction, entity resolution, and evidence selection from noisy, multi-document contexts. It is specifically tailored for benchmarks like HotpotQA, focusing on the ability to synthesize information across disparate sources to answer intricate natural language queries.\n\n[[ ## completed ## ]]"
+      },
+      {
+        "signatur": "Your input fields are:\n1. `examples` (str): Sample data points from the dataset\n",
+        "abgeschnitten": false,
+        "tokens_eingabe": 18615,
+        "tokens_ausgabe": 616,
+        "zeichen": 3038,
+        "wiederholte_zeilen": 0.0,
+        "anfang": "[[ ## observations ## ]]\nThe dataset exhibits a clear structure of **multi-hop question answering**, specifically resembling the HotpotQA benchmark. Key observations include:\n\n1.  **Two-Hop Reasoning Pattern**: Almost every example requires synthesizing information from exactly two distinct Wikipedia articles (indicated by `gold_titles` containing exactly two titles). The reasoning chain typically follows a \"bridge\" entity: Paragraph A identifies an intermediate entity linked to the question's premise, and Paragraph B provides the final answer regarding that intermediate entity (or vice versa)",
+        "ende": "e final answer.\n8.  **Structured Metadata for Retrieval**: The presence of `id`, `question`, `answer`, `paragraphs` (with `title` and `sentences`), and `gold_titles` suggests this dataset is designed for training retrieval-augmented models. The `gold_titles` serve as ground truth for the retrieval step, allowing the model to learn not just *what* the answer is, but *where* to look for it.\n\nThese observations confirm the dataset is optimized for training models in multi-hop reasoning, entity disambiguation, and evidence-based answering from noisy, multi-document contexts.\n\n[[ ## completed ## ]]"
+      },
+      {
+        "signatur": "Your input fields are:\n1. `examples` (str): Sample data points from the dataset\n",
+        "abgeschnitten": false,
+        "tokens_eingabe": 21686,
+        "tokens_ausgabe": 13,
+        "zeichen": 56,
+        "wiederholte_zeilen": 0.0,
+        "anfang": "[[ ## observations ## ]]\nCOMPLETE\n\n[[ ## completed ## ]]",
+        "ende": "[[ ## observations ## ]]\nCOMPLETE\n\n[[ ## completed ## ]]"
+      },
+      {
+        "signatur": "Your input fields are:\n1. `examples` (str): Sample data points from the dataset\n",
+        "abgeschnitten": false,
+        "tokens_eingabe": 20382,
+        "tokens_ausgabe": 716,
+        "zeichen": 3528,
+        "wiederholte_zeilen": 0.0,
+        "anfang": "[[ ## observations ## ]]\nThe dataset is a multi-hop Question Answering (QA) benchmark, specifically resembling the HotpotQA dataset. Key observations include:\n\n1.  **Two-Hop Reasoning Structure**: The defining characteristic of this dataset is that answering a question requires synthesizing information from exactly two distinct pieces of evidence (paragraphs). This is explicitly confirmed by the `gold_titles` field, which consistently contains exactly two Wikipedia article titles per example. The reasoning chain typically involves an \"intermediate entity\" or \"bridge\": one paragraph identifies ",
+        "ende": " final answer.\n\n8.  **Structured Metadata for Retrieval**: The presence of `id`, `question`, `answer`, `paragraphs` (with `title` and `sentences`), and `gold_titles` suggests this dataset is designed for training retrieval-augmented models. The `gold_titles` serve as ground truth for the retrieval step, allowing the model to learn not just *what* the answer is, but *where* to look for it.\n\nThese observations confirm the dataset is optimized for training models in multi-hop reasoning, entity disambiguation, and evidence-based answering from noisy, multi-document contexts.\n\n[[ ## completed ## ]]"
+      },
+      {
+        "signatur": "Your input fields are:\n1. `examples` (str): Sample data points from the dataset\n",
+        "abgeschnitten": false,
+        "tokens_eingabe": 21129,
+        "tokens_ausgabe": 668,
+        "zeichen": 3495,
+        "wiederholte_zeilen": 0.0,
+        "anfang": "[[ ## observations ## ]]\nBased on the provided examples and prior observations, here are additional observations regarding trends in the dataset:\n\n1.  **Temporal Reasoning and Chronology**: A recurring theme involves comparing dates or determining chronological order (e.g., \"Which event came first...\", \"born first\"). The model must extract birth years, release dates, or historical periods from different paragraphs to establish a timeline. This requires not just entity linking but also numerical/date comparison logic.\n2.  **Geographic and Nationality Attributes**: Many questions hinge on identi",
+        "ende": "sly.\n8.  **Domain-Specific Terminology**: While diverse, some examples require understanding domain-specific jargon (e.g., \"physical chemist,\" \"ATP rankings,\" \"playback singer,\" \"diazomethane reactions\"). The model must recognize that terms like \"singles ranking\" apply to tennis players and \"studio albums\" apply to musicians, mapping general concepts to specific domains.\n\nThese observations reinforce that the dataset is designed for robust multi-hop reasoning, requiring precise extraction, entity resolution, and logical synthesis across noisy, heterogeneous text sources.\n\n[[ ## completed ## ]]"
+      },
+      {
+        "signatur": "Your input fields are:\n1. `examples` (str): Sample data points from the dataset\n",
+        "abgeschnitten": false,
+        "tokens_eingabe": 22406,
+        "tokens_ausgabe": 668,
+        "zeichen": 3495,
+        "wiederholte_zeilen": 0.0,
+        "anfang": "[[ ## observations ## ]]\nBased on the provided examples and prior observations, here are additional observations regarding trends in the dataset:\n\n1.  **Temporal Reasoning and Chronology**: A recurring theme involves comparing dates or determining chronological order (e.g., \"Which event came first...\", \"born first\"). The model must extract birth years, release dates, or historical periods from different paragraphs to establish a timeline. This requires not just entity linking but also numerical/date comparison logic.\n2.  **Geographic and Nationality Attributes**: Many questions hinge on identi",
+        "ende": "sly.\n8.  **Domain-Specific Terminology**: While diverse, some examples require understanding domain-specific jargon (e.g., \"physical chemist,\" \"ATP rankings,\" \"playback singer,\" \"diazomethane reactions\"). The model must recognize that terms like \"singles ranking\" apply to tennis players and \"studio albums\" apply to musicians, mapping general concepts to specific domains.\n\nThese observations reinforce that the dataset is designed for robust multi-hop reasoning, requiring precise extraction, entity resolution, and logical synthesis across noisy, heterogeneous text sources.\n\n[[ ## completed ## ]]"
+      },
+      {
+        "signatur": "Your input fields are:\n1. `observations` (str): Observations I have made about m",
+        "abgeschnitten": false,
+        "tokens_eingabe": 5850,
+        "tokens_ausgabe": 92,
+        "zeichen": 557,
+        "wiederholte_zeilen": 0.0,
+        "anfang": "[[ ## summary ## ]]\nThis dataset is a multi-hop Question Answering benchmark, likely HotpotQA, where questions require synthesizing information from exactly two distinct Wikipedia articles linked by an intermediate \"bridge\" entity. The task demands robust entity resolution and comparative reasoning to extract concise answers from highly noisy contexts containing significant distractor information. Consequently, it is optimized for training models in evidence-based retrieval and logical deduction across diverse knowledge domains.\n\n[[ ## completed ## ]]",
+        "ende": "[[ ## summary ## ]]\nThis dataset is a multi-hop Question Answering benchmark, likely HotpotQA, where questions require synthesizing information from exactly two distinct Wikipedia articles linked by an intermediate \"bridge\" entity. The task demands robust entity resolution and comparative reasoning to extract concise answers from highly noisy contexts containing significant distractor information. Consequently, it is optimized for training models in evidence-based retrieval and logical deduction across diverse knowledge domains.\n\n[[ ## completed ## ]]"
+      }
+    ]
+  },
+  {
+    "durchgang": 2,
+    "zusammenfassung": "The dataset consists of multi-hop question-answering tasks derived from Wikipedia, characterized by a strict two-entity reasoning structure where answers require synthesizing information across exactly two `gold_titles`. Each example is embedded within a high-density noise environment containing numerous topically relevant distractors, testing the model's ability to filter irrelevant context. Questions are syntactically complex and span diverse domains, demanding precise extractive identification of factual spans after resolving semantic ambiguities and logical links.",
+    "dollar": 0.003347672,
+    "aufrufe": [
+      {
+        "signatur": "Your input fields are:\n1. `examples` (str): Sample data points from the dataset\n",
+        "abgeschnitten": false,
+        "tokens_eingabe": 15549,
+        "tokens_ausgabe": 512,
+        "zeichen": 2563,
+        "wiederholte_zeilen": 0.0,
+        "anfang": "[[ ## observations ## ]]\nThe dataset consists of complex question-answering tasks that require multi-hop reasoning. Each example provides a specific `question` and an `answer`, along with a set of `paragraphs` extracted from Wikipedia articles (indicated by the `title` and `sentences` structure). The `gold_titles` field indicates which specific articles contain the necessary information to answer the question, often involving two or more distinct entities or concepts.\n\nKey observations include:\n1. **Multi-Hop Reasoning**: The questions rarely have answers directly stated in a single paragraph.",
+        "ende": "uthorship/creation, and shared attributes (location, design features).\n6. **Source Material**: The `paragraphs` are clearly derived from Wikipedia, containing encyclopedic sentences with dates, names, and descriptive facts. The presence of irrelevant paragraphs (distractors) is common, as seen in the examples where many unrelated article titles are included alongside the key ones.\n\nThis dataset appears to be structured for training or evaluating AI systems on reading comprehension and multi-hop reasoning capabilities, similar to datasets like HotpotQA or 2WikiMultihopQA.\n\n[[ ## completed ## ]]"
+      },
+      {
+        "signatur": "Your input fields are:\n1. `examples` (str): Sample data points from the dataset\n",
+        "abgeschnitten": false,
+        "tokens_eingabe": 15601,
+        "tokens_ausgabe": 656,
+        "zeichen": 3166,
+        "wiederholte_zeilen": 0.0,
+        "anfang": "[[ ## observations ## ]]\nThe dataset exhibits a consistent structure where each example contains a natural language question, a ground truth answer, and a collection of retrieved text snippets (paragraphs) associated with specific Wikipedia article titles. \n\n1. **Distractor Presence**: A significant portion of the provided `paragraphs` are irrelevant to answering the question. These distractors often share keywords with the question or the relevant entities but do not contain the necessary logical link. For example, in the \"Ronnie Dunn\" example, paragraphs about other songs by Brooks & Dunn or",
+        "ende": "though citations are removed), and dense information packing in single sentences. Dates, names, and specific facts are frequently embedded within longer descriptive sentences.\n\n7. **Task Nature**: The task is clearly designed for multi-hop question answering. It mimics real-world search scenarios where a user asks a complex question, and the system must retrieve relevant documents and synthesize an answer from multiple sources. The inclusion of `gold_titles` suggests this data might also be used for training document selection/retrieval models alongside the QA component.\n\n[[ ## completed ## ]]"
+      },
+      {
+        "signatur": "Your input fields are:\n1. `examples` (str): Sample data points from the dataset\n",
+        "abgeschnitten": false,
+        "tokens_eingabe": 17392,
+        "tokens_ausgabe": 1155,
+        "zeichen": 5681,
+        "wiederholte_zeilen": 0.0,
+        "anfang": "[[ ## observations ## ]]\nThe dataset consists of complex question-answering tasks that require multi-hop reasoning. Each example provides a specific `question` and an `answer`, along with a set of `paragraphs` extracted from Wikipedia articles (indicated by the `title` and `sentences` structure). The `gold_titles` field indicates which specific articles contain the necessary information to answer the question, often involving two or more distinct entities or concepts.\n\nKey observations include:\n1. **Multi-Hop Reasoning**: The questions rarely have answers directly stated in a single paragraph.",
+        "ende": "though citations are removed), and dense information packing in single sentences. Dates, names, and specific facts are frequently embedded within longer descriptive sentences.\n\n7. **Task Nature**: The task is clearly designed for multi-hop question answering. It mimics real-world search scenarios where a user asks a complex question, and the system must retrieve relevant documents and synthesize an answer from multiple sources. The inclusion of `gold_titles` suggests this data might also be used for training document selection/retrieval models alongside the QA component.\n\n[[ ## completed ## ]]"
+      },
+      {
+        "signatur": "Your input fields are:\n1. `examples` (str): Sample data points from the dataset\n",
+        "abgeschnitten": false,
+        "tokens_eingabe": 19680,
+        "tokens_ausgabe": 454,
+        "zeichen": 2221,
+        "wiederholte_zeilen": 0.0,
+        "anfang": "[[ ## observations ## ]]\n1. **Distractor Density**: A significant majority of the provided `paragraphs` are irrelevant to answering the specific question. These distractors often share topical keywords (e.g., other films by the same director, other actors in the same genre) but do not contain the logical bridge required for the answer. This indicates the dataset tests robust information filtering and selection capabilities.\n2. **Bi-Directional Entity Linking**: The `gold_titles` consistently point to exactly two distinct entities (or occasionally a primary entity and a related concept). The re",
+        "ende": "'s disease\", \"writer\"). There is no full sentence generation; the task is strictly extractive based on the deduced context.\n6. **Implicit Negation or Exclusion**: Some questions require identifying who *isn't* involved or distinguishing between similar entities. For instance, asking about a specific role in a series vs. a film starring the same actor.\n7. **Factual Specificity**: Answers rely on precise facts like dates, titles, names, and specific attributes (e.g., \"lower house\", \"directorial debut\"). Ambiguity is minimized by the specificity of the question constraints.\n\n[[ ## completed ## ]]"
+      },
+      {
+        "signatur": "Your input fields are:\n1. `examples` (str): Sample data points from the dataset\n",
+        "abgeschnitten": false,
+        "tokens_eingabe": 18915,
+        "tokens_ausgabe": 615,
+        "zeichen": 3119,
+        "wiederholte_zeilen": 0.0,
+        "anfang": "[[ ## observations ## ]]\nBased on the provided examples and prior observations, here are additional observations regarding trends in the dataset:\n\n1. **Semantic Ambiguity and Disambiguation**: Several questions rely on distinguishing between entities that share names or similar attributes but belong to different contexts. For example, one question distinguishes between \"Rotary technology\" (dental endodontics) and \"Rotary\" (the service club) by asking about a property shared with Nickel (flexibility/ductility), while another distinguishes between \"Pie Five\" (restaurant chain) and \"Peanut pie\" (",
+        "ende": "ring the model to cross-reference filmography details (specifically \"The Woodlanders\" and \"The Holiday\") to pinpoint the correct individual. This tests fine-grained entity alignment rather than broad topic identification.\n\n7. **Cross-lingual/Cultural References**: Some questions involve non-English titles or names (e.g., \"Le roi d'Ys\", \"Der Ackermann aus Böhmen\", \"Liwayway\"). The dataset tests the ability to handle multilingual entities and understand that a foreign title refers to a specific work that can be linked to other concepts (like language or country of origin).\n\n[[ ## completed ## ]]"
+      },
+      {
+        "signatur": "Your input fields are:\n1. `examples` (str): Sample data points from the dataset\n",
+        "abgeschnitten": false,
+        "tokens_eingabe": 18911,
+        "tokens_ausgabe": 510,
+        "zeichen": 2565,
+        "wiederholte_zeilen": 0.0,
+        "anfang": "[[ ## observations ## ]]\nThe dataset consists of multi-hop question-answering examples where the `question` requires synthesizing information from multiple distinct Wikipedia articles to derive a concise factual `answer`. The input provides a set of `paragraphs`, each associated with a specific article `title`, along with a `gold_titles` field that explicitly identifies the two (rarely more) key articles necessary to solve the problem.\n\nKey observations include:\n1. **Two-Hop Reasoning Structure**: The core task involves linking two entities. The model must typically identify an attribute or re",
+        "ende": "ent Logic**: While the topics span diverse fields including music, film, geography, history, biology, and literature, the underlying logical structure remains consistent: identify Entity A -> find Link/Attribute -> Identify Entity B -> Retrieve Answer from Entity B.\n6. **Explicit Gold Titles**: The presence of `gold_titles` suggests this data can be used not only for training the answer generation/reasoning component but also for training or evaluating the document retrieval/routing component of a QA system, ensuring the model knows *where* to look before looking *what*.\n\n[[ ## completed ## ]]"
+      },
+      {
+        "signatur": "Your input fields are:\n1. `examples` (str): Sample data points from the dataset\n",
+        "abgeschnitten": false,
+        "tokens_eingabe": 21877,
+        "tokens_ausgabe": 501,
+        "zeichen": 2509,
+        "wiederholte_zeilen": 0.0,
+        "anfang": "[[ ## observations ## ]]\n1. **Strict Bi-Entity Reasoning Path**: The dataset consistently requires a \"two-hop\" reasoning path. The `gold_titles` field always contains exactly two Wikipedia article titles. The correct answer is derived by linking information from one entity (found in the first title) to a second entity (found in the second title). For example, identifying a person's relationship to another person, or an artist's collaboration with another artist.\n\n2. **High Density of Distractors**: Each example includes a large set of paragraphs from various Wikipedia articles that are *not* p",
+        "ende": "nclusion of `gold_titles` provides explicit supervision for the document retrieval step. This suggests the dataset is designed to evaluate both the retrieval/selection of relevant documents and the subsequent reading comprehension/reasoning required to answer the question.\n\n7. **Wikipedia Source Style**: The source text is strictly encyclopedic, written in a neutral tone, with dense packing of facts such as dates, names, locations, and professional roles. Sentences are typically long and compound, requiring careful attention to detail to isolate the relevant information.\n\n[[ ## completed ## ]]"
+      },
+      {
+        "signatur": "Your input fields are:\n1. `examples` (str): Sample data points from the dataset\n",
+        "abgeschnitten": false,
+        "tokens_eingabe": 21062,
+        "tokens_ausgabe": 485,
+        "zeichen": 2447,
+        "wiederholte_zeilen": 0.0,
+        "anfang": "[[ ## observations ## ]]\n1. **Explicit Two-Hop Structure**: The `gold_titles` field consistently contains exactly two Wikipedia article titles. This confirms a strict \"two-hop\" reasoning pattern where information must be bridged between two distinct entities. The first entity usually provides the link (e.g., a person, a work, or an attribute) that identifies the second entity, from which the final answer is extracted.\n\n2. **High Noise/Distractor Ratio**: Each example includes numerous paragraphs from articles not listed in `gold_titles`. These distractors are often topically related to the que",
+        "ende": "*: The source text adheres to standard encyclopedic conventions: neutral tone, dense information packing, and frequent use of dates, names, and specific proper nouns. Sentences are often long and compound, requiring careful attention to isolate specific facts.\n\n7. **Evaluation of Retrieval and Reasoning**: The presence of `gold_titles` suggests the dataset is designed to evaluate both document retrieval (selecting the correct paragraphs) and reading comprehension/reasoning (synthesizing the answer from those paragraphs). It serves as a benchmark for multi-hop QA systems.\n\n[[ ## completed ## ]]"
+      },
+      {
+        "signatur": "Your input fields are:\n1. `examples` (str): Sample data points from the dataset\n",
+        "abgeschnitten": false,
+        "tokens_eingabe": 21579,
+        "tokens_ausgabe": 559,
+        "zeichen": 2849,
+        "wiederholte_zeilen": 0.0,
+        "anfang": "[[ ## observations ## ]]\n1. **Strict Two-Hop Reasoning**: Every example in the dataset follows a consistent \"two-hop\" logical structure. The `gold_titles` field always contains exactly two Wikipedia article titles. Solving the question requires identifying a relationship or attribute within the first entity's context that points to the second entity, and then extracting the final answer from the second entity's context. There are no one-hop (single document) or three-plus-hop questions visible in this sample.\n\n2. **High Distractor Density**: Each input includes a large set of paragraphs from v",
+        "ende": "truth for the document retrieval step. This indicates that the dataset can be used to evaluate both the *retrieval* component (identifying the correct articles) and the *reasoning/comprehension* component (answering the question based on those articles).\n\n7. **Wikipedia Source Style**: The source text adheres to standard encyclopedic conventions: neutral tone, dense information packing, and frequent use of dates, names, locations, and professional roles. Sentences are often long and compound, requiring careful attention to isolate specific facts amidst descriptive prose.\n\n[[ ## completed ## ]]"
+      },
+      {
+        "signatur": "Your input fields are:\n1. `examples` (str): Sample data points from the dataset\n",
+        "abgeschnitten": false,
+        "tokens_eingabe": 22747,
+        "tokens_ausgabe": 615,
+        "zeichen": 3119,
+        "wiederholte_zeilen": 0.0,
+        "anfang": "[[ ## observations ## ]]\nBased on the provided examples and prior observations, here are additional observations regarding trends in the dataset:\n\n1. **Semantic Ambiguity and Disambiguation**: Several questions rely on distinguishing between entities that share names or similar attributes but belong to different contexts. For example, one question distinguishes between \"Rotary technology\" (dental endodontics) and \"Rotary\" (the service club) by asking about a property shared with Nickel (flexibility/ductility), while another distinguishes between \"Pie Five\" (restaurant chain) and \"Peanut pie\" (",
+        "ende": "ring the model to cross-reference filmography details (specifically \"The Woodlanders\" and \"The Holiday\") to pinpoint the correct individual. This tests fine-grained entity alignment rather than broad topic identification.\n\n7. **Cross-lingual/Cultural References**: Some questions involve non-English titles or names (e.g., \"Le roi d'Ys\", \"Der Ackermann aus Böhmen\", \"Liwayway\"). The dataset tests the ability to handle multilingual entities and understand that a foreign title refers to a specific work that can be linked to other concepts (like language or country of origin).\n\n[[ ## completed ## ]]"
+      },
+      {
+        "signatur": "Your input fields are:\n1. `observations` (str): Observations I have made about m",
+        "abgeschnitten": false,
+        "tokens_eingabe": 6138,
+        "tokens_ausgabe": 105,
+        "zeichen": 617,
+        "wiederholte_zeilen": 0.0,
+        "anfang": "[[ ## summary ## ]]\nThe dataset consists of multi-hop question-answering tasks derived from Wikipedia, characterized by a strict two-entity reasoning structure where answers require synthesizing information across exactly two `gold_titles`. Each example is embedded within a high-density noise environment containing numerous topically relevant distractors, testing the model's ability to filter irrelevant context. Questions are syntactically complex and span diverse domains, demanding precise extractive identification of factual spans after resolving semantic ambiguities and logical links.\n\n[[ #",
+        "ende": "]]\nThe dataset consists of multi-hop question-answering tasks derived from Wikipedia, characterized by a strict two-entity reasoning structure where answers require synthesizing information across exactly two `gold_titles`. Each example is embedded within a high-density noise environment containing numerous topically relevant distractors, testing the model's ability to filter irrelevant context. Questions are syntactically complex and span diverse domains, demanding precise extractive identification of factual spans after resolving semantic ambiguities and logical links.\n\n[[ ## completed ## ]]"
+      }
+    ]
+  },
+  {
+    "durchgang": 3,
+    "zusammenfassung": "This dataset is a complex, entity-centric benchmark designed for multi-hop reasoning and machine reading comprehension, requiring models to synthesize information from disjointed Wikipedia snippets. It challenges systems with intricate tasks such as entity resolution, cross-referencing across multiple sources, and handling significant noise through precise disambiguation. The questions demand logical deduction over simple keyword matching, covering a diverse range of general knowledge domains including pop culture, history, and science.",
+    "dollar": 0.002691162,
+    "aufrufe": [
+      {
+        "signatur": "Your input fields are:\n1. `examples` (str): Sample data points from the dataset\n",
+        "abgeschnitten": false,
+        "tokens_eingabe": 15549,
+        "tokens_ausgabe": 570,
+        "zeichen": 2675,
+        "wiederholte_zeilen": 0.0,
+        "anfang": "[[ ## observations ## ]]\nThe dataset consists of complex factual questions (QA pairs) where the answer is a specific entity, concept, or date. Each example includes a `question`, an `answer`, and a list of `paragraphs` containing relevant information.\n\n1.  **Structure**: The input format is designed for machine reading comprehension or multi-hop reasoning tasks. The model must identify which paragraphs are relevant to the question (indicated by `gold_titles`) and extract or synthesize information from them to derive the answer.\n2.  **Question Types**: The questions vary significantly in nature",
+        "ende": "obert Tree Cody is the son of Iron Eyes Cody, and then finding Iron Eyes Cody's role in \"Keep America Beautiful\".\n    *   **Negation/Contrast**: Determining that one plant is native to Asia/Africa while another is native to South America to answer \"no\".\n5.  **Task Nature**: This dataset appears to be from the **2019 QASPER** or similar advanced QA datasets (like HotpotQA or MuSiQue) designed to test multi-hop reasoning and information synthesis over structured text. It moves beyond simple keyword matching to requiring logical deduction based on multiple evidence sources.\n\n[[ ## completed ## ]]"
+      },
+      {
+        "signatur": "Your input fields are:\n1. `examples` (str): Sample data points from the dataset\n",
+        "abgeschnitten": false,
+        "tokens_eingabe": 15659,
+        "tokens_ausgabe": 546,
+        "zeichen": 2631,
+        "wiederholte_zeilen": 0.0,
+        "anfang": "[[ ## observations ## ]]\n1.  **Multi-Hop Reasoning Requirement**: The core challenge of this dataset is multi-hop reasoning. Almost every question requires linking information from at least two different paragraphs (often more). For example, one paragraph might identify an entity (e.g., \"The author of *The Power Broker* is Robert Caro\"), and a second paragraph must be consulted to find the attribute of that entity (e.g., \"Robert Caro also wrote a biography of Lyndon B. Johnson\").\n2.  **Paragraph Selection via `gold_titles`**: The `paragraphs` field contains multiple snippets, but not all are r",
+        "ende": " nickname and his collaboration), but the model must make the connection.\n7.  **Format Consistency**: All examples follow a strict JSON-like structure with `id`, `question`, `answer`, `paragraphs` (list of dicts with `title` and `sentences`), and `gold_titles`. The input keys are consistently `['paragraphs', 'question']`.\n8.  **Domain Diversity**: While there is a heavy concentration on pop culture (music, film, TV), there is also representation in sports, history, science/mathematics, and literature, indicating a general knowledge base rather than a domain-specific one.\n\n[[ ## completed ## ]]"
+      },
+      {
+        "signatur": "Your input fields are:\n1. `examples` (str): Sample data points from the dataset\n",
+        "abgeschnitten": false,
+        "tokens_eingabe": 17341,
+        "tokens_ausgabe": 424,
+        "zeichen": 2125,
+        "wiederholte_zeilen": 0.0,
+        "anfang": "[[ ## observations ## ]]\n1.  **Evidence Source**: The `paragraphs` provided for each example are not a single coherent text but a collection of disjointed snippets from various Wikipedia articles. These snippets often contain irrelevant information relative to the specific question, requiring the model to filter noise and identify relevant facts.\n2.  **Relevance Indication**: The `gold_titles` field serves as a ground-truth indicator for which paragraphs contain the necessary evidence. This implies that a critical step in solving these problems is correctly identifying the source entities ment",
+        "ende": "n the sentences (e.g., release year, specific role, location).\n6.  **Topic Distribution**: The dataset covers a wide range of domains including Film/TV, Music, Sports, History, Literature, and Science/Nature. There is no bias toward a single topic, indicating a general knowledge benchmark.\n7.  **Syntactic Complexity**: Questions often use complex syntactic structures involving relative clauses, comparisons (\"Which film was released first...\"), and negations (\"Are ... both magazines?\"). This tests the model's ability to parse linguistic nuance alongside factual retrieval.\n\n[[ ## completed ## ]]"
+      },
+      {
+        "signatur": "Your input fields are:\n1. `examples` (str): Sample data points from the dataset\n",
+        "abgeschnitten": false,
+        "tokens_eingabe": 18899,
+        "tokens_ausgabe": 483,
+        "zeichen": 2443,
+        "wiederholte_zeilen": 0.0,
+        "anfang": "[[ ## observations ## ]]\n1. **Multi-Hop Reasoning Structure**: The dataset is explicitly designed for multi-hop reasoning. Every question requires connecting information from at least two distinct entities or paragraphs. For example, a question might ask about the spouse of an actor who starred in a specific film; one paragraph identifies the actor via the film title, and another paragraph provides the spouse's name.\n2. **Entity-Centric Focus**: The core units of information are named entities (People, Organizations, Creative Works, Locations). Questions almost always pivot around identifying ",
+        "ende": "owards entertainment (film/TV/music), there are significant examples from sports (NFL, Baseball), geography/politics (UK Parliament, Indian Lok Sabha), and crime history. This suggests a general knowledge benchmark rather than a domain-specific one.\n8. **Noise Filtering**: The provided paragraphs contain significant noise irrelevant to the specific question. For instance, in the \"Hans Zhang\" example, many films and series are listed, but only the 2009 series \"Meteor Shower\" answers the specific question about the station premiere. The model must ignore these distractors.\n\n[[ ## completed ## ]]"
+      },
+      {
+        "signatur": "Your input fields are:\n1. `examples` (str): Sample data points from the dataset\n",
+        "abgeschnitten": false,
+        "tokens_eingabe": 18162,
+        "tokens_ausgabe": 653,
+        "zeichen": 3273,
+        "wiederholte_zeilen": 0.0,
+        "anfang": "[[ ## observations ## ]]\n1.  **Multi-Hop Reasoning Core**: The dataset is fundamentally structured around multi-hop reasoning. Almost every question requires linking two or more distinct entities found in different paragraphs. For example, one paragraph might identify an entity (e.g., \"The actor who played X\"), and a subsequent paragraph must be consulted to find the attribute of that entity (e.g., \"Actor Y was born in...\"). The `gold_titles` field explicitly guides this by listing the relevant Wikipedia articles.\n\n2.  **Entity-Centric Questions**: The questions are almost exclusively focused ",
+        "ende": "tures, including relative clauses, nested conditions, and comparisons. For example, \"When did the criminal gang formed by someone serving six life sentences...\" requires parsing multiple modifiers to identify the correct subject before retrieving the answer.\n\n9.  **Task Nature**: This dataset appears to be designed for training or evaluating models on machine reading comprehension (MRC) tasks that go beyond simple keyword matching. It tests the ability to retrieve, filter, synthesize, and reason over structured text evidence, similar to datasets like HotpotQA or MuSiQue.\n\n[[ ## completed ## ]]"
+      },
+      {
+        "signatur": "Your input fields are:\n1. `examples` (str): Sample data points from the dataset\n",
+        "abgeschnitten": false,
+        "tokens_eingabe": 18196,
+        "tokens_ausgabe": 646,
+        "zeichen": 3127,
+        "wiederholte_zeilen": 0.0,
+        "anfang": "[[ ## observations ## ]]\nThe dataset consists of complex factual questions (QA pairs) where the answer is a specific entity, concept, or date. Each example includes a `question`, an `answer`, and a list of `paragraphs` containing relevant information.\n\n1.  **Structure**: The input format is designed for machine reading comprehension or multi-hop reasoning tasks. The model must identify which paragraphs are relevant to the question (indicated by `gold_titles`) and extract or synthesize information from them to derive the answer.\n2.  **Question Types**: The questions vary significantly in nature",
+        "ende": "r structured text. It moves beyond simple keyword matching to requiring logical deduction based on multiple evidence sources.\n\nThe prior observations already provide a comprehensive analysis of the dataset's structure, question types, domain diversity, and the necessity of multi-hop reasoning. The examples provided confirm these points, showing clear patterns of entity linking, disambiguation, and cross-referencing between distinct Wikipedia snippets. No additional unique trends or structural anomalies were observed that would expand upon the provided prior observations.\n\n[[ ## completed ## ]]"
+      },
+      {
+        "signatur": "Your input fields are:\n1. `examples` (str): Sample data points from the dataset\n",
+        "abgeschnitten": false,
+        "tokens_eingabe": 21297,
+        "tokens_ausgabe": 13,
+        "zeichen": 56,
+        "wiederholte_zeilen": 0.0,
+        "anfang": "[[ ## observations ## ]]\nCOMPLETE\n\n[[ ## completed ## ]]",
+        "ende": "[[ ## observations ## ]]\nCOMPLETE\n\n[[ ## completed ## ]]"
+      },
+      {
+        "signatur": "Your input fields are:\n1. `examples` (str): Sample data points from the dataset\n",
+        "abgeschnitten": false,
+        "tokens_eingabe": 19993,
+        "tokens_ausgabe": 13,
+        "zeichen": 56,
+        "wiederholte_zeilen": 0.0,
+        "anfang": "[[ ## observations ## ]]\nCOMPLETE\n\n[[ ## completed ## ]]",
+        "ende": "[[ ## observations ## ]]\nCOMPLETE\n\n[[ ## completed ## ]]"
+      },
+      {
+        "signatur": "Your input fields are:\n1. `examples` (str): Sample data points from the dataset\n",
+        "abgeschnitten": false,
+        "tokens_eingabe": 20037,
+        "tokens_ausgabe": 13,
+        "zeichen": 56,
+        "wiederholte_zeilen": 0.0,
+        "anfang": "[[ ## observations ## ]]\nCOMPLETE\n\n[[ ## completed ## ]]",
+        "ende": "[[ ## observations ## ]]\nCOMPLETE\n\n[[ ## completed ## ]]"
+      },
+      {
+        "signatur": "Your input fields are:\n1. `examples` (str): Sample data points from the dataset\n",
+        "abgeschnitten": false,
+        "tokens_eingabe": 20658,
+        "tokens_ausgabe": 13,
+        "zeichen": 56,
+        "wiederholte_zeilen": 0.0,
+        "anfang": "[[ ## observations ## ]]\nCOMPLETE\n\n[[ ## completed ## ]]",
+        "ende": "[[ ## observations ## ]]\nCOMPLETE\n\n[[ ## completed ## ]]"
+      },
+      {
+        "signatur": "Your input fields are:\n1. `observations` (str): Observations I have made about m",
+        "abgeschnitten": false,
+        "tokens_eingabe": 3446,
+        "tokens_ausgabe": 100,
+        "zeichen": 585,
+        "wiederholte_zeilen": 0.0,
+        "anfang": "[[ ## summary ## ]]\nThis dataset is a complex, entity-centric benchmark designed for multi-hop reasoning and machine reading comprehension, requiring models to synthesize information from disjointed Wikipedia snippets. It challenges systems with intricate tasks such as entity resolution, cross-referencing across multiple sources, and handling significant noise through precise disambiguation. The questions demand logical deduction over simple keyword matching, covering a diverse range of general knowledge domains including pop culture, history, and science.\n\n[[ ## completed ## ]]",
+        "ende": "[[ ## summary ## ]]\nThis dataset is a complex, entity-centric benchmark designed for multi-hop reasoning and machine reading comprehension, requiring models to synthesize information from disjointed Wikipedia snippets. It challenges systems with intricate tasks such as entity resolution, cross-referencing across multiple sources, and handling significant noise through precise disambiguation. The questions demand logical deduction over simple keyword matching, covering a diverse range of general knowledge domains including pop culture, history, and science.\n\n[[ ## completed ## ]]"
+      }
+    ]
+  }
+]

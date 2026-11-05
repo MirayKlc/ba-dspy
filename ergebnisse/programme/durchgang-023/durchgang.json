@@ -1,0 +1,33 @@
+{
+  "durchgang": 23,
+  "seed": 3,
+  "baseline": "gleichverteilung",
+  "kandidatenmodell": null,
+  "kein_gewinner": false,
+  "paare": [
+    {
+      "datei": "durchgang-023/gewinner-openai-gpt-oss-120b.json",
+      "kandidatenmodell": "openai/gpt-oss-120b",
+      "phase": null,
+      "rolle": "gewinner"
+    },
+    {
+      "datei": "durchgang-023/teilnehmer-google-gemma-4-31b-it.json",
+      "kandidatenmodell": "google/gemma-4-31b-it",
+      "phase": null,
+      "rolle": "teilnehmer"
+    },
+    {
+      "datei": "durchgang-023/teilnehmer-deepseek-deepseek-v4.1-flash.json",
+      "kandidatenmodell": "deepseek/deepseek-v4.1-flash",
+      "phase": null,
+      "rolle": "teilnehmer"
+    },
+    {
+      "datei": "durchgang-023/teilnehmer-openai-gpt-6-luna.json",
+      "kandidatenmodell": "openai/gpt-6-luna",
+      "phase": null,
+      "rolle": "teilnehmer"
+    }
+  ]
+}

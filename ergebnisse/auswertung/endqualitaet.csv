@@ -1,0 +1,9 @@
+﻿Strategie;F1 Testdaten;gewaehlt
+Ohne Optimierung;0,796 ± 0,001;DeepSeek V4.1 Flash (3)
+Einzelmodell: gpt-oss-120b;0,758 ± 0,014;gpt-oss-120b (3)
+Einzelmodell: Gemma 4 31B;0,796 ± 0,003;Gemma 4 31B (3)
+Einzelmodell: DeepSeek V4.1 Flash;0,800 ± 0,004;DeepSeek V4.1 Flash (3)
+Einzelmodell: GPT-6 Luna;0,716 ± 0,027;GPT-6 Luna (3)
+Gleichverteilung (abgerechnet);0,783 ± 0,035;DeepSeek V4.1 Flash (2), gpt-oss-120b (1)
+Gleichverteilung (Preis vom Stichtag);0,803 ± 0,001;DeepSeek V4.1 Flash (3)
+Verfahren;0,805 ± 0,011;DeepSeek V4.1 Flash (3)

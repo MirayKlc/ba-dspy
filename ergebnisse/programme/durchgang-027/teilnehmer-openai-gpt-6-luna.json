@@ -1,0 +1,450 @@
+{
+  "programm.find_evidence": {
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "What album did a Danish-born Montenegrin singer born in 1971 release in late spring 2008?",
+        "paragraphs": "Stevan Faddy: Stevan Faddy (Стеван Фeди; born 2 September 1986 in Kotor) is a Montenegrin singer. He took part in Montevizija 2006, singing \"Cipele\". He also participated in Sunčane Skale 2003 singing \"Poslednja obala\". On 25 February 2007, he won a landslide victory in MontenegroSong 2007 with his song \"Ajde Kroči\" and won a ticket to represent Montenegro in the Eurovision Song Contest 2007 held in Helsinki, Finland. Stevan was the first singer representing Montenegro after its independence. He is currently living in Croatia.\n\nKosači: Kosači (English translation: Mowers) is the fifth studio album by Montenegrin singer Boban Rajović. It was released in late spring 2008.\n\nBoban (album): Boban is the self-titled debut studio album by Montenegrin singer Boban Rajović. It was released in 2000.\n\nZombie Live: Zombie Live is the first live album from heavy metal artist Rob Zombie. The CD was recorded over several nights during the band's \"Educated Horses\" tour and was said to include a 36-page super-deluxe book of never-before-seen live pictures and a DVD of live footage and animated videos. After the release of the album no artbook or DVD were included with the release of the album. Blabbermouth.net reported that the DVD companion would be available in spring 2008, but this still has yet to surface. A different concert film, \"The Zombie Horror Picture Show\", was released in 2014.\n\nUsne boje vina: Usne boje vina (English translation: Lips the Color of Wine), incorrectly titled Usne (\"Lips\") at its release, is a single and the fourth release by Montenegrin singer Boban Rajović. It was released in 2007.\n\nDonald Freed: Donald Freed (born 1933) is an American playwright, novelist, screenwriter, and actor. He is associated with writing programs at the University of Southern California, and was Artist in Residence at the Workshop Theatre, University of Leeds, United Kingdom (Fall 2006 – Spring 2008), and Playwright in Residence at York Theatre Royal (Fall 2007 – Spring 2008), participating in a six-week Master Class in York in October and November 2007 (\"Freed in Residence in York\"). He has also been Playwright in Residence at Denison University, Ohio and taught at Loyola Marymount University.\n\nHysterics (Rolo Tomassi album): Hysterics is the debut album by Rolo Tomassi recorded in spring 2008 and released on 22 September 2008. The album is Rolo Tomassi's first release on Hassle Records and features all new tracks. The album received an exclusive first review from Thrash Hits, who awarded the album a maximum score. The band recorded a video for the song \"I Love Turbulence\" on 15 September.\n\nKristi Cirone: Kristi Mary Rose Cirone (born May 19, 1987) is an American basketball player who played collegiately for Illinois State University. She is a Point Guard for the Redbirds. A scholar athlete majoring in Exercise Science. Cirone has received many awards including AFNI Athletics Honor Roll: Fall 2005, Spring 2006, Fall 2006, Spring 2007, Fall 2007, Spring 2008, MVC Honor Roll: 2008, MVC Commissioner's Academic Excellence Award: 2008.\n\nSanjao sam san...: Sanjao sam san... (English: I dreamt a dream ) is the ninth studio album of Montenegrin singer Šako Polumenta, which was released on 10 July 2008. This album was recorded in Studio Ceca in Belgrade, the first before the studio's official opening on June 14 to coincide with its owner, Ceca Raznatovic's, birthday. Sako Polumenta invested more money into this project than in any other album he recorded.\n\nBoban Rajović: Boban Rajović (] , born 25 December 1971) is a Danish-born Montenegrin singer popular in former Yugoslavia. Some of his big hit songs include \"Usne boje vina\" (\"Lips the Color of Wine\") and \"Provokacija\" (\"Provocation\".) He has lived in Belgrade since 2000.",
+        "relevant_titles": [
+          "Kosači",
+          "Boban Rajović"
+        ],
+        "relevant_text": "\"Kosači (English translation: Mowers) is the fifth studio album by Montenegrin singer Boban Rajović. It was released in late spring 2008.\"\n\"Boban Rajović (] , born 25 December 1971) is a Danish-born Montenegrin singer popular in former Yugoslavia.\""
+      },
+      {
+        "augmented": true,
+        "question": "Where is the community college located where Antwoine Sanders first enrolled?",
+        "paragraphs": "Clovis Community College (California): Clovis Community College is a public community college located in northeastern Fresno, California near Clovis. It is in the State Center Community College District (SCCCD) along with Fresno City College, Reedley College, and Madera Community College Center. It has a satellite campus on Herndon Avenue in Fresno.\n\nAntwoine Sanders: Antwoine Sanders (born September 22, 1977) is a former American football safety. He was drafted by the Baltimore Ravens in the seventh round of the 2003 NFL Draft. He attended Terry Sanford High School in Fayetteville, North Carolina. He first enrolled at Independence Community College before transferring to Arizona Western College and later the University of Utah. Sanders was also a member of the Miami Dolphins.\n\nIndependence Community College: Independence Community College is a community college in Independence, Kansas, United States. It is located between Tulsa, Kansas City, Wichita, Kansas and Joplin, Missouri and was formerly known as Independence Community Junior College.\n\nGateway Community College: Gateway Community College is a public community college located in Connecticut. The college's campus is located in New Haven with an automotive technology facility in [North Haven]. As of February 17, 2010, Gateway had the highest credit enrollment among Connecticut's community colleges, with 7416 students enrolled in for-credit classes. It was formed in 1992 by the merger of South Central Community College in New Haven and the Greater New Haven State Technical College in North Haven.\n\nCoastal Carolina Community College: Coastal Carolina Community College is a community college located in Jacksonville, North Carolina. 3rd Largest City in ENC behind Wilmington, and Greenville. Rated the best Community College in North Carolina for many years. A nice campus located miles away from the Atlantic Ocean as well as the New River. Roughly 8 thousand students are enrolled in this institution. President of Coastal Carolina CC: David Heatherly.\n\nCharles Wright (gridiron football): Charles James Wright (born April 5, 1964) is a former American football defensive back who played two seasons in the National Football League (NFL) with the St. Louis Cardinals, Dallas Cowboys and Tampa Bay Buccaneers. He was drafted by the Cardinals in the tenth round of the 1987 NFL Draft. He first enrolled at Highland Community College before transferring to Fort Scott Community College and lastly the University of Tulsa. Wright attended Carthage Senior High School in Carthage, Missouri. He was also a member of the Ottawa Rough Riders, Edmonton Eskimos, Memphis Pharaohs and San Jose SaberCats. He is the brother of gridiron football player Felix Wright.\n\nSan Diego Miramar College: San Diego Miramar College (known more informally as Miramar) is a public, two-year community college located in San Diego, California. Miramar College is part of the San Diego Community College District along with San Diego City College, San Diego Mesa College and San Diego Continuing Education. Miramar, as well as City and Mesa belong to the California Community College system along with 111 other public community colleges. It is administered by the San Diego Community College District.\n\nNorthwest Mississippi Community College: Northwest Mississippi Community College is a two-year public community college located in Senatobia, Mississippi, United States and has been in existence since 1928. As of August 2008, Northwest's enrollment exceeds 7,100 students. There are approximately 3,000 students on the Senatobia campus—1,100 of which reside in the college's residence halls. Slightly over 3,000 students are enrolled at the DeSoto Center in Southaven, Mississippi, and nearly 1,200 are enrolled at the Lafayette-Yalobusha Center in Oxford, Mississippi.\n\nCape Cod Community College: Cape Cod Community College, known locally as \"The Harvard of the Mid-Cape\", is a two-year community college located in West Barnstable, Massachusetts. Cape Cod Community College was established in 1961, the second institution to open as part of what is now a 15 community college system in Massachusetts. It awards Associate in Arts and Associate in Science degrees and various academic certificates in a wide variety of programs. The college offers access to on-campus bachelor's and master's degree programs in partnership with: Bridgewater State University, Boston University, Lesley University, Salem State University, Suffolk University, UMass Boston, UMass Dartmouth, and Wheelock College.\n\nNorth Country Community College: North Country Community College is a two-year college of the State University of New York located in Upstate New York. Founded in 1967, the main campus is in Saranac Lake, New York, and serves Franklin and Essex Counties; enrollment is approximately 1500 students. It employs 143 permanent and 300 adjunct faculty. North Country is the only public college located within the Adirondack Park. The College, located in New York's North Country Region, has additional locations in Malone and Ticonderoga. In August 2010, North Country Community College was ranked Best Community College in New York and 22nd among the Best Community Colleges in the United States by \"Washington Monthly\". The college has also been ranked one of the Top 50 fastest growing community colleges in the United States in \"Community College Week Magazine\", 101 Best for Vets Colleges in the United States by \"Military Times\" and a Top 15% Military Friendly Colleges in the U.S., by gijobs.com.",
+        "relevant_titles": [
+          "Antwoine Sanders",
+          "Independence Community College"
+        ],
+        "relevant_text": "\"He first enrolled at Independence Community College before transferring to Arizona Western College and later the University of Utah.\"\n\"Independence Community College is a community college in Independence, Kansas, United States.\""
+      },
+      {
+        "augmented": true,
+        "question": "California Suite is a 1976 play by an american playwright born in what year?",
+        "paragraphs": "Anthony Clarvoe: Anthony Clarvoe is an American playwright born in 1958.\n\nEdward Locke: Edward Locke (1869–1945) was an American playwright born in England.\n\nLondon Suite (play): London Suite is a play by Neil Simon, consisting of four one-act plays. \"London Suite\" also was a 1996 television movie. It is in a similar style to Simon's earlier works \"Plaza Suite\" and \"California Suite\".\n\nJen Silverman: Jen Silverman is an American playwright born in the United States. She grew up living and traveling in Scandinavia, Asia, and Europe as well as the United States. She completed a BA in comparative literature at Brown University, a MFA in playwriting at the University of Iowa, and also studied at Juilliard.\n\nVinegar Tom: Vinegar Tom is the title of a 1976 play by the British playwright Caryl Churchill. The play examines gender and power relationships through the lens of 17th century witchcraft trials in England. The script employs features of the epic theater associated with German playwright Bertolt Brecht, particularly the realistic use of songs. The play's title comes from the name of one character's pet cat, supposed to be her familiar spirit, likely inspired by the supposed imp of one Elizabeth Clarke, a woman tried and executed for witchcraft in Essex in 1645. The play was inspired by the Women's Rights Act in 1970 and explored the thought that women were treated unequally to men in England, both at the time in which the play takes place, and the time in which the play was written.\n\nCalifornia Suite: California Suite is a 1976 play by Neil Simon. Similar in structure to his earlier \"Plaza Suite\", the comedy is composed of four playlets set in Suite 203-04, which consists of a living room and an adjoining bedroom with an ensuite bath, in The Beverly Hills Hotel.\n\nThe Vietnamization of New Jersey: The Vietnamization of New Jersey (subtitled \"A American Tragedy\" [\"sic\"] ) is a 1976 play written by American playwright Christopher Durang.\n\nEden (Steve Carter play): Eden is a 1976 play by American playwright Steve Carter. Set in the 1920s, it is the first of Carter's Caribbean trilogy. \"Eden\" explores intra-racial conflicts between recent immigrants from the Caribbean and the African-American population. The West Coast premiere of this critically acclaimed play received five Los Angeles Drama Critics Circle Awards.\n\nCalifornia Suite (film): California Suite is a 1978 American comedy film directed by Herbert Ross. The screenplay by Neil Simon is based on his play of the same name. Similar to his earlier \"Plaza Suite\", the film focuses on the dilemmas of guests staying in a suite in a luxury hotel. Maggie Smith won the Academy Award for Best Supporting Actress for her performance in the film.\n\nNeil Simon: Marvin Neil Simon (born July 4, 1927) is an American playwright, screenwriter and author. He has written more than thirty plays and nearly the same number of movie screenplays, mostly adaptations of his plays. He has received more combined Oscar and Tony nominations than any other writer.",
+        "relevant_titles": [
+          "California Suite",
+          "Neil Simon"
+        ],
+        "relevant_text": "\"California Suite is a 1976 play by Neil Simon.\"\n\"Marvin Neil Simon (born July 4, 1927) is an American playwright, screenwriter and author.\""
+      },
+      {
+        "id": "5a8d3f6a5542994ba4e3dc35",
+        "question": "This song, which got heavy rotation on MTV was written by Sebastian Bach, Rachel Bolan and a rock guitarist in what kind of band?",
+        "answer": "heavy metal band",
+        "paragraphs": [
+          {
+            "title": "Wasted Time (Skid Row song)",
+            "sentences": [
+              "\"Wasted Time\" is a song by Skid Row.",
+              " It was their third single released from their second album, \"Slave to the Grind\".",
+              " The song was released in 1991 and written by bandmates Sebastian Bach, Rachel Bolan and Dave \"the Snake\" Sabo.",
+              " It was also the band's last real hit on the U.S. charts and also features a music video.",
+              " Lead singer Sebastian Bach said the song was written about Steven Adler, the original drummer of hard rock band Guns N' Roses ."
+            ]
+          },
+          {
+            "title": "Into Another",
+            "sentences": [
+              "\"Into Another\" is a song by Skid Row.",
+              " It was a single from their third album, \"Subhuman Race\".",
+              " The song was released in 1995 and written by bandmates Rachel Bolan and Dave \"the Snake\" Sabo.",
+              " This is the last single Skid Row released with Sebastian Bach."
+            ]
+          },
+          {
+            "title": "Skid Row (American band)",
+            "sentences": [
+              "Skid Row is an American heavy metal band, formed in 1986 in Toms River, New Jersey.",
+              " The group was commercially successful in the late 1980s and early 1990s, with its first two albums \"Skid Row\" (1989) and \"Slave to the Grind\" (1991) certified multi-platinum, the latter of which reached number one on the \"Billboard\" 200.",
+              " The band's third album \"Subhuman Race\" (1995) was also critically acclaimed, but failed to repeat the success of its predecessors.",
+              " During this period, the band consisted of bassist Rachel Bolan, guitarists Dave Sabo and Scotti Hill, drummer Rob Affuso, and frontman Sebastian Bach.",
+              " The band had sold 20 million albums worldwide by the end of 1996."
+            ]
+          },
+          {
+            "title": "In a Darkened Room",
+            "sentences": [
+              "\"In a Darkened Room\" is a song by Skid Row.",
+              " It was a single from their second album, \"Slave to the Grind\".",
+              " The song was released in 1991 and written by bandmates Sebastian Bach, Rachel Bolan and Dave \"the Snake\" Sabo.",
+              " The song only charted in Switzerland at number 27"
+            ]
+          },
+          {
+            "title": "Slave to the Grind (song)",
+            "sentences": [
+              "\"Slave to the Grind\" is a song by Skid Row.",
+              " It was the second single and the title track from their second album, \"Slave to the Grind\".",
+              " The song was released in 1991 and written by bandmates Sebastian Bach, Rachel Bolan and Dave \"The Snake\" Sabo.",
+              " It reached #43 on the UK Singles Chart.",
+              " The video also got heavy rotation on MTV but was not as successful as previous singles and did not chart in the US."
+            ]
+          },
+          {
+            "title": "Dave Sabo",
+            "sentences": [
+              "David Michael Sabo, nicknamed \"The Snake,\" is a rock guitarist who plays in the heavy metal band Skid Row.",
+              " He is co-guitarist with Scotti Hill."
+            ]
+          },
+          {
+            "title": "Monkey Business (Skid Row song)",
+            "sentences": [
+              "\"Monkey Business\" is a song by Skid Row.",
+              " It was the first single from their second album, \"Slave to the Grind\" and marked their change from hard-hitting glam metal to overall heavy metal.",
+              " The song is one of their best known songs.",
+              " The single was released in 1991 and was written by bandmates Rachel Bolan and Dave \"the Snake\" Sabo.",
+              " The song was the biggest hit on Slave to the Grind and although the song didn't make the top 40 it reached #13 on the Mainstream Rock Tracks and still gets heavy airplay on rock radio stations.",
+              " The video got heavy rotation on MTV and catapulted the album to double-platinum status.",
+              " Along with \"Youth Gone Wild\" from their first album, it is considered their signature song."
+            ]
+          },
+          {
+            "title": "Love on a Mountain Top",
+            "sentences": [
+              "\"Love On a Mountain Top\" is a 1968 song by singer Robert Knight.",
+              " The song was written by Buzz Cason and Mac Gayden, like its predecessor, his 1967/1968 smash hit Everlasting Love.",
+              " It however only charted regionally in the Philadelphia and Pittsburgh area.",
+              " Re-discovered by the UK's Northern soul scene it got heavy rotation by deejays in late 1973, causing a UK re-release of the record, which eventually entered the UK Singles Charts and peaked at #10 in January, 1974."
+            ]
+          },
+          {
+            "title": "Trouble Walkin'",
+            "sentences": [
+              "Trouble Walkin' is the fourth full-length solo album released by Ace Frehley.",
+              " No longer under the band name Frehley's Comet the album features guest performances by former Kiss drummer Peter Criss, as well as Skid Row members Sebastian Bach, Rachel Bolan and Dave Sabo."
+            ]
+          },
+          {
+            "title": "Wolf Hoffmann",
+            "sentences": [
+              "Wolf Hoffmann (born 10 December 1959) is a German guitarist, primarily known as guitarist in the German heavy metal band Accept since 1976.",
+              " In 1997, he released the album \"Classical\" with rock versions of classical pieces.",
+              " He contributed to Skid Row vocalist Sebastian Bach's solo album \"Bring 'Em Bach Alive!",
+              "\" and to a 2000 Japanese tribute to Randy Rhoads album called \"Randy Rhoads Tribute\" with Sebastian Bach on \"I Don't Know\" and with Joe Lynn Turner on \"Diary of a Madman\".",
+              " Hoffmann also contributed to \"Peace Breaker\" by Skew Siskin."
+            ]
+          }
+        ],
+        "gold_titles": [
+          "Slave to the Grind (song)",
+          "Dave Sabo"
+        ]
+      }
+    ],
+    "signature": {
+      "instructions": "Identify the specific Wikipedia article titles that contain the necessary information to answer the question. Then, extract and quote verbatim the exact sentences from those articles that provide the evidence needed to derive the answer. Focus on linking entities across different topics if required by the multi-hop nature of the query.",
+      "fields": [
+        {
+          "prefix": "Question:",
+          "description": "${question}"
+        },
+        {
+          "prefix": "Paragraphs:",
+          "description": "ten paragraphs, only a few of them are relevant"
+        },
+        {
+          "prefix": "Relevant Titles:",
+          "description": "titles of the paragraphs that are needed to answer the question"
+        },
+        {
+          "prefix": "Relevant Text:",
+          "description": "the sentences from those paragraphs that are needed, quoted verbatim"
+        }
+      ]
+    },
+    "lm": {
+      "_dspy_lm_class": "dspy.clients.lm.LM",
+      "model": "openrouter/openai/gpt-6-luna",
+      "model_type": "chat",
+      "cache": false,
+      "num_retries": 20,
+      "temperature": 0.0,
+      "max_tokens": 1000,
+      "extra_body": {
+        "provider": {
+          "only": [
+            "openai"
+          ],
+          "allow_fallbacks": false
+        },
+        "reasoning": {
+          "enabled": false
+        }
+      },
+      "finetuning_model": null,
+      "launch_kwargs": {},
+      "train_kwargs": {}
+    }
+  },
+  "programm.answer_question": {
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Where is the community college located where Antwoine Sanders first enrolled?",
+        "relevant_text": "\"He first enrolled at Independence Community College before transferring to Arizona Western College and later the University of Utah.\"\n\"Independence Community College is a community college in Independence, Kansas, United States.\"",
+        "answer": "Independence, Kansas"
+      },
+      {
+        "augmented": true,
+        "question": "In which year was the album released which included the single \"Long Kiss Goodnight\", which was used as a sample in the song \"Rap name\"?",
+        "relevant_text": "\"The song also features a vocal sample of The Notorious B.I.G. from his song \"Long Kiss Goodnight\" from the album \"Life After Death\".\"\n\"Life After Death is the second and final studio album by American rapper The Notorious B.I.G., released on March 25, 1997, on Bad Boy Records and Arista Records.\"",
+        "answer": "1997"
+      },
+      {
+        "id": "5a87158a55429960ec39b72e",
+        "question": "Both Should Have Known Better and Carrie & Lowell have which instrumentalist playing on them?",
+        "answer": "Sufjan Stevens",
+        "paragraphs": [
+          {
+            "title": "The Broadside Tapes 1",
+            "sentences": [
+              "The Broadside Tapes 1, alternatively known as \"Broadside Ballads, Vol.",
+              " 14\", was a compilation of demo recordings done by Phil Ochs for \"Broadside\" magazine in the early-to-late 1960s.",
+              " Of the sixteen songs that appeared, ranging from the humorous (\"The Ballad of Alferd Packer\") to the depressing (\"The Passing of My Life\"), all were new to listeners.",
+              " It also included a song about the Profumo affair (\"Christine Keeler\") and it closed with a live cover of The Beatles' \"I Should Have Known Better\" (retitled \"I Shoulda Known Better\") featuring Eric Andersen on harmony vocals and harmonica."
+            ]
+          },
+          {
+            "title": "Richard Nunns",
+            "sentences": [
+              "Richard Nunns QSM (born 1945) is a Māori traditional instrumentalist of Pākehā heritage.",
+              " He is particularly known for playing the Taonga pūoro and his collaboration with fellow Māori instrumentalist Hirini Melbourne.",
+              " Since Melbourne's death, he is regarded as the world's foremost authority on Māori instruments."
+            ]
+          },
+          {
+            "title": "I Should Have Known Better",
+            "sentences": [
+              "\"I Should Have Known Better\" is a song by English rock band the Beatles composed by John Lennon (credited to Lennon–McCartney), and originally issued on \"A Hard Day's Night\", their soundtrack for the film of the same name released July 10, 1964.",
+              " \"I Should Have Known Better\" was issued as the B-side of the U.S. single \"A Hard Day's Night\" released July 13, 1964.",
+              " An orchestrated version of the song conducted by George Martin appears on the North American version of the album, \"A Hard Day's Night Original Motion Picture Soundtrack.\""
+            ]
+          },
+          {
+            "title": "U Should've Known Better",
+            "sentences": [
+              "\"U Should've Known Better\" is a song by American recording artist Monica.",
+              " It was written in collaboration with Harold Lilly and Jermaine Dupri, and produced by the latter along with frequent co-producer Bryan Michael Cox for her original third studio album, \"All Eyez on Me\" (2002).",
+              " When the album was shelved for release outside Japan, the song was one out of five original records that were transferred into its new version, \"After the Storm\" (2003).",
+              " A contemporary R&B slow jam, \"U Should've Known Better\" contains elements of soul music and rock music.",
+              " Built on an pulsating backbeat, the song's instrumentation consists of screeching guitars and an understated harp pattern.",
+              " Lyrically, Monica, as the protagonist, delivers a message of loyalty to her imprisoned love interest and sings about staying down for him despite his doubts."
+            ]
+          },
+          {
+            "title": "Ahmed Zuway",
+            "sentences": [
+              "Ahmed Mahmoud Zuway (Arabic: أحمد الزوي‎ ‎ ) (born December 28, 1982), better known better as Kabila, is a Libyan football striker.",
+              " He currently plays for Ahly Benghazi in the Libyan Premier League.",
+              " He is a member of the Libyan national football team.",
+              " He is known for his excellent heading ability and goal scoring."
+            ]
+          },
+          {
+            "title": "Scott Lucas (musician)",
+            "sentences": [
+              "David Scott Lucas (born May 10, 1970), known better as Scott Lucas, is an American musician, who is best known for being the guitarist, bassist, and lead vocalist for Local H, as well as the lead vocalist and guitarist of Scott Lucas and the Married Men."
+            ]
+          },
+          {
+            "title": "Pilipili",
+            "sentences": [
+              "Peter Gatonye (born November 1982), known better for his stage name Pilipili is a musician/singer from Kenya.",
+              " At the beginning of his career, he collaborated with another musician, Gun B.",
+              " Their best known song was \"Nampenda\".",
+              " He has also sung a song with Ratatat.",
+              " The song was called Morale."
+            ]
+          },
+          {
+            "title": "Should Have Known Better",
+            "sentences": [
+              "\"Should Have Known Better\" is a song by American singer-songwriter and multi-instrumentalist Sufjan Stevens.",
+              " It is the second track and second single from his seventh studio album, \"Carrie & Lowell\", and was released digitally on March 11, 2015 on Asthmatic Kitty.",
+              " A promotional CD was later released on Asthmatic Kitty but was not available for sale."
+            ]
+          },
+          {
+            "title": "Malcolm Laycock",
+            "sentences": [
+              "Malcolm Richard Laycock (1 November 1938 – 8 November 2009) was a schoolteacher until moving into broadcasting, initially on Radio London.",
+              " He is now known better as a British radio presenter and producer, best known for his work on programmes related to jazz, dance band and big band music.",
+              " During his career he presented shows for both BBC Radio 2 and the BBC World Service.",
+              " Between 1995 and 2009, he was also the host of \"Sunday Night at 10\", a long running weekly Sunday evening show on Radio 2."
+            ]
+          },
+          {
+            "title": "Carrie &amp; Lowell",
+            "sentences": [
+              "Carrie & Lowell is the seventh studio album by American musician Sufjan Stevens, released through Asthmatic Kitty on March 31, 2015.",
+              " Unlike Stevens's previous studio album, the electronic \"The Age of Adz\", \"Carrie & Lowell\" is sparsely instrumental and marks a return to the performer's indie folk roots.",
+              " The album was given a one-week preview on NPR."
+            ]
+          }
+        ],
+        "gold_titles": [
+          "Should Have Known Better",
+          "Carrie &amp; Lowell"
+        ]
+      },
+      {
+        "id": "5a7326675542991f29ee2d0f",
+        "question": "Which National Park includes the features Red Eagle Mountain and Going-to-the-Sun Road?",
+        "answer": "Glacier National Park",
+        "paragraphs": [
+          {
+            "title": "Red Eagle Mountain",
+            "sentences": [
+              "Red Eagle Mountain (8881 ft ) is located in the Lewis Range, Glacier National Park in the U.S. state of Montana.",
+              " Red Eagle Mountain rises more than 4000 ft above Saint Mary Lake and is easily seen from the Going-to-the-Sun Road and the entrance to the park from the village of St. Mary, Montana as well as at Rising Sun.",
+              " The mountain was named according to James Willard Schultz, \"by his Indian wife in 1887, for her uncle, Red Eagle, who had saved their son's life with his prayers to the Sun\"."
+            ]
+          },
+          {
+            "title": "Dusty Star Mountain",
+            "sentences": [
+              "Dusty Star Mountain (8573 ft ) is located in the Lewis Range, Glacier National Park in the U.S. state of Montana.",
+              " Connected by an arête to Citadel Mountain to the south, Dusty Star Mountain lies to the south and across the Saint Mary Valley from Going-to-the-Sun Mountain.",
+              " Dusty Star Mountain is easily seen from the Going-to-the-Sun Road, and often photographed by tourists taking pictures of Wild Goose Island which lies in the western section of Saint Mary Lake.",
+              " The Blackfoot name for Dusty Star is \"iszika-kakatosi\" meaning \"meteor\" or \"smoking star\"."
+            ]
+          },
+          {
+            "title": "Eagle Mountain, California",
+            "sentences": [
+              "Eagle Mountain, California, is a modern-day ghost town in the California desert in Riverside County founded in 1948 by noted industrialist Henry J. Kaiser.",
+              " The town is located at the entrance of the now-defunct Eagle Mountain iron mine, once owned by the Southern Pacific Railroad, then Kaiser Steel, and located on the southeastern corner of Joshua Tree National Park.",
+              " The town's fully integrated medical care system, similar to other Kaiser operations in California, was the genesis of the modern-day Kaiser Permanente health maintenance organization.",
+              " Eagle Mountain is accessible by Riverside County Route R2, twelve miles (19 km) north of Desert Center, midway between Indio and the California/Arizona state line along Interstate 10.",
+              " The town's relative youth and brief time of abandonment make Eagle Mountain among the country's best preserved ghost towns."
+            ]
+          },
+          {
+            "title": "Red Eagle Glacier",
+            "sentences": [
+              "Red Eagle Glacier is a glacier remnant (glacieret) in Glacier National Park in the U.S. state of Montana.",
+              " The glacieret is a hanging glacier located to the southeast of Mount Logan and Logan Glacier.",
+              " Between 1966 and 2005, Red Eagle Glacier lost 53 percent of its surface area and now covers less than 25 acre which is below the threshold to qualify as an active glacier.",
+              " Comparing images of the glacier taken in 1914 with those from 2009, indicates that the glacier has experienced extensive retreat."
+            ]
+          },
+          {
+            "title": "Red Eagle Lake",
+            "sentences": [
+              "Red Eagle Lake is located in Glacier National Park, in the U. S. state of Montana.",
+              " Red Eagle Mountain rises to the west of the lake and Saint Mary Lake is to the north.",
+              " Red Eagle Lake is accessible from the Triple Divide Trail and is a 7.6 mi hike from St. Mary, Montana."
+            ]
+          },
+          {
+            "title": "Garden Wall",
+            "sentences": [
+              "The Garden Wall is a steep alpine area within Glacier National Park well known during the summer months to be heavily covered in dozens of species of flowering plants and shrubs.",
+              " Located along the west side of the Continental divide and extending northward from Logan Pass, the Garden Wall can be traversed via the popular Highline Trail and for a distance of over 5 mi to the Granite Park Chalet.",
+              " The Going-to-the-Sun Road also passes through portions of the Garden Wall northwest of Logan Pass.",
+              " The Weeping Wall is a short stretch of the Going-to-the-Sun Road where water cascades over the Garden Wall to the roadway below.",
+              " The Garden Wall is an arête or rock spine that separates the Many Glacier region of the park from Lake McDonald valley."
+            ]
+          },
+          {
+            "title": "Mahtotopa Mountain",
+            "sentences": [
+              "Mahtotopa Mountain (8677 ft ) is located in the Lewis Range, Glacier National Park in the U.S. state of Montana.",
+              " Mahtotopa Mountain rises to the south above Saint Mary Lake midway between Red Eagle Mountain and Little Chief Mountain and can be easily seen from the Going-to-the-Sun Road to the southwest of Rising Sun.",
+              " Originally named \"Four Bears Mountain\" by George Bird Grinnell in 1885, the name was changed in 1932 to Mahtotopa.",
+              " \"Mahtotopa\" is an incorrect spelling of \"Mato-tope\", the Mandan chief known as \"Four Bears\".",
+              " Mato-tope was a grandfather of Joe Kipp, a hunting companion of Grinnell."
+            ]
+          },
+          {
+            "title": "Mount Jackson (Montana)",
+            "sentences": [
+              "Mount Jackson (10052 ft ) is located in the Lewis Range, Glacier National Park in the U.S. state of Montana.",
+              " Mount Jackson is the fourth tallest mountain in Glacier National Park and it is situated on the Continental Divide.",
+              " Both the mountain and its namesake Jackson Glacier are easily seen from the Going-to-the-Sun Road.",
+              " On the southern flanks of Mount Jackson is Harrison Glacier, the largest remaining glacier in the park."
+            ]
+          },
+          {
+            "title": "Going-to-the-Sun Mountain",
+            "sentences": [
+              "Going-to-the-Sun Mountain (9647 ft ) is located in Glacier National Park and rises dramatically above St. Mary Valley just north of the Going-to-the-Sun Road.",
+              " The mountain was named by James Willard Schultz in 1888."
+            ]
+          },
+          {
+            "title": "Going-to-the-Sun Road",
+            "sentences": [
+              "Going-to-the-Sun Road is a scenic mountain road in the Rocky Mountains of the western United States, in Glacier National Park in Montana.",
+              " The Sun Road, as it is sometimes abbreviated in National Park Service documents, is the only road that traverses the park crossing the Continental Divide through Logan Pass at an elevation of 6,646 feet (2,026 m), which is the highest point on the road.",
+              " Construction began in 1921 and was completed in 1932 with formal dedication in the following summer on July 15, 1933.",
+              " The road is the first to have been registered in all of the following categories: National Historic Place, National Historic Landmark and Historic Civil Engineering Landmark.",
+              " The length of the road is approximately 50 miles (80 km) and spans the width of the park between the east and west entrance stations.",
+              " The National Historic Landmark Nomination records a slightly shorter distance of 48.7 miles which is measured from the first main intersection just outside the park's west entrance to Divide Creek in St. Mary on the east side of the park."
+            ]
+          }
+        ],
+        "gold_titles": [
+          "Red Eagle Mountain",
+          "Going-to-the-Sun Road"
+        ]
+      }
+    ],
+    "signature": {
+      "instructions": "Use the provided evidence sentences to answer the question. Your response must be a short phrase (e.g., a name, date, or specific term), not a full sentence. Do not include any external knowledge or conversational filler.",
+      "fields": [
+        {
+          "prefix": "Question:",
+          "description": "${question}"
+        },
+        {
+          "prefix": "Relevant Text:",
+          "description": "the sentences that were found to be relevant"
+        },
+        {
+          "prefix": "Answer:",
+          "description": "a short phrase, not a sentence"
+        }
+      ]
+    },
+    "lm": {
+      "_dspy_lm_class": "dspy.clients.lm.LM",
+      "model": "openrouter/openai/gpt-6-luna",
+      "model_type": "chat",
+      "cache": false,
+      "num_retries": 20,
+      "temperature": 0.0,
+      "max_tokens": 1000,
+      "extra_body": {
+        "provider": {
+          "only": [
+            "openai"
+          ],
+          "allow_fallbacks": false
+        },
+        "reasoning": {
+          "enabled": false
+        }
+      },
+      "finetuning_model": null,
+      "launch_kwargs": {},
+      "train_kwargs": {}
+    }
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.13",
+      "dspy": "3.3.1",
+      "cloudpickle": "3.1"
+    }
+  }
+}

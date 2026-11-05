@@ -1,0 +1,263 @@
+{
+  "programm.find_evidence": {
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Mark Selby played guitar for the American country music singer who was part of what battle?",
+        "paragraphs": "There's Your Trouble: \"There's Your Trouble\" is a song written by Mark Selby and Tia Sillers, and recorded by American country music band Dixie Chicks. It was released in April 1998 as the second single from the band's album \"Wide Open Spaces\".\n\nKeni Thomas: Keni Thomas is an American country music singer and former United States Army Ranger. Thomas was a member of Task Force Ranger as a part of Operation Restore Hope in Somalia, and served in the Battle of Mogadishu. Thomas works as a motivational speaker drawing from this experience as a US Ranger.\n\nThe Buffalo Club: The Buffalo Club was an American country music group composed of Ron Hemby (lead vocals, guitar), John Dittrich (vocals, drums), and Charlie Kelley (vocals, guitar). Before the group's foundation, Hemby was a vocalist in the Christian group The Imperials, Kelley played guitar for Doug Stone, and Dittrich was the drummer in the country pop band Restless Heart from 1984 until the mid-1990s. The Buffalo Club released a self-titled album on the Rising Tide Records label in 1997 and charted three singles on the \"Billboard\" country chart that year, including the top-10 \"If She Don't Love You\". Dittrich disbanded the group at the end of the year and rejoined Restless Heart soon afterward.\n\nWilliams Riley: Williams Riley was an American country music band composed of Steve Williams (lead vocals), Derek George (guitar, background vocals), Charlie Hutto (guitar, background vocals), Joe Rogers (steel guitar, fiddle, harmonica), Dave Guidry (bass guitar), Travis Thibodaux (keyboards, background vocals) and Nick Buda (drums). Derek George had formerly played guitar for Bryan White, and before that, he was a member of the band Pearl River. Williams Riley self-released its debut album in 2009 and has charted on the U.S. country charts with \"Country Livin'.\" This album includes collaborations with White, as well as Slash and Edwin McCain. The band's self-titled debut album received a favorable review from Matt Bjorke of Roughstock, who called it a \"well-crafted album of contemporary country music.\"\n\nMark Selby (musician): Mark Otis Selby (1960/1961 – September 18, 2017) was an American blues rock singer-songwriter, guitarist, multi-instrumentalist, and record producer. Born in Enid, Oklahoma, he was a solo artist, signed to ZYX Records in Europe, and one half of performing duo with his wife, songwriter Tia Sillers. He also plays guitar in recording sessions for musical artists such as Kenny Rogers, Johnny Reid, Keni Thomas, Jimmy Hall, and Wynonna Judd.\n\nA Lesson in Leavin': \"A Lesson in Leavin'\", also titled as \"Lesson in Leavin'\"', is a song written by Randy Goodrum and Brent Maher. It was originally recorded in 1980 by American country music singer, Dottie West, who brought the song to No. 1 on the Billboard Country Chart. In 1999, it was re-recorded by American country music singer, Jo Dee Messina, whose version spent seven weeks at No. 2 on the Billboard Country Chart.\n\nBarbed Wire and Roses: \"Barbed Wire and Roses\" is a debut song recorded by American country music group Pinmonkey. It was released in April 2002 as the first single from the album \"Pinmonkey\". The song reached #24 on the \"Billboard\" Hot Country Single & Tracks chart. The song was written by Tia Sillers, Mark Selby and Sean Locke.\n\nI Cry (Tammy Cochran song): \"I Cry\" is a song written by Tia Sillers and Mark Selby, and recorded by American country music artist Tammy Cochran. It was released in November 2001 as the fourth single from the album \"Tammy Cochran\". The song reached number 18 on the \"Billboard\" Hot Country Singles & Tracks chart.\n\nEddy Arnold: Richard Edward \"Eddy\" Arnold (May 15, 1918 – May 8, 2008) was an American country music singer who performed for six decades. He was a Nashville sound (country/popular music) innovator of the late 1950s, and scored 147 songs on the \"Billboard\" country music charts, second only to George Jones. He sold more than 85 million records. A member of the Grand Ole Opry (beginning 1943) and the Country Music Hall of Fame (beginning 1966), Arnold ranked 22nd on Country Music Television's 2003 list of \"The 40 Greatest Men of Country Music.\"\n\nA Little Less Talk and a Lot More Action: \"A Little Less Talk And A Lot More Action\" is a song written by Keith Hinton and Jimmy Alan Stewart, and recorded by American country music singer Hank Williams, Jr. for his 1992 album \"Maverick\". One year later, the song was recorded by American country music singer Toby Keith and released in November as the third single from his self-titled debut album. Keith's version peaked at number 2 on the Billboard Hot Country Singles & Tracks (now Hot Country Songs) chart and peaked at number 25 on the Canadian \"RPM\" country tracks.",
+        "relevant_titles": [
+          "Mark Selby (musician)",
+          "Keni Thomas"
+        ],
+        "relevant_text": "\"He also plays guitar in recording sessions for musical artists such as Kenny Rogers, Johnny Reid, Keni Thomas, Jimmy Hall, and Wynonna Judd.\"\n\"Thomas was a member of Task Force Ranger as a part of Operation Restore Hope in Somalia, and served in the Battle of Mogadishu.\""
+      },
+      {
+        "augmented": true,
+        "question": "What instrument did one of George Harrison's fellow musician co-workers become well known for championing?",
+        "paragraphs": "Flat Tire: Music for a Non-Existent Movie: Flat Tire: Music for a Non-Existent Movie is the eleventh and final studio album by guitarist Allan Holdsworth, released on 1 December 2001 through Megazoidal Records and reissued on 16 August 2007 through Eidolon Efformation. Besides the first track, the entire album was recorded by Holdsworth himself using the SynthAxe, an instrument for which Holdsworth had become well known since \"Atavachron\" (1986).\n\nGeorge Harrison (album): George Harrison is the eighth studio album by English musician George Harrison, released in February 1979. It was written and recorded through much of 1978, a period of domestic contentment for Harrison, during which he married Olivia Trinidad Arias and became a father for the first time, to son Dhani. Harrison wrote several of the songs in Hawaii, while the track \"Faster\" reflected his year away from music-making, when he and Arias attended many of the races in the 1977 Formula 1 World Championship. The album also includes the hit single \"Blow Away\" and \"Not Guilty\", a song that Harrison originally recorded in 1968 for the Beatles' White Album.\n\nAl Jewer: Al Jewer is a Native American flutist from Wisconsin. He has worked as a record producer and engineer, and as a studio musician, but he has become well known internationally for his work on the Native American flute. His original training was with the concert flute, and he has been performing classical music with that instrument since the early 1980s. In 1984, he established Laughing Cat Studio, and in 1994, Laughing Cat Records to give himself control over the recording, production and distribution of his music. This has given him the chance to work with many other musicians of the Midwestern United States, including Blackhawk, David Storei and Roxanne Neat, Natty Nation, Adrian Belew and Weekend Wages. Laughing Cat Records currently features artists who perform in Ambient, Native American, Reggae, Classical and Folk. Al has released two solo albums: \"River Crossing\" and \"Prairie Plain Song\" as well as \"Two Trees\" and \"Music of the Earth\" (with Andy Mitran). He also previously formed a duo with Christine Ibach called Cedar Wind. Cedar Wind released two albums, \"Feather on the Wind\" and \"Kindred Spirits\". His recent music often features harmonies on the alto and bass flute with melodies on the Native American flute.\n\nGeorge Harrison discography: The discography of English singer-songwriter and ex-Beatle George Harrison consists of twelve studio albums, two live albums, four compilation albums, thirty-five singles, two video albums and four box sets (one of which is with Indian classical musician Ravi Shankar). Harrison's first solo releases – the \"Wonderwall Music\" film soundtrack (1968) and \"Electronic Sound\" (1969) – were almost entirely instrumental works, issued during the last two years of the Beatles' career. Following the band's break-up in April 1970, Harrison continued to produce recordings by his fellow Apple Records acts, notably former bandmate Ringo Starr. He recorded and collaborated with a wide range of artists, including Shankar, Bob Dylan, Eric Clapton and Gary Wright.\n\nGeorge Harrison – The Vinyl Collection: George Harrison – The Vinyl Collection is a compilation box set by English musician George Harrison, released on 24 February 2017. The box set contains sixteen vinyl LPs – comprising Harrison's entire output of studio albums from \"Wonderwall Music\" (1968) to the posthumously released \"Brainwashed\" (2002), together with the double live album \"Live in Japan\" (1992) – and two 12-inch vinyl, picture-disc singles. <ref name=\"Rohrbach/Paste\">Paul Rohrbach, \"George Harrison Solo Vinyl Box Set in the Works\", \"Paste\", 17 January 2017 (retrieved 4 March 2017). </ref>\n\nIf You Believe (George Harrison song): \"If You Believe\" is a song by English musician George Harrison from his 1979 album \"George Harrison\". Harrison began writing the song with Gary Wright on New Year's Day 1978 and finished the lyrics a month later while in Hawaii. The song appears as the final track on \"George Harrison\". Its lyrics are a statement on the power of faith to bring about a desired outcome.\n\nSongs by George Harrison: Songs by George Harrison is a book of song lyrics and commentary by English musician George Harrison, with illustrations by New Zealand artist Keith West. It was published in February 1988, in a limited run of 2500 copies, by Genesis Publications, and included an EP of rare or previously unreleased Harrison recordings. Intended as a luxury item, each copy was hand-bound and boxed, and available only by direct order through Genesis in England. The book contains the lyrics to 60 Harrison compositions, the themes of which West represents visually with watercolour paintings. Starting in 1985, Harrison and West worked on the project for two years, during which Harrison returned to music-making with his album \"Cloud Nine\", after focusing on film production for much of the early 1980s. The book includes a foreword by his \"Cloud Nine\" co-producer, Jeff Lynne, and a written contribution from Elton John.\n\nBilly Kinsley: William Ellis \"Billy\" Kinsley (born 28 November 1946, Anfield, Liverpool) is an English musician with The Merseybeats until 1966 (although he temporarily left the band both to form the Kinsleys) The group disbanded in January 1966 to resurface as a duo called The Merseys. They recorded The McCoys' song \"Sorrow\" (also covered by David Bowie on his 1973 cover album, \"Pin Ups\") with the band before embarking on a solo career, where he recorded \"Bye Bye Baby\". This song is not to be confused with a Four Seasons track of a similar title, but rather a typical Merseybeat tune. Followed by the singles: \"Annabella\", and \"You Make My Day\". Kinsley also undertook session work, which most notably included working for Apple Records (alongside George Harrison on at least one song for Jackie Lomax). He also worked on the popular \"Top of the Pops\" record series, which contained anonymous cover versions of recent and current hit singles. During this time he worked with fellow musician friend, Jimmy Campbell, and formed the band Rockin' Horse. They recorded one album and toured England and Europe as the backing band for Chuck Berry.\n\nLive in Japan (George Harrison album): Live in Japan is a live double album by English musician George Harrison, released in July 1992. Credited to \"George Harrison with Eric Clapton and Band\", it was Harrison's second official live album release, after 1971's Grammy-winning \"The Concert for Bangladesh\". The album was recorded during his and Clapton's joint Japanese tour in December 1991, and it contains a selection of Harrison's hits as a solo artist alongside some of his best-known Beatles songs. Aside from the 2001 reissue of \"All Things Must Pass\", with previously unavailable bonus tracks, \"Live in Japan\" was Harrison's last release before his death in November 2001.\n\nRavi Shankar: Ravi Shankar, KBE (] ; 7 April 192011 December 2012), born Rabindra Shankar Chowdhury, his name often preceded by the title Pandit ('Master'), was a Bengali Indian musician and a composer of Hindustani classical music. He was one of the best-known exponents of the sitar in the second half of the 20th century and influenced many other musicians throughout the world.",
+        "relevant_titles": [
+          "George Harrison discography",
+          "Ravi Shankar"
+        ],
+        "relevant_text": "\"He recorded and collaborated with a wide range of artists, including Shankar, Bob Dylan, Eric Clapton and Gary Wright.\"\n\"He was one of the best-known exponents of the sitar in the second half of the 20th century and influenced many other musicians throughout the world.\""
+      },
+      {
+        "augmented": true,
+        "question": "Where is the community college located where Antwoine Sanders first enrolled?",
+        "paragraphs": "Clovis Community College (California): Clovis Community College is a public community college located in northeastern Fresno, California near Clovis. It is in the State Center Community College District (SCCCD) along with Fresno City College, Reedley College, and Madera Community College Center. It has a satellite campus on Herndon Avenue in Fresno.\n\nAntwoine Sanders: Antwoine Sanders (born September 22, 1977) is a former American football safety. He was drafted by the Baltimore Ravens in the seventh round of the 2003 NFL Draft. He attended Terry Sanford High School in Fayetteville, North Carolina. He first enrolled at Independence Community College before transferring to Arizona Western College and later the University of Utah. Sanders was also a member of the Miami Dolphins.\n\nIndependence Community College: Independence Community College is a community college in Independence, Kansas, United States. It is located between Tulsa, Kansas City, Wichita, Kansas and Joplin, Missouri and was formerly known as Independence Community Junior College.\n\nGateway Community College: Gateway Community College is a public community college located in Connecticut. The college's campus is located in New Haven with an automotive technology facility in [North Haven]. As of February 17, 2010, Gateway had the highest credit enrollment among Connecticut's community colleges, with 7416 students enrolled in for-credit classes. It was formed in 1992 by the merger of South Central Community College in New Haven and the Greater New Haven State Technical College in North Haven.\n\nCoastal Carolina Community College: Coastal Carolina Community College is a community college located in Jacksonville, North Carolina. 3rd Largest City in ENC behind Wilmington, and Greenville. Rated the best Community College in North Carolina for many years. A nice campus located miles away from the Atlantic Ocean as well as the New River. Roughly 8 thousand students are enrolled in this institution. President of Coastal Carolina CC: David Heatherly.\n\nCharles Wright (gridiron football): Charles James Wright (born April 5, 1964) is a former American football defensive back who played two seasons in the National Football League (NFL) with the St. Louis Cardinals, Dallas Cowboys and Tampa Bay Buccaneers. He was drafted by the Cardinals in the tenth round of the 1987 NFL Draft. He first enrolled at Highland Community College before transferring to Fort Scott Community College and lastly the University of Tulsa. Wright attended Carthage Senior High School in Carthage, Missouri. He was also a member of the Ottawa Rough Riders, Edmonton Eskimos, Memphis Pharaohs and San Jose SaberCats. He is the brother of gridiron football player Felix Wright.\n\nSan Diego Miramar College: San Diego Miramar College (known more informally as Miramar) is a public, two-year community college located in San Diego, California. Miramar College is part of the San Diego Community College District along with San Diego City College, San Diego Mesa College and San Diego Continuing Education. Miramar, as well as City and Mesa belong to the California Community College system along with 111 other public community colleges. It is administered by the San Diego Community College District.\n\nNorthwest Mississippi Community College: Northwest Mississippi Community College is a two-year public community college located in Senatobia, Mississippi, United States and has been in existence since 1928. As of August 2008, Northwest's enrollment exceeds 7,100 students. There are approximately 3,000 students on the Senatobia campus—1,100 of which reside in the college's residence halls. Slightly over 3,000 students are enrolled at the DeSoto Center in Southaven, Mississippi, and nearly 1,200 are enrolled at the Lafayette-Yalobusha Center in Oxford, Mississippi.\n\nCape Cod Community College: Cape Cod Community College, known locally as \"The Harvard of the Mid-Cape\", is a two-year community college located in West Barnstable, Massachusetts. Cape Cod Community College was established in 1961, the second institution to open as part of what is now a 15 community college system in Massachusetts. It awards Associate in Arts and Associate in Science degrees and various academic certificates in a wide variety of programs. The college offers access to on-campus bachelor's and master's degree programs in partnership with: Bridgewater State University, Boston University, Lesley University, Salem State University, Suffolk University, UMass Boston, UMass Dartmouth, and Wheelock College.\n\nNorth Country Community College: North Country Community College is a two-year college of the State University of New York located in Upstate New York. Founded in 1967, the main campus is in Saranac Lake, New York, and serves Franklin and Essex Counties; enrollment is approximately 1500 students. It employs 143 permanent and 300 adjunct faculty. North Country is the only public college located within the Adirondack Park. The College, located in New York's North Country Region, has additional locations in Malone and Ticonderoga. In August 2010, North Country Community College was ranked Best Community College in New York and 22nd among the Best Community Colleges in the United States by \"Washington Monthly\". The college has also been ranked one of the Top 50 fastest growing community colleges in the United States in \"Community College Week Magazine\", 101 Best for Vets Colleges in the United States by \"Military Times\" and a Top 15% Military Friendly Colleges in the U.S., by gijobs.com.",
+        "relevant_titles": [
+          "Antwoine Sanders",
+          "Independence Community College"
+        ],
+        "relevant_text": "\"He first enrolled at Independence Community College before transferring to Arizona Western College and later the University of Utah.\" \"Independence Community College is a community college in Independence, Kansas, United States.\""
+      },
+      {
+        "id": "5a8d3f6a5542994ba4e3dc35",
+        "question": "This song, which got heavy rotation on MTV was written by Sebastian Bach, Rachel Bolan and a rock guitarist in what kind of band?",
+        "answer": "heavy metal band",
+        "paragraphs": [
+          {
+            "title": "Wasted Time (Skid Row song)",
+            "sentences": [
+              "\"Wasted Time\" is a song by Skid Row.",
+              " It was their third single released from their second album, \"Slave to the Grind\".",
+              " The song was released in 1991 and written by bandmates Sebastian Bach, Rachel Bolan and Dave \"the Snake\" Sabo.",
+              " It was also the band's last real hit on the U.S. charts and also features a music video.",
+              " Lead singer Sebastian Bach said the song was written about Steven Adler, the original drummer of hard rock band Guns N' Roses ."
+            ]
+          },
+          {
+            "title": "Into Another",
+            "sentences": [
+              "\"Into Another\" is a song by Skid Row.",
+              " It was a single from their third album, \"Subhuman Race\".",
+              " The song was released in 1995 and written by bandmates Rachel Bolan and Dave \"the Snake\" Sabo.",
+              " This is the last single Skid Row released with Sebastian Bach."
+            ]
+          },
+          {
+            "title": "Skid Row (American band)",
+            "sentences": [
+              "Skid Row is an American heavy metal band, formed in 1986 in Toms River, New Jersey.",
+              " The group was commercially successful in the late 1980s and early 1990s, with its first two albums \"Skid Row\" (1989) and \"Slave to the Grind\" (1991) certified multi-platinum, the latter of which reached number one on the \"Billboard\" 200.",
+              " The band's third album \"Subhuman Race\" (1995) was also critically acclaimed, but failed to repeat the success of its predecessors.",
+              " During this period, the band consisted of bassist Rachel Bolan, guitarists Dave Sabo and Scotti Hill, drummer Rob Affuso, and frontman Sebastian Bach.",
+              " The band had sold 20 million albums worldwide by the end of 1996."
+            ]
+          },
+          {
+            "title": "In a Darkened Room",
+            "sentences": [
+              "\"In a Darkened Room\" is a song by Skid Row.",
+              " It was a single from their second album, \"Slave to the Grind\".",
+              " The song was released in 1991 and written by bandmates Sebastian Bach, Rachel Bolan and Dave \"the Snake\" Sabo.",
+              " The song only charted in Switzerland at number 27"
+            ]
+          },
+          {
+            "title": "Slave to the Grind (song)",
+            "sentences": [
+              "\"Slave to the Grind\" is a song by Skid Row.",
+              " It was the second single and the title track from their second album, \"Slave to the Grind\".",
+              " The song was released in 1991 and written by bandmates Sebastian Bach, Rachel Bolan and Dave \"The Snake\" Sabo.",
+              " It reached #43 on the UK Singles Chart.",
+              " The video also got heavy rotation on MTV but was not as successful as previous singles and did not chart in the US."
+            ]
+          },
+          {
+            "title": "Dave Sabo",
+            "sentences": [
+              "David Michael Sabo, nicknamed \"The Snake,\" is a rock guitarist who plays in the heavy metal band Skid Row.",
+              " He is co-guitarist with Scotti Hill."
+            ]
+          },
+          {
+            "title": "Monkey Business (Skid Row song)",
+            "sentences": [
+              "\"Monkey Business\" is a song by Skid Row.",
+              " It was the first single from their second album, \"Slave to the Grind\" and marked their change from hard-hitting glam metal to overall heavy metal.",
+              " The song is one of their best known songs.",
+              " The single was released in 1991 and was written by bandmates Rachel Bolan and Dave \"the Snake\" Sabo.",
+              " The song was the biggest hit on Slave to the Grind and although the song didn't make the top 40 it reached #13 on the Mainstream Rock Tracks and still gets heavy airplay on rock radio stations.",
+              " The video got heavy rotation on MTV and catapulted the album to double-platinum status.",
+              " Along with \"Youth Gone Wild\" from their first album, it is considered their signature song."
+            ]
+          },
+          {
+            "title": "Love on a Mountain Top",
+            "sentences": [
+              "\"Love On a Mountain Top\" is a 1968 song by singer Robert Knight.",
+              " The song was written by Buzz Cason and Mac Gayden, like its predecessor, his 1967/1968 smash hit Everlasting Love.",
+              " It however only charted regionally in the Philadelphia and Pittsburgh area.",
+              " Re-discovered by the UK's Northern soul scene it got heavy rotation by deejays in late 1973, causing a UK re-release of the record, which eventually entered the UK Singles Charts and peaked at #10 in January, 1974."
+            ]
+          },
+          {
+            "title": "Trouble Walkin'",
+            "sentences": [
+              "Trouble Walkin' is the fourth full-length solo album released by Ace Frehley.",
+              " No longer under the band name Frehley's Comet the album features guest performances by former Kiss drummer Peter Criss, as well as Skid Row members Sebastian Bach, Rachel Bolan and Dave Sabo."
+            ]
+          },
+          {
+            "title": "Wolf Hoffmann",
+            "sentences": [
+              "Wolf Hoffmann (born 10 December 1959) is a German guitarist, primarily known as guitarist in the German heavy metal band Accept since 1976.",
+              " In 1997, he released the album \"Classical\" with rock versions of classical pieces.",
+              " He contributed to Skid Row vocalist Sebastian Bach's solo album \"Bring 'Em Bach Alive!",
+              "\" and to a 2000 Japanese tribute to Randy Rhoads album called \"Randy Rhoads Tribute\" with Sebastian Bach on \"I Don't Know\" and with Joe Lynn Turner on \"Diary of a Madman\".",
+              " Hoffmann also contributed to \"Peace Breaker\" by Skew Siskin."
+            ]
+          }
+        ],
+        "gold_titles": [
+          "Slave to the Grind (song)",
+          "Dave Sabo"
+        ]
+      }
+    ],
+    "signature": {
+      "instructions": "You are an expert research assistant specializing in multi-hop question answering. Your task is to analyze a set of ten Wikipedia paragraphs to identify the specific evidence required to answer a complex question. \n\n1. Identify the titles of the paragraphs that contain the necessary information to link entities and answer the query.\n2. Extract the exact sentences from those paragraphs that provide this critical information.\n\nOutput the titles as a list and the relevant sentences verbatim, ensuring you filter out distractors and noise.",
+      "fields": [
+        {
+          "prefix": "Question:",
+          "description": "${question}"
+        },
+        {
+          "prefix": "Paragraphs:",
+          "description": "ten paragraphs, only a few of them are relevant"
+        },
+        {
+          "prefix": "Relevant Titles:",
+          "description": "titles of the paragraphs that are needed to answer the question"
+        },
+        {
+          "prefix": "Relevant Text:",
+          "description": "the sentences from those paragraphs that are needed, quoted verbatim"
+        }
+      ]
+    },
+    "lm": {
+      "_dspy_lm_class": "dspy.clients.lm.LM",
+      "model": "openrouter/openai/gpt-6-luna",
+      "model_type": "chat",
+      "cache": false,
+      "num_retries": 20,
+      "temperature": 0.0,
+      "max_tokens": 1000,
+      "extra_body": {
+        "provider": {
+          "only": [
+            "openai"
+          ],
+          "allow_fallbacks": false
+        },
+        "reasoning": {
+          "enabled": false
+        }
+      },
+      "finetuning_model": null,
+      "launch_kwargs": {},
+      "train_kwargs": {}
+    }
+  },
+  "programm.answer_question": {
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Both Should Have Known Better and Carrie & Lowell have which instrumentalist playing on them?",
+        "relevant_text": "\"Should Have Known Better\" is a song by American singer-songwriter and multi-instrumentalist Sufjan Stevens. It is the second track and second single from his seventh studio album, \"Carrie & Lowell\", and was released digitally on March 11, 2015 on Asthmatic Kitty. Carrie & Lowell is the seventh studio album by American musician Sufjan Stevens, released through Asthmatic Kitty on March 31, 2015.",
+        "answer": "Sufjan Stevens"
+      },
+      {
+        "augmented": true,
+        "question": "Who specializes in horror movies, Rob Schneider or Christophe Gans?",
+        "relevant_text": "\"Christophe Gans (born 11 March 1960) is a French film director, producer and screenwriter, who specializes in horror and fantasy movies.\"",
+        "answer": "Christophe Gans"
+      },
+      {
+        "augmented": true,
+        "question": "Who composed \"Sunflower Slow Drag\" with the King of Ragtime?",
+        "relevant_text": "\"Sunflower Slow Drag\" is a ragtime composition by Scott Joplin and Scott Hayden. It is about four minutes long and has been described as \"full of gaiety and sunshine\". As a result Joplin was called the \"King of Ragtime\".",
+        "answer": "Scott Hayden"
+      },
+      {
+        "augmented": true,
+        "question": "What conference was the winner of the  The 2007 Big 12 Conference Baseball Tournament in before 1996?",
+        "relevant_text": "\"Texas A&M won the tournament and earned the Big 12 Conference's automatic bid to the 2007 NCAA Division I Baseball Tournament.\"\n\"Texas A&M was a charter member of the Southwest Conference until its dissolution and subsequent formation of the Big 12 Conference in 1996.\"",
+        "answer": "Southwest Conference"
+      }
+    ],
+    "signature": {
+      "instructions": "Using only the provided text snippets, identify the answer to the question. Your response must be a concise short phrase or name, avoiding full sentences or extra commentary.",
+      "fields": [
+        {
+          "prefix": "Question:",
+          "description": "${question}"
+        },
+        {
+          "prefix": "Relevant Text:",
+          "description": "the sentences that were found to be relevant"
+        },
+        {
+          "prefix": "Answer:",
+          "description": "a short phrase, not a sentence"
+        }
+      ]
+    },
+    "lm": {
+      "_dspy_lm_class": "dspy.clients.lm.LM",
+      "model": "openrouter/openai/gpt-6-luna",
+      "model_type": "chat",
+      "cache": false,
+      "num_retries": 20,
+      "temperature": 0.0,
+      "max_tokens": 1000,
+      "extra_body": {
+        "provider": {
+          "only": [
+            "openai"
+          ],
+          "allow_fallbacks": false
+        },
+        "reasoning": {
+          "enabled": false
+        }
+      },
+      "finetuning_model": null,
+      "launch_kwargs": {},
+      "train_kwargs": {}
+    }
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.13",
+      "dspy": "3.3.1",
+      "cloudpickle": "3.1"
+    }
+  }
+}

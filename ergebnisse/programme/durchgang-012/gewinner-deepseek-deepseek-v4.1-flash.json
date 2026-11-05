@@ -1,0 +1,636 @@
+{
+  "programm.find_evidence": {
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "id": "5ae68faf55429908198fa618",
+        "question": "Who plays the role of a driver for hire in the film which included the Kanye West single, \"Muzik\" from the extended play L.A. Confidential presents: Knoc-turn'al? ",
+        "answer": "Jason Statham",
+        "paragraphs": [
+          {
+            "title": "L.A. Confidential (soundtrack)",
+            "sentences": [
+              "L.A. Confidential is either the original soundtrack, on the Restless Records label featuring mainly songs and source music, or the original film score, on Varèse Sarabande Records, of the 1997 Academy Award- and Golden Globe Award-winning film \"L.A. Confidential\" starring Kevin Spacey, Russell Crowe, Guy Pearce, James Cromwell, Danny DeVito, and Kim Basinger (who won the Academy Award for Best Supporting Actress for this film).",
+              " The original score was composed by Jerry Goldsmith."
+            ]
+          },
+          {
+            "title": "Jeannine Oppewall",
+            "sentences": [
+              "Jeannine Claudia Oppewall (born November 28, 1946) is an American film art director.",
+              " She has worked on more than 30 movies in such roles as production designer, set decorator and set designer, and has four Academy Award nominations for Best Art Direction for \"L.A. Confidential\", \"Pleasantville\", \"Seabiscuit\" and \"The Good Shepherd\".",
+              " Many of her film sets represented different time periods within the 20th century, including the 1930s (\"Seabiscuit)\", the 1950s (\"L.A. Confidential\" and \"Pleasantville)\", and from the 1960s (\"The Big Easy\", \"The Bridges of Madison County\" and \"Catch Me If You Can).\""
+            ]
+          },
+          {
+            "title": "Dark Sky Paradise",
+            "sentences": [
+              "Dark Sky Paradise is the third studio album by American rapper Big Sean.",
+              " It was released on February 24, 2015, by GOOD Music and Def Jam Recordings.",
+              " The album features guest appearances from Kanye West, Drake, Ariana Grande, Chris Brown, Ty Dolla Sign, Jhené Aiko, PartyNextDoor, Lil Wayne, John Legend and E-40, while the production was handled by a variety of collaborators, including Key Wane, DJ Mustard, DJ Dahi and Kanye West, who also serves as the album's executive producer alongside Big Sean himself.",
+              " The album was supported by five singles: \"I Don't Fuck with You\" featuring E-40, \"Paradise\", \"Blessings\" featuring Drake, \"One Man Can Change the World\" featuring Kanye West and John Legend, and \"Play No Games\" featuring Chris Brown and Ty Dolla Sign."
+            ]
+          },
+          {
+            "title": "54th Annual Grammy Awards",
+            "sentences": [
+              "The 54th Annual Grammy Awards were held on February 12, 2012, at the Staples Center in Los Angeles being broadcast on CBS.",
+              " LL Cool J hosted the show.",
+              " It was the first time in seven years that the event had an official host.",
+              " Nominations were announced on November 30, 2011 on prime-time television as part of \"The GRAMMY Nominations Concert Live!",
+              " – Countdown to Music's Biggest Night\", a one-hour special broadcast live on CBS from Nokia Theatre at L.A. Live.",
+              " Kanye West received the most nominations with seven.",
+              " Adele, Foo Fighters, and Bruno Mars each received six nominations.",
+              " Lil Wayne, Skrillex, and Radiohead all earned five nominations.",
+              " The nominations were criticised by many music journalists as Kanye West's \"My Beautiful Dark Twisted Fantasy\" missed out on a nomination for Album of the Year despite being highly critically acclaimed and topping many end of year charts.",
+              " West's album went on to win Best Rap Album."
+            ]
+          },
+          {
+            "title": "L.A. Confidential (film)",
+            "sentences": [
+              "L.A. Confidential is a 1997 American neo-noir crime film directed, produced and co-written by Curtis Hanson.",
+              " The screenplay by Hanson and Brian Helgeland is loosely based on James Ellroy's 1990 novel of the same name, the third book in his L.A. Quartet series.",
+              " Like the book, the film tells the story of a group of LAPD officers in 1953, and the intersection of police corruption and Hollywood celebrity.",
+              " The title refers to the 1950s scandal magazine \"Confidential\", portrayed in the film as \"Hush-Hush\"."
+            ]
+          },
+          {
+            "title": "L.A. Confidential presents: Knoc-turn'al",
+            "sentences": [
+              "L.A. Confidential presents: Knoc-turn'al is an extended play by rapper Knoc-turn'al.",
+              " The EP was originally released to promote Knoc's unreleased debut album, \"Knoc's Landin<nowiki>'</nowiki>\" (2002), which was shelved due to undisclosed reasons.",
+              " Two singles released from the extended play included the Grammy Award–nominated \"The Knoc,\" and the Kanye West–produced \"Muzik\", which appeared on the Jason Statham film, \"The Transporter\"."
+            ]
+          },
+          {
+            "title": "Slow Jamz",
+            "sentences": [
+              "\"Slow Jamz\" is a single by American rapper Twista featuring Kanye West and Jamie Foxx.",
+              " It was released in late 2003 as the lead single from his album \"Kamikaze\" and the second single from Kanye West's debut album \"The College Dropout\".",
+              " The Kanye West version includes an intro and two extra verses by Jamie Foxx, and excludes the original outro by Twista."
+            ]
+          },
+          {
+            "title": "Bad Intentions (song)",
+            "sentences": [
+              "\"Bad Intentions\" is a single by American rapper Dr. Dre, featuring vocals from fellow rapper Knoc-turn'al, recorded for and taken from the soundtrack to the film \"The Wash\".",
+              " The song was produced by Mahogany Music and co-produced by Dre himself.",
+              " It contains a sample from \"Hollywood Hot\" by Eleventh Hour.",
+              " The single was released on January 7, 2002.",
+              " The song debuted on the UK Singles Chart at number four, staying in the charts for sixteen weeks.",
+              " The music video for \"Bad Intentions\" depicts Dr. Dre and Knoc-turn'al filming a fictional music video at a burlesque house named \"Bad Intentions\".",
+              " Rapper Jay-Z also used the beat as a diss towards fellow rapper Nas during their feud."
+            ]
+          },
+          {
+            "title": "The Transporter",
+            "sentences": [
+              "The Transporter (French: Le Transporteur) is a 2002 English-language French action thriller film directed by Corey Yuen and Louis Leterrier (who is credited as artistic director on the project), and written by Luc Besson, who was inspired by BMW Films' \"The Hire\" series.",
+              " The film stars Jason Statham as Frank Martin, a driver for hire – a mercenary \"transporter\" who will deliver anything, anywhere – no questions asked – for the right price.",
+              " It also stars Shu Qi as Lai Kwai."
+            ]
+          },
+          {
+            "title": "Yelawolf",
+            "sentences": [
+              "Michael Wayne Atha (born December 30, 1979), better known as Yelawolf, is an American rapper from Gadsden, Alabama.",
+              " In his early years, Yelawolf released his first independent album \"Creek Water\", which was released in 2005.",
+              " During 2005 to 2010, he's been putting the releases of one extended play and four mixtapes.",
+              " One extended play (EP), titled \"Trunk Muzik\", amassed a strong attention that would follow the rapper's signing a record deal to Interscope Records, which re-released the mixtape as \"Trunk Muzik 0-60\" later that year."
+            ]
+          }
+        ],
+        "gold_titles": [
+          "L.A. Confidential presents: Knoc-turn'al",
+          "The Transporter"
+        ]
+      },
+      {
+        "id": "5abcfd215542993a06baf9dc",
+        "question": "The mother of Rebecca Miller joined which agency in 1953?",
+        "answer": "Magnum Photos Agency",
+        "paragraphs": [
+          {
+            "title": "Surf Punks",
+            "sentences": [
+              "The Surf Punks were a pop punk band formed in 1976 by Malibu residents Dennis Dragon (son of the Symphony conductor Carmen Dragon, brother of Captain & Tennille's Daryl Dragon and ex-drummer for The Byrds and The Beach Boys in the early seventies), and Drew Steele.",
+              " Dennis recruited the additional talents of Malibu residents Tony Creed AKA \"Hulk\", for lead guitar and blues harp, fellow bodysurfer/frisbeeist John Hunt on bass, and South Bay resident John Heussenstamm for lead guitar.",
+              " This was the original core group, produced and engineered by Dennis in his garage studio across the street from Zuma Beach, his favorite body surfing spot.",
+              " Mark Miller joined them on \"Locals Only.\"",
+              " Jeff Eyrich - AKA \"Ray Ban\" - joined the Surf Punks on bass when John Hunt left the group."
+            ]
+          },
+          {
+            "title": "Rebecca Miller (singer)",
+            "sentences": [
+              "Rebecca Miller is a Canadian country music artist.",
+              " Her 1995 single \"Listen to the Radio\" reached the Top 20 of the \"RPM\" Country Tracks chart.",
+              " An album was planned for release, but shelved when her record label closed.",
+              " In 2009, she was signed to Crystal Shawanda's label, New Sun Records."
+            ]
+          },
+          {
+            "title": "Inge Morath",
+            "sentences": [
+              "Ingeborg Hermine \"Inge\" Morath (   ; May 27, 1923 – January 30, 2002) was an Austrian-born American photographer.",
+              " In 1953, she joined the Magnum Photos Agency, founded by top photographers in Paris, and became a full photographer with the agency in 1955.",
+              " Morath was also the third and last wife of playwright Arthur Miller; their daughter is screenwriter/director Rebecca Miller."
+            ]
+          },
+          {
+            "title": "Early life of Keith Miller",
+            "sentences": [
+              "This article chronicles the life of Keith Miller, an Australian Test cricketer and Australian rules footballer, from his birth on 28 November 1919 until 20 August 1940, when he left civilian life and joined the Militia (army reserve) during World War II.",
+              " Born in the town of Sunshine on the outskirts of Melbourne, Miller made sport the focal point of his early life.",
+              " The youngest of four children of Scottish descent, Miller joined his siblings in being inculcated with a love of sport by their father, playing football in winter and cricket in summer.",
+              " Miller's father—an engineer and sportslover—emphasised the importance of technique over power; Miller benefited as he was of small stature during his childhood and could not rely on brute strength.",
+              " Miller yearned to be a horse racing jockey, as he felt that he would not have the physique to succeed in cricket or football."
+            ]
+          },
+          {
+            "title": "Brant Miller",
+            "sentences": [
+              "Brant Miller (born February 8, 1950) is the chief meteorologist for NBC owned and operated television station WMAQ-TV in Chicago.",
+              " At WMAQ-TV he is the meteorologist on NBC 5 News at 5 p.m., 6 p.m. and 10 p.m. Miller joined NBC5 News in 1991."
+            ]
+          },
+          {
+            "title": "Maggie's Plan",
+            "sentences": [
+              "Maggie's Plan is a 2015 American romantic comedy-drama film directed and written by Rebecca Miller, based on the original story by Karen Rinaldi.",
+              " The film stars Greta Gerwig, Ethan Hawke, Bill Hader, Maya Rudolph, Travis Fimmel, Wallace Shawn, Ida Rohatyn, Monte Greene, and Julianne Moore."
+            ]
+          },
+          {
+            "title": "Rebecca Miller",
+            "sentences": [
+              "Rebecca Augusta Miller, Lady Day-Lewis (born September 15, 1962) is an American independent filmmaker, screenwriter, film director, and novelist, known for her films \"Angela\", \"\", \"The Ballad of Jack and Rose\", \"The Private Lives of Pippa Lee\", and \"Maggie's Plan\", all of which she wrote and directed.",
+              " Miller is the daughter of Magnum photographer Inge Morath and Pulitzer Prize-winning playwright Arthur Miller."
+            ]
+          },
+          {
+            "title": "Charlie Miller",
+            "sentences": [
+              "Charlie Miller (born 18 March 1976) is a retired Scottish football player.",
+              " Miller started his career at Rangers, and won five consecutive Scottish league championships and two Scottish Cup titles.",
+              " Miller was voted the SPFA Young Player of the Year in 1995 during his time with the club.",
+              " After spells with English Premier League clubs Leicester City and Watford, Miller joined Dundee United in 2000 where he played for four seasons.",
+              " Miller played for Norwegian club SK Brann from 2004 to 2006 and won the Norwegian Cup with the club in 2004.",
+              " After spells in Belgium and Australia, Miller returned to Scotland in 2011 when he joined Clyde."
+            ]
+          },
+          {
+            "title": "Jim Miller (athletic director)",
+            "sentences": [
+              "Jim Miller was the athletic director at the University of Richmond from 2000 until 2012.",
+              " Prior to moving to Richmond, Miller was the executive associate director of athletics at North Carolina State University.",
+              " Miller joined the NC State athletic program in 1990 as compliance officer and overseeing public relations and marketing.",
+              " In 1999, a restructuring within the NC State athletic department resulted in athletic director Les Robinson taking responsibility for fundraising and promotion, while Miller became responsible for overseeing the day-to-day activities of the athletic department."
+            ]
+          },
+          {
+            "title": "Proof (2005 film)",
+            "sentences": [
+              "Proof is a 2005 American drama film directed by John Madden and starring Gwyneth Paltrow, Anthony Hopkins, Jake Gyllenhaal, and Hope Davis.",
+              " It was written by Rebecca Miller, based on David Auburn's Pulitzer Prize-winning play \"Proof\"."
+            ]
+          }
+        ],
+        "gold_titles": [
+          "Rebecca Miller",
+          "Inge Morath"
+        ]
+      },
+      {
+        "id": "5a79bf905542994bb9457058",
+        "question": "Rectrix Aviation's jet charter business involves what service?",
+        "answer": "renting an entire aircraft",
+        "paragraphs": [
+          {
+            "title": "Falcon Aviation Services",
+            "sentences": [
+              "Falcon Aviation Services is a certified charter aviation company based in Abu Dhabi, United Arab Emirates.",
+              " It is a corporate jet and helicopter service provider focused on the Middle East and North Africa.",
+              " Falcon’s main operating base is at Al Bateen Executive Airport near Abu Dhabi, dedicated for VIP private charters and oil and gas support.",
+              " Major scope of work is to support the Abu Dhabi oil and gas governmental sectors.",
+              " Falcon offers a variety of services, including worldwide private jet charter and private helicopter charter, wet leasing, aircraft management, aircraft maintenance (MRO), oil & gas aviation support, continuing airworthiness management (CAMO), FBO, aircraft cleaning and aircraft leasing."
+            ]
+          },
+          {
+            "title": "Titan Aviation India",
+            "sentences": [
+              "Titan Aviation is an Aviation Service company specializing in Aircraft Charter, Helicopter Charter, Jet Charter, Aircraft Sales and Leasing, Aircraft Purchase Consultancy, Aircraft Operations Management and Aviation HR Services."
+            ]
+          },
+          {
+            "title": "Aviation Beauport Ltd",
+            "sentences": [
+              "Aviation Beauport Limited is a Jersey-based aviation company offering private aircraft charter, aircraft management, hangarage and handling services.",
+              " The company is the only executive jet charter company in the Channel Islands to hold an Air Operators Certificate (AOC), and is the only fixed-base operator (FBO) in Jersey."
+            ]
+          },
+          {
+            "title": "Rectrix Aviation",
+            "sentences": [
+              "Rectrix Aviation is a jet charter and commuter airline service that primarily serves New England, Florida and the east coast.",
+              " Its commercial operations are based out of Nantucket Memorial Airport and Barnstable Municipal Airport in Nantucket, MA and Hyannis, MA, respectively.",
+              " The only commercial flight it operates is between Nantucket and Hyannis.",
+              " Rectrix Shuttle, the commuter service, was founded when Island Airlines of Nantucket shut down."
+            ]
+          },
+          {
+            "title": "InterJet",
+            "sentences": [
+              "InterJet was a private jet charter operator in the Greek business aviation market.",
+              " InterJet was based in Athens and served the business community by chartering luxury private jets and helicopters for business needs and leisure breaks."
+            ]
+          },
+          {
+            "title": "Clay Lacy",
+            "sentences": [
+              "Clay Lacy (born August 14, 1932) is the founder and chief executive officer of Clay Lacy Aviation, established in 1968 as the first executive jet charter company in the Western United States.",
+              " His professional resume' includes airline captain, military aviator, experimental test pilot, air race champion, world record-setter, aerial cinematographer and business aviation entrepreneur.",
+              " Lacy has flown more than 300 aircraft types, logged more than 50,000 flight hours and accumulated more hours flying turbine aircraft than any other pilot in the world."
+            ]
+          },
+          {
+            "title": "Evojets",
+            "sentences": [
+              "evoJets is a private aviation company specializing in private jet charter and aircraft sales & acquisitions.",
+              " Founded in Aspen, CO in 2006, the company is now headquartered in New York City.",
+              " evoJets primarily offers on-demand jet charter services across USA and other international destinations.",
+              " It is a registered member of the Better Business Bureau in New York and Colorado, but provides charter services in the US and internationally."
+            ]
+          },
+          {
+            "title": "Air Partner",
+            "sentences": [
+              "Air Partner Plc is a global aviation services group.",
+              " The Group is structured into four reporting divisions: Commercial Jet air charter, Private Jet Charter, air freight and Baines Simmons.",
+              " The Commercial Jet division charters large airliners to move groups of any size.",
+              " They also provide remarketing programmes for all types of commercial and corporate aircraft.",
+              " Air Partner is headquartered alongside Gatwick airport in the United Kingdom.",
+              " Air Partner operates 24/7 year-round and has 20 offices across Europe, North America, the Middle East and Asia.",
+              " The company is publicly listed on the London Stock Exchange as LSE: [ AIR] , and is also ISO 9001:2008 compliant for commercial airline and private jet solutions worldwide."
+            ]
+          },
+          {
+            "title": "Air charter",
+            "sentences": [
+              "Air charter is the business of renting an entire aircraft (i.e., chartering) as opposed to individual aircraft seats (i.e., purchasing a ticket through a traditional airline).",
+              " While the airlines specialize in selling transportation by the seat, air charter companies focus on individual private aircraft and itineraries, urgent or time-sensitive cargo, air ambulance service, and other forms of \"ad hoc\" air transportation.",
+              " Some air charters brokers have been given economic authority to sell seats on private jets with mixed success.",
+              " Some air charter companies offer a large variety of aircraft, such as helicopters and business jets.",
+              " Charter jet categories include turbo props, light jets, mid-size jets, super mid-size jets, heavy jets, long-range jets and VIP airliners."
+            ]
+          },
+          {
+            "title": "NetJets",
+            "sentences": [
+              "NetJets Inc., a subsidiary of Berkshire Hathaway, is an American company that sells part ownership or shares (called fractional ownership) of private business jets. NetJets was founded in 1964 as Executive Jet Aviation.",
+              " It was the first private business jet charter and aircraft management company in the world."
+            ]
+          }
+        ],
+        "gold_titles": [
+          "Rectrix Aviation",
+          "Air charter"
+        ]
+      },
+      {
+        "id": "5a85e4d05542994c784ddbb0",
+        "question": "Ronnie Dunn and Jenna Sanz-Agero were both formerly part of bands in which they each acted in what role?",
+        "answer": "singer",
+        "paragraphs": [
+          {
+            "title": "Mama Don't Get Dressed Up for Nothing",
+            "sentences": [
+              "\"Mama Don't Get Dressed Up For Nothing\" is a song co-written and recorded by American country music duo Brooks & Dunn.",
+              " It was released in September 1996 as the third single from their CD \"Borderline\", and their eighteenth single overall.",
+              " The song received moderate success on the US Country chart, where it peaked at number 13, while it was a number 8 hit in Canada.",
+              " It was the first single the duo released that missed the US country top 10, breaking a streak of 17 straight top 10 entries; the next eight singles Brooks and Dunn released after this would also make the country top 10.",
+              " This is the fourth single to feature Kix Brooks on lead vocals instead of Ronnie Dunn.",
+              " Kix and Ronnie wrote this song, along with Don Cook."
+            ]
+          },
+          {
+            "title": "Ronnie Dunn",
+            "sentences": [
+              "Ronnie Gene Dunn (born June 1, 1953) is an American country music singer-songwriter and record executive.",
+              " In 2011, Dunn began working as a solo artist following the breakup of Brooks & Dunn.",
+              " He released his self-titled debut album for Arista Nashville on June 7, 2011, reaching the Top 10 with its lead-off single \"Bleed Red\".",
+              " In 2013, after leaving Arista Nashville in 2012, Dunn founded Little Will-E Records.",
+              " On April 8, 2014, Ronnie Dunn released his second solo album, \"Peace, Love, and Country Music\" through his own Little Will-E Records."
+            ]
+          },
+          {
+            "title": "Kix Brooks",
+            "sentences": [
+              "Leon Eric \"Kix\" Brooks III (born May 12, 1955) is an American country music artist, actor, and film producer best known for being one half of the duo Brooks & Dunn and host of radio's \"American Country Countdown\".",
+              " Prior to the duo's foundation, he was a singer and songwriter, charting twice on Hot Country Songs and releasing an album for Capitol Records.",
+              " Brooks and Ronnie Dunn comprised Brooks & Dunn for 20 years, with both members beginning solo careers.",
+              " Brooks's solo career after Brooks & Dunn has included the album \"New to This Town\"."
+            ]
+          },
+          {
+            "title": "If You See Him/If You See Her",
+            "sentences": [
+              "\"If You See Him/If You See Her\" is a song written by Terry McBride, Jennifer Kimball and Tommy Lee James, and recorded by American country music artist Reba McEntire, along with the duo Brooks & Dunn.",
+              " It served as the title track to each artist's respective 1998 albums (\"If You See Him\" for Reba, and \"If You See Her\" for Brooks & Dunn), both released on June 2 of that year.",
+              " The song was concurrently promoted and distributed by both artists' labels: MCA Nashville and Arista Nashville, then the respective labels for McEntire and Brooks & Dunn.",
+              " It is the only single to feature both Kix Brooks & Ronnie Dunn on vocals."
+            ]
+          },
+          {
+            "title": "Only in America (Brooks &amp; Dunn song)",
+            "sentences": [
+              "\"Only in America\" is a song recorded by American country music duo Brooks & Dunn.",
+              " It was released in June 2001 as the second single from the album \"Steers & Stripes\".",
+              " Kix Brooks, one-half of the duo, co-wrote the song with Don Cook and Ronnie Rogers, although it features Ronnie Dunn on lead vocals.",
+              " \"Only in America\" was also the second of three consecutive Number One hits from that album, reaching its peak on the \"Billboard\" Hot Country Singles & Tracks (now Hot Country Songs) charts for the week of October 27, 2001."
+            ]
+          },
+          {
+            "title": "Jenna Sanz-Agero",
+            "sentences": [
+              "Jenna Sanz-Agero is the former lead singer of the female rock group Vixen, and a former president of Media 8.",
+              " She lives and works in Los Angeles, California."
+            ]
+          },
+          {
+            "title": "Peace, Love, and Country Music",
+            "sentences": [
+              "Peace, Love, and Country Music is the second solo studio album by country music artist Ronnie Dunn.",
+              " The album was released on April 8, 2014 via Dunn's own record label Little Will-E Records.",
+              " \"Peace, Love, and Country Music\" is Dunn's first solo release since 2011's \"Ronnie Dunn\" released on Arista Nashville."
+            ]
+          },
+          {
+            "title": "Ronnie Dunn (album)",
+            "sentences": [
+              "Ronnie Dunn is the debut solo studio album from country music artist Ronnie Dunn.",
+              " The album was released on June 7, 2011, via Arista Nashville.",
+              " The album is Dunn's first release of music in nearly 25 years; he released three singles in the 1980s without issuing an album."
+            ]
+          },
+          {
+            "title": "Polyrically Uncorrect",
+            "sentences": [
+              "Polyrically Uncorrect is the tenth studio album, and fourteenth album release overall, by American country music parodist Cledus T. Judd.",
+              " It was released on June 30, 2009 via E1 Music.",
+              " It includes the singles \"Waitin' on Obama\", \"Garth Must Be Busy\" and \"(If I Had) Kellie Pickler's Boobs\".",
+              " The album includes guest vocals from Ashton Shepherd, Ronnie Dunn, Jamey Johnson, Terry Eldredge (of The Grascals), Colt Ford and Daryle Singletary.",
+              " Chris Neal of \"Country Weekly\" gave the album three stars out of five, citing the Ronnie Dunn collaboration as a standout track."
+            ]
+          },
+          {
+            "title": "Bleed Red",
+            "sentences": [
+              "\"Bleed Red\" is a song written by Tommy Lee James and Andrew Dorff, and recorded by American country music singer Ronnie Dunn.",
+              " The song is Dunn's first solo release after Brooks & Dunn disbanded in 2010.",
+              " \"Bleed Red\" was released to country radio on January 31, 2011.",
+              " It is intended to be the lead-off single from Dunn's first solo album, \"Ronnie Dunn\".",
+              " He had previously released three singles: \"It's Written All Over Your Face\", \"She Put the Sad in All His Songs\", and \"Jessie\"; with the first two singles charting to number 59 on the U.S. \"Billboard\" Hot Country Singles & Tracks (now Hot Country Songs) chart."
+            ]
+          }
+        ],
+        "gold_titles": [
+          "Ronnie Dunn",
+          "Jenna Sanz-Agero"
+        ]
+      }
+    ],
+    "signature": {
+      "instructions": "You are an expert research assistant specializing in multi-hop knowledge retrieval. Your task is to analyze a specific question and a provided set of ten Wikipedia-style paragraphs to identify the precise evidence required to answer the query. The context contains significant noise; you must filter out irrelevant information and focus only on the \"hops\" necessary to link entities or facts.\n\n**Step 1: Entity and Relation Mapping**\nRead the question carefully to identify the core entities and the relationship or attribute being queried. Scan the titles of the provided paragraphs to find potential candidates. Often, the answer requires linking information from two different sources (e.g., Paragraph A identifies an entity mentioned in the question, and Paragraph B provides the specific fact about that entity).\n\n**Step 2: Evidence Extraction**\nFor each relevant paragraph identified:\n- Locate the exact sentence(s) that contain the critical fact or connection.\n- Extract these sentences **verbatim**. Do not paraphrase, summarize, or alter the text.\n- Ensure the extracted text directly supports the reasoning path to the final answer.\n\n**Step 3: Output Formatting**\nProvide your findings in the following format:\n- `relevant_titles`: A list of strings containing the exact titles of the paragraphs that hold the necessary evidence.\n- `relevant_text`: A single string containing the verbatim sentences extracted from those paragraphs, separated by newlines or clear delimiters.\n\n**Constraints:**\n- Ignore any paragraphs that do not contribute to answering the question.\n- Focus on precision: Only include sentences that are strictly necessary for the logical deduction.\n- If multiple sentences from one paragraph are needed, include all of them.",
+      "fields": [
+        {
+          "prefix": "Question:",
+          "description": "${question}"
+        },
+        {
+          "prefix": "Paragraphs:",
+          "description": "ten paragraphs, only a few of them are relevant"
+        },
+        {
+          "prefix": "Relevant Titles:",
+          "description": "titles of the paragraphs that are needed to answer the question"
+        },
+        {
+          "prefix": "Relevant Text:",
+          "description": "the sentences from those paragraphs that are needed, quoted verbatim"
+        }
+      ]
+    },
+    "lm": {
+      "_dspy_lm_class": "dspy.clients.lm.LM",
+      "model": "openrouter/deepseek/deepseek-v4.1-flash",
+      "model_type": "chat",
+      "cache": false,
+      "num_retries": 10,
+      "temperature": 0.0,
+      "max_tokens": 1000,
+      "extra_body": {
+        "provider": {
+          "only": [
+            "inference-net/fp8"
+          ],
+          "allow_fallbacks": false
+        },
+        "reasoning": {
+          "enabled": false
+        }
+      },
+      "finetuning_model": null,
+      "launch_kwargs": {},
+      "train_kwargs": {}
+    }
+  },
+  "programm.answer_question": {
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Artist FYÜTCH changed his stage name from Future to avoid confusion with a rapper from which state?",
+        "relevant_text": "Harold Michael Simmons II (born September 17, 1988), better known by his stage name FYÜTCH (also spelled FYUTCH) (formerly known as Future and Mr. Flattop), is an American rapper, singer-songwriter, and record producer, best known for his songs \"Ballin'\" and \"I Walk The Line Remix\" with Wick-it the Instigator. He changed his artist name from Future to FYÜTCH to avoid confusion with Atlanta rapper Future. Atlanta is the capital of and the most populous city in the U.S. state of Georgia, with an estimated 2016 population of 472,522.",
+        "answer": "Georgia"
+      },
+      {
+        "augmented": true,
+        "question": "Imiliya is a town located in what pilgrimage site?",
+        "relevant_text": "Imiliya इमिलिया is a small town located in the Kapilvastu District, Lumbini, Nepal. Lumbinī (Nepali and Sanskrit: लुम्बिनी    , \"the lovely\") is a Buddhist pilgrimage site in the Rupandehi District of Nepal.",
+        "answer": "Lumbini"
+      },
+      {
+        "augmented": true,
+        "question": "The 2008 Denver Broncos Season was the 25th under the ownership of a man who stepped down in 2014 due to what disease?",
+        "relevant_text": "The 2008 Denver Broncos season was the franchise's 39th season in the National Football League, the 49th overall and the 25th under the ownership of Pat Bowlen. He served as the Broncos CEO from his purchase of the club in 1984 until July 2014, when he stepped down as Broncos' CEO due to the onset and progression of Alzheimer's disease.",
+        "answer": "Alzheimer's disease"
+      },
+      {
+        "id": "5a7ce820554299683c1c63d2",
+        "question": "What actor has appeared in the films \"Hamlet\", \"The Woodlanders\" and \"The Holiday\"?",
+        "answer": "Rufus Frederik Sewell",
+        "paragraphs": [
+          {
+            "title": "Peter Ellis (actor)",
+            "sentences": [
+              "Peter Ellis (born 30 May 1936) is an English actor.",
+              " Peter has worked extensively in theatre and television both as an actor and director.He spent four seasons with the RSC.",
+              " Three years with the Old Vic Co including playing Benvolio in Zeffirelli's \"Romeo and Juliet\".",
+              " Hotspur in \"Henry IV\" and later Rosencrantz in a world tour of \"Hamlet\" starring Derek Jacobi.",
+              " He also played Guildenstern in \"Hamlet\" on the site of the new Globe Theatre.",
+              " Five years at the Crucible Sheffield.",
+              " In the West End he appeared in \"The Tulip Tree\" and in Ray Cooney's \"Funny Money\".",
+              " He is perhaps best known for playing the role of Chief Superintendent Charles Brownlow in the long running ITV drama \"The Bill\".",
+              " Has also appeared as a semi-regular in \"Emmerdale Farm\" and \"Coronation Street\".",
+              " Other series include \"Sam\" \"Lyttons Diary\", \"Edward and Mrs Simpson\", \"The XYY Man\", \"Nolan\", \"The Les Dawson Show\", Victoria Wood's play \"Talent\" for Granada and \"Acorn Antiques\" for BBC TV.",
+              " He appeared in the David Mercer television play \"In Two Minds\" (1967), a work which was directed by Ken Loach."
+            ]
+          },
+          {
+            "title": "Christopher Fairbank",
+            "sentences": [
+              "Christopher \"Chris\" Fairbank (born 4 October 1953) is an English film, stage and television actor, perhaps best known for his role as Moxey in the hit comedy-drama series \"Auf Wiedersehen, Pet\".",
+              " Born in Hertfordshire, he first developed an interest in acting while appearing in a play at his primary school in Clavering, Essex.",
+              " He has numerous television credits to his name, including \"Sapphire and Steel\", \"The Professionals\", and \"The Scarlet Pimpernel\".",
+              " He provided voice talent for both of the Wallace and Gromit feature-length films, \"Curse of the Were-Rabbit\" and \"Flushed Away\".",
+              " Fairbank also appeared as one of the pair of muggers who rob an out-of-town family, heralding the first appearance of the Batman in Tim Burton's 1989 film.",
+              " Fairbank also had roles as Mactilburgh the scientist in the film \"The Fifth Element,\" the prisoner Murphy in \"Alien 3\", and the Player Queen in the Franco Zeffirelli version of \"Hamlet\", opposite Mel Gibson.",
+              " He appeared in the \"Goal!",
+              "\" trilogy as a Newcastle United fan."
+            ]
+          },
+          {
+            "title": "The Holiday",
+            "sentences": [
+              "The Holiday is a 2006 American romantic comedy film written, produced and directed by Nancy Meyers.",
+              " Co-produced by Bruce A. Block, it was filmed in both California and England, and stars Cameron Diaz and Kate Winslet as Amanda and Iris, two lovelorn women from opposite sides of the Atlantic Ocean, who temporarily exchange homes to escape heartbreak during the holiday season.",
+              " Jude Law and Jack Black were cast as the film's leading men Graham and Miles, with Eli Wallach, Shannyn Sossamon, Edward Burns and Rufus Sewell playing key supporting roles."
+            ]
+          },
+          {
+            "title": "Cesco Baseggio",
+            "sentences": [
+              "Francesco \"Cesco\" Baseggio (1897–1971) was an Italian stage, film and television actor.",
+              " He was born in Venice, and was identified with Venetian roles during his film career.",
+              " He appeared in a mixture of serious, dramatic films, as well as comedies such as \"The Brambilla Family Go on Holiday\" (1941).",
+              " On the stage he frequently appeared in plays by Carlo Goldoni."
+            ]
+          },
+          {
+            "title": "Rufus Sewell",
+            "sentences": [
+              "Rufus Frederik Sewell ( ; born 29 October 1967) is an English actor.",
+              " In film, he has appeared in Kenneth Branagh's rendition of \"Hamlet\" (1996) playing Fortinbras, \"The Woodlanders\", \"Dangerous Beauty\", \"Dark City\", \"A Knight's Tale\", \"The Illusionist\", \"Tristan and Isolde\", and \"Martha, Meet Frank, Daniel and Laurence\".",
+              " On television, he starred as \"Obergruppenführer\" John Smith in \"The Man in the High Castle\", an Italian detective in the BBC's television series \"Zen\" (2011) and also appeared in the mini-series \"The Pillars of the Earth\" (2010).",
+              " In 1993 he played the hero, Will Ladislaw, in the BBC's adaptation of George Eliot's \"Middlemarch\".",
+              " In 2003, he appeared in the lead role in \"\".",
+              " He starred in the CBS drama \"Eleventh Hour\", which was cancelled in April 2009.",
+              " On stage, he originated the role of Septimus Hodge in Tom Stoppard's \"Arcadia\" and the role of Jan in Stoppard's \"Rock 'n' Roll\"; the latter earned him an Olivier Award and a Tony Award nomination."
+            ]
+          },
+          {
+            "title": "John Barrymore",
+            "sentences": [
+              "John Barrymore (born John Sidney Blyth; February 14 or 15, 1882 – May 29, 1942) was an American actor on stage, screen and radio.",
+              " A member of the Drew and Barrymore theatrical families, he initially tried to avoid the stage, and briefly attempted a career as an artist, but appeared on stage together with his father Maurice in 1900, and then his sister Ethel the following year.",
+              " He began his career in 1903 and first gained attention as a stage actor in light comedy, then high drama, culminating in productions of \"Justice\" (1916), \"Richard III\" (1920) and \"Hamlet\" (1922); his portrayal of Hamlet led to him being called the \"greatest living American tragedian\"."
+            ]
+          },
+          {
+            "title": "Franz Matter",
+            "sentences": [
+              "Franz Matter (1931–1999) was a Swiss actor and film director.",
+              " A noted stage actor, Matter also appeared in a number of films including the 1958 literary adaptation \"The Cheese Factory in the Hamlet\".",
+              " He also worked as an assistant director, and directed the 1961 film \"Rosen auf Pump\"."
+            ]
+          },
+          {
+            "title": "Skylar Astin",
+            "sentences": [
+              "Skylar Astin Lipstein (born September 23, 1987), known professionally as Skylar Astin, is an American actor and singer.",
+              " He became known for portraying Jesse Swanson in the musical films \"Pitch Perfect\" (2012) and \"Pitch Perfect 2\" (2015).",
+              " He was also in the original cast of the Broadway musical \"Spring Awakening\", and has since appeared in films such as \"Hamlet 2\" (2008), \"Taking Woodstock\" (2009), \"Cavemen\" (2013), and \"21 & Over\" (2013)."
+            ]
+          },
+          {
+            "title": "Gregory Peck",
+            "sentences": [
+              "Eldred Gregory Peck (April 5, 1916 – June 12, 2003) was an American actor who was one of the most popular film stars from the 1940s to the 1960s.",
+              " Peck continued to play major film roles until the late 1980s.",
+              " His performance as Atticus Finch in the 1962 film \"To Kill a Mockingbird\" earned him the Academy Award for Best Actor.",
+              " He had also been nominated for an Oscar for the same category for \"The Keys of the Kingdom\" (1944), \"The Yearling\" (1946), \"Gentleman's Agreement\" (1947) and \"Twelve O'Clock High\" (1949).",
+              " Other notable films he appeared in include \"Spellbound\" (1945), \"Roman Holiday\" (1953), \"Moby Dick\" (1956, and its 1998 miniseries), \"Pork Chop Hill\" (1959), \"The Guns of Navarone\" (1961), \"Cape Fear\" (1962, and its 1991 remake), \"How the West Was Won\" (1962), \"The Omen\" (1976) and \"The Boys from Brazil\" (1978)."
+            ]
+          },
+          {
+            "title": "Alan Cumming",
+            "sentences": [
+              "Alan Cumming, OBE (born 27 January 1965), is a Scottish-American actor, singer/performer, author, and activist who has appeared in numerous films, television shows, and plays.",
+              " His London stage appearances include \"Hamlet\", the Maniac in \"Accidental Death of an Anarchist\" (for which he received an Olivier Award), the lead in \"Bent\", and the National Theatre of Scotland's \"The Bacchae\".",
+              " On Broadway, he has appeared in \"The Threepenny Opera\", as the master of ceremonies in \"Cabaret\" (for which he won a Tony Award), \"Design for Living\" and a one-man adaptation of \"Macbeth\".",
+              " His best-known film roles include his performances in \"Emma\", \"GoldenEye\", the \"Spy Kids\" trilogy, \"Son of the Mask,\" and \"X2\".",
+              " Cumming also introduces \"Masterpiece Mystery!",
+              "\" for PBS and appeared on \"The Good Wife\", for which he has been nominated for three Primetime Emmy Awards, two Screen Actors Guild Awards, two Golden Globe Awards and a Satellite Award.",
+              " A filming of his Las Vegas cabaret show, \"Alan Cumming Sings Sappy Songs\", aired on PBS stations in November 2016."
+            ]
+          }
+        ],
+        "gold_titles": [
+          "The Holiday",
+          "Rufus Sewell"
+        ]
+      }
+    ],
+    "signature": {
+      "instructions": "You are an expert at answering questions based strictly on provided evidence. Your task is to read the question and the specific text snippets labeled `Relevant Text`, then formulate a concise answer using **only** the information found within those snippets.\n\nRequirements:\n1. **Strict Adherence**: Do not use external knowledge or prior training data. If the answer is not explicitly supported by the `Relevant Text`, state that it cannot be determined from the given context.\n2. **Conciseness**: Provide the answer as a short phrase (e.g., a name, date, number, or yes/no) rather than a full sentence, unless the question requires a more detailed explanation.\n3. **Accuracy**: Ensure the answer directly addresses the query using the facts presented in the `Relevant Text`.\n\nQuestion: {question}\nRelevant Text: {relevant_text}\n\nAnswer:",
+      "fields": [
+        {
+          "prefix": "Question:",
+          "description": "${question}"
+        },
+        {
+          "prefix": "Relevant Text:",
+          "description": "the sentences that were found to be relevant"
+        },
+        {
+          "prefix": "Answer:",
+          "description": "a short phrase, not a sentence"
+        }
+      ]
+    },
+    "lm": {
+      "_dspy_lm_class": "dspy.clients.lm.LM",
+      "model": "openrouter/deepseek/deepseek-v4.1-flash",
+      "model_type": "chat",
+      "cache": false,
+      "num_retries": 10,
+      "temperature": 0.0,
+      "max_tokens": 1000,
+      "extra_body": {
+        "provider": {
+          "only": [
+            "inference-net/fp8"
+          ],
+          "allow_fallbacks": false
+        },
+        "reasoning": {
+          "enabled": false
+        }
+      },
+      "finetuning_model": null,
+      "launch_kwargs": {},
+      "train_kwargs": {}
+    }
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.13",
+      "dspy": "3.3.1",
+      "cloudpickle": "3.1"
+    }
+  }
+}

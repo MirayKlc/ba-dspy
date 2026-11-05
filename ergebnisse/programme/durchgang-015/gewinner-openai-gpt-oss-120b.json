@@ -1,0 +1,443 @@
+{
+  "programm.find_evidence": {
+    "traces": [],
+    "train": [],
+    "demos": [],
+    "signature": {
+      "instructions": "You are an expert researcher tasked with identifying the precise evidence required to answer a multi-hop question. You will be provided with a specific **Question** and a list of candidate **Paragraphs**. Your goal is to filter out irrelevant noise and isolate the two or three key pieces of information needed for logical deduction.\n\nFollow these steps:\n1. **Analyze the Question**: Identify the specific entities, dates, or relationships that must be linked to form the answer. Note any \"multi-hop\" requirements (e.g., finding who produced X, then finding when X was created).\n2. **Scan Paragraphs**: Review the provided paragraphs. Look for sentences that explicitly mention the entities from the question or link them together. Ignore generic descriptions or biographical details that do not contribute to the specific query.\n3. **Identify Relevant Titles**: Select the titles of the paragraphs that contain this critical evidence.\n4. **Extract Verbatim Evidence**: Quote the exact sentences from those paragraphs that provide the necessary facts. Ensure you capture both the entity identification and the connecting fact (if it spans multiple paragraphs).\n\nOutput your findings in the following format:\n- `relevant_titles`: A list of the paragraph titles identified as crucial.\n- `relevant_text`: The verbatim sentences extracted, separated by newlines.\n\nRemember: Only quote sentences that are strictly necessary to derive the answer. Do not include introductory fluff or unrelated context.",
+      "fields": [
+        {
+          "prefix": "Question:",
+          "description": "${question}"
+        },
+        {
+          "prefix": "Paragraphs:",
+          "description": "ten paragraphs, only a few of them are relevant"
+        },
+        {
+          "prefix": "Relevant Titles:",
+          "description": "titles of the paragraphs that are needed to answer the question"
+        },
+        {
+          "prefix": "Relevant Text:",
+          "description": "the sentences from those paragraphs that are needed, quoted verbatim"
+        }
+      ]
+    },
+    "lm": {
+      "_dspy_lm_class": "dspy.clients.lm.LM",
+      "model": "openrouter/openai/gpt-oss-120b",
+      "model_type": "chat",
+      "cache": false,
+      "num_retries": 20,
+      "temperature": 0.0,
+      "max_tokens": 1000,
+      "extra_body": {
+        "provider": {
+          "only": [
+            "deepinfra/bf16"
+          ],
+          "allow_fallbacks": false
+        },
+        "reasoning": {
+          "effort": "low"
+        }
+      },
+      "finetuning_model": null,
+      "launch_kwargs": {},
+      "train_kwargs": {}
+    }
+  },
+  "programm.answer_question": {
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "What producer works on the twelfth incarnation of Hanna-Barbera's \"Scooby-Doo?\"",
+        "relevant_text": "\"Be Cool, Scooby-Doo! is an American animated television series produced by Warner Bros. Animation, the twelfth incarnation of Hanna-Barbera's \\\"Scooby-Doo\\\" animated series.\"  \n\"Zachary Thomas Moncrief (born January 8, 1971) is a producer and director of animated television programs, currently serving as the producer for Warner Bros. Animation for the Cartoon Network series \\\"Be Cool, Scooby-Doo!\\\".\"",
+        "answer": "Zachary Thomas Moncrief"
+      },
+      {
+        "id": "5a88ffb05542995153361244",
+        "question": "The 2008 Denver Broncos Season was the 25th under the ownership of a man who stepped down in 2014 due to what disease?",
+        "answer": "Alzheimer's disease",
+        "paragraphs": [
+          {
+            "title": "1994 Denver Broncos season",
+            "sentences": [
+              "The Denver Broncos season was the team's 35th year in professional football and its 25th with the National Football League.",
+              " The season would be noted for being the final year that Wade Phillips was head coach."
+            ]
+          },
+          {
+            "title": "2009 Denver Broncos season",
+            "sentences": [
+              "The Denver Broncos season was their 40th season in the NFL and 50th season overall.",
+              " The Broncos matched their 8–8 regular season record from 2008, but did not make the playoffs.",
+              " The Broncos welcomed many new defensive players signed during free agency, including veteran Eagles safety Brian Dawkins.",
+              " This was their first season without head coach Mike Shanahan since , as he was fired on December 30, 2008.",
+              " On January 12, 2009, Denver hired former New England Patriots' offensive coordinator Josh McDaniels as their new head coach.",
+              " At the time of his hiring, McDaniels was the youngest head coach in any of the four major North American professional sports and the fifth-youngest NFL head coach ever, though less than a week later the Tampa Bay Buccaneers named the even-younger Raheem Morris as their head coach."
+            ]
+          },
+          {
+            "title": "1985 Denver Broncos season",
+            "sentences": [
+              "The Denver Broncos season was the team's 26th year in professional football and its 16th with the National Football League (NFL).",
+              " Despite finishing with an impressive record of eleven wins and five losses, the Broncos failed to make the playoffs.",
+              " The Broncos were coming off a loss to the Steelers in the divisional round, and were picked by many to make the Super Bowl at the end of the 1985 season.",
+              " The Broncos would start out well, as they started 6-2 and 8-3.",
+              " However, two losses in overtime to arch rival Los Angeles resulted in the Broncos needing to win their final two games of the season to try to sneak into the playoffs.",
+              " They did just that, beating Kansas City 14-13 and Seattle 27-24.",
+              " However, even though the Broncos finished 11-5, they failed to reach the playoffs by virtue of a tiebreaker with the New England Patriots.",
+              " The tiebreaker was based on the teams' common opponents record; and the Patriots beat the Broncos in that category by finishing 4-2 against the Raiders, Seahawks, Dolphins, and Colts, while the Broncos finished just 3-3 against the same four teams.",
+              " The 1985 Broncos are one of two teams in NFL history since the 1970 merger to end the season with eleven or more wins and not qualify for the playoffs.",
+              " The other is the 2008 Patriots."
+            ]
+          },
+          {
+            "title": "1984 Denver Broncos season",
+            "sentences": [
+              "The 1984 Denver Broncos season was the team's 25th year in professional football and its 15th with the National Football League (NFL).",
+              " The team finished with its then franchise best record of thirteen wins and three losses and were champions of the AFC West.",
+              " The season ended in a heartbreaking Divisional Playoff loss against the Pittsburgh Steelers.",
+              " This would be the final season for Tight End coach Fran Polsfoot, who died in April 1985."
+            ]
+          },
+          {
+            "title": "1999 Denver Broncos season",
+            "sentences": [
+              "The 1999 Denver Broncos season was the team's 40th year in professional football and its 30th with the National Football League (NFL).",
+              " After winning its second consecutive Super Bowl with a win over the Atlanta Falcons in Super Bowl XXXIII in Miami, the team suffered the retirement of Super Bowl XXXIII MVP quarterback John Elway during the off-season.",
+              " Elway had spent his entire career with the Denver Broncos, and much of the focus in the weeks leading up to the season centered on the void left by Elway's departure.",
+              " Head Coach Mike Shanahan announced that third-round 1998 draft pick Brian Griese, son of Miami Dolphins Quarterback Bob Griese, would take the reins of the offense, passing over veteran and credible back-up QB Bubby Brister."
+            ]
+          },
+          {
+            "title": "1981 Denver Broncos season",
+            "sentences": [
+              "The 1981 Denver Broncos season was the team's 22nd year in professional football and its 12th with the National Football League (NFL).",
+              " The 1981 season depicted Denver trying to improve on their 8-8 record in 1980.",
+              " They did improve on their record, finishing 10-6.",
+              " However, they would miss the playoffs by virtue of their head to head loss to the Buffalo Bills during the season.",
+              " After a very fast 8-3 start, Denver would lose 3 of their final 5 games, including a critical loss to the Cincinnati Bengals in week 12.",
+              " Denver would finish 8-0 at home, but a 2-6 road record proved to doom the Broncos at season's end."
+            ]
+          },
+          {
+            "title": "Pat Bowlen",
+            "sentences": [
+              "Patrick Dennis Bowlen (born February 18, 1944) is the majority owner of the Denver Broncos of the National Football League (NFL).",
+              " The Bowlen Family, including his two brothers John Bowlen and Bill Bowlen, and sister Marybeth Bowlen, purchased the team from Edgar Kaiser in 1984.",
+              " He served as the Broncos CEO from his purchase of the club in 1984 until July 2014, when he stepped down as Broncos' CEO due to the onset and progression of Alzheimer's disease."
+            ]
+          },
+          {
+            "title": "1982 Denver Broncos season",
+            "sentences": [
+              "The 1982 Denver Broncos season was the team's 23rd year in professional football and its 13th with the National Football League (NFL).",
+              " The Broncos played only nine games this season, owing to the strike imposed by the National Football League Players Association (NFLPA).",
+              " The Broncos were looking to improve on their 10-6 record from 1981.",
+              " But due to many injuries plus the strike, the Broncos only won 2 games, while losing 7, their worst record since 1971 as well as their first losing season since 1975.",
+              " This was also their first season with below 3 wins since 1964.",
+              " The Broncos only won 1 home game the entire year, against reigning Super Bowl champion San Francisco.",
+              " Their only other win was against the Los Angeles Rams.",
+              " The Broncos went winless against AFC foes in 1982.",
+              " All of their AFC foes were their own division rivals."
+            ]
+          },
+          {
+            "title": "2008 Denver Broncos season",
+            "sentences": [
+              "The 2008 Denver Broncos season was the franchise's 39th season in the National Football League, the 49th overall and the 25th under the ownership of Pat Bowlen.",
+              " The Broncos improved from their 7–9 record from 2007, but failed to make the playoffs with an 8–8 record."
+            ]
+          },
+          {
+            "title": "2004 Denver Broncos season",
+            "sentences": [
+              "The Denver Broncos season was the team's 45th year in professional football and its 35th with the National Football League.",
+              " Head coach Mike Shanahan guided the Broncos to a 10-6 record, finishing 2nd in the AFC West.",
+              " The Denver Broncos season ended in defeat to the Indianapolis Colts 49-24 in the Wild Card Playoffs."
+            ]
+          }
+        ],
+        "gold_titles": [
+          "2008 Denver Broncos season",
+          "Pat Bowlen"
+        ]
+      },
+      {
+        "id": "5a74f7d55542993748c89764",
+        "question": "What vocalist born in 1969 helped release the debut album \"Dropbox\"?",
+        "answer": "Sully Erna",
+        "paragraphs": [
+          {
+            "title": "Billy Ray Cyrus discography",
+            "sentences": [
+              "Billy Ray Cyrus is an American country music singer, songwriter, actor and philanthropist, who helped make country music a worldwide phenomenon.",
+              " He has released 12 studio albums and 44 singles since 1992, and is best known for his number one single \"Achy Breaky Heart\", which became the first single ever to achieve triple Platinum status in Australia and was the best-selling single of 1992 in the same country.",
+              " Thanks to the video of the song, the linedance entered the mainstream, becoming a worldwide craze.",
+              " Cyrus, a multi-platinum selling recording artist, has scored a total of eight top-ten singles on the Billboard Country Songs chart.",
+              " His most successful album to date is the debut of \"Some Gave All\", which has been certified 9× multi-platinum in the United States and is the longest time spent by a debut artist at number one on the \"Billboard\" 200 (17 consecutive weeks) and most consecutive chart-topping weeks in the SoundScan era.",
+              " It is the only album (from any genre) in the SoundScan era to log 17 consecutive weeks at number one and is also the second-highest selling debut album by a male country artist after Garth Brooks'.",
+              " It ranked 43 weeks in the top 10, a total topped by only one country album in history, \"Ropin' the Wind\" by Garth Brooks.",
+              " \"Some Gave All\" was also the first debut album to enter at the number 1 in the Billboard Country Albums.",
+              " The album has also sold more than 20 million copies worldwide and is the best-selling debut album of all time for a solo male artist. \"",
+              "Some Gave All\" was also the best-selling album of 1992 in the US with 4,832,000 copies.",
+              " In his career, he has released 35 charted singles, of which 16 have charted in the top 40."
+            ]
+          },
+          {
+            "title": "Sully Erna",
+            "sentences": [
+              "Salvatore Paul \"Sully\" Erna Jr. (born February 7, 1968) is the American vocalist and guitarist for the American hard rock band Godsmack.",
+              " He is also a harmonica player, percussionist and pianist, performing these on albums and at live shows.",
+              " He was ranked 47th in the Top 100 Heavy Metal Vocalists by \"Hit Parader\"."
+            ]
+          },
+          {
+            "title": "Ruyonga",
+            "sentences": [
+              "Ruyonga is a Ugandan musical artist of the hip hop and spoken word genres.",
+              " He was one of the pioneering hip hop acts in Uganda, with his first group winning a nationwide music competition in 2000.",
+              " He was picked by Rawkus Records as one of the top 50 artists on the internet, and Rawkus helped release his second solo album, AFRiCAN, in 2007.",
+              " He is married and has a daughter.",
+              " He was on DSTV's list in 2013 of African MC’s: In a League of their own."
+            ]
+          },
+          {
+            "title": "Night Fishing (album)",
+            "sentences": [
+              "Night Fishing (stylized as NIGHT FISHING, ] ) is the second studio album by Japanese band Sakanaction.",
+              " It was released on January 23, 2008 through Victor Entertainment's BabeStar Label.",
+              " The album primarily features music written by vocalist Ichiro Yamaguchi since the release of their debut album \"Go to the Future\" (2007).",
+              " Compared to their debut album, which compiled songs that the band had already written, the majority of the songs on \"Night Fishing\" were written specifically for the release.",
+              " The album was an attempt by the band to find a better balance between popular music and underground, and was an album where the members wanted to incorporate more of their own personal styles; which caused the members to disagree over its content much more than on their debut album."
+            ]
+          },
+          {
+            "title": "Dropbox (album)",
+            "sentences": [
+              "Dropbox is the self-titled debut album of the band Dropbox, released on April 13, 2004."
+            ]
+          },
+          {
+            "title": "Ian Crawford (musician)",
+            "sentences": [
+              "Ian Miles Crawford (born September 29, 1988) is an American musician and vocalist born in Eugene, Oregon.",
+              " He is most prominently known being a guitarist and backing vocalist for groups including The Cab, Panic!",
+              " at the Disco, Never Shout Never, and The Academy Is... In 2016, he founded the rock and roll group The Contestants, which released their debut studio album, \"No Contest\", in May 2016."
+            ]
+          },
+          {
+            "title": "Dropbox (band)",
+            "sentences": [
+              "Dropbox was a five-piece American rock band formed in 2002 in New York City.",
+              " Their debut album, \"Dropbox\", was released on the Universal Records label with the help of Sully Erna."
+            ]
+          },
+          {
+            "title": "Periphery (album)",
+            "sentences": [
+              "Periphery is the debut studio album by American progressive metal band Periphery, signed by Sumerian Records and released on April 20, 2010.",
+              " Many songs on the track list had been written long before the release date but due to vocalist complications the debut album had been postponed on several occasions.",
+              " Former vocalist Chris Barretto had nearly finished recording the album before he and the band parted ways months before its release.",
+              " Rather than release the songs with Barretto's vocals, the band decided to rerecord Barretto's songs with Spencer Sotelo; however, Sotelo only re-worked a few of the melodies when recording vocals, versus writing completely new lyrics.",
+              " As a result, Sabol's and Barretto's lyrics and vocal melodies and harmonies are still featured on the record.",
+              " The album was re-released on February 6, 2012 as a 'Special Edition' including instrumentals, along with a new song \"Passenger,\" originally recorded by guitarist Mark Holcomb during his time in the band Haunted Shores."
+            ]
+          },
+          {
+            "title": "Yvette Tollar",
+            "sentences": [
+              "Yvette Tollar is a Canadian jazz vocalist born in Toronto, Ontario, Canada.",
+              " She has released two full-length CDs, \"Cactus Flowers\" (2001) and \"Ima\" (2008).",
+              " \"Ima\" was a nominee for Vocal Jazz Album of the Year at the 2009 Juno Awards."
+            ]
+          },
+          {
+            "title": "Blubberknife",
+            "sentences": [
+              "Blubberknife is the third studio album released by the Australian experimental group Severed Heads, originally as a C90 cassette tape.",
+              " It's the first album by the group to feature contributions by Stephen Jones, and it is also the first recording by the group to catch the attention of Ink Records, who helped release \"Since the Accident\" a year later.",
+              " As with most of their discography, \"Blubberknife\" has been issued released times."
+            ]
+          }
+        ],
+        "gold_titles": [
+          "Dropbox (band)",
+          "Sully Erna"
+        ]
+      },
+      {
+        "id": "5a7d2772554299452d57bb2d",
+        "question": "What property does Rotary technology and Nickel have in common?",
+        "answer": "flexibility",
+        "paragraphs": [
+          {
+            "title": "Nickel compounds",
+            "sentences": [
+              "Compounds of nickel are chemical compounds containing the element nickel which is a member of the group 10 of the periodic table.",
+              " Most compounds in the group have an oxidation state of +2.",
+              " Nickel is classified as a transition metal with nickel(II) having much chemical behaviour in common with iron(II) and cobalt(II).",
+              " Many salts of nickel(II) are isomorphous with salts of magnesium due to the ionic radii of the cations being almost the same.",
+              " Nickel forms many coordination complexes.",
+              " Nickel tetracarbonyl was the first pure metal carbonyl produced, and is unusual in its volatility.",
+              " Metalloproteins containing nickel are found in biological systems."
+            ]
+          },
+          {
+            "title": "Rotary stage",
+            "sentences": [
+              "A rotary stage is a component of a motion system used to restrict an object to a single axis of rotation.",
+              " The terms rotary table or rotation stage are often used interchangeably with rotary stage.",
+              " All rotary stages consist of a platform and a base, joined by some form of guide in such a way that the platform is restricted to rotation about a single axis with respect to the base.",
+              " In common usage, the term rotary stage may or may not also include the mechanism by which the angular position of the platform is controlled relative to the base."
+            ]
+          },
+          {
+            "title": "Nickel",
+            "sentences": [
+              "Nickel is a chemical element with symbol Ni and atomic number 28.",
+              " It is a silvery-white lustrous metal with a slight golden tinge.",
+              " Nickel belongs to the transition metals and is hard and ductile.",
+              " Pure nickel, powdered to maximize the reactive surface area, shows a significant chemical activity, but larger pieces are slow to react with air under standard conditions because an oxide layer forms on the surface and prevents further corrosion (passivation).",
+              " Even so, pure native nickel is found in Earth's crust only in tiny amounts, usually in ultramafic rocks, and in the interiors of larger nickel–iron meteorites that were not exposed to oxygen when outside Earth's atmosphere."
+            ]
+          },
+          {
+            "title": "Melchior (alloy)",
+            "sentences": [
+              "In metallurgy, melchior is an alloy of copper, mainly with nickel (5–30%).",
+              " Its name originates from Italian: \"melchior\" , which in turn is distorted French: \"maillechort\" , honoring the French inventors of the alloy, Maillot and Chorier.",
+              " The term melchior sometimes refers not only to the copper-nickel alloys, but also ternary alloys of copper with nickel and zinc (\"nickel silver\") and even a silvered brass.",
+              " Melchior is easily deformable by application of pressure, both in the hot and cold state.",
+              " After annealing, it has a tensile strength of about 40 kg/mm.",
+              " The most valuable property of melchior is its high resistance to corrosion in air, freshwater and seawater.",
+              " Increasing content of nickel iron or manganese improves corrosion and cavitation resistance, especially in sea water and atmospheric water vapor.",
+              " The alloy of 30% Ni, 0.8% Fe, 1% Mn and 68.2% copper is used in maritime shipping, in particular for the manufacture of condenser tubes.",
+              " Thanks to the nickel, melchior, unlike brass and bronze, has not a yellow but a silver color.",
+              " Together with high corrosion resistance, this silvery color is preferred for the manufacture of household utensils."
+            ]
+          },
+          {
+            "title": "Nickel(II) precatalysts",
+            "sentences": [
+              "Nickel(II) precatalysts are a type of catalyst used in organic reactions.",
+              " Many transformations are catalyzed by nickel in organometallic chemistry and in organic synthesis.",
+              " Many of these transformations invoke a low valent (generally Ni(0)) species as the active catalyst.",
+              " Unfortunately, unlike its counterpart, Pd(0), Ni(0) catalysts are predominantly confined to the glovebox due to their high instability to air and water, with the most common Ni(0) catalyst being Ni(cod).",
+              " Additionally, Ni(cod) is more expensive than many Ni(II) salts and the quality varies significantly amongst suppliers.",
+              " To make nickel catalysis more accessible and amenable to synthesis and industrial purposes, the use of air-stable Ni(II) precursors has emerged as an important development in this area of research.",
+              " This page describes the more commonly employed nickel(II) precatalysts, their synthesis for those not commercially available, and the methods for their reduction to Ni(0) complexes."
+            ]
+          },
+          {
+            "title": "Nickel titanium rotary file",
+            "sentences": [
+              "A nickel titanium (NiTi) rotary file is an engine-driven tapered and pointed endodontic instrument made of nickel titanium alloy with cutting edges used to mechanically shape and prepare the root canals during endodontic therapy or to remove the root canal obturating material while performing retreatment.",
+              " The first NiTi file was introduced to the market in 1991.",
+              " Superelasticity and shape memory are the properties that make Niti files very flexible.",
+              " The high flexibility of Niti files makes them superior to stainless steel files for the purpose of rotary root canal preparation.",
+              " The use of NiTi rotary files in dentistry is a common practice."
+            ]
+          },
+          {
+            "title": "Pulse dialing",
+            "sentences": [
+              "Pulse dialing is a signaling technology in telecommunications in which a direct current local loop circuit is interrupted according to a defined coding system for each signal transmitted, usually a digit.",
+              " This lends the method the often used name loop disconnect dialing.",
+              " In the most common variant of pulse dialing, decadic dialing, each of the ten Arabic numerals are encoded in a sequence of up to ten pulses.",
+              " The most common version decodes the digits 1 through 9, as one to nine pulses, respectively, and the digit 0 as ten pulses.",
+              " Historically, the most common device to produce such pulse trains is the rotary dial of the telephone, lending the technology another name, rotary dialing."
+            ]
+          },
+          {
+            "title": "Leonardo da Vinci International Art Award",
+            "sentences": [
+              "The Leonardo da Vinci Award was established in 1975 by the Rotary Club of Florence as an annual international prize named after Leonardo da Vinci, to be presented to young people involved in the study of the sciences, technology, literature and the arts.",
+              " Among the disciplines recognised and rewarded so far have been painting, sculpture, music, geology, architecture, medicine and nuclear physics.",
+              " The 21st Leonardo da Vinci Prize was recently presented to the brilliant young pianist Johan Schmidt.",
+              " The prize giving event has been hosted by other European Rotary Clubs in cities such as Tours, Vienna, Athens, Madrid, Würzburg, Brussels and Amsterdam.",
+              " This event was last held in London in 1987, when the prize was awarded to the internationally recognised percussionist Evelyn Glennie.",
+              " In 1996 1/2 the Rotary Club of London will again be responsible for hosting the prize-giving ceremony."
+            ]
+          },
+          {
+            "title": "Rotary technology",
+            "sentences": [
+              "Rotary endodontic files use an engine to rotate the endodontic file during root canal treatment.",
+              " The advantages of rotary endodontics are reduced instrumentation times and fewer files used during the procedure.",
+              " Commonly Nickel-Titanium files are used because of their greater flexibility which permits increasingly curved roots to be treated.",
+              " The use of Ni-ti files comes at a cost of at increased risk of fractured endodontic files, possibly necessitating endodontic retreatment."
+            ]
+          },
+          {
+            "title": "Rotary Youth Exchange",
+            "sentences": [
+              "Rotary Youth Exchange (RYE) is a Rotary International student exchange program for students in secondary school.",
+              " Since 1929, Rotary International has sent young people around the globe to experience new cultures.",
+              " Currently, about 9,000 students are sponsored by Rotary clubs every year.",
+              " Typically, students are sent to another country for a year-long stay, generally living with multiple host families during the year and being expected to perform daily tasks within the household as well as attend school in the host country.",
+              " Short term exchange programs are also quite common.",
+              " These typically involve direct student exchanges between two families arranged through Rotary to coincide with major school holiday periods."
+            ]
+          }
+        ],
+        "gold_titles": [
+          "Rotary technology",
+          "Nickel"
+        ]
+      }
+    ],
+    "signature": {
+      "instructions": "You are an expert research assistant specializing in multi-hop reasoning and fact verification. Your task is to answer the provided question by strictly synthesizing information from the given relevant text snippets. Do not use any external knowledge or assume facts not explicitly stated in the provided text. Your response must be a concise, short phrase (e.g., a name, date, location, or entity) rather than a full sentence.\n\nQuestion: {question}\nRelevant Text: {relevant_text}\n\nAnswer:",
+      "fields": [
+        {
+          "prefix": "Question:",
+          "description": "${question}"
+        },
+        {
+          "prefix": "Relevant Text:",
+          "description": "the sentences that were found to be relevant"
+        },
+        {
+          "prefix": "Answer:",
+          "description": "a short phrase, not a sentence"
+        }
+      ]
+    },
+    "lm": {
+      "_dspy_lm_class": "dspy.clients.lm.LM",
+      "model": "openrouter/openai/gpt-oss-120b",
+      "model_type": "chat",
+      "cache": false,
+      "num_retries": 20,
+      "temperature": 0.0,
+      "max_tokens": 1000,
+      "extra_body": {
+        "provider": {
+          "only": [
+            "deepinfra/bf16"
+          ],
+          "allow_fallbacks": false
+        },
+        "reasoning": {
+          "effort": "low"
+        }
+      },
+      "finetuning_model": null,
+      "launch_kwargs": {},
+      "train_kwargs": {}
+    }
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.13",
+      "dspy": "3.3.1",
+      "cloudpickle": "3.1"
+    }
+  }
+}

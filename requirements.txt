@@ -1,0 +1,19 @@
+# Direkte Abhaengigkeiten des Experiments.
+# Installieren:  pip install -r requirements.txt
+dspy==3.3.1
+# MIPROv2 braucht optuna, dspy bringt es aber nur als Extra mit (`dspy[optuna]`)
+optuna==5.0.0
+datasets==5.0.1
+pytest==9.1.1
+# Gepaarter t-Test der Zwischenbewertung (dspy_optimizer/verfahren.py)
+scipy==1.18.1
+# Laedt den OPENROUTER_API_KEY aus .env (dspy_optimizer/programm.py, spikes/)
+python-dotenv==1.2.3
+# Auswertung (dspy_optimizer/auswertung.py): Tabellen mit pandas, Abbildungen mit
+# Matplotlib und Seaborn
+pandas==3.0.6
+matplotlib==3.11.2
+seaborn==0.13.2
+
+# Nur fuer die Vortests in spikes/
+requests==2.34.2

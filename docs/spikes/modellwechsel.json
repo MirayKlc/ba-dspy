@@ -1,0 +1,296 @@
+{
+  "gelaufen_am": "2026-09-28 00:05:52",
+  "anzahl_fragen": 24,
+  "gleichzeitig": 8,
+  "wiederholungen": 3,
+  "teil1_denken": {
+    "openai/gpt-oss-120b @ deepinfra/bf16 / nichts": {
+      "angenommen": true,
+      "antwort": "{'text': 'France', 'reasoning_content': 'The user gives two paragraphs: A: The E",
+      "denk_tokens": 63,
+      "antwort_tokens": 69,
+      "kosten_usd": 1.5097e-05,
+      "anbieter": "DeepInfra"
+    },
+    "openai/gpt-oss-120b @ deepinfra/bf16 / enabled_false": {
+      "angenommen": false,
+      "fehler": "LMInvalidRequestError: [openai/gpt-oss-120b] litellm.BadRequestError: OpenrouterException - {\"error\":{\"message\":\"Reasoning is mandatory for this endpoint and cannot be disabled.\",\"code\":400,\"metadata\":{\"provider_name\":null}}}"
+    },
+    "openai/gpt-oss-120b @ deepinfra/bf16 / effort_low": {
+      "angenommen": true,
+      "antwort": "{'text': 'France.', 'reasoning_content': 'We need answer: France.'}",
+      "denk_tokens": 6,
+      "antwort_tokens": 18,
+      "kosten_usd": 6.427e-06,
+      "anbieter": "DeepInfra"
+    },
+    "google/gemma-4-31b-it @ deepinfra/turbo / nichts": {
+      "angenommen": true,
+      "antwort": "France",
+      "denk_tokens": 0,
+      "antwort_tokens": 2,
+      "kosten_usd": 5.18e-06,
+      "anbieter": "DeepInfra"
+    },
+    "google/gemma-4-31b-it @ deepinfra/turbo / enabled_false": {
+      "angenommen": true,
+      "antwort": "France",
+      "denk_tokens": 0,
+      "antwort_tokens": 2,
+      "kosten_usd": 3.9e-06,
+      "anbieter": "DeepInfra"
+    },
+    "google/gemma-4-31b-it @ deepinfra/turbo / effort_low": {
+      "angenommen": true,
+      "antwort": "{'text': 'France', 'reasoning_content': '*   Paragraph A: \"The Eiffel Tower is i",
+      "denk_tokens": 109,
+      "antwort_tokens": 121,
+      "kosten_usd": 4.591e-05,
+      "anbieter": "DeepInfra"
+    },
+    "google/gemma-4-31b-it @ reka / nichts": {
+      "angenommen": true,
+      "antwort": "France",
+      "denk_tokens": 0,
+      "antwort_tokens": 2,
+      "kosten_usd": 4.6e-06,
+      "anbieter": "Reka"
+    },
+    "google/gemma-4-31b-it @ reka / enabled_false": {
+      "angenommen": true,
+      "antwort": "France",
+      "denk_tokens": 0,
+      "antwort_tokens": 2,
+      "kosten_usd": 3.64e-06,
+      "anbieter": "Reka"
+    },
+    "google/gemma-4-31b-it @ reka / effort_low": {
+      "angenommen": true,
+      "antwort": "{'text': 'France', 'reasoning_content': '*   Paragraph A: \"The Eiffel Tower is i",
+      "denk_tokens": 117,
+      "antwort_tokens": 121,
+      "kosten_usd": 4.054e-05,
+      "anbieter": "Reka"
+    },
+    "deepseek/deepseek-v4.1-flash @ deepseek / nichts": {
+      "angenommen": false,
+      "fehler": "LMUnsupportedModelError: [deepseek/deepseek-v4.1-flash] litellm.NotFoundError: NotFoundError: OpenrouterException - {\"error\":{\"message\":\"0 endpoints out of 1 requested are available matching your guardrail restrictions and data policy. We removed them for the following reasons (an endpoint may have "
+    },
+    "deepseek/deepseek-v4.1-flash @ deepseek / enabled_false": {
+      "angenommen": false,
+      "fehler": "LMUnsupportedModelError: [deepseek/deepseek-v4.1-flash] litellm.NotFoundError: NotFoundError: OpenrouterException - {\"error\":{\"message\":\"0 endpoints out of 1 requested are available matching your guardrail restrictions and data policy. We removed them for the following reasons (an endpoint may have "
+    },
+    "deepseek/deepseek-v4.1-flash @ deepseek / effort_low": {
+      "angenommen": false,
+      "fehler": "LMUnsupportedModelError: [deepseek/deepseek-v4.1-flash] litellm.NotFoundError: NotFoundError: OpenrouterException - {\"error\":{\"message\":\"0 endpoints out of 1 requested are available matching your guardrail restrictions and data policy. We removed them for the following reasons (an endpoint may have "
+    },
+    "deepseek/deepseek-v4.1-flash @ open-inference/fp4 / nichts": {
+      "angenommen": true,
+      "antwort": "{'text': 'France', 'reasoning_content': 'We need answer. Need follow. Paragraphs",
+      "denk_tokens": 32,
+      "antwort_tokens": 35,
+      "kosten_usd": 1.839e-05,
+      "anbieter": "OpenInference"
+    },
+    "deepseek/deepseek-v4.1-flash @ open-inference/fp4 / enabled_false": {
+      "angenommen": true,
+      "antwort": " France",
+      "denk_tokens": 0,
+      "antwort_tokens": 2,
+      "kosten_usd": 1.45e-06,
+      "anbieter": "OpenInference"
+    },
+    "deepseek/deepseek-v4.1-flash @ open-inference/fp4 / effort_low": {
+      "angenommen": true,
+      "antwort": "{'text': ' France', 'reasoning_content': 'We need answer. Need follow. Paragraph",
+      "denk_tokens": 32,
+      "antwort_tokens": 35,
+      "kosten_usd": 1.893e-05,
+      "anbieter": "OpenInference"
+    },
+    "openai/gpt-6-luna @ openai / nichts": {
+      "angenommen": true,
+      "antwort": "France",
+      "denk_tokens": 17,
+      "antwort_tokens": 24,
+      "kosten_usd": 1.63e-05,
+      "anbieter": "OpenAI"
+    },
+    "openai/gpt-6-luna @ openai / enabled_false": {
+      "angenommen": true,
+      "antwort": "France",
+      "denk_tokens": 0,
+      "antwort_tokens": 5,
+      "kosten_usd": 6.8e-06,
+      "anbieter": "OpenAI"
+    },
+    "openai/gpt-6-luna @ openai / effort_low": {
+      "angenommen": true,
+      "antwort": "France",
+      "denk_tokens": 0,
+      "antwort_tokens": 5,
+      "kosten_usd": 6.8e-06,
+      "anbieter": "OpenAI"
+    }
+  },
+  "teil2_programm": [
+    {
+      "modell": "openai/gpt-oss-120b",
+      "endpunkt": "deepinfra/bf16",
+      "bedient_haben": {
+        "DeepInfra": 48
+      },
+      "beantwortet": 24,
+      "gestellt": 24,
+      "fehler": {},
+      "f1": 0.7591630591630593,
+      "f1_standardfehler": 0.08089342266464687,
+      "exakt": 0.6666666666666666,
+      "lm_aufrufe": 48,
+      "kosten_usd": 0.002601074,
+      "kosten_je_programmlauf_usd": 0.00010837808333333334,
+      "denk_tokens_je_aufruf": 60.854166666666664,
+      "denk_tokens_max": 217,
+      "abgeschnitten": 0,
+      "dauer_s": 12.153920888900757,
+      "fragen_je_minute": 118.48028411268018
+    },
+    {
+      "modell": "google/gemma-4-31b-it",
+      "endpunkt": "deepinfra/turbo",
+      "bedient_haben": {
+        "DeepInfra": 44
+      },
+      "beantwortet": 19,
+      "gestellt": 24,
+      "fehler": {
+        "format": 5
+      },
+      "f1": 0.8128082443871918,
+      "f1_standardfehler": 0.08260361209387913,
+      "exakt": 0.7368421052631579,
+      "lm_aufrufe": 44,
+      "kosten_usd": 0.01135755,
+      "kosten_je_programmlauf_usd": 0.00047323125,
+      "denk_tokens_je_aufruf": 428.90909090909093,
+      "denk_tokens_max": 1071,
+      "abgeschnitten": 6,
+      "dauer_s": 83.49456858634949,
+      "fragen_je_minute": 17.246630821390042
+    },
+    {
+      "modell": "google/gemma-4-31b-it",
+      "endpunkt": "reka",
+      "bedient_haben": {
+        "Reka": 46
+      },
+      "beantwortet": 22,
+      "gestellt": 24,
+      "fehler": {
+        "format": 2
+      },
+      "f1": 0.7459101504556049,
+      "f1_standardfehler": 0.08031481739970465,
+      "exakt": 0.5909090909090909,
+      "lm_aufrufe": 46,
+      "kosten_usd": 0.00774498,
+      "kosten_je_programmlauf_usd": 0.0003227075,
+      "denk_tokens_je_aufruf": 223.65217391304347,
+      "denk_tokens_max": 256,
+      "abgeschnitten": 0,
+      "dauer_s": 110.36946201324463,
+      "fragen_je_minute": 13.04708724436109
+    },
+    {
+      "modell": "deepseek/deepseek-v4.1-flash",
+      "endpunkt": "deepseek",
+      "bedient_haben": {},
+      "beantwortet": 0,
+      "gestellt": 24,
+      "fehler": {
+        "LMUnsupportedModelError": 24
+      },
+      "f1": 0.0,
+      "f1_standardfehler": null,
+      "exakt": 0.0,
+      "lm_aufrufe": 0,
+      "kosten_usd": 0,
+      "kosten_je_programmlauf_usd": 0.0,
+      "denk_tokens_je_aufruf": null,
+      "denk_tokens_max": null,
+      "abgeschnitten": 0,
+      "dauer_s": 9.873322010040283,
+      "fragen_je_minute": 145.84756767131157
+    },
+    {
+      "modell": "deepseek/deepseek-v4.1-flash",
+      "endpunkt": "open-inference/fp4",
+      "bedient_haben": {
+        "OpenInference": 39
+      },
+      "beantwortet": 15,
+      "gestellt": 24,
+      "fehler": {
+        "format": 9
+      },
+      "f1": 0.8780419580419581,
+      "f1_standardfehler": 0.06364469907681071,
+      "exakt": 0.7333333333333333,
+      "lm_aufrufe": 39,
+      "kosten_usd": 0.00978682,
+      "kosten_je_programmlauf_usd": 0.00040778416666666664,
+      "denk_tokens_je_aufruf": 414.97435897435895,
+      "denk_tokens_max": 1000,
+      "abgeschnitten": 9,
+      "dauer_s": 203.03559637069702,
+      "fragen_je_minute": 7.092352403914859
+    },
+    {
+      "modell": "openai/gpt-6-luna",
+      "endpunkt": "openai",
+      "bedient_haben": {
+        "OpenAI": 48
+      },
+      "beantwortet": 24,
+      "gestellt": 24,
+      "fehler": {},
+      "f1": 0.5528439153439154,
+      "f1_standardfehler": 0.0795213827303711,
+      "exakt": 0.20833333333333334,
+      "lm_aufrufe": 48,
+      "kosten_usd": 0.00672665,
+      "kosten_je_programmlauf_usd": 0.00028027708333333334,
+      "denk_tokens_je_aufruf": 16.645833333333332,
+      "denk_tokens_max": 151,
+      "abgeschnitten": 0,
+      "dauer_s": 9.790712118148804,
+      "fragen_je_minute": 147.07816782098078
+    }
+  ],
+  "teil3_vorschlagsmodell": {
+    "qwen/qwen3.7-flash @ alibaba / nichts": {
+      "gelungen": true,
+      "vorschlag": "Analyze the provided context sentences and answer the question concisely. Extract the relevant information to form a short phrase that directly addresses the query, strictly limiting the output to the",
+      "denk_tokens": 2002,
+      "antwort_tokens": 2067,
+      "kosten_usd": 0.00027627,
+      "anbieter": "Alibaba"
+    },
+    "qwen/qwen3.7-flash @ alibaba / enabled_false": {
+      "gelungen": true,
+      "vorschlag": "Generate a concise answer to the question based exclusively on the provided relevant sentences, ensuring the response is a short phrase and contains no additional information.",
+      "denk_tokens": 0,
+      "antwort_tokens": 41,
+      "kosten_usd": 1.295e-05,
+      "anbieter": "Alibaba"
+    },
+    "qwen/qwen3.7-flash @ alibaba / effort_low": {
+      "gelungen": true,
+      "vorschlag": "Based solely on the provided context sentences, extract a precise short phrase that directly answers the question. Ensure the response contains no external information and remains strictly within the ",
+      "denk_tokens": 1167,
+      "antwort_tokens": 1220,
+      "kosten_usd": 0.00016616,
+      "anbieter": "Alibaba"
+    }
+  }
+}

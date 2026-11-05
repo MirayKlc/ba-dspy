@@ -1,0 +1,11 @@
+{
+  "gelaufen_am": "2026-09-19 18:18:35",
+  "teil_1": {
+    "prompt_tokens": 66,
+    "completion_tokens": 20,
+    "kosten_usd": 5.842e-06,
+    "anbieter": "DeepInfra",
+    "antwort_modell": "openai/gpt-oss-120b",
+    "aufruf_id": "gen-1789834714-WnaurCkKbT6vzpcIGsxL"
+  }
+}

@@ -1,0 +1,7 @@
+﻿durchgang;seed;baseline;kandidatenmodelle;anbieterfehler;ursache;dollar
+9;2;verfahren;openai/gpt-oss-120b, google/gemma-4-31b-it;21;LMRateLimitError;1,6494356150000016
+10;2;verfahren;openai/gpt-oss-120b;2;LMRateLimitError, KeyboardInterrupt;0,001499465
+11;2;verfahren;openai/gpt-oss-120b;1;KeyboardInterrupt;0,004830614
+14;2;ein-modell;openai/gpt-oss-120b;1;LMRateLimitError;6,251042941999999
+16;2;ein-modell;google/gemma-4-31b-it;9;LMRateLimitError;7,450855371999935
+22;3;gleichverteilung;openai/gpt-oss-120b;7;LMRateLimitError;0,7681429609999977

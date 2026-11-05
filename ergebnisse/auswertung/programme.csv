@@ -1,0 +1,14 @@
+﻿baseline;kandidatenmodell;seeds;F1 Auswahldaten;F1 Testdaten;$ je 1000 Auswahldaten;$ je 1000 Testdaten;$ je 1000 Testdaten, festgehaltener Preis;unter der Kostenobergrenze?;unter der Kostenobergrenze? (festgehaltener Preis);Latenz Median s (Testdaten)
+Verfahren;DeepSeek V4.1 Flash;3;0,862 ± 0,006;0,805 ± 0,011;0,236 ± 0,018;0,284 ± 0,011;0,213 ± 0,006;ja in 3 von 3;ja in 3 von 3;1,93 ± 0,04
+Gleichverteilung (B/4 je Modell);gpt-oss-120b;3;0,796 ± 0,006;0,751 ± 0,008;0,181 ± 0,119;0,182 ± 0,119;0,182 ± 0,119;ja in 2 von 3;ja in 2 von 3;3,94 ± 0,38
+Gleichverteilung (B/4 je Modell);Gemma 4 31B;3;0,823 ± 0,008;0,789 ± 0,008;0,414 ± 0,166;0,412 ± 0,165;0,412 ± 0,165;ja in 1 von 3;ja in 1 von 3;3,91 ± 0,17
+Gleichverteilung (B/4 je Modell);DeepSeek V4.1 Flash;3;0,860 ± 0,004;0,803 ± 0,001;0,264 ± 0,047;0,314 ± 0,028;0,231 ± 0,015;ja in 2 von 3;ja in 3 von 3;2,15 ± 0,18
+Gleichverteilung (B/4 je Modell);GPT-6 Luna;3;0,738 ± 0,027;0,711 ± 0,016;0,749 ± 0,219;0,749 ± 0,219;0,749 ± 0,219;ja in 0 von 3;ja in 0 von 3;3,49 ± 0,59
+Einzelmodell (volles Budget B);gpt-oss-120b;3;0,806 ± 0,007;0,758 ± 0,014;0,146 ± 0,033;0,147 ± 0,034;0,147 ± 0,034;ja in 3 von 3;ja in 3 von 3;5,45 ± 0,47
+Einzelmodell (volles Budget B);Gemma 4 31B;3;0,833 ± 0,004;0,796 ± 0,003;0,429 ± 0,075;0,425 ± 0,073;0,425 ± 0,073;ja in 0 von 3;ja in 0 von 3;3,88 ± 0,62
+Einzelmodell (volles Budget B);DeepSeek V4.1 Flash;3;0,851 ± 0,003;0,800 ± 0,004;0,270 ± 0,049;0,316 ± 0,018;0,233 ± 0,007;ja in 2 von 3;ja in 3 von 3;1,92 ± 0,10
+Einzelmodell (volles Budget B);GPT-6 Luna;3;0,757 ± 0,032;0,716 ± 0,027;0,590 ± 0,128;0,591 ± 0,126;0,591 ± 0,126;ja in 0 von 3;ja in 0 von 3;3,29 ± 0,18
+Ohne Optimierung;gpt-oss-120b;3;0,791 ± 0,006;0,751 ± 0,006;0,113 ± 0,001;0,113 ± 0,000;0,113 ± 0,000;ja in 3 von 3;ja in 3 von 3;4,30 ± 0,28
+Ohne Optimierung;Gemma 4 31B;3;0,790 ± 0,008;0,772 ± 0,005;0,207 ± 0,000;0,207 ± 0,000;0,207 ± 0,000;ja in 3 von 3;ja in 3 von 3;3,41 ± 0,10
+Ohne Optimierung;DeepSeek V4.1 Flash;3;0,846 ± 0,009;0,796 ± 0,001;0,228 ± 0,011;0,288 ± 0,001;0,222 ± 0,000;ja in 3 von 3;ja in 3 von 3;1,96 ± 0,08
+Ohne Optimierung;GPT-6 Luna;3;0,600 ± 0,012;0,566 ± 0,003;0,288 ± 0,001;0,288 ± 0,000;0,288 ± 0,000;ja in 3 von 3;ja in 3 von 3;3,03 ± 0,19

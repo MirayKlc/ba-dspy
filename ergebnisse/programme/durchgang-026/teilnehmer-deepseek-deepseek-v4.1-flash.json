@@ -1,0 +1,454 @@
+{
+  "programm.find_evidence": {
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "What movie did \"the king of cool\" play in with Bud Ekins as his stunt double?",
+        "paragraphs": "Cheryl Wheeler-Dixon: Cheryl Wheeler-Dixon (born 1960) is a stunt woman, stunt double, and stunt driver in the US movie industry. She has also been credited as Cheryl Wheeler-Duncan, Cheryl Wheeler, Cheryl M. Wheeler, and Sheryl Wheeler. She has been stunt double for Rene Russo, Kathleen Turner, and Goldie Hawn. She has two daughters, and with her husband, Lindsey Duncan, owns Genesis Today, Inc., a nutritional supplement company in Austin, Texas and a multi-level marketing offshoot called Genesis Pure.\n\nThe Stunt Man: The Stunt Man is a 1980 American film directed by Richard Rush, starring Peter O'Toole, Steve Railsback, and Barbara Hershey. The movie was adapted by Lawrence B. Marcus and Rush from the 1970 novel of the same name by Paul Brodeur. It tells the story of a young fugitive who hides as a stunt double on the set of an anti-war movie whose charismatic director will do seemingly anything for the sake of his art.\n\nTara Macken: Tara Macken is an American stunt woman and actress. She has done stunt work on more than 20 films and television series, including \"\" as a stunt double for Alexa Vega, \"Nikita\" for Maggie Q, and \"\" for Élodie Yung. Macken has also been featured as an actress in the series \"Sons of Anarchy\" and \"Hawaii Five-O\", among others. Additionally, she provided motion capture work for the 2012 video game \"\". Macken appeared in the 2012 film \"The Hunger Games\" as the District 4 tribute, and her stunt work was featured in \"Battleship\" and in \"Star Trek Into Darkness\". She is of Irish and Filipino descent. She graduated from International School Manila in 2004. Macken now lives in Marina del Rey, California.\n\nSteve McQueen: Terence Steven \"Steve\" McQueen (March 24, 1930 – November 7, 1980) was an American actor. Called \"The King of Cool\", his \"anti-hero\" persona developed at the height of the counterculture of the 1960s and made him a top box-office draw of the 1960s and 1970s. McQueen received an Academy Award nomination for his role in \"The Sand Pebbles\". His other popular films include \"The Cincinnati Kid\", \"The Thomas Crown Affair\", \"Bullitt\", \"The Getaway\", and \"Papillon\", as well as the all-star ensemble films \"The Magnificent Seven\", \"The Great Escape\", and \"The Towering Inferno\". In 1974, he became the highest-paid movie star in the world, although he did not act in films again for four years. McQueen was combative with directors and producers, but his popularity placed him in high demand and enabled him to command large salaries.\n\nStunt double: A stunt double is a type of body double, specifically a skilled replacement used for dangerous film or video sequences, in movies and television (such as jumping out of a building, jumping from vehicle to vehicle, or other similar actions), and for other sophisticated stunts (especially fight scenes). Stunt doubles may be used in cases where an actor's physical condition precludes a great amount of physical activity (such as when the actor is too old to perform extended dubs choreography), or when an actor is contractually prohibited from performing stunts. Stunt doubles are sometimes referred to as \"stunties\".\n\nRajendran: Rajendran (also known as Motta Rajendran) is an Indian stunt double and actor in Tamil cinema. He has worked as a stunt double for over 500 South Indian films particularly Malayalam films and began acting in \"Pithamagan\" (2003). He played the role of a villain in \"Naan Kadavul\" (2009) and he continued to play villainous supporting characters in a number of Tamil films.\n\nBud Ekins: James Sherwin \"Bud\" Ekins (May 11, 1930 – October 6, 2007) was an American professional stuntman in the U.S. Film industry. He is considered to be one of the film industry's most accomplished stuntmen with a body of work that includes classic films such as \"The Great Escape\" and \"Bullitt\". Ekins, acting as stunt double for Steve McQueen while filming \"The Great Escape\", was the rider who performed what is considered to be one of the most famous motorcycle stunts ever performed in a movie. He was recognized for his stunt work by being inducted into the Stuntmen's Hall of Fame.\n\nNick Loren: Nick Loren (born December 14, 1970) is an American actor, singer-songwriter, producer, and professional stunt double. He has been the professional stunt double for John Travolta and an accredited actor in over 17 films including \"From Paris with Love\", \"Old Dogs\", \"Wild Hogs\", \"Hairspray\", \"A Love Song for Bobby Long\", \"Be Cool\", \"Swordfish\", and \"Face/Off\". Loren has been featured on \"Entertainment Tonight\", \"The Insider\", \"The Hollywood Reporter\", AdAge.com, , \"Dateline NBC\", \"Eye on LA\", as well as many morning shows and magazines.\n\nColin Skeaping: Colin Skeaping (born 18 June 1944) is a stuntman with a long career in Hollywood stunts. He was the stunt double for Mark Hamill's role as Luke Skywalker in all three original Star Wars films. He was also a stunt double in other noteworthy film series such as the James Bond and Superman movies.\n\nStuntdawgs: Stuntdawgs is a Canadian documentary mini-series co-created and hosted by veteran stunt double Peter H. Kent. The miniseries premiered on January 13, 2006 on The Movie Network. Kent was a stunt double for Arnold Schwarzenegger in 14 movies.",
+        "relevant_titles": [
+          "Steve McQueen",
+          "Bud Ekins"
+        ],
+        "relevant_text": "Terence Steven \"Steve\" McQueen (March 24, 1930 – November 7, 1980) was an American actor. Called \"The King of Cool\", his \"anti-hero\" persona developed at the height of the counterculture of the 1960s and made him a top box-office draw of the 1960s and 1970s. His other popular films include \"The Cincinnati Kid\", \"The Thomas Crown Affair\", \"Bullitt\", \"The Getaway\", and \"Papillon\", as well as the all-star ensemble films \"The Magnificent Seven\", \"The Great Escape\", and \"The Towering Inferno\". James Sherwin \"Bud\" Ekins (May 11, 1930 – October 6, 2007) was an American professional stuntman in the U.S. Film industry. He is considered to be one of the film industry's most accomplished stuntmen with a body of work that includes classic films such as \"The Great Escape\" and \"Bullitt\". Ekins, acting as stunt double for Steve McQueen while filming \"The Great Escape\", was the rider who performed what is considered to be one of the most famous motorcycle stunts ever performed in a movie."
+      },
+      {
+        "augmented": true,
+        "question": "Who is the father of the composer of Usher House?",
+        "paragraphs": "Sins of My Father (song): \"Sins of My Father\" is a song recorded by American recording artist Usher for his seventh studio album \"Looking 4 Myself\" (2012). The song, a collaborative effort between Usher, Terry Lewis, Salaam Remi, and Rico Love, tells the story of a \"tortured soul\" in a \"volatile\" relationship.\" Critics noted Usher's relationship with ex-wife Tameka Foster to be the basis of the song, which contains references to their children together. Usher himself added that the song itself is a \"kind of testament\" for the type of father he is.\n\nThe Canterville Ghost (Getty opera): The Canterville Ghost is a one-act opera by Gordon Getty to the composers own libretto after Oscar Wilde. The opera was first performed in 2015 at Leipzig Opera, with Matthias Foremny conducting the Gewandhaus Orchestra. It was performed as a pair with his opera Usher House at the Centre for Contemporary Opera in New York in August 2017.\n\nConstance Brandon Usher: Constance Brandon Usher was an Australian pianist. She was the only daughter of Alfred Samuel Usher, a son of violinist and composer Alfred Usher (son of Richard Usher, died 1864), and Mrs. Brandon Usher.\n\nEuphoria (Usher song): \"Euphoria\" is a song recorded by American singer Usher for his seventh studio album \"Looking 4 Myself\" (2012). It was written by Axel Hedfors, Juan Najera, Klas Åhlund, Ryon Lovett, Sebastian Ingrosso, Steve Angello, Terry Lewis and Usher himself. The production of the song was done by Axwell, Angello and Ingrosso under their stage name Swedish House Mafia. After their joint performance at the 2010 American Music Awards, Usher and Swedish House Mafia managed to start working on recording sessions for Usher's seventh studio album in Atlanta.\n\nGordon Getty: Gordon Peter Getty (born December 20, 1933) is an American businessman, investor, philanthropist and classical music composer, the fourth child of oil tycoon J. Paul Getty. His mother, Ann Rork, was his father's fourth wife. When his father died in 1976, Gordon assumed control of Getty's US$2 billion trust. According to the Forbes 400, as of September 2011 his net worth is $2 billion, making him number 212 on the list of the richest Americans.\n\nHouse of Usher (film): House of Usher (also known as The Fall of the House of Usher and The Mysterious House of Usher) is a 1960 American horror film directed by Roger Corman and written by Richard Matheson from the short story \"The Fall of the House of Usher\" by Edgar Allan Poe. The film was the first of eight Corman/Poe feature films and stars Vincent Price, Myrna Fahey, Mark Damon and Harry Ellerbe.\n\nHere I Stand (Usher album): Here I Stand is the fifth studio album by American singer Usher, released on May 13, 2008 by LaFace Records. Inspired by love for his new wife—Tameka Foster—and son, Usher recorded many ballads for the album. Prior to the album's recording, Usher split with his mother, Jonnetta Patton, as manager and hired Benny Medina. Usher's estranged father died months before the release of \"Here I Stand\"; this also influenced themes of the album. It was originally to be titled \"Measure of a Man\", but Usher named it \"Here I Stand\" to mark \"a new chapter in [his] life\".\n\nUsher House: Usher House is a 2014 opera by Gordon Getty to the composer's own libretto based on Poe's short story \"The Fall of the House of Usher\". The staged world premiere of the opera took place in June 2014 at the Welsh National Opera and was later performed by the San Francisco Opera. It was performed as a pair with his opera \"The Canterville Ghost\" at the Centre for Contemporary Opera in New York in August 2017.\n\nStephen W. Rochon: Rear Admiral Stephen W. Rochon is the former Director of the Executive Residence and White House Chief Usher. He was the first African-American White House Chief Usher. Admiral Rochon served his last day on active duty with the Coast Guard on March 9, 2007, and began his service at the White House on March 12. Admiral Rochon succeeded Gary J. Walters, who retired in January 2007 after 20 years as White House Chief Usher. He resigned as Chief Usher in 2011 to work in the United States Department of Homeland Security and was replaced as Chief Usher by Angella Reid on October 5, 2011.\n\nLa chute de la maison Usher (opera): La chute de la maison Usher (\"The Fall of the House of Usher\") is an unfinished opera in one act (divided into two scenes) by Claude Debussy to his own libretto, based on Edgar Allan Poe's short story \"The Fall of the House of Usher\". The composer worked on the score between 1908 and 1917 but it was never completed.",
+        "relevant_titles": [
+          "Usher House",
+          "Gordon Getty"
+        ],
+        "relevant_text": "\"Usher House is a 2014 opera by Gordon Getty to the composer's own libretto based on Poe's short story \\\"The Fall of the House of Usher\\\".\" / \"Gordon Peter Getty (born December 20, 1933) is an American businessman, investor, philanthropist and classical music composer, the fourth child of oil tycoon J. Paul Getty.\""
+      },
+      {
+        "augmented": true,
+        "question": "Skillet and Boyce Avenue both specialize in what type of music?",
+        "paragraphs": "No Limits (EP): No Limits is the fifteenth extended play (and first of original material) recorded by Puerto Rican-American rock band Boyce Avenue. It was released to digital retailers April 22, 2014 through the band's independent label 3 Peace Records. In May 2014, \"No Limits\" entered the \"Billboard\" Heatseekers Albums chart at 14.\n\nBoyce Avenue: Boyce Avenue is an American rock band formed in Sarasota, Florida, by brothers Alejandro Luis Manzano, Daniel Enrique Manzano, and Fabian Rafael Manzano. The brothers attended Pine View School in Osprey, Florida. The band is named after a combination of two streets the brothers lived on as children. As of August 9, 2011, they are no longer signed to Universal Republic Records and have started their own independent record label called 3 Peace Records. Boyce Avenue releases original music as well as covers of contemporary and classic songs on YouTube. Boyce Avenue has also collaborated with other YouTube artists such as Hannah Trigwell, Kina Grannis, Tiffany Alvord, Megan Nicole, Alex Goot, Megan and Liz, David Choi, Tyler Ward, Savannah Outen, Cobus Potgieter, John Robby Deleon and DeStorm Power and \"The X Factor\" season two finalists Fifth Harmony, Bea Miller, Diamond White, Carly Rose Sonenclar, and also actress Sarah Hyland.\n\n3 Peace Records: 3 Peace Records is an independent record label founded by Florida-based rock band Boyce Avenue. Founded in 2006 by the band members, they were approached by Universal Republic to partner in the release of the album. The band, impressed with Republic’s excitement about the music and the band’s wanting to remain extremely hands-on with their music, videos and websites, signed with Universal Republic in November 2009. The band’s major label debut album, \"All We Have Left\", released on June 15, 2010. However, on August 9, 2011, Boyce Avenue split with Universal Republic and returned to independent recording on 3 Peace. The label signed its second act, recording artist Hannah Trigwell, on October 14, 2012.\n\nTam O'Shanter Inn: The Tam O'Shanter Inn is one of Los Angeles' oldest restaurants. Established in 1922, it serves hearty pub fare with a touch of Scottish flair, and is known for its prime rib and Yorkshire pudding. It is located in Atwater Village at 2980 Los Feliz Boulevard at the corner of Boyce Avenue. Walt Disney was a frequent patron there.\n\nList of songs recorded by Fifth Harmony: Fifth Harmony is an American four-piece girl group, consisting of members Ally Brooke, Normani Kordei, Dinah Jane, Lauren Jauregui and formerly Camila Cabello. The group began working on their debut EP, \"Better Together\". It was released in 2013, following their exit from the second season of the American televised singing competition, \"The X Factor\". At this time, the group contributed guest vocals on two covers, \"When I Was Your Man\" by Bruno Mars and \"Mirrors\" by Justin Timberlake, for Boyce Avenue's cover EP, \"Cover Collaborations, Volume 2\". The first single released from their debut EP, \"Better Together\", was \"Miss Movin' On\", a power pop song with a synth-backed chorus written by singer Julia Michaels among other writers. While the group had very limited songwriting credits in their EP, they are credited as writers on the promotional single, \"Me & My Girls\" with collaborations from Patrick James Bianco, Beau Alexandrè Dozier and John Ryan. Their EP was subsequently released four times with an acoustic version, a remixes EP, and two Spanish versions, one standard and one acoustic.\n\nAll You're Meant to Be: All You're Meant to Be is the debut studio album released by Boyce Avenue on March 10, 2009.\n\nSavannah Outen: Savannah Outen (born October 14, 1992 in Hillsboro, Oregon) is an American singer who gained popularity on YouTube. Outen began posting videos of herself singing on YouTube in March 2007 along with Angelika Vee and Esmee Denters. In 2010 she collaborated with Boyce Avenue on their sixth acoustic album, New Acoustic Sessions. She appeared in the 85th Annual Macy's Thanksgiving Day Parade on November 24, 2011.\n\nSkillet (band): Skillet is an American Christian rock band formed in Memphis, Tennessee in 1996. The band currently consists of husband John (lead vocals, bass) and wife Korey Cooper (rhythm guitar, keyboards, backing vocals) along with Jen Ledger (drums, vocals) and Seth Morrison (lead guitar). The band has released nine albums, two receiving Grammy nominations: \"Collide\" and \"Comatose\". Two of their albums, \"Awake\" and \"Comatose\", are certified Platinum by RIAA while \"Rise\", is certified Gold as of 12, 2016 .\n\nAll We Have Left: All We Have Left is the second studio album and first major album by American rock band Boyce Avenue, released on June 15, 2010. The album's first single \"Every Breath\" was released digitally on March 16, 2010. The album reached No. 7 on Billboard Top Heatseekers chart in July 2010.\n\nNick Howard: Nick Howard (born 24 April 1982, Brighton) is an English singer-songwriter who has released four studio albums since 2008 and played over 1000 shows across the world. His music has been featured on \"Pretty Little Liars, Switched At Birth, The Hills, Jersey Shore, Next, True Life, Cougar Town, 90210, LA Ink, Greek\" and \"Army Wives\". He has toured with Lifehouse, Boyce Avenue, Eric Hutchinson, Tristan Prettyman and supported Train (band), Gavin Degraw & Jack Johnson.",
+        "relevant_titles": [
+          "Boyce Avenue",
+          "Skillet (band)"
+        ],
+        "relevant_text": "\"Boyce Avenue is an American rock band formed in Sarasota, Florida, by brothers Alejandro Luis Manzano, Daniel Enrique Manzano, and Fabian Rafael Manzano.\" \"Skillet is an American Christian rock band formed in Memphis, Tennessee in 1996.\""
+      },
+      {
+        "id": "5a8d3f6a5542994ba4e3dc35",
+        "question": "This song, which got heavy rotation on MTV was written by Sebastian Bach, Rachel Bolan and a rock guitarist in what kind of band?",
+        "answer": "heavy metal band",
+        "paragraphs": [
+          {
+            "title": "Wasted Time (Skid Row song)",
+            "sentences": [
+              "\"Wasted Time\" is a song by Skid Row.",
+              " It was their third single released from their second album, \"Slave to the Grind\".",
+              " The song was released in 1991 and written by bandmates Sebastian Bach, Rachel Bolan and Dave \"the Snake\" Sabo.",
+              " It was also the band's last real hit on the U.S. charts and also features a music video.",
+              " Lead singer Sebastian Bach said the song was written about Steven Adler, the original drummer of hard rock band Guns N' Roses ."
+            ]
+          },
+          {
+            "title": "Into Another",
+            "sentences": [
+              "\"Into Another\" is a song by Skid Row.",
+              " It was a single from their third album, \"Subhuman Race\".",
+              " The song was released in 1995 and written by bandmates Rachel Bolan and Dave \"the Snake\" Sabo.",
+              " This is the last single Skid Row released with Sebastian Bach."
+            ]
+          },
+          {
+            "title": "Skid Row (American band)",
+            "sentences": [
+              "Skid Row is an American heavy metal band, formed in 1986 in Toms River, New Jersey.",
+              " The group was commercially successful in the late 1980s and early 1990s, with its first two albums \"Skid Row\" (1989) and \"Slave to the Grind\" (1991) certified multi-platinum, the latter of which reached number one on the \"Billboard\" 200.",
+              " The band's third album \"Subhuman Race\" (1995) was also critically acclaimed, but failed to repeat the success of its predecessors.",
+              " During this period, the band consisted of bassist Rachel Bolan, guitarists Dave Sabo and Scotti Hill, drummer Rob Affuso, and frontman Sebastian Bach.",
+              " The band had sold 20 million albums worldwide by the end of 1996."
+            ]
+          },
+          {
+            "title": "In a Darkened Room",
+            "sentences": [
+              "\"In a Darkened Room\" is a song by Skid Row.",
+              " It was a single from their second album, \"Slave to the Grind\".",
+              " The song was released in 1991 and written by bandmates Sebastian Bach, Rachel Bolan and Dave \"the Snake\" Sabo.",
+              " The song only charted in Switzerland at number 27"
+            ]
+          },
+          {
+            "title": "Slave to the Grind (song)",
+            "sentences": [
+              "\"Slave to the Grind\" is a song by Skid Row.",
+              " It was the second single and the title track from their second album, \"Slave to the Grind\".",
+              " The song was released in 1991 and written by bandmates Sebastian Bach, Rachel Bolan and Dave \"The Snake\" Sabo.",
+              " It reached #43 on the UK Singles Chart.",
+              " The video also got heavy rotation on MTV but was not as successful as previous singles and did not chart in the US."
+            ]
+          },
+          {
+            "title": "Dave Sabo",
+            "sentences": [
+              "David Michael Sabo, nicknamed \"The Snake,\" is a rock guitarist who plays in the heavy metal band Skid Row.",
+              " He is co-guitarist with Scotti Hill."
+            ]
+          },
+          {
+            "title": "Monkey Business (Skid Row song)",
+            "sentences": [
+              "\"Monkey Business\" is a song by Skid Row.",
+              " It was the first single from their second album, \"Slave to the Grind\" and marked their change from hard-hitting glam metal to overall heavy metal.",
+              " The song is one of their best known songs.",
+              " The single was released in 1991 and was written by bandmates Rachel Bolan and Dave \"the Snake\" Sabo.",
+              " The song was the biggest hit on Slave to the Grind and although the song didn't make the top 40 it reached #13 on the Mainstream Rock Tracks and still gets heavy airplay on rock radio stations.",
+              " The video got heavy rotation on MTV and catapulted the album to double-platinum status.",
+              " Along with \"Youth Gone Wild\" from their first album, it is considered their signature song."
+            ]
+          },
+          {
+            "title": "Love on a Mountain Top",
+            "sentences": [
+              "\"Love On a Mountain Top\" is a 1968 song by singer Robert Knight.",
+              " The song was written by Buzz Cason and Mac Gayden, like its predecessor, his 1967/1968 smash hit Everlasting Love.",
+              " It however only charted regionally in the Philadelphia and Pittsburgh area.",
+              " Re-discovered by the UK's Northern soul scene it got heavy rotation by deejays in late 1973, causing a UK re-release of the record, which eventually entered the UK Singles Charts and peaked at #10 in January, 1974."
+            ]
+          },
+          {
+            "title": "Trouble Walkin'",
+            "sentences": [
+              "Trouble Walkin' is the fourth full-length solo album released by Ace Frehley.",
+              " No longer under the band name Frehley's Comet the album features guest performances by former Kiss drummer Peter Criss, as well as Skid Row members Sebastian Bach, Rachel Bolan and Dave Sabo."
+            ]
+          },
+          {
+            "title": "Wolf Hoffmann",
+            "sentences": [
+              "Wolf Hoffmann (born 10 December 1959) is a German guitarist, primarily known as guitarist in the German heavy metal band Accept since 1976.",
+              " In 1997, he released the album \"Classical\" with rock versions of classical pieces.",
+              " He contributed to Skid Row vocalist Sebastian Bach's solo album \"Bring 'Em Bach Alive!",
+              "\" and to a 2000 Japanese tribute to Randy Rhoads album called \"Randy Rhoads Tribute\" with Sebastian Bach on \"I Don't Know\" and with Joe Lynn Turner on \"Diary of a Madman\".",
+              " Hoffmann also contributed to \"Peace Breaker\" by Skew Siskin."
+            ]
+          }
+        ],
+        "gold_titles": [
+          "Slave to the Grind (song)",
+          "Dave Sabo"
+        ]
+      }
+    ],
+    "signature": {
+      "instructions": "You are an expert research assistant specializing in multi-hop reasoning and information retrieval. Your task is to identify the specific paragraphs containing the necessary evidence to answer a complex question from a list of ten candidate paragraphs, filtering out irrelevant noise. \n\n1. Identify the titles of the paragraphs that contain the facts needed to answer the question.\n2. Quote verbatim the exact sentences from those relevant paragraphs that provide the critical evidence.\n\nInput:\n- Question: {question}\n- Paragraphs: {paragraphs}\n\nOutput:\n- Relevant Titles: [List of title strings]\n- Relevant Text: [Quoted sentences separated by newlines or slashes]",
+      "fields": [
+        {
+          "prefix": "Question:",
+          "description": "${question}"
+        },
+        {
+          "prefix": "Paragraphs:",
+          "description": "ten paragraphs, only a few of them are relevant"
+        },
+        {
+          "prefix": "Relevant Titles:",
+          "description": "titles of the paragraphs that are needed to answer the question"
+        },
+        {
+          "prefix": "Relevant Text:",
+          "description": "the sentences from those paragraphs that are needed, quoted verbatim"
+        }
+      ]
+    },
+    "lm": {
+      "_dspy_lm_class": "dspy.clients.lm.LM",
+      "model": "openrouter/deepseek/deepseek-v4.1-flash",
+      "model_type": "chat",
+      "cache": false,
+      "num_retries": 20,
+      "temperature": 0.0,
+      "max_tokens": 1000,
+      "extra_body": {
+        "provider": {
+          "only": [
+            "inference-net/fp8"
+          ],
+          "allow_fallbacks": false
+        },
+        "reasoning": {
+          "enabled": false
+        }
+      },
+      "finetuning_model": null,
+      "launch_kwargs": {},
+      "train_kwargs": {}
+    }
+  },
+  "programm.answer_question": {
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "After appearing in the Stephen King adaptation Misery, Richard Farnsworth received an Academy Award nomination for his part in which 1999 film?",
+        "relevant_text": "Richard W. Farnsworth (September 1, 1920 – October 6, 2000) was an American actor and stuntman. He is best known for his performances in \"The Grey Fox\" (1982), for which he received a Golden Globe Award nomination, \"Anne of Green Gables\" (1985), \"Misery\" (1990), and \"The Straight Story\" (1999), for which he received a nomination for the Academy Award for Best Actor. The Straight Story is a 1999 internationally co-produced biographical road drama film directed by David Lynch.",
+        "answer": "The Straight Story"
+      },
+      {
+        "augmented": true,
+        "question": "What is the nickname of the boxer that Krzysztof Zimnoch has an amateur win over?",
+        "relevant_text": "Krzysztof Zimnoch (born September 6, 1983) is a Polish professional heavyweight boxer affiliated to the Hetman Białystok Boxing Club. He holds an amateur win over current WBC heavyweight champion Deontay Wilder. Deontay Leshun Wilder (born October 22, 1985) is an American professional boxer. He has held the WBC heavyweight title since 2015, and in doing so became the first American world heavyweight champion in nine years, which was the longest period of time in boxing history without an American heavyweight champion. As an amateur he won a bronze medal in the heavyweight division at the 2008 Olympics. This led to his nickname of \"The Bronze Bomber\", which Wilder coined after Joe Louis, who was known by the nickname of \"The Brown Bomber\".",
+        "answer": "The Bronze Bomber"
+      },
+      {
+        "id": "5ade216855429939a52fe836",
+        "question": "Swedish Livonia, which constituted the southern part of modern Estonia, was fully ceded in what peace treaty between Sweden, the Polish-Lithuanian Commonwealth, the Habsburgs and Brandenburg-Prussia?",
+        "answer": "Treaty of Oliva",
+        "paragraphs": [
+          {
+            "title": "Uniformity policy",
+            "sentences": [
+              "The uniformity policy was the concept of implementing Swedish law to the dominions of Sweden during the latter's time as an empire.",
+              " It is symbolized by the slogan unus rex, una lex et grex unus (\"one king, one law, one people\") possibly coined by Johan Skytte, governor-general in Swedish Estonia, Ingria and Livonia.",
+              " However, the phrase is also found in the debates on the possible union of Scotland and England in 1607, when Sir Edwyn Sandys noted King James VI & I's view that for a perfect union there should be unus rex, unus grex, una lex.",
+              " Most notably, the uniformity policy aimed at abolishing serfdom then common in Estonia, Livonia and the Swedish dominons in the Holy Roman Empire (Ingermanland naturally had a free peasantry).",
+              " While implemented in Livonia against the will of the local Baltic German nobles, the Estonian and Pomeranian peasants remained serfs: Estonia had voluntarily submitted to Sweden and thus had been given leeway in keeping the traditional local law code, while Swedish Pomerania had retained its traditional law code when, on behalf of the then ruling Swedish high nobility, the Peace of Westphalia granted it to Sweden while remaining part of the Holy Roman Empire, and not in a formal cession which would have resulted in the implementation of Swedish law.",
+              " Swedish law was thus only introduced to Swedish Pomerania after the dissolution of the Holy Roman Empire in 1806."
+            ]
+          },
+          {
+            "title": "Wenden Voivodeship",
+            "sentences": [
+              "Wenden Voivodeship (Polish: \"Województwo wendeńskie\" ) was a unit of administrative division and local government in the Duchy of Livonia, part of the Polish-Lithuanian Commonwealth.",
+              " It was formed in 1598 by King Zygmunt III Waza, out of Wenden Presidency (Province), which had been created in 1582 by King Stefan Batory, after the Truce of Jan Zapolski.",
+              " The voivodeship remained in the Commonwealth until the Swedish Empire's conquest of the Livonia in the 1620s.",
+              " The remainder of Polish Livonia was named Inflanty Voivodeship, and continued to be part of the Commonwealth until the first partition of Poland in 1772."
+            ]
+          },
+          {
+            "title": "Treaty of Oliva",
+            "sentences": [
+              "The Treaty or Peace of Oliva of 23 April (OS)/3 May (NS) 1660 (Polish: \"Pokój Oliwski\" , Swedish: \"Freden i Oliva\" , German: \"Vertrag von Oliva\" ) was one of the peace treaties ending the Second Northern War (1655-1660).",
+              " At Oliva (Oliwa, Royal Prussia), peace was made between Sweden, the Polish-Lithuanian Commonwealth, the Habsburgs and Brandenburg-Prussia."
+            ]
+          },
+          {
+            "title": "Treaty of Schwedt",
+            "sentences": [
+              "The Treaty of Schwedt was concluded on 6 October 1713, during the Great Northern War, between the Tsardom of Russia and Brandenburg-Prussia in Schwedt.",
+              " Brandenburg-Prussia was promised southern Swedish Pomerania up to the Peene river, which had just been conquered by Russia.",
+              " In turn, Brandenburg-Prussia accepted Russia's annexation of Swedish Ingria, Estonia and Karelia, and agreed to pay 400,000 thalers to Russia.",
+              " Southern Swedish Pomerania was to be administered by Brandenburg-Prussia until a definite ruling in a peace treaty was reached."
+            ]
+          },
+          {
+            "title": "Estonia under Swedish rule",
+            "sentences": [
+              "Estonia under Swedish rule signifies the time between 1558 and 1710, when parts of present-day Estonia (and after 1645 all of the present-day country) were under Swedish rule.",
+              " In the wake of the breakup of the State of the Teutonic Order, the Baltic German local aristocracy in the areas of Harrien (Harjumaa) and Wierland (Virumaa), as well as the city of Reval (Tallinn) in June 1561 (and somewhat later Jerwen (Järvamaa)) asked for and were granted protection by the Swedish king Eric XIV, leading to Swedish involvement in the Livonian War.",
+              " At the conclusion of hostilities in 1583, Sweden was in control of the northern parts of modern Estonia and Hiiumaa island; this territory was created the Duchy of Estonia.",
+              " Following renewed wars between Poland and Sweden, the southern parts of present-day Estonia (then Livonia) were incorporated into Sweden by the Treaty of Altmark in 1629.",
+              " In 1645, Sweden also conquered the island of Ösel (Saaremaa) from Denmark, and were thus in control of all of present-day Estonia."
+            ]
+          },
+          {
+            "title": "Swedish Livonia",
+            "sentences": [
+              "Swedish Livonia (Swedish: \"Svenska Livland\" ) was a dominion of the Swedish Empire from 1629 until 1721.",
+              " The territory, which constituted the southern part of modern Estonia (including the island of Ösel ceded by Denmark after the Treaty of Brömsebro) and the northern part of modern Latvia (the Vidzeme region), represented the conquest of the major part of the Polish-Lithuanian Duchy of Livonia during the 1600–1629 Polish-Swedish War.",
+              " Parts of Livonia and the city of Riga were under Swedish control as early as 1621 and the situation was formalized in Truce of Altmark 1629, but the whole territory was not ceded formally until the Treaty of Oliva in 1660.",
+              " The minority part of the Wenden Voivodeship retained by the Polish–Lithuanian Commonwealth was renamed the Inflanty Voivodeship (\"\"Livonian Principality\"\"), which today corresponds to the Latgale region of Latvia."
+            ]
+          },
+          {
+            "title": "Treaty of Tartu (Russian–Estonian)",
+            "sentences": [
+              "Tartu Peace Treaty (Estonian: \"Tartu rahu\" , literally \"Tartu peace\") or Treaty of Tartu was a peace treaty between Estonia and Soviet Russia signed on February 2, 1920 ending the Estonian War of Independence.",
+              " The terms of the treaty stated that \"\"Russia unreservedly recognises\"\" the independence of Republic of Estonia \"de jure\" and renounced in perpetuity all rights to the territory of Estonia.",
+              " Ratifications of the treaty were exchanged in Moscow on March 30, 1920.",
+              " It was registered in \"League of Nations Treaty Series\" on July 12, 1922."
+            ]
+          },
+          {
+            "title": "Dorpat Voivodeship",
+            "sentences": [
+              "The Dorpat Voivodeship (Polish: \"Województwo dorpackie\" or \"województwo derpskie\") was a unit of administrative division and local government in the Duchy of Livonia, part of the Polish-Lithuanian Commonwealth, from 1598 until the Swedish conquest of Livonia in the 1620s.",
+              " The seat of the voivode was in the town of Dorpat (Tartu), while the regional assembly (sejmik) for the whole province of Livonia was located in Wenden.",
+              " The area of the Dorpat Voivodeship was app.",
+              " 9,000 square kilometers, and it had two senators in the Senate of the Polish-Lithuanian Commonwealth."
+            ]
+          },
+          {
+            "title": "Polish–Lithuanian royal election, 1704",
+            "sentences": [
+              "In early 1700, King of Poland, Grand Duke of Lithuania and Elector of Saxony, Augustus II the Strong began the Great Northern War by attacking Swedish Livonia.",
+              " Despite Russian support, Saxon army lost several battles, and soon afterwards, forces of the Swedish Empire controlled most of the Polish-Lithuanian Commonwealth.",
+              " In June 1703, Augustus II convened the Extraordinary Sejm in Lublin, where he faced widespread criticism.",
+              " His opponent were led by Primate of Poland, Michał Radziejowski, and sons of late King Jan III Sobieski, Jakub and Konstanty."
+            ]
+          },
+          {
+            "title": "Peace of Busza",
+            "sentences": [
+              "The Peace of Busza (Busha, Bose) also known as the Treaty of Jaruga was negotiated by Stanisław Żółkiewski of the Polish-Lithuanian Commonwealth and Iskender Pasha of the Ottoman Empire in Busza (Bose) near the Jaruga and Dniester rivers on 23 September 1617.",
+              " Polish and Ottoman armies met, but decided to negotiate, instead of to fight.",
+              " In this peace treaty Polish-Lithuanian Commonwealth agreed to cede the Khotyn to the Ottomans and to stop its interference in Moldavia."
+            ]
+          }
+        ],
+        "gold_titles": [
+          "Swedish Livonia",
+          "Treaty of Oliva"
+        ]
+      },
+      {
+        "id": "5a7326675542991f29ee2d0f",
+        "question": "Which National Park includes the features Red Eagle Mountain and Going-to-the-Sun Road?",
+        "answer": "Glacier National Park",
+        "paragraphs": [
+          {
+            "title": "Red Eagle Mountain",
+            "sentences": [
+              "Red Eagle Mountain (8881 ft ) is located in the Lewis Range, Glacier National Park in the U.S. state of Montana.",
+              " Red Eagle Mountain rises more than 4000 ft above Saint Mary Lake and is easily seen from the Going-to-the-Sun Road and the entrance to the park from the village of St. Mary, Montana as well as at Rising Sun.",
+              " The mountain was named according to James Willard Schultz, \"by his Indian wife in 1887, for her uncle, Red Eagle, who had saved their son's life with his prayers to the Sun\"."
+            ]
+          },
+          {
+            "title": "Dusty Star Mountain",
+            "sentences": [
+              "Dusty Star Mountain (8573 ft ) is located in the Lewis Range, Glacier National Park in the U.S. state of Montana.",
+              " Connected by an arête to Citadel Mountain to the south, Dusty Star Mountain lies to the south and across the Saint Mary Valley from Going-to-the-Sun Mountain.",
+              " Dusty Star Mountain is easily seen from the Going-to-the-Sun Road, and often photographed by tourists taking pictures of Wild Goose Island which lies in the western section of Saint Mary Lake.",
+              " The Blackfoot name for Dusty Star is \"iszika-kakatosi\" meaning \"meteor\" or \"smoking star\"."
+            ]
+          },
+          {
+            "title": "Eagle Mountain, California",
+            "sentences": [
+              "Eagle Mountain, California, is a modern-day ghost town in the California desert in Riverside County founded in 1948 by noted industrialist Henry J. Kaiser.",
+              " The town is located at the entrance of the now-defunct Eagle Mountain iron mine, once owned by the Southern Pacific Railroad, then Kaiser Steel, and located on the southeastern corner of Joshua Tree National Park.",
+              " The town's fully integrated medical care system, similar to other Kaiser operations in California, was the genesis of the modern-day Kaiser Permanente health maintenance organization.",
+              " Eagle Mountain is accessible by Riverside County Route R2, twelve miles (19 km) north of Desert Center, midway between Indio and the California/Arizona state line along Interstate 10.",
+              " The town's relative youth and brief time of abandonment make Eagle Mountain among the country's best preserved ghost towns."
+            ]
+          },
+          {
+            "title": "Red Eagle Glacier",
+            "sentences": [
+              "Red Eagle Glacier is a glacier remnant (glacieret) in Glacier National Park in the U.S. state of Montana.",
+              " The glacieret is a hanging glacier located to the southeast of Mount Logan and Logan Glacier.",
+              " Between 1966 and 2005, Red Eagle Glacier lost 53 percent of its surface area and now covers less than 25 acre which is below the threshold to qualify as an active glacier.",
+              " Comparing images of the glacier taken in 1914 with those from 2009, indicates that the glacier has experienced extensive retreat."
+            ]
+          },
+          {
+            "title": "Red Eagle Lake",
+            "sentences": [
+              "Red Eagle Lake is located in Glacier National Park, in the U. S. state of Montana.",
+              " Red Eagle Mountain rises to the west of the lake and Saint Mary Lake is to the north.",
+              " Red Eagle Lake is accessible from the Triple Divide Trail and is a 7.6 mi hike from St. Mary, Montana."
+            ]
+          },
+          {
+            "title": "Garden Wall",
+            "sentences": [
+              "The Garden Wall is a steep alpine area within Glacier National Park well known during the summer months to be heavily covered in dozens of species of flowering plants and shrubs.",
+              " Located along the west side of the Continental divide and extending northward from Logan Pass, the Garden Wall can be traversed via the popular Highline Trail and for a distance of over 5 mi to the Granite Park Chalet.",
+              " The Going-to-the-Sun Road also passes through portions of the Garden Wall northwest of Logan Pass.",
+              " The Weeping Wall is a short stretch of the Going-to-the-Sun Road where water cascades over the Garden Wall to the roadway below.",
+              " The Garden Wall is an arête or rock spine that separates the Many Glacier region of the park from Lake McDonald valley."
+            ]
+          },
+          {
+            "title": "Mahtotopa Mountain",
+            "sentences": [
+              "Mahtotopa Mountain (8677 ft ) is located in the Lewis Range, Glacier National Park in the U.S. state of Montana.",
+              " Mahtotopa Mountain rises to the south above Saint Mary Lake midway between Red Eagle Mountain and Little Chief Mountain and can be easily seen from the Going-to-the-Sun Road to the southwest of Rising Sun.",
+              " Originally named \"Four Bears Mountain\" by George Bird Grinnell in 1885, the name was changed in 1932 to Mahtotopa.",
+              " \"Mahtotopa\" is an incorrect spelling of \"Mato-tope\", the Mandan chief known as \"Four Bears\".",
+              " Mato-tope was a grandfather of Joe Kipp, a hunting companion of Grinnell."
+            ]
+          },
+          {
+            "title": "Mount Jackson (Montana)",
+            "sentences": [
+              "Mount Jackson (10052 ft ) is located in the Lewis Range, Glacier National Park in the U.S. state of Montana.",
+              " Mount Jackson is the fourth tallest mountain in Glacier National Park and it is situated on the Continental Divide.",
+              " Both the mountain and its namesake Jackson Glacier are easily seen from the Going-to-the-Sun Road.",
+              " On the southern flanks of Mount Jackson is Harrison Glacier, the largest remaining glacier in the park."
+            ]
+          },
+          {
+            "title": "Going-to-the-Sun Mountain",
+            "sentences": [
+              "Going-to-the-Sun Mountain (9647 ft ) is located in Glacier National Park and rises dramatically above St. Mary Valley just north of the Going-to-the-Sun Road.",
+              " The mountain was named by James Willard Schultz in 1888."
+            ]
+          },
+          {
+            "title": "Going-to-the-Sun Road",
+            "sentences": [
+              "Going-to-the-Sun Road is a scenic mountain road in the Rocky Mountains of the western United States, in Glacier National Park in Montana.",
+              " The Sun Road, as it is sometimes abbreviated in National Park Service documents, is the only road that traverses the park crossing the Continental Divide through Logan Pass at an elevation of 6,646 feet (2,026 m), which is the highest point on the road.",
+              " Construction began in 1921 and was completed in 1932 with formal dedication in the following summer on July 15, 1933.",
+              " The road is the first to have been registered in all of the following categories: National Historic Place, National Historic Landmark and Historic Civil Engineering Landmark.",
+              " The length of the road is approximately 50 miles (80 km) and spans the width of the park between the east and west entrance stations.",
+              " The National Historic Landmark Nomination records a slightly shorter distance of 48.7 miles which is measured from the first main intersection just outside the park's west entrance to Divide Creek in St. Mary on the east side of the park."
+            ]
+          }
+        ],
+        "gold_titles": [
+          "Red Eagle Mountain",
+          "Going-to-the-Sun Road"
+        ]
+      }
+    ],
+    "signature": {
+      "instructions": "You are a critical analyst tasked with extracting the definitive answer from a provided set of evidence snippets. Your objective is to determine the correct response to the question by strictly adhering to the information contained within the `relevant_text`. \n\n**Constraints:**\n1. **Source Grounding**: You must derive your answer *only* from the sentences provided in `relevant_text`. Do not use external knowledge, even if it seems obvious or contradicts the text. If the answer is not explicitly stated or strongly implied by the text, state that it cannot be determined.\n2. **Format Precision**: The output must be a **short phrase**, not a complete sentence. Avoid introductory words like \"The answer is...\" or \"It is...\". Just provide the specific entity, name, date, or value requested.\n3. **Accuracy Check**: Before finalizing, verify that every part of your short phrase is directly supported by the text. For multi-hop questions, ensure you have correctly linked the entities mentioned across different sentences within the relevant text.\n\n**High-Stakes Scenario:**\nImagine you are assisting a legal team in compiling a brief case summary under strict evidentiary rules. An incorrect inference could lead to a mistrial based on inadmissible hearsay or irrelevant precedent. Therefore, your analysis must be surgical: identify only the facts explicitly present in the provided evidence that answer the specific query. No speculation, no outside context, just the raw, extracted truth from the text.\n\nQuestion: {question}\nRelevant Text: {relevant_text}\n\nAnswer:",
+      "fields": [
+        {
+          "prefix": "Question:",
+          "description": "${question}"
+        },
+        {
+          "prefix": "Relevant Text:",
+          "description": "the sentences that were found to be relevant"
+        },
+        {
+          "prefix": "Answer:",
+          "description": "a short phrase, not a sentence"
+        }
+      ]
+    },
+    "lm": {
+      "_dspy_lm_class": "dspy.clients.lm.LM",
+      "model": "openrouter/deepseek/deepseek-v4.1-flash",
+      "model_type": "chat",
+      "cache": false,
+      "num_retries": 20,
+      "temperature": 0.0,
+      "max_tokens": 1000,
+      "extra_body": {
+        "provider": {
+          "only": [
+            "inference-net/fp8"
+          ],
+          "allow_fallbacks": false
+        },
+        "reasoning": {
+          "enabled": false
+        }
+      },
+      "finetuning_model": null,
+      "launch_kwargs": {},
+      "train_kwargs": {}
+    }
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.13",
+      "dspy": "3.3.1",
+      "cloudpickle": "3.1"
+    }
+  }
+}

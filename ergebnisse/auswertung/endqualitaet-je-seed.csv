@@ -1,0 +1,25 @@
+﻿strategie;seed;kandidatenmodell;bewertung_test
+Ohne Optimierung;1;deepseek/deepseek-v4.1-flash;0,7977738395907277
+Ohne Optimierung;2;deepseek/deepseek-v4.1-flash;0,796561934828823
+Ohne Optimierung;3;deepseek/deepseek-v4.1-flash;0,7949444745113625
+Einzelmodell: gpt-oss-120b;1;openai/gpt-oss-120b;0,7748247572801326
+Einzelmodell: gpt-oss-120b;2;openai/gpt-oss-120b;0,7488055856224737
+Einzelmodell: gpt-oss-120b;3;openai/gpt-oss-120b;0,751520483775859
+Einzelmodell: Gemma 4 31B;1;google/gemma-4-31b-it;0,7924218895799541
+Einzelmodell: Gemma 4 31B;2;google/gemma-4-31b-it;0,7982123657704303
+Einzelmodell: Gemma 4 31B;3;google/gemma-4-31b-it;0,7976642805223451
+Einzelmodell: DeepSeek V4.1 Flash;1;deepseek/deepseek-v4.1-flash;0,8041443801612682
+Einzelmodell: DeepSeek V4.1 Flash;2;deepseek/deepseek-v4.1-flash;0,7962334355503237
+Einzelmodell: DeepSeek V4.1 Flash;3;deepseek/deepseek-v4.1-flash;0,8004780020948902
+Einzelmodell: GPT-6 Luna;1;openai/gpt-6-luna;0,7392192921773567
+Einzelmodell: GPT-6 Luna;2;openai/gpt-6-luna;0,7241194586775233
+Einzelmodell: GPT-6 Luna;3;openai/gpt-6-luna;0,6859211326685011
+Gleichverteilung (abgerechnet);1;deepseek/deepseek-v4.1-flash;0,8037770141939022
+Gleichverteilung (abgerechnet);2;deepseek/deepseek-v4.1-flash;0,8019589544758425
+Gleichverteilung (abgerechnet);3;openai/gpt-oss-120b;0,7423908559077439
+Gleichverteilung (Preis vom Stichtag);1;deepseek/deepseek-v4.1-flash;0,8037770141939022
+Gleichverteilung (Preis vom Stichtag);2;deepseek/deepseek-v4.1-flash;0,8019589544758425
+Gleichverteilung (Preis vom Stichtag);3;deepseek/deepseek-v4.1-flash;0,8028176846345726
+Verfahren;1;deepseek/deepseek-v4.1-flash;0,8180628505797387
+Verfahren;2;deepseek/deepseek-v4.1-flash;0,7982960618129498
+Verfahren;3;deepseek/deepseek-v4.1-flash;0,8001247553416434

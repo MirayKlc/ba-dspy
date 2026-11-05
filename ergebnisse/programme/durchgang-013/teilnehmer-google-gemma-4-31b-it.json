@@ -1,0 +1,278 @@
+{
+  "programm.find_evidence": {
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "In 1904 Selma Feldbach graduated in medicine from a comprehensive university founded in what year?",
+        "paragraphs": "University of Bern: The University of Bern (German: \"Universität Bern\" , French: \"Université de Berne\" , Latin: \"Universitas Bernensis\" ) is a university in the Swiss capital of Bern and was founded in 1834. It is regulated and financed by the Canton of Bern. It is a comprehensive university offering a broad choice of courses and programs in eight faculties and some 150 institutes. With around 17,512 students, the University of Bern is the third biggest University in Switzerland.\n\nGeorgia Southern University: Georgia Southern University (GSU) is a co-educational, research-oriented, public university with the main campus located in Statesboro, Georgia, US. Founded in 1906 as a land grant college, it's part of the University System of Georgia and is the largest center of higher education inside the southern half of Georgia. It offers over 140 different academic majors in a comprehensive array of baccalaureate degrees, as well as master and doctorate programs. The university is one of the biggest within the University System of Georgia, with a current enrollment of more than 20,000 students from all states and approximately 85 nations. Georgia Southern is classified as a Doctoral and Research Institution by the Carnegie Foundation for the Advancement of Teaching, and as a comprehensive university by the University System of Georgia.\n\nSt. Cloud State University: St. Cloud State University (SCSU) is a public university founded in 1869 above the Beaver Islands on the Mississippi River in St. Cloud, Minnesota, United States. The university is one of the largest schools in the Minnesota State Colleges and Universities (MnSCU) system, which is the largest provider of higher education in Minnesota. A regional comprehensive university, St. Cloud State has more than 15,400 students and nearly 110,000 alumni.\n\nSouth Central University for Nationalities: South Central University for Nationalities (SCUN/SCUEC; ; colloquially 中南民大, Pinyin: Zhōngnán mínDà) is a national university located in Hubei province's capital Wuhan, directly under the State Ethnic Affairs Commission of PRC. It is a comprehensive university founded in 1951 and the former name was South Central College for Nationalities (). In March 2002, the school adopted the current name. As one of the six national higher education institutes for ethnic groups in China, SCUN is committed to innovation in higher education for ethnic groups and thus has achieved a rapid and comprehensive development.\n\nBicol University: Bicol University (translated in Filipino: Pamantasan ng Bikol and commonly abbreviated as BU) is a regional state and research university in Bicol Region, the Philippines. BU is an ISO 9001:2008 certified public university in the region with Certificate No. TUV 100 05 1782. Administered from Legazpi City, an institution promoting scholarship, leadership, character, and service as its core values, Bicol University remains to be the premier state university in the Bicol Region, founded in 1969, it has risen to SUC Level IV status, a prestige it has enjoyed since 1998. It is home to topnotch in the fields of Accountancy, Engineering, Midwifery, Nursing, and Social Work. As a comprehensive university, it caters to the needs of the society in the following fields of Technology, Engineering, Architecture and Sciences; Arts and Letters, Culture, Recreation and Sports; Agriculture, Forestry and Fisheries; Business and Entrepreneurship; Health and Medicine; Social Sciences; and Education.\n\nUniversity of Aberdeen: The University of Aberdeen is a public research university in Aberdeen, Scotland. It is an ancient university founded in 1495 when William Elphinstone, Bishop of Aberdeen, petitioned Pope Alexander VI on behalf of James IV, King of Scots to establish King's College, making it Scotland's third-oldest university and the fifth-oldest in the English-speaking world. The university as it is today was formed in 1860 by a merger between King's College and Marischal College, a second university founded in 1593 as a Protestant alternative to the former. Today, Aberdeen is consistently ranked among the top 200 universities in the world and is one of two universities in the city, the other being the Robert Gordon University.\n\nUniversity of Iceland: The University of Iceland (Icelandic: \"Háskóli Íslands\" ) is a public research university in Reykjavík, Iceland, and the country's oldest and largest institution of higher education. Founded in 1911, it has grown steadily from a small civil servants' school to a modern comprehensive university, providing instruction for about 14,000 students in twenty-five faculties. Teaching and research is conducted in social sciences, humanities, medicine, natural sciences, engineering and teacher education. It has a campus concentrated around \"Suðurgata\" street in central Reykjavík, with additional facilities located in nearby areas as well as in the countryside.\n\nSoonchunhyang University: Soonchunhyang University (SCH) is a private university in South Korea, founded in 1978. It is located in the city of Asan, South Chungcheong province, about 52 miles (88 km) southwest of Seoul. It was founded by Dr. Succ-Jo Suh in 1978 as a medical college with 80 students, but expanded to become a comprehensive university in 1980, offering both undergraduate and graduate programs. In 2009, the university was ranked 31st among all South Korean universities in a comprehensive evaluation by the JoongAng Ilbo. It was also ranked 151st among Asia-Pacific universities by Chosun-QS Asia in 2010.\n\nSelma Feldbach: Selma Feldbach (May 5, 1878 - April 2, 1924) was the first Estonian woman to become a medical doctor. In 1904 she graduated in medicine from the University of Bern.\n\nNorth China University of Science and Technology: North China University of Science and Technology is a university in Tangshan City, Hebei Province, People's Republic of China. North China University of Science and Technology, located in Tangshan the most promising city at the center of Bohai Bay Rim, is one of the ten key universities of Hebei Province, China. It is a comprehensive university taking engineering and medicine as the backbone and pursuing a harmonious development of engineering, medicine, sciences, economics, management, law and humanities. Education programs are provided for masters, bachelors, international students and adult students.",
+        "relevant_titles": [
+          "University of Bern",
+          "Selma Feldbach"
+        ],
+        "relevant_text": "The University of Bern (German: \"Universität Bern\" , French: \"Université de Berne\" , Latin: \"Universitas Bernensis\" ) is a university in the Swiss capital of Bern and was founded in 1834. It is a comprehensive university offering a broad choice of courses and programs in eight faculties and some 150 institutes. In 1904 she graduated in medicine from the University of Bern."
+      },
+      {
+        "augmented": true,
+        "question": "In 2012, DJ Munchi was featured on the mixtape of which Harlem-raised American rapper, singer-songwriter, and actress?",
+        "paragraphs": "Mailbox Money (mixtape): Mailbox Money is the ninth official mixtape by American rapper Nipsey Hussle. The mixtape was released as a free digital download on December 31, 2014, on mixtape hosting websites. It was also released in a limited first edition of 100 copies for $1,000 each including other incentives via his All Money In record label, which followed-up Crenshaw, that was sold under the same schema but rather 1,000 copies for $100. The mixtape features production by DJ Mustard, Rance, Hit-Boy, DJ Khalil, Ralo Stylez and Wizzo, among others. Guest appearances on the mixtape came from Rick Ross, Dom Kennedy, K Camp, Trae Tha Truth, Buddy and many others. The mixtape was supported by the singles \"A Hunnit A Show\" featuring Rick Ross, \"Between Us\" featuring K Camp, \"Where Yo Money At\", \"Count Up That Loot\", and \"50 Niggaz\".\n\nThe Golden Age (Dizzy Wright album): The Golden Age is the sixth official mixtape by American rapper Dizzy Wright. The mixtape was released on August 19, 2013, by independent record label Funk Volume for free and digital download, along with autographed hardcopies via the Funk Volume website. The mixtape featured guest appearances by Wyclef Jean, Hopsin, Joey Bada$$, Jarren Benton, SwizZz, Logic, Kid Ink and Honey Cocaine among others. Along with production from DJ Hoppa, Rikio, Kato, 6ix, and Cardo, among others. Due to its retail release, the mixtape debuted on the \"Billboard\" Top R&B/Hip-Hop Albums chart at number 39 becoming his highest charting project at the time.\n\nCrenshaw (mixtape): Crenshaw is the eighth official mixtape by American rapper Nipsey Hussle. The mixtape was released as a free digital download on October 8, 2013, on mixtape hosting websites. It was also released in a limited first edition of 1,000 copies for $100 each including other incentives via his All Money In record label. The mixtape features production by The Futuristiks, 1500 or Nothin', 9th Wonder, DJ Dahi, Mike Free, Ralo, Wizzo and Jiggy Hendrix, among others. Guest appearances on the mixtape came from Rick Ross, Dom Kennedy, Slim Thug, James Fauntleroy II, Z-Ro, Skeme and Sade among others. The mixtape was supported by the singles \"Checc Me Out\" featuring Dom Kennedy and Cobby Supreme, \"U See Us\", \"The Weather\" featuring Rick Ross, \"If U Were Mine\" featuring Fauntleroy, and \"1 of 1\".\n\nAzealia Banks: Azealia Amanda Banks ( born May 31, 1991) is an American rapper, singer-songwriter, and actress. Raised in the Harlem neighborhood of New York City, Banks began releasing music through MySpace in 2008, eventually being signed to XL Recordings at age 17. After releasing her debut single \"212\", she secured a recording contract with Interscope and Polydor Records, and later released her first extended play \"1991\" (2012). Banks' debut studio album \"Broke with Expensive Taste\" experienced several delays since its initial announcement before being released in 2014. In 2016, she released the mixtape \"Slay-Z\". Her is due to be released on October 31, 2017. Banks' outspoken views and controversial social media presence have been the subject of media scrutiny throughout her career.\n\nDaily Conversation: Daily Conversation is a mixtape by American rapper Torae, released on January 29, 2008 under his own Internal Affairs Entertainment imprint, Soulspazm Records and Fat Beats Records. The mixtape was executive produced by Torae and DJ Vega Benetton. Production was handled by several producers including DJ Premier, 9th Wonder, Black Milk, Khrysis, Marco Polo. Guest appearances include Tash (of Tha Alkaholiks), Sha Stimuli, Chaundon, Skyzoo, and others. The mixtape was preceded by the DJ Premier-produced 12-inch single \"Get It Done\", with B-side \"Click\", both featuring Skyzoo.\n\nMunchi (DJ): Rajiv Münch (born July 29, 1989), better known by his stage name Munchi, is a Dutch producer and DJ of Dominican descent, born and raised in Rotterdam, Netherlands. He is credited to have made \"the first truly original work\" for moombahton, taking \"the sound to the next level\" and being the originator of moombahcore. Even though Munchi is credited mainly for moombahton, it was his versatility and unique production style that brought him into public attention. Notably producing a wide selection of genres and incorporating these elements in his music. This is best represented in the \"Murda Sound\" debut on T&A Records, consisting of a wide variety of genres doing Munchi's versatility justice. In December 2010 Munchi was featured with 3 tracks on M.I.A.'s \"Vicki Leekx\" mixtape, and in July 2012 on Azealia Banks' \"Fantasea\" mixtape, with the track \"Esta Noche.\"\n\nDreamchasers 2: Dreamchasers 2 is a mixtape by American rapper Meek Mill (hosted by DJ Drama). It was released on May 7, 2012, by Maybach Music Group and Warner Bros. Records, and also released for digital download on DatPiff. It serves as the second installment in the \"Dreamchasers\" series, following \"Dreamchasers\" (2011). The mixtape features guest appearances from American rappers Travis $cott, Rick Ross, Fabolous, French Montana, Wale, Big Sean, Kendrick Lamar, Mac Miller, 2 Chainz and a Canadian rapper Drake – along with singing vocals by Jeremih, Trey Songz and Jordanne; as well as production that was provided by Jahlil Beats, SAP, All Star, Cardiak, Reginald Smith and Jesse Wilson, among others. The mixtape consists mostly of original material, including a remix to Meek Mill's single from his previous mixtape \"Dreamchasers\", \"House Party\", and a cover of Drake's \"The Ride\".\n\nPurple Reign: Purple Reign is a mixtape by American rapper Future, hosted and executive-produced by DJ Esco and Metro Boomin. It was released on January 17, 2016 with an 11-hour notice via LiveMixtapes and DatPiff. It is Future's first non-commercial mixtape since the mixtape trilogy \"Monster\" (2014), \"Beast Mode\" and \"56 Nights\" (2015). \"Purple Reign\" follows the commercial collaborative mixtape \"What a Time to Be Alive\" with Canadian rapper Drake. The mixtape features production from frequent collaborators Metro Boomin, Southside, Zaytoven, DJ Spinz and Nard & B, among others. The cover font is a tribute to Prince's landmark 1984 album \"Purple Rain\", which is stylized in the same fashion.\n\nOKE: Operation Kill Everything: OKE: Operation Kill Everything (simply known as OKE) is the fourteenth mixtape by American rapper The Game, which was hosted by DJ Skee. The mixtape was released on October 8, 2013, and serves as his first project since leaving the Interscope Records, following the release of his fifth album \"Jesus Piece\" (2012). It was also released in promotion of his upcoming sixth studio album. The mixtape features guest appearances from Too Short, Schoolboy Q, Chris Brown, Lil Wayne, Problem, Nipsey Hussle, Juicy J, Young Jeezy, Clyde Carson, Skeme, Stat Quo and Ty Dolla $ign; as well as the production provided by Cardiak, DJ Mustard, SAP and Cool & Dre, among others.\n\nSummer Knights: Summer Knights is the second mixtape by American rapper Joey Bada$$. It was released on July 1, 2013, by Cinematic Music Group. The mixtape was planned to be released as an EP, to prelude the release of his debut album \"B4.DA. $$\", but instead it was announced to be a full-length mixtape. The mixtape features production from Chuck Strangers, Kirk Knight, MF Doom, Statik Selektah, DJ Premier, Lee Bannon, Oddisee, Navie D, and Bruce Leekix. The mixtape features more original instrumentals than his first mixtape \"1999\" which was primarily samples.",
+        "relevant_titles": [
+          "Azealia Banks",
+          "Munchi (DJ)"
+        ],
+        "relevant_text": "\"Azealia Amanda Banks ( born May 31, 1991) is an American rapper, singer-songwriter, and actress. Raised in the Harlem neighborhood of New York City, Banks began releasing music through MySpace in 2008, eventually being signed to XL Recordings at age 17. In July 2012 on Azealia Banks' \\\"Fantasea\\\" mixtape, with the track \\\"Esta Noche.\\\"\""
+      },
+      {
+        "augmented": true,
+        "question": "John Maier is brewmaster for what Ashland, Oregon brewery?",
+        "paragraphs": "South Shore Brewery: South Shore Brewery is a regional craft brewery in Ashland, Wisconsin, USA. It was founded in 1995 and owned by brewmaster Bo Bélanger. The brewery was the seventh licensed microbrewery in the state of Wisconsin, and became northern Wisconsin's first modern micro-brewery. South Shore produces an assortment of beers, many of which are seasonal.\n\nRogue Beard Beer: Rogue Ales Beard Beer is an American wild ale brewed by Rogue Ales of Newport, Oregon using wild yeast originally cultured from nine beard hairs belonging to Rogue Ales' brewmaster, John Maier.\n\nHerman Weiss: Herman Weiss was a Prussian born brewmaster. He immigrated to Texas in the 1880s with his wife Maria. Herman Weiss was living in San Antonio in 1900, when the 1900 hurricane destroyed Galveston. Perhaps seeking opportunity in the new city, he moved to Galveston and started Weiss and Son's brewery. His sons, Herman Jr. and Charles, helped him at the brewery. Herman was offered the position of head brewmaster in 1909 at the newly formed Shiner Brewery which later became the Spoetzl Brewery. According to the 1910 census, Herman Weiss Jr. and Charles Weiss worked at the brewery as well. Herman was then offered a position in San Antonio as the head brewmaster for the San Antonio Brewing Association which later became the Pearl Brewing Company.\n\nDC Brau Brewing: DC Brau Brewing, founded in 2009 in Washington, D.C., is the first brewery to operate inside the District of Columbia since 1956, when the Heurich Brewery closed. The brewery is the brainchild of Brandon Skall, the brewery's business manager, and Jeff Hancock, its brewmaster. Hancock has brewed at Grizzly Peak Brewing and Arbor Brewing Company, both in Ann Arbor, Michigan, and at Flying Dog Brewery in Frederick, Maryland.\n\nUnion Brewery (Iowa): The Union Brewery is a historic brewery building in Iowa City, Iowa. The brewery was founded in 1856 by German immigrants Anton Geiger and Simeon Hotz. Conrad Graf was the brewery's brewmaster, and its beer was named Graf's Golden Brew after him; Graf later came to own the brewery after Geiger's death. Graf was instrumental in inciting the 1884 Iowa City beer riots, a popular uprising against Iowa's new prohibition law; the rioting mob injured multiple law officers and city attorneys, one of whom successfully sued Graf for $7,000. The brewery continued to operate until Prohibition; during Prohibition, it attempted to produce soda, but residual yeast spores caused the soda to ferment.\n\nHappy Sekanka: Happy Sekanka is a South African brewmaster. She is currently the brewmaster at the all-women brewery, Oakes Brew House, created by Thea Blom.\n\nCarolina Brewery: Carolina Brewery is a beer brewery and restaurant/pub located in Chapel Hill, North Carolina with an additional location in Pittsboro, North Carolina. Carolina Brewery has drawn international attention for its handcrafted beers, all brewed in-house by Brewmaster Jon Connolly and his team. Founded in 1995, Carolina Brewery is the oldest brewery in the Triangle area. The restaurant serves contemporary American cuisine and features a seasonal menu which changes 4 times per year.\n\nHibernia Brewing: Hibernia Brewing Ltd. was an American brewery company, the successor firm to the Walter Brewing Company, located in Eau Claire, Wisconsin. Under the leadership of Michael Healy, president and chief stockholder of Hibernia, the brewery introduced several specialty brews considered innovative for their time and became one of the first producers in the American Midwest of what now are considered to be craft beers and ales. At its peak, Hibernia produced over 30,000 barrels of beer per year, employed about 50 workers, and had a market range that included Minneapolis–Saint Paul, St. Louis, Missouri, and Omaha, Nebraska, with success also in Denver and Boulder, Colorado to the west and south; and Chicago, Milwaukee, and suburban Cleveland, Ohio to the east. The brewery quickly earned a reputation for quality products, aided by the receipt of a second place award for its Hibernia Dunkel Weizen in the Great American Beer Festival of 1985. However, the release of underpasteurized beer to new markets was an economic disaster. Although the brewmaster and assistant brewmaster were fired immediately and insurance covered the recall, it was impossible to get the consumer to give them a second chance. This combined with increasing competition from the growing number of companies passing themselves off as brewers, when in fact they were sales/marketing entities that outsourced the manufacturing of their beers.\n\nMarble Brewery (Albuquerque, New Mexico): Marble Brewery is a brewery in Albuquerque, New Mexico, founded in 2008. As of 2014, it was the second largest brewery in New Mexico behind Santa Fe Brewing Company with an annual production volume of 13,000 US barrels. In 2016, the brewery completed a major expansion which increased the production capacity to 30,000 barrels. Its beers have won several awards and it was named Small Brewery and Brewmaster of the Year at the 2014 Great American Beer Festival.\n\nRogue Ales: Rogue Ales is a brewery founded in 1988 in Ashland, Oregon, United States. The following year the company opened their second brewpub in Newport, Oregon where they are now headquartered. They operate brewpubs in Oregon, Washington, and California. Rogue exports throughout the US and internationally.",
+        "relevant_titles": [
+          "Rogue Beard Beer",
+          "Rogue Ales"
+        ],
+        "relevant_text": "\"Rogue Ales Beard Beer is an American wild ale brewed by Rogue Ales of Newport, Oregon using wild yeast originally cultured from nine beard hairs belonging to Rogue Ales' brewmaster, John Maier.\" \"Rogue Ales is a brewery founded in 1988 in Ashland, Oregon, United States.\""
+      },
+      {
+        "augmented": true,
+        "question": "Shanghai Noon was the directorial debut of an American film director whose other credits include Showtime, Failure to Launch, and what other film?",
+        "paragraphs": "Vic Morrow: Victor \"Vic\" Morrow (February 14, 1929 – July 23, 1982) was an American actor and director whose credits include a starring role in the 1960s television series \"Combat! \", prominent roles in a handful of other television and film dramas, and numerous guest roles on television. Morrow and two child actors were killed in 1982 by a stunt helicopter crash during the filming of \"\". Morrow also gained notice for his roles in movies like \"Blackboard Jungle\" (1955), \"God's Little Acre\" (1958), \"Dirty Mary, Crazy Larry\" (1974), and \"The Bad News Bears\" (1976).\n\nMohamed Diab: Mohamed Diab is a writer and director whose work often centers on pressing issues concerning Egyptian society. He is known for his directorial debut film \"Cairo 678\" \"(Les Femmes du bus 678)\", which was released a month before the Egyptian revolution and was described by the New York Times as \"unmistakably a harbinger of that revolution.\" Paulo Coehlo tweeted about the film calling it \"brilliant\" and saying \"it should be mandatory for men, regardless of their religion/culture, to watch it\".\n\nDanny Leiner: Danny Leiner is a film director whose credits include \"The Great New Wonderful\", \"Harold & Kumar Go to White Castle\", \"Dude, Where's My Car? \", \"Layin' Low\", and \"Time Expired\".\n\nMargy Kinmonth: Margy Kinmonth is a film and television director whose credits include feature documentary \"Revolution - New Art for a New World\" (Foxtrot Films Ltd/Arts Alliance), marking the 1917 Russian Revolution, \"War Art with Eddie Redmayne\" ( 2015), which shows on ITV and Ovation, about artists of the First World War, Bafta nominated feature documentary \"Hermitage Revealed\" (Foxtrot Films Ltd/Arts Alliance, Moscow International Film Festival 2014), \"Royal Paintbox\" with HRH the Prince of Wales (Foxtrot Films Ltd/ ITV, MIFF 2013), \"Looking for Lowry\" with Ian McKellen, Noel Gallagher and Dame Paula Rego (Foxtrot Films/ ITV) \"\"Mariinsky Theatre,\" \"Nutcracker Story\"\" and BBC series \"Naked Hollywood\", winner of BAFTA Best Documentary Series.\n\nThe Medallion: The Medallion () is a 2003 American-Hong Kong action-comedy film co-written and directed by Hong Kong filmmaker Gordon Chan, and starring Jackie Chan, Lee Evans, Claire Forlani and Julian Sands. It was much less successful than Chan's other American movies such as the \"Rush Hour\" film series, \"Shanghai Noon\" and its sequel, \"Shanghai Knights\". The film was theatrically released on 15 August 2003 in Hong Kong and 22 August 2003 in the United States by TriStar Pictures.\n\nSteve Jaggi: Steve Jaggi is a Canadian film producer and director. His producing credits include the teen film Rip Tide, which premiered at the 2017 Sydney Film Festival, Embedded, Spirit of the Game, Ambrosia, Circle of Lies, Temptation, the documentary London Tango and the short lived British cable television series Be On TV. His directing credits include Chocolate Oyster and the documentary And The Beat Goes On. Jaggi also acts as an executive producer, and his credits include Rough Stuff, Skin Deep, Zelos and Crushed.\n\nAlan Metter: Alan Metter is an American film director whose most notable credits include \"Back to School\" starring Rodney Dangerfield, and \"Girls Just Want to Have Fun\" with Sarah Jessica Parker. He also produced and directed the 1983 television special \"The Winds of Whoopie\" for Steve Martin.\n\nMikael Salomon: Mikael Salomon (born 24 February 1955) is a Danish-born cinematographer, director and producer of film and television. After a long cinematography career in Danish cinema, he transitioned to the Hollywood film industry in the late 1980s and has remained highly prolific there, earning two Academy Award nominations. He is also an acclaimed and prolific television director whose credits include dozens of series, films and miniseries including \"Band of Brothers, Salem's Lot, Rome,\" and \"The Andromeda Strain\", for which has received numerous awards and nominations including a Primetime Emmy Award and Directors Guild of America Award.\n\nTom Dey: Thomas Ridgeway \"Tom\" Dey (born April 14, 1965) is an American film director, screenwriter, and producer. His credits include \"Shanghai Noon\", \"Showtime\", \"Failure to Launch\", and \"Marmaduke\".\n\nShanghai Noon: Shanghai Noon is a 2000 American-Hong Kong martial arts western comedy film starring Jackie Chan, Owen Wilson and Lucy Liu. The first in the \"Shanghai (film series)\". The film, marking the directorial debut of Tom Dey, was written by Alfred Gough and Miles Millar.",
+        "relevant_titles": [
+          "Tom Dey",
+          "Shanghai Noon"
+        ],
+        "relevant_text": "\"His credits include \\\"Shanghai Noon\\\", \\\"Showtime\\\", \\\"Failure to Launch\\\", and \\\"Marmaduke\\\".\" \"The film, marking the directorial debut of Tom Dey, was written by Alfred Gough and Miles Millar.\""
+      }
+    ],
+    "signature": {
+      "instructions": "Analyze the provided paragraphs to determine which ones contain the necessary information to answer the question. This may require connecting facts across multiple documents (multi-hop reasoning). \n\n1. Identify the titles of the specific paragraphs that are essential for deriving the answer.\n2. Extract and quote verbatim the exact sentences from those paragraphs that provide the critical evidence. Ensure you capture all intermediate steps if the question requires linking entities or facts from different sources.\n\nReturn your response as:\n- **Relevant Titles**: A list of the paragraph titles identified in step 1.\n- **Relevant Text**: The quoted sentences from step 2.",
+      "fields": [
+        {
+          "prefix": "Question:",
+          "description": "${question}"
+        },
+        {
+          "prefix": "Paragraphs:",
+          "description": "ten paragraphs, only a few of them are relevant"
+        },
+        {
+          "prefix": "Relevant Titles:",
+          "description": "titles of the paragraphs that are needed to answer the question"
+        },
+        {
+          "prefix": "Relevant Text:",
+          "description": "the sentences from those paragraphs that are needed, quoted verbatim"
+        }
+      ]
+    },
+    "lm": {
+      "_dspy_lm_class": "dspy.clients.lm.LM",
+      "model": "openrouter/google/gemma-4-31b-it",
+      "model_type": "chat",
+      "cache": false,
+      "num_retries": 10,
+      "temperature": 0.0,
+      "max_tokens": 1000,
+      "extra_body": {
+        "provider": {
+          "only": [
+            "deepinfra/turbo"
+          ],
+          "allow_fallbacks": false
+        },
+        "reasoning": {
+          "enabled": false
+        }
+      },
+      "finetuning_model": null,
+      "launch_kwargs": {},
+      "train_kwargs": {}
+    }
+  },
+  "programm.answer_question": {
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Artist FYÜTCH changed his stage name from Future to avoid confusion with a rapper from which state?",
+        "relevant_text": "\"He changed his artist name from Future to FYÜTCH to avoid confusion with Atlanta rapper Future. Atlanta is the capital of and the most populous city in the U.S. state of Georgia\"",
+        "answer": "Georgia"
+      },
+      {
+        "augmented": true,
+        "question": "Imiliya is a town located in what pilgrimage site?",
+        "relevant_text": "\"Imiliya इमिलिया is a small town located in the Kapilvastu District, Lumbini, Nepal.\"",
+        "answer": "Lumbini"
+      },
+      {
+        "augmented": true,
+        "question": "The 2008 Denver Broncos Season was the 25th under the ownership of a man who stepped down in 2014 due to what disease?",
+        "relevant_text": "\"The 2008 Denver Broncos season was the franchise's 39th season in the National Football League, the 49th overall and the 25th under the ownership of Pat Bowlen. He served as the Broncos CEO from his purchase of the club in 1984 until July 2014, when he stepped down as Broncos' CEO due to the onset and progression of Alzheimer's disease.\"",
+        "answer": "Alzheimer's disease"
+      },
+      {
+        "id": "5a7ce820554299683c1c63d2",
+        "question": "What actor has appeared in the films \"Hamlet\", \"The Woodlanders\" and \"The Holiday\"?",
+        "answer": "Rufus Frederik Sewell",
+        "paragraphs": [
+          {
+            "title": "Peter Ellis (actor)",
+            "sentences": [
+              "Peter Ellis (born 30 May 1936) is an English actor.",
+              " Peter has worked extensively in theatre and television both as an actor and director.He spent four seasons with the RSC.",
+              " Three years with the Old Vic Co including playing Benvolio in Zeffirelli's \"Romeo and Juliet\".",
+              " Hotspur in \"Henry IV\" and later Rosencrantz in a world tour of \"Hamlet\" starring Derek Jacobi.",
+              " He also played Guildenstern in \"Hamlet\" on the site of the new Globe Theatre.",
+              " Five years at the Crucible Sheffield.",
+              " In the West End he appeared in \"The Tulip Tree\" and in Ray Cooney's \"Funny Money\".",
+              " He is perhaps best known for playing the role of Chief Superintendent Charles Brownlow in the long running ITV drama \"The Bill\".",
+              " Has also appeared as a semi-regular in \"Emmerdale Farm\" and \"Coronation Street\".",
+              " Other series include \"Sam\" \"Lyttons Diary\", \"Edward and Mrs Simpson\", \"The XYY Man\", \"Nolan\", \"The Les Dawson Show\", Victoria Wood's play \"Talent\" for Granada and \"Acorn Antiques\" for BBC TV.",
+              " He appeared in the David Mercer television play \"In Two Minds\" (1967), a work which was directed by Ken Loach."
+            ]
+          },
+          {
+            "title": "Christopher Fairbank",
+            "sentences": [
+              "Christopher \"Chris\" Fairbank (born 4 October 1953) is an English film, stage and television actor, perhaps best known for his role as Moxey in the hit comedy-drama series \"Auf Wiedersehen, Pet\".",
+              " Born in Hertfordshire, he first developed an interest in acting while appearing in a play at his primary school in Clavering, Essex.",
+              " He has numerous television credits to his name, including \"Sapphire and Steel\", \"The Professionals\", and \"The Scarlet Pimpernel\".",
+              " He provided voice talent for both of the Wallace and Gromit feature-length films, \"Curse of the Were-Rabbit\" and \"Flushed Away\".",
+              " Fairbank also appeared as one of the pair of muggers who rob an out-of-town family, heralding the first appearance of the Batman in Tim Burton's 1989 film.",
+              " Fairbank also had roles as Mactilburgh the scientist in the film \"The Fifth Element,\" the prisoner Murphy in \"Alien 3\", and the Player Queen in the Franco Zeffirelli version of \"Hamlet\", opposite Mel Gibson.",
+              " He appeared in the \"Goal!",
+              "\" trilogy as a Newcastle United fan."
+            ]
+          },
+          {
+            "title": "The Holiday",
+            "sentences": [
+              "The Holiday is a 2006 American romantic comedy film written, produced and directed by Nancy Meyers.",
+              " Co-produced by Bruce A. Block, it was filmed in both California and England, and stars Cameron Diaz and Kate Winslet as Amanda and Iris, two lovelorn women from opposite sides of the Atlantic Ocean, who temporarily exchange homes to escape heartbreak during the holiday season.",
+              " Jude Law and Jack Black were cast as the film's leading men Graham and Miles, with Eli Wallach, Shannyn Sossamon, Edward Burns and Rufus Sewell playing key supporting roles."
+            ]
+          },
+          {
+            "title": "Cesco Baseggio",
+            "sentences": [
+              "Francesco \"Cesco\" Baseggio (1897–1971) was an Italian stage, film and television actor.",
+              " He was born in Venice, and was identified with Venetian roles during his film career.",
+              " He appeared in a mixture of serious, dramatic films, as well as comedies such as \"The Brambilla Family Go on Holiday\" (1941).",
+              " On the stage he frequently appeared in plays by Carlo Goldoni."
+            ]
+          },
+          {
+            "title": "Rufus Sewell",
+            "sentences": [
+              "Rufus Frederik Sewell ( ; born 29 October 1967) is an English actor.",
+              " In film, he has appeared in Kenneth Branagh's rendition of \"Hamlet\" (1996) playing Fortinbras, \"The Woodlanders\", \"Dangerous Beauty\", \"Dark City\", \"A Knight's Tale\", \"The Illusionist\", \"Tristan and Isolde\", and \"Martha, Meet Frank, Daniel and Laurence\".",
+              " On television, he starred as \"Obergruppenführer\" John Smith in \"The Man in the High Castle\", an Italian detective in the BBC's television series \"Zen\" (2011) and also appeared in the mini-series \"The Pillars of the Earth\" (2010).",
+              " In 1993 he played the hero, Will Ladislaw, in the BBC's adaptation of George Eliot's \"Middlemarch\".",
+              " In 2003, he appeared in the lead role in \"\".",
+              " He starred in the CBS drama \"Eleventh Hour\", which was cancelled in April 2009.",
+              " On stage, he originated the role of Septimus Hodge in Tom Stoppard's \"Arcadia\" and the role of Jan in Stoppard's \"Rock 'n' Roll\"; the latter earned him an Olivier Award and a Tony Award nomination."
+            ]
+          },
+          {
+            "title": "John Barrymore",
+            "sentences": [
+              "John Barrymore (born John Sidney Blyth; February 14 or 15, 1882 – May 29, 1942) was an American actor on stage, screen and radio.",
+              " A member of the Drew and Barrymore theatrical families, he initially tried to avoid the stage, and briefly attempted a career as an artist, but appeared on stage together with his father Maurice in 1900, and then his sister Ethel the following year.",
+              " He began his career in 1903 and first gained attention as a stage actor in light comedy, then high drama, culminating in productions of \"Justice\" (1916), \"Richard III\" (1920) and \"Hamlet\" (1922); his portrayal of Hamlet led to him being called the \"greatest living American tragedian\"."
+            ]
+          },
+          {
+            "title": "Franz Matter",
+            "sentences": [
+              "Franz Matter (1931–1999) was a Swiss actor and film director.",
+              " A noted stage actor, Matter also appeared in a number of films including the 1958 literary adaptation \"The Cheese Factory in the Hamlet\".",
+              " He also worked as an assistant director, and directed the 1961 film \"Rosen auf Pump\"."
+            ]
+          },
+          {
+            "title": "Skylar Astin",
+            "sentences": [
+              "Skylar Astin Lipstein (born September 23, 1987), known professionally as Skylar Astin, is an American actor and singer.",
+              " He became known for portraying Jesse Swanson in the musical films \"Pitch Perfect\" (2012) and \"Pitch Perfect 2\" (2015).",
+              " He was also in the original cast of the Broadway musical \"Spring Awakening\", and has since appeared in films such as \"Hamlet 2\" (2008), \"Taking Woodstock\" (2009), \"Cavemen\" (2013), and \"21 & Over\" (2013)."
+            ]
+          },
+          {
+            "title": "Gregory Peck",
+            "sentences": [
+              "Eldred Gregory Peck (April 5, 1916 – June 12, 2003) was an American actor who was one of the most popular film stars from the 1940s to the 1960s.",
+              " Peck continued to play major film roles until the late 1980s.",
+              " His performance as Atticus Finch in the 1962 film \"To Kill a Mockingbird\" earned him the Academy Award for Best Actor.",
+              " He had also been nominated for an Oscar for the same category for \"The Keys of the Kingdom\" (1944), \"The Yearling\" (1946), \"Gentleman's Agreement\" (1947) and \"Twelve O'Clock High\" (1949).",
+              " Other notable films he appeared in include \"Spellbound\" (1945), \"Roman Holiday\" (1953), \"Moby Dick\" (1956, and its 1998 miniseries), \"Pork Chop Hill\" (1959), \"The Guns of Navarone\" (1961), \"Cape Fear\" (1962, and its 1991 remake), \"How the West Was Won\" (1962), \"The Omen\" (1976) and \"The Boys from Brazil\" (1978)."
+            ]
+          },
+          {
+            "title": "Alan Cumming",
+            "sentences": [
+              "Alan Cumming, OBE (born 27 January 1965), is a Scottish-American actor, singer/performer, author, and activist who has appeared in numerous films, television shows, and plays.",
+              " His London stage appearances include \"Hamlet\", the Maniac in \"Accidental Death of an Anarchist\" (for which he received an Olivier Award), the lead in \"Bent\", and the National Theatre of Scotland's \"The Bacchae\".",
+              " On Broadway, he has appeared in \"The Threepenny Opera\", as the master of ceremonies in \"Cabaret\" (for which he won a Tony Award), \"Design for Living\" and a one-man adaptation of \"Macbeth\".",
+              " His best-known film roles include his performances in \"Emma\", \"GoldenEye\", the \"Spy Kids\" trilogy, \"Son of the Mask,\" and \"X2\".",
+              " Cumming also introduces \"Masterpiece Mystery!",
+              "\" for PBS and appeared on \"The Good Wife\", for which he has been nominated for three Primetime Emmy Awards, two Screen Actors Guild Awards, two Golden Globe Awards and a Satellite Award.",
+              " A filming of his Las Vegas cabaret show, \"Alan Cumming Sings Sappy Songs\", aired on PBS stations in November 2016."
+            ]
+          }
+        ],
+        "gold_titles": [
+          "The Holiday",
+          "Rufus Sewell"
+        ]
+      }
+    ],
+    "signature": {
+      "instructions": "Answer the question using only the given sentences. Reply with a short phrase.",
+      "fields": [
+        {
+          "prefix": "Question:",
+          "description": "${question}"
+        },
+        {
+          "prefix": "Relevant Text:",
+          "description": "the sentences that were found to be relevant"
+        },
+        {
+          "prefix": "Answer:",
+          "description": "a short phrase, not a sentence"
+        }
+      ]
+    },
+    "lm": {
+      "_dspy_lm_class": "dspy.clients.lm.LM",
+      "model": "openrouter/google/gemma-4-31b-it",
+      "model_type": "chat",
+      "cache": false,
+      "num_retries": 10,
+      "temperature": 0.0,
+      "max_tokens": 1000,
+      "extra_body": {
+        "provider": {
+          "only": [
+            "deepinfra/turbo"
+          ],
+          "allow_fallbacks": false
+        },
+        "reasoning": {
+          "enabled": false
+        }
+      },
+      "finetuning_model": null,
+      "launch_kwargs": {},
+      "train_kwargs": {}
+    }
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.13",
+      "dspy": "3.3.1",
+      "cloudpickle": "3.1"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "durchgang": 27,
+  "seed": 3,
+  "baseline": "ein-modell",
+  "kandidatenmodell": "openai/gpt-6-luna",
+  "kein_gewinner": true,
+  "paare": [
+    {
+      "datei": "durchgang-027/teilnehmer-openai-gpt-6-luna.json",
+      "kandidatenmodell": "openai/gpt-6-luna",
+      "phase": null,
+      "rolle": "teilnehmer"
+    }
+  ]
+}

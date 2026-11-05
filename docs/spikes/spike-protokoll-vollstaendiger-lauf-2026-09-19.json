@@ -1,0 +1,360 @@
+{
+  "gelaufen_am": "2026-09-19 15:02:36",
+  "teil_1": {
+    "prompt_tokens": 175,
+    "completion_tokens": 2,
+    "kosten_usd": 8.91e-06,
+    "anbieter": "DeepInfra",
+    "antwort_modell": "mistralai/mistral-small-24b-instruct-2501",
+    "aufruf_id": "gen-1789822956-nx0AAOC3haRrOM6KAHqG"
+  },
+  "teil_3": [
+    {
+      "weg": "extra_body",
+      "gewuenscht": "openai",
+      "bedient_hat": "OpenAI"
+    },
+    {
+      "weg": "extra_body",
+      "gewuenscht": "azure",
+      "bedient_hat": "Azure"
+    },
+    {
+      "weg": "schluesselwort",
+      "gewuenscht": "openai",
+      "bedient_hat": "OpenAI"
+    },
+    {
+      "weg": "schluesselwort",
+      "gewuenscht": "azure",
+      "bedient_hat": "Azure"
+    },
+    {
+      "weg": "extra_body",
+      "gewuenscht": "deepinfra",
+      "fehler": "NotFoundError: litellm.NotFoundError: NotFoundError: OpenrouterException - {\"error\":{\"message\":\"No allowed providers are available for the selected model. Providers serving openai/gpt-4o-mini: azure, openai, but your request's provider.only preference permits only: deepinfra.\",\"code\":404,\"metadata\":"
+    },
+    {
+      "weg": "schluesselwort",
+      "gewuenscht": "deepinfra",
+      "fehler": "NotFoundError: litellm.NotFoundError: NotFoundError: OpenrouterException - {\"error\":{\"message\":\"No allowed providers are available for the selected model. Providers serving openai/gpt-4o-mini: azure, openai, but your request's provider.only preference permits only: deepinfra.\",\"code\":404,\"metadata\":"
+    },
+    {
+      "weg": "extra_body ueber dspy.LM",
+      "gewuenscht": "openai",
+      "bedient_hat": "OpenAI"
+    }
+  ],
+  "teil_4": {
+    "bericht": {
+      "aufrufe": 20,
+      "selbst_gezaehlt_usd": 0.00040396999999999997,
+      "laut_einzelabrechnung_usd": 0.00040396999999999997,
+      "abweichung_zur_einzelabrechnung_usd": 0.0,
+      "aufrufe_mit_abweichung": 0,
+      "kontostand_vorher_usd": 0.106124092,
+      "kontostand_nachher_usd": 0.106528062,
+      "laut_kontostand_usd": 0.0004039700000000035,
+      "abweichung_zum_kontostand_usd": -3.5236570605778894e-18,
+      "abweichung_zum_kontostand_prozent": -8.722571132950118e-13,
+      "anbieter_je_modell": {
+        "mistralai/mistral-small-24b-instruct-2501": [
+          "DeepInfra"
+        ],
+        "openai/gpt-4o-mini-2024-07-18": [
+          "OpenAI"
+        ],
+        "anthropic/claude-3-haiku": [
+          "Amazon Bedrock"
+        ],
+        "moonshotai/kimi-k2": [
+          "Novita"
+        ]
+      }
+    },
+    "aufrufe": [
+      {
+        "modell": "mistralai/mistral-small-24b-instruct-2501",
+        "prompt_tokens": 175,
+        "completion_tokens": 2,
+        "kosten_usd": 8.91e-06,
+        "anbieter": "DeepInfra",
+        "antwort_modell": "mistralai/mistral-small-24b-instruct-2501",
+        "aufruf_id": "gen-1789823014-BAsKrO6N2jtuJJGhyKhj",
+        "kosten_laut_abrechnung": 8.91e-06
+      },
+      {
+        "modell": "mistralai/mistral-small-24b-instruct-2501",
+        "prompt_tokens": 177,
+        "completion_tokens": 2,
+        "kosten_usd": 9.01e-06,
+        "anbieter": "DeepInfra",
+        "antwort_modell": "mistralai/mistral-small-24b-instruct-2501",
+        "aufruf_id": "gen-1789823015-spMRTyZTZdohkyhEXImk",
+        "kosten_laut_abrechnung": 9.01e-06
+      },
+      {
+        "modell": "mistralai/mistral-small-24b-instruct-2501",
+        "prompt_tokens": 176,
+        "completion_tokens": 3,
+        "kosten_usd": 9.04e-06,
+        "anbieter": "DeepInfra",
+        "antwort_modell": "mistralai/mistral-small-24b-instruct-2501",
+        "aufruf_id": "gen-1789823015-XbzybGTrV4ApHnCIWUDM",
+        "kosten_laut_abrechnung": 9.04e-06
+      },
+      {
+        "modell": "mistralai/mistral-small-24b-instruct-2501",
+        "prompt_tokens": 175,
+        "completion_tokens": 3,
+        "kosten_usd": 8.99e-06,
+        "anbieter": "DeepInfra",
+        "antwort_modell": "mistralai/mistral-small-24b-instruct-2501",
+        "aufruf_id": "gen-1789823016-uxAKst1FOrXFyodeDo6W",
+        "kosten_laut_abrechnung": 8.99e-06
+      },
+      {
+        "modell": "mistralai/mistral-small-24b-instruct-2501",
+        "prompt_tokens": 176,
+        "completion_tokens": 2,
+        "kosten_usd": 8.96e-06,
+        "anbieter": "DeepInfra",
+        "antwort_modell": "mistralai/mistral-small-24b-instruct-2501",
+        "aufruf_id": "gen-1789823016-a4B5bFfz1vF8UamXUFgW",
+        "kosten_laut_abrechnung": 8.96e-06
+      },
+      {
+        "modell": "openai/gpt-4o-mini-2024-07-18",
+        "prompt_tokens": 19,
+        "completion_tokens": 2,
+        "kosten_usd": 4.05e-06,
+        "anbieter": "OpenAI",
+        "antwort_modell": "openai/gpt-4o-mini-2024-07-18",
+        "aufruf_id": "gen-1789823016-qt6LpoylkljUoxycXanM",
+        "kosten_laut_abrechnung": 4.05e-06
+      },
+      {
+        "modell": "openai/gpt-4o-mini-2024-07-18",
+        "prompt_tokens": 21,
+        "completion_tokens": 2,
+        "kosten_usd": 4.35e-06,
+        "anbieter": "OpenAI",
+        "antwort_modell": "openai/gpt-4o-mini-2024-07-18",
+        "aufruf_id": "gen-1789823017-12DY3cvhpwBAjYOpjmvW",
+        "kosten_laut_abrechnung": 4.35e-06
+      },
+      {
+        "modell": "openai/gpt-4o-mini-2024-07-18",
+        "prompt_tokens": 20,
+        "completion_tokens": 2,
+        "kosten_usd": 4.2e-06,
+        "anbieter": "OpenAI",
+        "antwort_modell": "openai/gpt-4o-mini-2024-07-18",
+        "aufruf_id": "gen-1789823018-4nZUUZmtckk4eeErCBRb",
+        "kosten_laut_abrechnung": 4.2e-06
+      },
+      {
+        "modell": "openai/gpt-4o-mini-2024-07-18",
+        "prompt_tokens": 18,
+        "completion_tokens": 3,
+        "kosten_usd": 4.5e-06,
+        "anbieter": "OpenAI",
+        "antwort_modell": "openai/gpt-4o-mini-2024-07-18",
+        "aufruf_id": "gen-1789823018-MLlFTPDAzudBCp2uYZgT",
+        "kosten_laut_abrechnung": 4.5e-06
+      },
+      {
+        "modell": "openai/gpt-4o-mini-2024-07-18",
+        "prompt_tokens": 20,
+        "completion_tokens": 1,
+        "kosten_usd": 3.6e-06,
+        "anbieter": "OpenAI",
+        "antwort_modell": "openai/gpt-4o-mini-2024-07-18",
+        "aufruf_id": "gen-1789823019-XEuOeyL5X9vMEYFLNlKZ",
+        "kosten_laut_abrechnung": 3.6e-06
+      },
+      {
+        "modell": "anthropic/claude-3-haiku",
+        "prompt_tokens": 19,
+        "completion_tokens": 5,
+        "kosten_usd": 1.1e-05,
+        "anbieter": "Amazon Bedrock",
+        "antwort_modell": "anthropic/claude-3-haiku",
+        "aufruf_id": "gen-1789823019-3VIZHTIobjOvhdcNOBpS",
+        "kosten_laut_abrechnung": 1.1e-05
+      },
+      {
+        "modell": "anthropic/claude-3-haiku",
+        "prompt_tokens": 21,
+        "completion_tokens": 5,
+        "kosten_usd": 1.15e-05,
+        "anbieter": "Amazon Bedrock",
+        "antwort_modell": "anthropic/claude-3-haiku",
+        "aufruf_id": "gen-1789823020-X6pNo2Ps6aZEbuIjchoQ",
+        "kosten_laut_abrechnung": 1.15e-05
+      },
+      {
+        "modell": "anthropic/claude-3-haiku",
+        "prompt_tokens": 20,
+        "completion_tokens": 5,
+        "kosten_usd": 1.125e-05,
+        "anbieter": "Amazon Bedrock",
+        "antwort_modell": "anthropic/claude-3-haiku",
+        "aufruf_id": "gen-1789823020-iJeChvhcBbKkQkdORd7g",
+        "kosten_laut_abrechnung": 1.125e-05
+      },
+      {
+        "modell": "anthropic/claude-3-haiku",
+        "prompt_tokens": 19,
+        "completion_tokens": 5,
+        "kosten_usd": 1.1e-05,
+        "anbieter": "Amazon Bedrock",
+        "antwort_modell": "anthropic/claude-3-haiku",
+        "aufruf_id": "gen-1789823021-bDfJ5E9yzwQgKq9bkRHc",
+        "kosten_laut_abrechnung": 1.1e-05
+      },
+      {
+        "modell": "anthropic/claude-3-haiku",
+        "prompt_tokens": 20,
+        "completion_tokens": 5,
+        "kosten_usd": 1.125e-05,
+        "anbieter": "Amazon Bedrock",
+        "antwort_modell": "anthropic/claude-3-haiku",
+        "aufruf_id": "gen-1789823021-x31BAJM5zfT8g6ej9NSl",
+        "kosten_laut_abrechnung": 1.125e-05
+      },
+      {
+        "modell": "moonshotai/kimi-k2",
+        "prompt_tokens": 21,
+        "completion_tokens": 2,
+        "kosten_usd": 1.657e-05,
+        "anbieter": "Novita",
+        "antwort_modell": "moonshotai/kimi-k2",
+        "aufruf_id": "gen-1789823022-aNLLZCkDFhAM5TnKsRO0",
+        "kosten_laut_abrechnung": 1.657e-05
+      },
+      {
+        "modell": "moonshotai/kimi-k2",
+        "prompt_tokens": 23,
+        "completion_tokens": 3,
+        "kosten_usd": 2.001e-05,
+        "anbieter": "Novita",
+        "antwort_modell": "moonshotai/kimi-k2",
+        "aufruf_id": "gen-1789823023-xvNiQAX6e2lMUQiyqj5d",
+        "kosten_laut_abrechnung": 2.001e-05
+      },
+      {
+        "modell": "moonshotai/kimi-k2",
+        "prompt_tokens": 22,
+        "completion_tokens": 2,
+        "kosten_usd": 1.714e-05,
+        "anbieter": "Novita",
+        "antwort_modell": "moonshotai/kimi-k2",
+        "aufruf_id": "gen-1789823023-gZy4Tz5LAm2W7Vtn5XS6",
+        "kosten_laut_abrechnung": 1.714e-05
+      },
+      {
+        "modell": "moonshotai/kimi-k2",
+        "prompt_tokens": 21,
+        "completion_tokens": 3,
+        "kosten_usd": 1.887e-05,
+        "anbieter": "Novita",
+        "antwort_modell": "moonshotai/kimi-k2",
+        "aufruf_id": "gen-1789823034-4Wmqsi2VWWmHgDaQNSCV",
+        "kosten_laut_abrechnung": 1.887e-05
+      },
+      {
+        "modell": "moonshotai/kimi-k2",
+        "prompt_tokens": 21,
+        "completion_tokens": 86,
+        "kosten_usd": 0.00020977,
+        "anbieter": "Novita",
+        "antwort_modell": "moonshotai/kimi-k2",
+        "aufruf_id": "gen-1789823035-24NgV7ay7D4lZt0mbdJm",
+        "kosten_laut_abrechnung": 0.00020977
+      }
+    ]
+  },
+  "teil_5": [
+    {
+      "prompt_laenge": "kurz",
+      "modell": "mistralai/mistral-small-24b-instruct-2501",
+      "prompt_tokens": 175,
+      "completion_tokens": 2,
+      "kosten_usd": 8.91e-06,
+      "anbieter": "DeepInfra",
+      "antwort_modell": "mistralai/mistral-small-24b-instruct-2501",
+      "aufruf_id": "gen-1789823111-ocOSKuc6shb7t0NpWpT7"
+    },
+    {
+      "prompt_laenge": "kurz",
+      "modell": "openai/gpt-4o-mini-2024-07-18",
+      "prompt_tokens": 19,
+      "completion_tokens": 2,
+      "kosten_usd": 4.05e-06,
+      "anbieter": "OpenAI",
+      "antwort_modell": "openai/gpt-4o-mini-2024-07-18",
+      "aufruf_id": "gen-1789823112-fSlzHsq4wMg1DeHUqkly"
+    },
+    {
+      "prompt_laenge": "kurz",
+      "modell": "anthropic/claude-3-haiku",
+      "prompt_tokens": 19,
+      "completion_tokens": 5,
+      "kosten_usd": 1.1e-05,
+      "anbieter": "Amazon Bedrock",
+      "antwort_modell": "anthropic/claude-3-haiku",
+      "aufruf_id": "gen-1789823112-dYLhKO1DXdsZWjFQFR7E"
+    },
+    {
+      "prompt_laenge": "kurz",
+      "modell": "moonshotai/kimi-k2",
+      "prompt_tokens": 21,
+      "completion_tokens": 2,
+      "kosten_usd": 1.657e-05,
+      "anbieter": "Novita",
+      "antwort_modell": "moonshotai/kimi-k2",
+      "aufruf_id": "gen-1789823113-1S2i62bPLIzNs2rlncWc"
+    },
+    {
+      "prompt_laenge": "lang",
+      "modell": "mistralai/mistral-small-24b-instruct-2501",
+      "prompt_tokens": 1140,
+      "completion_tokens": 2,
+      "kosten_usd": 5.716e-05,
+      "anbieter": "DeepInfra",
+      "antwort_modell": "mistralai/mistral-small-24b-instruct-2501",
+      "aufruf_id": "gen-1789823113-05iMGI12QX4LtP1Xzs6B"
+    },
+    {
+      "prompt_laenge": "lang",
+      "modell": "openai/gpt-4o-mini-2024-07-18",
+      "prompt_tokens": 984,
+      "completion_tokens": 1,
+      "kosten_usd": 0.0001482,
+      "anbieter": "OpenAI",
+      "antwort_modell": "openai/gpt-4o-mini-2024-07-18",
+      "aufruf_id": "gen-1789823114-S71p6dRrRKPkGMNSdzrL"
+    },
+    {
+      "prompt_laenge": "lang",
+      "modell": "anthropic/claude-3-haiku",
+      "prompt_tokens": 1045,
+      "completion_tokens": 4,
+      "kosten_usd": 0.00026625,
+      "anbieter": "Amazon Bedrock",
+      "antwort_modell": "anthropic/claude-3-haiku",
+      "aufruf_id": "gen-1789823114-36ZqVbxrnkL7KwcdO6ih"
+    },
+    {
+      "prompt_laenge": "lang",
+      "modell": "moonshotai/kimi-k2",
+      "prompt_tokens": 986,
+      "completion_tokens": 2,
+      "kosten_usd": 0.00056662,
+      "anbieter": "Novita",
+      "antwort_modell": "moonshotai/kimi-k2",
+      "aufruf_id": "gen-1789823115-mRzgtQT0bhXmJPhtUHu6"
+    }
+  ]
+}

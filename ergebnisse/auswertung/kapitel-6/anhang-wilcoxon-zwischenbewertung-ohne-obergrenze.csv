@@ -1,0 +1,13 @@
+﻿Seed;Test;p gpt-oss;p Gemma;p DeepSeek;p Luna;weiter
+1;t-Test;0,0026 (Δ≠0: 26);0,0351 (Δ≠0: 36);Führender;<0,0001 (Δ≠0: 92);DeepSeek
+1;Wilcoxon wilcox;0,0030 (Δ≠0: 26);0,0316 (Δ≠0: 36);Führender;<0,0001 (Δ≠0: 92);DeepSeek
+1;Wilcoxon pratt;0,0028 (Δ≠0: 26);0,0791 (Δ≠0: 36);Führender;<0,0001 (Δ≠0: 92);DeepSeek, Gemma
+1;Wilcoxon zsplit;0,0385 (Δ≠0: 26);0,1547 (Δ≠0: 36);Führender;<0,0001 (Δ≠0: 92);DeepSeek, Gemma
+2;t-Test;0,0004 (Δ≠0: 26);0,0143 (Δ≠0: 31);Führender;<0,0001 (Δ≠0: 79);DeepSeek
+2;Wilcoxon wilcox;0,0003 (Δ≠0: 26);0,0192 (Δ≠0: 31);Führender;<0,0001 (Δ≠0: 79);DeepSeek
+2;Wilcoxon pratt;0,0002 (Δ≠0: 26);0,0882 (Δ≠0: 31);Führender;<0,0001 (Δ≠0: 79);DeepSeek, Gemma
+2;Wilcoxon zsplit;0,0117 (Δ≠0: 26);0,1782 (Δ≠0: 31);Führender;<0,0001 (Δ≠0: 79);DeepSeek, Gemma
+3;t-Test;0,0006 (Δ≠0: 30);0,0011 (Δ≠0: 41);Führender;<0,0001 (Δ≠0: 89);DeepSeek
+3;Wilcoxon wilcox;0,0005 (Δ≠0: 30);0,0010 (Δ≠0: 41);Führender;<0,0001 (Δ≠0: 89);DeepSeek
+3;Wilcoxon pratt;0,0001 (Δ≠0: 30);0,0066 (Δ≠0: 41);Führender;<0,0001 (Δ≠0: 89);DeepSeek
+3;Wilcoxon zsplit;0,0069 (Δ≠0: 30);0,0310 (Δ≠0: 41);Führender;<0,0001 (Δ≠0: 89);DeepSeek

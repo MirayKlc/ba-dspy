@@ -1,0 +1,7 @@
+﻿baseline;kandidatenmodell;Seeds;Referenz (ohne Optimierung);Modellwechsel;C_opt $;c_exec $ je 1000;C_opt in Programmlaeufen;Break-even in Programmlaeufen (nur Seeds mit Break-even);kein Break-even ueber Kosten, nur ueber Qualitaet
+Verfahren;DeepSeek V4.1 Flash;3;DeepSeek V4.1 Flash;ja in 0 von 3;5,618 ± 0,222;0,213 ± 0,006;26 392 ± 1 154;843 047 ± 610 764;0 von 3
+Gleichverteilung (B/4 je Modell);DeepSeek V4.1 Flash;3;DeepSeek V4.1 Flash;ja in 0 von 3;6,457 ± 0,665;0,231 ± 0,015;28 082 ± 4 222;1 183 624 ± –;2 von 3
+Einzelmodell (volles Budget B);gpt-oss-120b;3;DeepSeek V4.1 Flash;ja in 3 von 3;5,952 ± 0,729;0,147 ± 0,034;42 349 ± 12 853;89 823 ± 34 139;0 von 3
+Einzelmodell (volles Budget B);Gemma 4 31B;3;DeepSeek V4.1 Flash;ja in 3 von 3;6,690 ± 0,811;0,425 ± 0,073;15 895 ± 1 835;–;3 von 3
+Einzelmodell (volles Budget B);DeepSeek V4.1 Flash;3;DeepSeek V4.1 Flash;ja in 0 von 3;4,736 ± 0,752;0,233 ± 0,007;20 364 ± 3 302;–;3 von 3
+Einzelmodell (volles Budget B);GPT-6 Luna;3;DeepSeek V4.1 Flash;ja in 3 von 3;5,057 ± 0,555;0,591 ± 0,126;8 967 ± 2 980;–;3 von 3

@@ -1,0 +1,5 @@
+﻿Strategie;Budget je Modell;Optimierungsläufe;Fixkostenblöcke;Nachbewertungen;wählt aus?;tatsächlich ausgegeben (C_opt) $
+Verfahren;"Sondierung 0,75 $ je Modell (B/8); Fokus 2,43–2,72 $ (Restbudget, je Seed)";"5 (4 Sondierung + 1 Fokus; geplant höchstens 6)";5 (höchstens 6);5;ja (Zwischenbewertung, dann Endauswahl);5,67 ± 0,14
+B1 ohne Optimierung;0 $ (keine Optimierung);0;0;4;ja (nach derselben Regel);0,17 ± 0,00
+B2 Gleichverteilung;1,50 $ (B/4);4;4;4;ja (nach derselben Regel);6,50 ± 0,72
+B3 Einzelmodell;6,00 $ (B, ein Modell je Durchgang);1;1;1;nein (nur Prüfung gegen die Kostenobergrenze);5,06–6,69 (Mittel je Modell)

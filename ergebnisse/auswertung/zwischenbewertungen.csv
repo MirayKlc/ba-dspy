@@ -1,0 +1,4 @@
+﻿seed;durchgang;weiter;fuehrender;vergleiche;test_hat_gefunden;ausgeschieden openai/gpt-oss-120b;p_wert openai/gpt-oss-120b;ausgeschieden google/gemma-4-31b-it;p_wert google/gemma-4-31b-it;ausgeschieden deepseek/deepseek-v4.1-flash;p_wert deepseek/deepseek-v4.1-flash;ausgeschieden openai/gpt-6-luna;p_wert openai/gpt-6-luna
+1;2;deepseek/deepseek-v4.1-flash;deepseek/deepseek-v4.1-flash;1;True;test;0,002575522797658029;kostenfilter;;;;kostenfilter;
+2;12;deepseek/deepseek-v4.1-flash;deepseek/deepseek-v4.1-flash;1;True;test;0,00041947802097345587;kostenfilter;;;;kostenfilter;
+3;21;deepseek/deepseek-v4.1-flash;deepseek/deepseek-v4.1-flash;1;True;test;0,0006216853493533846;kostenfilter;;;;kostenfilter;

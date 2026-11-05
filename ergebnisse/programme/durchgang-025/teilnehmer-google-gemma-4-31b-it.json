@@ -1,0 +1,452 @@
+{
+  "programm.find_evidence": {
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Mark Selby played guitar for the American country music singer who was part of what battle?",
+        "paragraphs": "There's Your Trouble: \"There's Your Trouble\" is a song written by Mark Selby and Tia Sillers, and recorded by American country music band Dixie Chicks. It was released in April 1998 as the second single from the band's album \"Wide Open Spaces\".\n\nKeni Thomas: Keni Thomas is an American country music singer and former United States Army Ranger. Thomas was a member of Task Force Ranger as a part of Operation Restore Hope in Somalia, and served in the Battle of Mogadishu. Thomas works as a motivational speaker drawing from this experience as a US Ranger.\n\nThe Buffalo Club: The Buffalo Club was an American country music group composed of Ron Hemby (lead vocals, guitar), John Dittrich (vocals, drums), and Charlie Kelley (vocals, guitar). Before the group's foundation, Hemby was a vocalist in the Christian group The Imperials, Kelley played guitar for Doug Stone, and Dittrich was the drummer in the country pop band Restless Heart from 1984 until the mid-1990s. The Buffalo Club released a self-titled album on the Rising Tide Records label in 1997 and charted three singles on the \"Billboard\" country chart that year, including the top-10 \"If She Don't Love You\". Dittrich disbanded the group at the end of the year and rejoined Restless Heart soon afterward.\n\nWilliams Riley: Williams Riley was an American country music band composed of Steve Williams (lead vocals), Derek George (guitar, background vocals), Charlie Hutto (guitar, background vocals), Joe Rogers (steel guitar, fiddle, harmonica), Dave Guidry (bass guitar), Travis Thibodaux (keyboards, background vocals) and Nick Buda (drums). Derek George had formerly played guitar for Bryan White, and before that, he was a member of the band Pearl River. Williams Riley self-released its debut album in 2009 and has charted on the U.S. country charts with \"Country Livin'.\" This album includes collaborations with White, as well as Slash and Edwin McCain. The band's self-titled debut album received a favorable review from Matt Bjorke of Roughstock, who called it a \"well-crafted album of contemporary country music.\"\n\nMark Selby (musician): Mark Otis Selby (1960/1961 – September 18, 2017) was an American blues rock singer-songwriter, guitarist, multi-instrumentalist, and record producer. Born in Enid, Oklahoma, he was a solo artist, signed to ZYX Records in Europe, and one half of performing duo with his wife, songwriter Tia Sillers. He also plays guitar in recording sessions for musical artists such as Kenny Rogers, Johnny Reid, Keni Thomas, Jimmy Hall, and Wynonna Judd.\n\nA Lesson in Leavin': \"A Lesson in Leavin'\", also titled as \"Lesson in Leavin'\"', is a song written by Randy Goodrum and Brent Maher. It was originally recorded in 1980 by American country music singer, Dottie West, who brought the song to No. 1 on the Billboard Country Chart. In 1999, it was re-recorded by American country music singer, Jo Dee Messina, whose version spent seven weeks at No. 2 on the Billboard Country Chart.\n\nBarbed Wire and Roses: \"Barbed Wire and Roses\" is a debut song recorded by American country music group Pinmonkey. It was released in April 2002 as the first single from the album \"Pinmonkey\". The song reached #24 on the \"Billboard\" Hot Country Single & Tracks chart. The song was written by Tia Sillers, Mark Selby and Sean Locke.\n\nI Cry (Tammy Cochran song): \"I Cry\" is a song written by Tia Sillers and Mark Selby, and recorded by American country music artist Tammy Cochran. It was released in November 2001 as the fourth single from the album \"Tammy Cochran\". The song reached number 18 on the \"Billboard\" Hot Country Singles & Tracks chart.\n\nEddy Arnold: Richard Edward \"Eddy\" Arnold (May 15, 1918 – May 8, 2008) was an American country music singer who performed for six decades. He was a Nashville sound (country/popular music) innovator of the late 1950s, and scored 147 songs on the \"Billboard\" country music charts, second only to George Jones. He sold more than 85 million records. A member of the Grand Ole Opry (beginning 1943) and the Country Music Hall of Fame (beginning 1966), Arnold ranked 22nd on Country Music Television's 2003 list of \"The 40 Greatest Men of Country Music.\"\n\nA Little Less Talk and a Lot More Action: \"A Little Less Talk And A Lot More Action\" is a song written by Keith Hinton and Jimmy Alan Stewart, and recorded by American country music singer Hank Williams, Jr. for his 1992 album \"Maverick\". One year later, the song was recorded by American country music singer Toby Keith and released in November as the third single from his self-titled debut album. Keith's version peaked at number 2 on the Billboard Hot Country Singles & Tracks (now Hot Country Songs) chart and peaked at number 25 on the Canadian \"RPM\" country tracks.",
+        "relevant_titles": [
+          "Mark Selby (musician)",
+          "Keni Thomas"
+        ],
+        "relevant_text": "\"He also plays guitar in recording sessions for musical artists such as Kenny Rogers, Johnny Reid, Keni Thomas, Jimmy Hall, and Wynonna Judd.\" \"Keni Thomas is an American country music singer and former United States Army Ranger.\" \"Thomas was a member of Task Force Ranger as a part of Operation Restore Hope in Somalia, and served in the Battle of Mogadishu.\""
+      },
+      {
+        "augmented": true,
+        "question": "Dissident Irish Republican campaign includes which paramilitary group that began attacks around 2009?",
+        "paragraphs": "Óglaigh na hÉireann (Real IRA splinter group): Óglaigh na hÉireann (ONH; ] ) is the title taken by a small dissident Irish republican paramilitary group that has taken part in the dissident Irish republican campaign. The organisation started carrying out attacks around 2009 and was formed after a split within the Real IRA.\n\nIrish security forces: Irish security forces is a term used to describe all security forces of the Republic of Ireland. The term was widely used to refer to the various security operations undertaken by the Irish state during The Troubles, and still continues to be used to describe security operations aimed at undermining the ongoing dissident Irish Republican campaign.\n\nDissident Irish Republican campaign: Since the Provisional Irish Republican Army (IRA) called a ceasefire and ended its armed campaign in 1997, breakaway groups opposed to the ceasefire (\"dissident Irish republicans\") have continued a low-level armed campaign against the British security forces in Northern Ireland. The main paramilitaries involved are the Real IRA, Continuity IRA and Óglaigh na hÉireann. They have targeted the British Army and Police Service of Northern Ireland (PSNI, successor of the Royal Ulster Constabulary) in gun and bomb attacks, as well as with mortars and rockets. They have also carried out bombings that are meant to cause disruption. However, their campaign has not been as intensive as the Provisional IRA's.\n\nIrish National Liberation Army: The Irish National Liberation Army (INLA, Irish: \"Arm Saoirse Náisiúnta na hÉireann\" ) is an Irish republican socialist paramilitary group formed in December 1974, during \"the Troubles\". It seeks to remove Northern Ireland from the United Kingdom and create a socialist republic encompassing all of Ireland. It is the paramilitary wing of the Irish Republican Socialist Party (IRSP).\n\nUnited Ireland: United Ireland is the proposition that the whole of Ireland should be a single sovereign state. At present, the island is divided politically; the sovereign state of Ireland has jurisdiction over the majority of Ireland, while Northern Ireland is part of the United Kingdom. Achieving a united Ireland is a central tenet of Irish nationalism, particularly of both mainstream and dissident Irish republican political and paramilitary organisations. Unionists support Northern Ireland remaining part of the United Kingdom, and therefore oppose Irish unification.\n\nTimeline of Continuity IRA actions: This is a chronology of activities by the Continuity Irish Republican Army (CIRA), an Irish republican paramilitary group. The group started operations in 1994, after the Provisional Irish Republican Army began a ceasefire.\n\nReal Irish Republican Army: The Real Irish Republican Army or Real IRA (RIRA), is a dissident Irish republican paramilitary organisation which aims to bring about a united Ireland. It formed in 1997 following a split in the Provisional IRA by dissident members, who rejected the IRA's ceasefire that year. Like the Provisional IRA before it, the RIRA sees itself as the only rightful successor to the original Irish Republican Army and styles itself as \"the Real Irish Republican Army\" in English or \"Óglaigh na hÉireann\" in Irish. It is an illegal organisation in the Republic of Ireland and designated as proscribed terrorist organisation in the United Kingdom and the United States.\n\nTimeline of Real Irish Republican Army actions: This is a timeline of actions by the Real Irish Republican Army, also called the Real IRA, an Irish republican paramilitary group. The group was formed in late 1997 by members of the Provisional Irish Republican Army who disagreed with that organisation's ceasefire.\n\nProvisional Irish Republican Army: The Provisional Irish Republican Army (Provisional IRA) was an Irish republican paramilitary organization that sought to remove Northern Ireland from the United Kingdom and to bring about an independent socialist republic encompassing all of Ireland. It was the biggest and most active republican paramilitary group during the Troubles. It saw itself as the successor to the original IRA and called itself simply the Irish Republican Army (IRA), or \"Óglaigh na hÉireann\" in Irish, and was widely referred to as such by others.\n\nOfficial Irish Republican Army: The Official Irish Republican Army or Official IRA (OIRA) was an Irish republican paramilitary group whose goal was to remove Northern Ireland from the United Kingdom and create a \"workers' republic\" encompassing all of Ireland. It emerged in December 1969, shortly after the beginning of the Troubles, when the Irish Republican Army split into two factions. The other was the Provisional IRA. Each continued to call itself simply \"the IRA\" and rejected the other's legitimacy. Unlike the \"Provisionals\", the \"Officials\" were Marxist and worked to form a united front with other Irish communist groups, named the Irish National Liberation Front (NLF). The Officials were called the NLF by the Provisionals and were sometimes nicknamed the \"Red IRA\" by others.",
+        "relevant_titles": [
+          "Óglaigh na hÉireann (Real IRA splinter group)"
+        ],
+        "relevant_text": "\"Óglaigh na hÉireann (ONH; ] ) is the title taken by a small dissident Irish republican paramilitary group that has taken part in the dissident Irish republican campaign. The organisation started carrying out attacks around 2009 and was formed after a split within the Real IRA.\""
+      },
+      {
+        "augmented": true,
+        "question": "What is the name of the ghost town, home to only a single active residence, located about 20 miles south-southwest of Helena, Montana?",
+        "paragraphs": "Calico, San Bernardino County, California: Calico is a ghost town and former mining town in San Bernardino County, California, United States. Located in the Calico Mountains of the Mojave Desert region of Southern California, it was founded in 1881 as a silver mining town, and today has been converted into a county park named \"Calico Ghost Town\". Located off Interstate 15, it lies 3 mi from Barstow and 3 miles from Yermo. Giant letters spelling \"CALICO\" can be seen on the Calico Peaks behind the ghost town from the freeway. Walter Knott purchased Calico in the 1950s, architecturally restoring all but the five remaining original buildings to look as they did in the 1880s. Calico received California Historical Landmark #782, and in 2005 was proclaimed by then-Governor Arnold Schwarzenegger to be California's Silver Rush Ghost Town.\n\nFoster, Eau Claire County, Wisconsin: Foster is an unincorporated community in the town of Clear Creek in Eau Claire County, Wisconsin, United States. It lies approximately 9 miles south-southwest of Fall Creek, 7 miles southeast of Cleghorn, and 6 miles northwest of Osseo. Located primarily along Eau Claire County Highway \"HH\", it is flanked on the west by U.S. Highway 53 and on the east by Interstate 94, being the site of I-94's exit #81 in Wisconsin, placing it 11 miles southeast along the freeway from southeastern Eau Claire and 7 miles northwest of Osseo.\n\nCahuilla Creek: Cahuilla Creek is a tributary stream of Wilson Creek which is in turn a tributary of Temecula Creek, and the Santa Margarita River in Riverside County, California. Its mouth is at its confluence with Wilson Creek at an elevation of 2,106 feet / 642 meters. Its source is at , at an elevation of 5,800 feet, on the west slope of Thomas Mountain 0.6 miles west-southwest of Tool Box Spring. It flows southwest through the Anza Valley and Cahuilla Valley in the Cahuilla Indian Reservation to Wilson Creek, 7 miles south-southwest of Cahuilla Mountain and 20 miles south-southeast of San Jacinto.\n\nHelena, Montana: Helena is the capital city of the U.S. state of Montana and the county seat of Lewis and Clark County. As of the 2010 census the population at 28,190, making it the fifth least populous state capital in the U.S. It was founded as a gold camp during the Montana gold rush, and was established in 1864. Over $3.6 billion of gold was extracted in the city limits over a duration of two decades, making it one of the wealthiest cities in the United States by the late nineteenth century. The concentration of wealth contributed to the city's prominent, elaborate Victorian architecture.\n\nGhost Town Village: Ghost Town Village (formerly \"Ghost Town in the Sky) is a Wild West-themed amusement park in Maggie Valley, North Carolina, United States that is currently on hiatus. An unusual aspect of this park is that it is located atop a mountain which can only be accessed by visitors via a 3370 ft chair lift or an inclined funicular railway. These start at the parking area beside Jonathan Creek at an elevation of 3150 ft , climbing to the lower level of the park at 4400 ft , a climb of 1250 ft . The recreated \"Ghost Town\" sits at 4600 ft , with the highest elevation in the park being about 4650 ft . The park is located on a ridge extending from Buck Mountain border, an extension of the Cataloochee Divide, to the Great Smoky Mountains National Park. The park's entrance is located on U.S. Highway 19, the main road through the town. Ghost Town is promoted as \"North Carolina's mile-high theme park.\"\n\nArkansas Hills: The Arkansas Hills are a mountain range in Central Colorado located between the upper Arkansas River Valley and the upper South Platte River Valley. This landmass is a continuation of the ridge known as the Mosquito Range north of Trout Creek Pass. The range continues for roughly 60 miles south-southwest from Trout Creek Pass to the town of Texas Creek. Few perennial streams flow out of the Arkansas Hills, as the area is arid. The range is in the rain shadow of the much higher Sawatch and Sangre de Cristo Ranges to the west across the Arkansas River Valley. The City of Salida, Colorado is the most notable municipality near the Arkansas Hills. To the south is the town of Cotopaxi, Colorado. To the east is the town of Guffey, Colorado. The highest points in the Arkansas Hills tend to be between 11,000 and 12,000 feet elevation.\n\nComet, Montana: Comet is a ghost town located about twenty miles (32 kilometers) south-southwest of Helena, Montana, United States. It is reached by following High Ore Road north from Interstate 15. The remains of the town cover about thirty-five acres and consist of an ore hopper, a large ore processing building, several other company buildings, and numerous houses and other private structures. High Ore Creek runs through the center of the property and separates the mine buildings from the town proper. The town is abandoned except for a single active residence; although it sits on private grazing land, it is open to public access.\n\nSan Angelo Army Air Field: San Angelo Army Airfield is an inactive United States Air Force base, about 8 miles south-southwest of San Angelo, Texas. It was active during World War II as a training airfield. It was closed on 30 November 1945.\n\nCanby's Cross: Canby's Cross is located in Lava Beds National Monument, about 3 miles south of Tule Lake, and 5 miles south-southwest of the town of Tulelake, California. It was erected to commemorate General Canby's death at a peace gathering. General Canby was shot in the face by Captain Jack of the Modoc tribe, who was later hanged for the killing. The cross is registered as a California Historical Landmark.\n\nGhost Town, Oakland, California: Ghost Town (sometimes spelled Ghosttown) is the informal name of the Foster Hoover Historic District neighborhood in West Oakland, Oakland, California. The community is known for its violence and blight . Some people believe the name originates from a drug king pin who referred to the area as a ghost town due to the shortage of other drug dealers whose absence was attributed to the king pin's dominance over the area. Others believe it derives from the two former casket companies located side by side on Filbert Street between 30th and 32nd Streets, while others claim that the presence of ghostly white people in an historically black neighborhood gave it its name. Ghost Town stretches from 27th Street to 35th Street in the area immediately southwest of the MacArthur Maze. Others see the neighborhood bounded by Adeline on the West and San Pablo on the East. Ghost Town Farms, one of the more successful expressions of urban agriculture activity in Oakland is located in the heart of the district at 2727 Martin Luther King Jr. Way, between 27th and 28th Streets. The area is also one of Oakland's many open-air art galleries, with exceptional muralist work continually on exhibition, particularly along Martin Luther King Jr. Way. This neighborhood has an active citizen crime patrol, including one group of seniors who walk the neighborhood weekly to get physical exercise and report blight. Jerry Brown, governor of California and former Mayor of Oakland stated: \"Instead of an omnibus crime bill, you have to deal with shootings in Ghost Town in West Oakland and sideshows in East Oakland.\" Brown made attempts to turn around the blighted West Oakland neighborhood after \"60 Minutes\" featured it in a television profile. Housing prices have increased. So has drug dealing, especially since nearby parks were closed by the City of Oakland. Prostitution, in 2015, has been on the decline for at least a decade.",
+        "relevant_titles": [
+          "Comet, Montana"
+        ],
+        "relevant_text": "\"Comet is a ghost town located about twenty miles (32 kilometers) south-southwest of Helena, Montana, United States. The town is abandoned except for a single active residence; although it sits on private grazing land, it is open to public access.\""
+      },
+      {
+        "id": "5a8d3f6a5542994ba4e3dc35",
+        "question": "This song, which got heavy rotation on MTV was written by Sebastian Bach, Rachel Bolan and a rock guitarist in what kind of band?",
+        "answer": "heavy metal band",
+        "paragraphs": [
+          {
+            "title": "Wasted Time (Skid Row song)",
+            "sentences": [
+              "\"Wasted Time\" is a song by Skid Row.",
+              " It was their third single released from their second album, \"Slave to the Grind\".",
+              " The song was released in 1991 and written by bandmates Sebastian Bach, Rachel Bolan and Dave \"the Snake\" Sabo.",
+              " It was also the band's last real hit on the U.S. charts and also features a music video.",
+              " Lead singer Sebastian Bach said the song was written about Steven Adler, the original drummer of hard rock band Guns N' Roses ."
+            ]
+          },
+          {
+            "title": "Into Another",
+            "sentences": [
+              "\"Into Another\" is a song by Skid Row.",
+              " It was a single from their third album, \"Subhuman Race\".",
+              " The song was released in 1995 and written by bandmates Rachel Bolan and Dave \"the Snake\" Sabo.",
+              " This is the last single Skid Row released with Sebastian Bach."
+            ]
+          },
+          {
+            "title": "Skid Row (American band)",
+            "sentences": [
+              "Skid Row is an American heavy metal band, formed in 1986 in Toms River, New Jersey.",
+              " The group was commercially successful in the late 1980s and early 1990s, with its first two albums \"Skid Row\" (1989) and \"Slave to the Grind\" (1991) certified multi-platinum, the latter of which reached number one on the \"Billboard\" 200.",
+              " The band's third album \"Subhuman Race\" (1995) was also critically acclaimed, but failed to repeat the success of its predecessors.",
+              " During this period, the band consisted of bassist Rachel Bolan, guitarists Dave Sabo and Scotti Hill, drummer Rob Affuso, and frontman Sebastian Bach.",
+              " The band had sold 20 million albums worldwide by the end of 1996."
+            ]
+          },
+          {
+            "title": "In a Darkened Room",
+            "sentences": [
+              "\"In a Darkened Room\" is a song by Skid Row.",
+              " It was a single from their second album, \"Slave to the Grind\".",
+              " The song was released in 1991 and written by bandmates Sebastian Bach, Rachel Bolan and Dave \"the Snake\" Sabo.",
+              " The song only charted in Switzerland at number 27"
+            ]
+          },
+          {
+            "title": "Slave to the Grind (song)",
+            "sentences": [
+              "\"Slave to the Grind\" is a song by Skid Row.",
+              " It was the second single and the title track from their second album, \"Slave to the Grind\".",
+              " The song was released in 1991 and written by bandmates Sebastian Bach, Rachel Bolan and Dave \"The Snake\" Sabo.",
+              " It reached #43 on the UK Singles Chart.",
+              " The video also got heavy rotation on MTV but was not as successful as previous singles and did not chart in the US."
+            ]
+          },
+          {
+            "title": "Dave Sabo",
+            "sentences": [
+              "David Michael Sabo, nicknamed \"The Snake,\" is a rock guitarist who plays in the heavy metal band Skid Row.",
+              " He is co-guitarist with Scotti Hill."
+            ]
+          },
+          {
+            "title": "Monkey Business (Skid Row song)",
+            "sentences": [
+              "\"Monkey Business\" is a song by Skid Row.",
+              " It was the first single from their second album, \"Slave to the Grind\" and marked their change from hard-hitting glam metal to overall heavy metal.",
+              " The song is one of their best known songs.",
+              " The single was released in 1991 and was written by bandmates Rachel Bolan and Dave \"the Snake\" Sabo.",
+              " The song was the biggest hit on Slave to the Grind and although the song didn't make the top 40 it reached #13 on the Mainstream Rock Tracks and still gets heavy airplay on rock radio stations.",
+              " The video got heavy rotation on MTV and catapulted the album to double-platinum status.",
+              " Along with \"Youth Gone Wild\" from their first album, it is considered their signature song."
+            ]
+          },
+          {
+            "title": "Love on a Mountain Top",
+            "sentences": [
+              "\"Love On a Mountain Top\" is a 1968 song by singer Robert Knight.",
+              " The song was written by Buzz Cason and Mac Gayden, like its predecessor, his 1967/1968 smash hit Everlasting Love.",
+              " It however only charted regionally in the Philadelphia and Pittsburgh area.",
+              " Re-discovered by the UK's Northern soul scene it got heavy rotation by deejays in late 1973, causing a UK re-release of the record, which eventually entered the UK Singles Charts and peaked at #10 in January, 1974."
+            ]
+          },
+          {
+            "title": "Trouble Walkin'",
+            "sentences": [
+              "Trouble Walkin' is the fourth full-length solo album released by Ace Frehley.",
+              " No longer under the band name Frehley's Comet the album features guest performances by former Kiss drummer Peter Criss, as well as Skid Row members Sebastian Bach, Rachel Bolan and Dave Sabo."
+            ]
+          },
+          {
+            "title": "Wolf Hoffmann",
+            "sentences": [
+              "Wolf Hoffmann (born 10 December 1959) is a German guitarist, primarily known as guitarist in the German heavy metal band Accept since 1976.",
+              " In 1997, he released the album \"Classical\" with rock versions of classical pieces.",
+              " He contributed to Skid Row vocalist Sebastian Bach's solo album \"Bring 'Em Bach Alive!",
+              "\" and to a 2000 Japanese tribute to Randy Rhoads album called \"Randy Rhoads Tribute\" with Sebastian Bach on \"I Don't Know\" and with Joe Lynn Turner on \"Diary of a Madman\".",
+              " Hoffmann also contributed to \"Peace Breaker\" by Skew Siskin."
+            ]
+          }
+        ],
+        "gold_titles": [
+          "Slave to the Grind (song)",
+          "Dave Sabo"
+        ]
+      }
+    ],
+    "signature": {
+      "instructions": "Find the paragraphs needed to answer the question and quote the sentences that matter.",
+      "fields": [
+        {
+          "prefix": "Question:",
+          "description": "${question}"
+        },
+        {
+          "prefix": "Paragraphs:",
+          "description": "ten paragraphs, only a few of them are relevant"
+        },
+        {
+          "prefix": "Relevant Titles:",
+          "description": "titles of the paragraphs that are needed to answer the question"
+        },
+        {
+          "prefix": "Relevant Text:",
+          "description": "the sentences from those paragraphs that are needed, quoted verbatim"
+        }
+      ]
+    },
+    "lm": {
+      "_dspy_lm_class": "dspy.clients.lm.LM",
+      "model": "openrouter/google/gemma-4-31b-it",
+      "model_type": "chat",
+      "cache": false,
+      "num_retries": 20,
+      "temperature": 0.0,
+      "max_tokens": 1000,
+      "extra_body": {
+        "provider": {
+          "only": [
+            "deepinfra/turbo"
+          ],
+          "allow_fallbacks": false
+        },
+        "reasoning": {
+          "enabled": false
+        }
+      },
+      "finetuning_model": null,
+      "launch_kwargs": {},
+      "train_kwargs": {}
+    }
+  },
+  "programm.answer_question": {
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "After appearing in the Stephen King adaptation Misery, Richard Farnsworth received an Academy Award nomination for his part in which 1999 film?",
+        "relevant_text": "\"He is best known for his performances in \\\"The Grey Fox\\\" (1982), for which he received a Golden Globe Award nomination, \\\"Anne of Green Gables\\\" (1985), \\\"Misery\\\" (1990), and \\\"The Straight Story\\\" (1999), for which he received a nomination for the Academy Award for Best Actor.\"",
+        "answer": "The Straight Story"
+      },
+      {
+        "augmented": true,
+        "question": "What is the nickname of the boxer that Krzysztof Zimnoch has an amateur win over?",
+        "relevant_text": "\"He holds an amateur win over current WBC heavyweight champion Deontay Wilder.\" \"This led to his nickname of \\\"The Bronze Bomber\\\", which Wilder coined after Joe Louis, who was known by the nickname of \\\"The Brown Bomber\\\".\"",
+        "answer": "The Bronze Bomber"
+      },
+      {
+        "id": "5ade216855429939a52fe836",
+        "question": "Swedish Livonia, which constituted the southern part of modern Estonia, was fully ceded in what peace treaty between Sweden, the Polish-Lithuanian Commonwealth, the Habsburgs and Brandenburg-Prussia?",
+        "answer": "Treaty of Oliva",
+        "paragraphs": [
+          {
+            "title": "Uniformity policy",
+            "sentences": [
+              "The uniformity policy was the concept of implementing Swedish law to the dominions of Sweden during the latter's time as an empire.",
+              " It is symbolized by the slogan unus rex, una lex et grex unus (\"one king, one law, one people\") possibly coined by Johan Skytte, governor-general in Swedish Estonia, Ingria and Livonia.",
+              " However, the phrase is also found in the debates on the possible union of Scotland and England in 1607, when Sir Edwyn Sandys noted King James VI & I's view that for a perfect union there should be unus rex, unus grex, una lex.",
+              " Most notably, the uniformity policy aimed at abolishing serfdom then common in Estonia, Livonia and the Swedish dominons in the Holy Roman Empire (Ingermanland naturally had a free peasantry).",
+              " While implemented in Livonia against the will of the local Baltic German nobles, the Estonian and Pomeranian peasants remained serfs: Estonia had voluntarily submitted to Sweden and thus had been given leeway in keeping the traditional local law code, while Swedish Pomerania had retained its traditional law code when, on behalf of the then ruling Swedish high nobility, the Peace of Westphalia granted it to Sweden while remaining part of the Holy Roman Empire, and not in a formal cession which would have resulted in the implementation of Swedish law.",
+              " Swedish law was thus only introduced to Swedish Pomerania after the dissolution of the Holy Roman Empire in 1806."
+            ]
+          },
+          {
+            "title": "Wenden Voivodeship",
+            "sentences": [
+              "Wenden Voivodeship (Polish: \"Województwo wendeńskie\" ) was a unit of administrative division and local government in the Duchy of Livonia, part of the Polish-Lithuanian Commonwealth.",
+              " It was formed in 1598 by King Zygmunt III Waza, out of Wenden Presidency (Province), which had been created in 1582 by King Stefan Batory, after the Truce of Jan Zapolski.",
+              " The voivodeship remained in the Commonwealth until the Swedish Empire's conquest of the Livonia in the 1620s.",
+              " The remainder of Polish Livonia was named Inflanty Voivodeship, and continued to be part of the Commonwealth until the first partition of Poland in 1772."
+            ]
+          },
+          {
+            "title": "Treaty of Oliva",
+            "sentences": [
+              "The Treaty or Peace of Oliva of 23 April (OS)/3 May (NS) 1660 (Polish: \"Pokój Oliwski\" , Swedish: \"Freden i Oliva\" , German: \"Vertrag von Oliva\" ) was one of the peace treaties ending the Second Northern War (1655-1660).",
+              " At Oliva (Oliwa, Royal Prussia), peace was made between Sweden, the Polish-Lithuanian Commonwealth, the Habsburgs and Brandenburg-Prussia."
+            ]
+          },
+          {
+            "title": "Treaty of Schwedt",
+            "sentences": [
+              "The Treaty of Schwedt was concluded on 6 October 1713, during the Great Northern War, between the Tsardom of Russia and Brandenburg-Prussia in Schwedt.",
+              " Brandenburg-Prussia was promised southern Swedish Pomerania up to the Peene river, which had just been conquered by Russia.",
+              " In turn, Brandenburg-Prussia accepted Russia's annexation of Swedish Ingria, Estonia and Karelia, and agreed to pay 400,000 thalers to Russia.",
+              " Southern Swedish Pomerania was to be administered by Brandenburg-Prussia until a definite ruling in a peace treaty was reached."
+            ]
+          },
+          {
+            "title": "Estonia under Swedish rule",
+            "sentences": [
+              "Estonia under Swedish rule signifies the time between 1558 and 1710, when parts of present-day Estonia (and after 1645 all of the present-day country) were under Swedish rule.",
+              " In the wake of the breakup of the State of the Teutonic Order, the Baltic German local aristocracy in the areas of Harrien (Harjumaa) and Wierland (Virumaa), as well as the city of Reval (Tallinn) in June 1561 (and somewhat later Jerwen (Järvamaa)) asked for and were granted protection by the Swedish king Eric XIV, leading to Swedish involvement in the Livonian War.",
+              " At the conclusion of hostilities in 1583, Sweden was in control of the northern parts of modern Estonia and Hiiumaa island; this territory was created the Duchy of Estonia.",
+              " Following renewed wars between Poland and Sweden, the southern parts of present-day Estonia (then Livonia) were incorporated into Sweden by the Treaty of Altmark in 1629.",
+              " In 1645, Sweden also conquered the island of Ösel (Saaremaa) from Denmark, and were thus in control of all of present-day Estonia."
+            ]
+          },
+          {
+            "title": "Swedish Livonia",
+            "sentences": [
+              "Swedish Livonia (Swedish: \"Svenska Livland\" ) was a dominion of the Swedish Empire from 1629 until 1721.",
+              " The territory, which constituted the southern part of modern Estonia (including the island of Ösel ceded by Denmark after the Treaty of Brömsebro) and the northern part of modern Latvia (the Vidzeme region), represented the conquest of the major part of the Polish-Lithuanian Duchy of Livonia during the 1600–1629 Polish-Swedish War.",
+              " Parts of Livonia and the city of Riga were under Swedish control as early as 1621 and the situation was formalized in Truce of Altmark 1629, but the whole territory was not ceded formally until the Treaty of Oliva in 1660.",
+              " The minority part of the Wenden Voivodeship retained by the Polish–Lithuanian Commonwealth was renamed the Inflanty Voivodeship (\"\"Livonian Principality\"\"), which today corresponds to the Latgale region of Latvia."
+            ]
+          },
+          {
+            "title": "Treaty of Tartu (Russian–Estonian)",
+            "sentences": [
+              "Tartu Peace Treaty (Estonian: \"Tartu rahu\" , literally \"Tartu peace\") or Treaty of Tartu was a peace treaty between Estonia and Soviet Russia signed on February 2, 1920 ending the Estonian War of Independence.",
+              " The terms of the treaty stated that \"\"Russia unreservedly recognises\"\" the independence of Republic of Estonia \"de jure\" and renounced in perpetuity all rights to the territory of Estonia.",
+              " Ratifications of the treaty were exchanged in Moscow on March 30, 1920.",
+              " It was registered in \"League of Nations Treaty Series\" on July 12, 1922."
+            ]
+          },
+          {
+            "title": "Dorpat Voivodeship",
+            "sentences": [
+              "The Dorpat Voivodeship (Polish: \"Województwo dorpackie\" or \"województwo derpskie\") was a unit of administrative division and local government in the Duchy of Livonia, part of the Polish-Lithuanian Commonwealth, from 1598 until the Swedish conquest of Livonia in the 1620s.",
+              " The seat of the voivode was in the town of Dorpat (Tartu), while the regional assembly (sejmik) for the whole province of Livonia was located in Wenden.",
+              " The area of the Dorpat Voivodeship was app.",
+              " 9,000 square kilometers, and it had two senators in the Senate of the Polish-Lithuanian Commonwealth."
+            ]
+          },
+          {
+            "title": "Polish–Lithuanian royal election, 1704",
+            "sentences": [
+              "In early 1700, King of Poland, Grand Duke of Lithuania and Elector of Saxony, Augustus II the Strong began the Great Northern War by attacking Swedish Livonia.",
+              " Despite Russian support, Saxon army lost several battles, and soon afterwards, forces of the Swedish Empire controlled most of the Polish-Lithuanian Commonwealth.",
+              " In June 1703, Augustus II convened the Extraordinary Sejm in Lublin, where he faced widespread criticism.",
+              " His opponent were led by Primate of Poland, Michał Radziejowski, and sons of late King Jan III Sobieski, Jakub and Konstanty."
+            ]
+          },
+          {
+            "title": "Peace of Busza",
+            "sentences": [
+              "The Peace of Busza (Busha, Bose) also known as the Treaty of Jaruga was negotiated by Stanisław Żółkiewski of the Polish-Lithuanian Commonwealth and Iskender Pasha of the Ottoman Empire in Busza (Bose) near the Jaruga and Dniester rivers on 23 September 1617.",
+              " Polish and Ottoman armies met, but decided to negotiate, instead of to fight.",
+              " In this peace treaty Polish-Lithuanian Commonwealth agreed to cede the Khotyn to the Ottomans and to stop its interference in Moldavia."
+            ]
+          }
+        ],
+        "gold_titles": [
+          "Swedish Livonia",
+          "Treaty of Oliva"
+        ]
+      },
+      {
+        "id": "5a7326675542991f29ee2d0f",
+        "question": "Which National Park includes the features Red Eagle Mountain and Going-to-the-Sun Road?",
+        "answer": "Glacier National Park",
+        "paragraphs": [
+          {
+            "title": "Red Eagle Mountain",
+            "sentences": [
+              "Red Eagle Mountain (8881 ft ) is located in the Lewis Range, Glacier National Park in the U.S. state of Montana.",
+              " Red Eagle Mountain rises more than 4000 ft above Saint Mary Lake and is easily seen from the Going-to-the-Sun Road and the entrance to the park from the village of St. Mary, Montana as well as at Rising Sun.",
+              " The mountain was named according to James Willard Schultz, \"by his Indian wife in 1887, for her uncle, Red Eagle, who had saved their son's life with his prayers to the Sun\"."
+            ]
+          },
+          {
+            "title": "Dusty Star Mountain",
+            "sentences": [
+              "Dusty Star Mountain (8573 ft ) is located in the Lewis Range, Glacier National Park in the U.S. state of Montana.",
+              " Connected by an arête to Citadel Mountain to the south, Dusty Star Mountain lies to the south and across the Saint Mary Valley from Going-to-the-Sun Mountain.",
+              " Dusty Star Mountain is easily seen from the Going-to-the-Sun Road, and often photographed by tourists taking pictures of Wild Goose Island which lies in the western section of Saint Mary Lake.",
+              " The Blackfoot name for Dusty Star is \"iszika-kakatosi\" meaning \"meteor\" or \"smoking star\"."
+            ]
+          },
+          {
+            "title": "Eagle Mountain, California",
+            "sentences": [
+              "Eagle Mountain, California, is a modern-day ghost town in the California desert in Riverside County founded in 1948 by noted industrialist Henry J. Kaiser.",
+              " The town is located at the entrance of the now-defunct Eagle Mountain iron mine, once owned by the Southern Pacific Railroad, then Kaiser Steel, and located on the southeastern corner of Joshua Tree National Park.",
+              " The town's fully integrated medical care system, similar to other Kaiser operations in California, was the genesis of the modern-day Kaiser Permanente health maintenance organization.",
+              " Eagle Mountain is accessible by Riverside County Route R2, twelve miles (19 km) north of Desert Center, midway between Indio and the California/Arizona state line along Interstate 10.",
+              " The town's relative youth and brief time of abandonment make Eagle Mountain among the country's best preserved ghost towns."
+            ]
+          },
+          {
+            "title": "Red Eagle Glacier",
+            "sentences": [
+              "Red Eagle Glacier is a glacier remnant (glacieret) in Glacier National Park in the U.S. state of Montana.",
+              " The glacieret is a hanging glacier located to the southeast of Mount Logan and Logan Glacier.",
+              " Between 1966 and 2005, Red Eagle Glacier lost 53 percent of its surface area and now covers less than 25 acre which is below the threshold to qualify as an active glacier.",
+              " Comparing images of the glacier taken in 1914 with those from 2009, indicates that the glacier has experienced extensive retreat."
+            ]
+          },
+          {
+            "title": "Red Eagle Lake",
+            "sentences": [
+              "Red Eagle Lake is located in Glacier National Park, in the U. S. state of Montana.",
+              " Red Eagle Mountain rises to the west of the lake and Saint Mary Lake is to the north.",
+              " Red Eagle Lake is accessible from the Triple Divide Trail and is a 7.6 mi hike from St. Mary, Montana."
+            ]
+          },
+          {
+            "title": "Garden Wall",
+            "sentences": [
+              "The Garden Wall is a steep alpine area within Glacier National Park well known during the summer months to be heavily covered in dozens of species of flowering plants and shrubs.",
+              " Located along the west side of the Continental divide and extending northward from Logan Pass, the Garden Wall can be traversed via the popular Highline Trail and for a distance of over 5 mi to the Granite Park Chalet.",
+              " The Going-to-the-Sun Road also passes through portions of the Garden Wall northwest of Logan Pass.",
+              " The Weeping Wall is a short stretch of the Going-to-the-Sun Road where water cascades over the Garden Wall to the roadway below.",
+              " The Garden Wall is an arête or rock spine that separates the Many Glacier region of the park from Lake McDonald valley."
+            ]
+          },
+          {
+            "title": "Mahtotopa Mountain",
+            "sentences": [
+              "Mahtotopa Mountain (8677 ft ) is located in the Lewis Range, Glacier National Park in the U.S. state of Montana.",
+              " Mahtotopa Mountain rises to the south above Saint Mary Lake midway between Red Eagle Mountain and Little Chief Mountain and can be easily seen from the Going-to-the-Sun Road to the southwest of Rising Sun.",
+              " Originally named \"Four Bears Mountain\" by George Bird Grinnell in 1885, the name was changed in 1932 to Mahtotopa.",
+              " \"Mahtotopa\" is an incorrect spelling of \"Mato-tope\", the Mandan chief known as \"Four Bears\".",
+              " Mato-tope was a grandfather of Joe Kipp, a hunting companion of Grinnell."
+            ]
+          },
+          {
+            "title": "Mount Jackson (Montana)",
+            "sentences": [
+              "Mount Jackson (10052 ft ) is located in the Lewis Range, Glacier National Park in the U.S. state of Montana.",
+              " Mount Jackson is the fourth tallest mountain in Glacier National Park and it is situated on the Continental Divide.",
+              " Both the mountain and its namesake Jackson Glacier are easily seen from the Going-to-the-Sun Road.",
+              " On the southern flanks of Mount Jackson is Harrison Glacier, the largest remaining glacier in the park."
+            ]
+          },
+          {
+            "title": "Going-to-the-Sun Mountain",
+            "sentences": [
+              "Going-to-the-Sun Mountain (9647 ft ) is located in Glacier National Park and rises dramatically above St. Mary Valley just north of the Going-to-the-Sun Road.",
+              " The mountain was named by James Willard Schultz in 1888."
+            ]
+          },
+          {
+            "title": "Going-to-the-Sun Road",
+            "sentences": [
+              "Going-to-the-Sun Road is a scenic mountain road in the Rocky Mountains of the western United States, in Glacier National Park in Montana.",
+              " The Sun Road, as it is sometimes abbreviated in National Park Service documents, is the only road that traverses the park crossing the Continental Divide through Logan Pass at an elevation of 6,646 feet (2,026 m), which is the highest point on the road.",
+              " Construction began in 1921 and was completed in 1932 with formal dedication in the following summer on July 15, 1933.",
+              " The road is the first to have been registered in all of the following categories: National Historic Place, National Historic Landmark and Historic Civil Engineering Landmark.",
+              " The length of the road is approximately 50 miles (80 km) and spans the width of the park between the east and west entrance stations.",
+              " The National Historic Landmark Nomination records a slightly shorter distance of 48.7 miles which is measured from the first main intersection just outside the park's west entrance to Divide Creek in St. Mary on the east side of the park."
+            ]
+          }
+        ],
+        "gold_titles": [
+          "Red Eagle Mountain",
+          "Going-to-the-Sun Road"
+        ]
+      }
+    ],
+    "signature": {
+      "instructions": "You are an elite intelligence analyst tasked with solving critical multi-hop queries under high-stakes conditions. Your mission is to extract the final answer solely from the provided relevant evidence sentences, ignoring all other context. \n\nInstructions:\n1. Analyze the question and the provided `relevant_text`.\n2. Synthesize the information to determine the direct answer.\n3. Reply with ONLY a short phrase containing the answer. Do not write full sentences, explanations, or introductory text.",
+      "fields": [
+        {
+          "prefix": "Question:",
+          "description": "${question}"
+        },
+        {
+          "prefix": "Relevant Text:",
+          "description": "the sentences that were found to be relevant"
+        },
+        {
+          "prefix": "Answer:",
+          "description": "a short phrase, not a sentence"
+        }
+      ]
+    },
+    "lm": {
+      "_dspy_lm_class": "dspy.clients.lm.LM",
+      "model": "openrouter/google/gemma-4-31b-it",
+      "model_type": "chat",
+      "cache": false,
+      "num_retries": 20,
+      "temperature": 0.0,
+      "max_tokens": 1000,
+      "extra_body": {
+        "provider": {
+          "only": [
+            "deepinfra/turbo"
+          ],
+          "allow_fallbacks": false
+        },
+        "reasoning": {
+          "enabled": false
+        }
+      },
+      "finetuning_model": null,
+      "launch_kwargs": {},
+      "train_kwargs": {}
+    }
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.13",
+      "dspy": "3.3.1",
+      "cloudpickle": "3.1"
+    }
+  }
+}

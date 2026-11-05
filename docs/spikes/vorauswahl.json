@@ -1,0 +1,182 @@
+{
+  "gelaufen_am": "2026-09-19 17:35:55",
+  "anzahl_fragen": 20,
+  "ergebnisse": [
+    {
+      "modell": "moonshotai/kimi-k2",
+      "exakt": 0.65,
+      "f1": 0.8307575757575757,
+      "fehler": 0,
+      "kosten_usd": 0.02142409,
+      "kosten_je_frage_usd": 0.0010712045,
+      "anbieter": [
+        "Novita"
+      ]
+    },
+    {
+      "modell": "mistralai/ministral-8b-2512",
+      "exakt": 0.6,
+      "f1": 0.8130303030303031,
+      "fehler": 0,
+      "kosten_usd": 0.00417363,
+      "kosten_je_frage_usd": 0.0002086815,
+      "anbieter": [
+        "Mistral"
+      ]
+    },
+    {
+      "modell": "aion-labs/aion-3.0-mini",
+      "exakt": 0.5,
+      "f1": 0.8064718614718615,
+      "fehler": 0,
+      "kosten_usd": 0.03001136,
+      "kosten_je_frage_usd": 0.001500568,
+      "anbieter": [
+        "AionLabs"
+      ]
+    },
+    {
+      "modell": "inception/mercury-2.5",
+      "exakt": 0.6842105263157895,
+      "f1": 0.8043062200956937,
+      "fehler": 1,
+      "kosten_usd": 0.00570573,
+      "kosten_je_frage_usd": 0.0002852865,
+      "anbieter": [
+        "Inception"
+      ]
+    },
+    {
+      "modell": "meituan/longcat-2.0",
+      "exakt": 0.65,
+      "f1": 0.8002813852813853,
+      "fehler": 0,
+      "kosten_usd": 0.015190104,
+      "kosten_je_frage_usd": 0.0007595052,
+      "anbieter": [
+        "AtlasCloud"
+      ]
+    },
+    {
+      "modell": "qwen/qwen3.7-flash",
+      "exakt": 0.65,
+      "f1": 0.7974242424242425,
+      "fehler": 0,
+      "kosten_usd": 0.003467566,
+      "kosten_je_frage_usd": 0.0001733783,
+      "anbieter": [
+        "Alibaba"
+      ]
+    },
+    {
+      "modell": "tencent/hy4-preview",
+      "exakt": 0.6666666666666666,
+      "f1": 0.7901515151515152,
+      "fehler": 8,
+      "kosten_usd": 0.122156028,
+      "kosten_je_frage_usd": 0.0061078014,
+      "anbieter": [
+        "Tencent"
+      ]
+    },
+    {
+      "modell": "mistralai/mistral-small-24b-instruct-2501",
+      "exakt": 0.6,
+      "f1": 0.7757575757575758,
+      "fehler": 0,
+      "kosten_usd": 0.00151092,
+      "kosten_je_frage_usd": 7.5546e-05,
+      "anbieter": [
+        "DeepInfra"
+      ]
+    },
+    {
+      "modell": "stepfun/step-3.5-flash",
+      "exakt": 0.7142857142857143,
+      "f1": 0.762987012987013,
+      "fehler": 6,
+      "kosten_usd": 0.0074097,
+      "kosten_je_frage_usd": 0.000370485,
+      "anbieter": [
+        "SiliconFlow"
+      ]
+    },
+    {
+      "modell": "z-ai/glm-5.3-flashx",
+      "exakt": 0.6,
+      "f1": 0.7621861471861472,
+      "fehler": 0,
+      "kosten_usd": 0.01279819,
+      "kosten_je_frage_usd": 0.0006399095,
+      "anbieter": [
+        "Z.AI"
+      ]
+    },
+    {
+      "modell": "bytedance-seed/seed-2.0-mini",
+      "exakt": 0.5789473684210527,
+      "f1": 0.7547732968785601,
+      "fehler": 1,
+      "kosten_usd": 0.0083139,
+      "kosten_je_frage_usd": 0.00041569500000000005,
+      "anbieter": [
+        "Seed"
+      ]
+    },
+    {
+      "modell": "qwen/qwen3.8-flash",
+      "exakt": 0.6,
+      "f1": 0.7407575757575757,
+      "fehler": 0,
+      "kosten_usd": 0.00714521,
+      "kosten_je_frage_usd": 0.0003572605,
+      "anbieter": [
+        "Alibaba"
+      ]
+    },
+    {
+      "modell": "upstage/solar-pro4",
+      "exakt": 0.55,
+      "f1": 0.7153899286987523,
+      "fehler": 0,
+      "kosten_usd": 0.00282159,
+      "kosten_je_frage_usd": 0.00014107950000000002,
+      "anbieter": [
+        "Upstage"
+      ]
+    },
+    {
+      "modell": "openai/gpt-4o-mini-2024-07-18",
+      "exakt": 0.45,
+      "f1": 0.7077056277056277,
+      "fehler": 0,
+      "kosten_usd": 0.0043815,
+      "kosten_je_frage_usd": 0.000219075,
+      "anbieter": [
+        "OpenAI"
+      ]
+    },
+    {
+      "modell": "mistralai/mistral-small-2603",
+      "exakt": 0.5,
+      "f1": 0.5909090909090909,
+      "fehler": 18,
+      "kosten_usd": 0.00044625000000000003,
+      "kosten_je_frage_usd": 2.23125e-05,
+      "anbieter": [
+        "Mistral"
+      ]
+    },
+    {
+      "modell": "anthropic/claude-3-haiku",
+      "exakt": 0.45,
+      "f1": 0.5709956709956711,
+      "fehler": 0,
+      "kosten_usd": 0.00862275,
+      "kosten_je_frage_usd": 0.0004311375,
+      "anbieter": [
+        "Amazon Bedrock"
+      ]
+    }
+  ]
+}

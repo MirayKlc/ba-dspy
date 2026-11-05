@@ -1,0 +1,8 @@
+﻿Durchgang;Seed;Strategie;Kandidatenmodelle;Anbieterfehler (gezählt);Ursache laut Protokoll;Hinweis;Kosten $
+9;2;Verfahren;gpt-oss, Gemma;21;LMRateLimitError;;1,649
+10;2;Verfahren;gpt-oss;2;LMRateLimitError, KeyboardInterrupt;1 Ratenbegrenzung (HTTP 429), dann Abbruch von Hand;0,001
+11;2;Verfahren;gpt-oss;1;KeyboardInterrupt;im Protokoll kein 429, nur Abbruch von Hand (KeyboardInterrupt);0,005
+14;2;B3 Einzelmodell;gpt-oss;1;LMRateLimitError;;6,251
+16;2;B3 Einzelmodell;Gemma;9;LMRateLimitError;;7,451
+22;3;B2 Gleichverteilung;gpt-oss;7;LMRateLimitError;von Hand abgebrochen, nachdem der Durchgang schon ungültig war;0,768
+zusammen;;;;41;;;16,126

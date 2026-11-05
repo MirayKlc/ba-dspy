@@ -1,0 +1,69 @@
+{
+  "gelaufen_am": "2026-09-20 14:10:05",
+  "frage": "Signatur WieDerProposer, siehe spikes/vorschlagsmodell.py",
+  "gemessen": {
+    "deepseek/deepseek-v4-flash-0731 / nichts": {
+      "gelungen": true,
+      "vorschlag": "Given a question and a set of relevant sentences, produce a concise answer that is directly supported by the provided sentences. Use only the information contained in those sentences; do not incorpora",
+      "denk_tokens": 77,
+      "antwort_tokens": 151,
+      "kosten_usd": 4.632e-05
+    },
+    "deepseek/deepseek-v4-flash-0731 / enabled_false": {
+      "gelungen": true,
+      "vorschlag": "Given the question and the provided relevant sentences, extract and reply with a concise answer using only information from those sentences. Keep the response to a short phrase.",
+      "denk_tokens": 0,
+      "antwort_tokens": 45,
+      "kosten_usd": 2.25e-05
+    },
+    "deepseek/deepseek-v4-flash-0731 / effort_low": {
+      "gelungen": true,
+      "vorschlag": "Based solely on the provided sentences, answer the question with a concise phrase. Do not use any information not present in these sentences.",
+      "denk_tokens": 199,
+      "antwort_tokens": 244,
+      "kosten_usd": 5.832e-05
+    },
+    "nousresearch/hermes-4-405b / nichts": {
+      "gelungen": true,
+      "vorschlag": "Analyze the provided question and relevant sentences to generate a concise, accurate answer that directly addresses the question. The response should be a brief phrase that captures the key informatio",
+      "denk_tokens": 0,
+      "antwort_tokens": 57,
+      "kosten_usd": 0.000409
+    },
+    "nousresearch/hermes-4-405b / enabled_false": {
+      "gelungen": true,
+      "vorschlag": "Given a question and a set of relevant sentences, generate a concise answer by extracting the key information from the provided sentences that directly addresses the question.",
+      "denk_tokens": 0,
+      "antwort_tokens": 41,
+      "kosten_usd": 0.000361
+    },
+    "nousresearch/hermes-4-405b / effort_low": {
+      "gelungen": true,
+      "vorschlag": "Using only the provided relevant sentences, generate a concise answer to the question. If no answer is found within the sentences, respond with \"No answer available.\" Ensure the answer is a short phra",
+      "denk_tokens": 0,
+      "antwort_tokens": 629,
+      "kosten_usd": 0.002198
+    },
+    "google/gemma-4-31b-it / nichts": {
+      "gelungen": true,
+      "vorschlag": "Given a specific question and a set of relevant retrieved sentences, provide a concise answer in the form of a short phrase, ensuring that the information is derived exclusively from the provided text",
+      "denk_tokens": 0,
+      "antwort_tokens": 51,
+      "kosten_usd": 5.764e-05
+    },
+    "google/gemma-4-31b-it / enabled_false": {
+      "gelungen": true,
+      "vorschlag": "Given a question and a set of relevant retrieved sentences, provide a concise answer using only the information provided in those sentences. Ensure the response is a short phrase and does not include ",
+      "denk_tokens": 0,
+      "antwort_tokens": 56,
+      "kosten_usd": 5.964e-05
+    },
+    "google/gemma-4-31b-it / effort_low": {
+      "gelungen": true,
+      "vorschlag": "Given a question and a set of relevant sentences, generate a concise answer using only the provided text. Ensure the response is a short phrase and strictly avoids incorporating any external informati",
+      "denk_tokens": 400,
+      "antwort_tokens": 458,
+      "kosten_usd": 0.00022016
+    }
+  }
+}

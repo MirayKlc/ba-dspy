@@ -1,0 +1,40 @@
+﻿Strategie;Kandidatenmodell;Seed;Durchgang;Rolle;F1;Exact Match;Absatz-Trefferquote
+Verfahren;DeepSeek V4.1 Flash;1;2;gewinner;0.8181;0.678;0.957
+Verfahren;DeepSeek V4.1 Flash;2;12;gewinner;0.7983;0.666;0.967
+Verfahren;DeepSeek V4.1 Flash;3;21;gewinner;0.8001;0.666;0.963
+B1 ohne Optimierung;gpt-oss-120b;1;1;teilnehmer;0.7512;0.594;0.751
+B1 ohne Optimierung;gpt-oss-120b;2;8;teilnehmer;0.7575;0.606;0.762
+B1 ohne Optimierung;gpt-oss-120b;3;20;teilnehmer;0.7447;0.586;0.756
+B1 ohne Optimierung;Gemma 4 31B;1;1;teilnehmer;0.7764;0.604;0.908
+B1 ohne Optimierung;Gemma 4 31B;2;8;teilnehmer;0.7736;0.6;0.904
+B1 ohne Optimierung;Gemma 4 31B;3;20;teilnehmer;0.7667;0.594;0.901
+B1 ohne Optimierung;DeepSeek V4.1 Flash;1;1;gewinner;0.7978;0.658;0.942
+B1 ohne Optimierung;DeepSeek V4.1 Flash;2;8;gewinner;0.7966;0.652;0.936
+B1 ohne Optimierung;DeepSeek V4.1 Flash;3;20;gewinner;0.7949;0.652;0.94
+B1 ohne Optimierung;GPT-6 Luna;1;1;teilnehmer;0.5632;0.076;0.8439
+B1 ohne Optimierung;GPT-6 Luna;2;8;teilnehmer;0.5669;0.088;0.8574
+B1 ohne Optimierung;GPT-6 Luna;3;20;teilnehmer;0.5686;0.082;0.8438
+B2 Gleichverteilung;gpt-oss-120b;1;3;teilnehmer;0.7527;0.598;0.753
+B2 Gleichverteilung;gpt-oss-120b;2;13;teilnehmer;0.7591;0.614;0.787
+B2 Gleichverteilung;gpt-oss-120b;3;23;gewinner;0.7424;0.576;0.754
+B2 Gleichverteilung;Gemma 4 31B;1;3;teilnehmer;0.788;0.63;0.911
+B2 Gleichverteilung;Gemma 4 31B;2;13;teilnehmer;0.7977;0.646;0.95
+B2 Gleichverteilung;Gemma 4 31B;3;23;teilnehmer;0.7821;0.616;0.927
+B2 Gleichverteilung;DeepSeek V4.1 Flash;1;3;gewinner;0.8038;0.664;0.959
+B2 Gleichverteilung;DeepSeek V4.1 Flash;2;13;gewinner;0.802;0.664;0.962
+B2 Gleichverteilung;DeepSeek V4.1 Flash;3;23;teilnehmer;0.8028;0.672;0.939
+B2 Gleichverteilung;GPT-6 Luna;1;3;teilnehmer;0.7295;0.524;0.888
+B2 Gleichverteilung;GPT-6 Luna;2;13;teilnehmer;0.6974;0.42;0.905
+B2 Gleichverteilung;GPT-6 Luna;3;23;teilnehmer;0.707;0.464;0.898
+B3 Einzelmodell;gpt-oss-120b;1;4;gewinner;0.7748;0.606;0.782
+B3 Einzelmodell;gpt-oss-120b;2;15;gewinner;0.7488;0.588;0.86
+B3 Einzelmodell;gpt-oss-120b;3;24;gewinner;0.7515;0.596;0.761
+B3 Einzelmodell;Gemma 4 31B;1;5;teilnehmer;0.7924;0.64;0.925
+B3 Einzelmodell;Gemma 4 31B;2;17;teilnehmer;0.7982;0.642;0.933
+B3 Einzelmodell;Gemma 4 31B;3;25;teilnehmer;0.7977;0.636;0.929
+B3 Einzelmodell;DeepSeek V4.1 Flash;1;6;gewinner;0.8041;0.662;0.954
+B3 Einzelmodell;DeepSeek V4.1 Flash;2;18;gewinner;0.7962;0.666;0.939
+B3 Einzelmodell;DeepSeek V4.1 Flash;3;26;teilnehmer;0.8005;0.666;0.96
+B3 Einzelmodell;GPT-6 Luna;1;7;teilnehmer;0.7392;0.538;0.877
+B3 Einzelmodell;GPT-6 Luna;2;19;teilnehmer;0.7241;0.53;0.831
+B3 Einzelmodell;GPT-6 Luna;3;27;teilnehmer;0.6859;0.314;0.908

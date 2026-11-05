@@ -1,0 +1,8 @@
+﻿baseline;kandidatenmodell;Optimierung $;Nachbewertung $;Nachbewertungen;C_opt $;geplant $;Abweichung vom Plan;Abweichung von B
+Verfahren;;5,285 ± 0,179;0,384 ± 0,065;5,0 ± 0,0;5,669 ± 0,140;5,525 ± 0,147;2,6 % ± 0,7 %;-5,5 % ± 2,3 %
+Gleichverteilung (B/4 je Modell);;6,178 ± 0,649;0,322 ± 0,092;4,0 ± 0,0;6,500 ± 0,722;5,971 ± 0,000;8,9 % ± 12,1 %;8,3 % ± 12,0 %
+Einzelmodell (volles Budget B);gpt-oss-120b;5,923 ± 0,733;0,029 ± 0,007;1,0 ± 0,0;5,952 ± 0,729;5,992 ± 0,000;-0,7 % ± 12,2 %;-0,8 % ± 12,2 %
+Einzelmodell (volles Budget B);Gemma 4 31B;6,604 ± 0,800;0,086 ± 0,015;1,0 ± 0,0;6,690 ± 0,811;5,979 ± 0,000;11,9 % ± 13,6 %;11,5 % ± 13,5 %
+Einzelmodell (volles Budget B);DeepSeek V4.1 Flash;5,353 ± 1,857;0,054 ± 0,010;1,0 ± 0,0;5,407 ± 1,865;5,989 ± 0,000;-9,7 % ± 31,1 %;-9,9 % ± 31,1 %
+Einzelmodell (volles Budget B);GPT-6 Luna;4,939 ± 0,578;0,118 ± 0,026;1,0 ± 0,0;5,057 ± 0,555;5,984 ± 0,000;-15,5 % ± 9,3 %;-15,7 % ± 9,3 %
+Ohne Optimierung;;0,000 ± 0,000;0,167 ± 0,002;4,0 ± 0,0;0,167 ± 0,002;– ± –;–;–

@@ -1,0 +1,192 @@
+{
+  "gelaufen_am": "2026-10-10 02:50:32",
+  "anzahl_fragen": 48,
+  "gleichzeitig": 8,
+  "wiederholungen": 3,
+  "teil1_denken_relace": {
+    "nichts": {
+      "angenommen": false,
+      "fehler": "LMRateLimitError: [deepseek/deepseek-v4.1-flash] litellm.RateLimitError: RateLimitError: OpenrouterException - {\"error\":{\"message\":\"Provider returned error\",\"code\":429,\"metadata\":{\"raw\":\"deepseek/deepseek-v4.1-flash is temporarily rate-limited upstream. Please retry shortly, or add your own key to a"
+    },
+    "enabled_false": {
+      "angenommen": true,
+      "antwort": "France",
+      "denk_tokens": 0,
+      "antwort_tokens": 2,
+      "kosten_usd": 1.92e-06,
+      "anbieter": "Relace"
+    },
+    "effort_low": {
+      "angenommen": true,
+      "antwort": "{'text': 'France', 'reasoning_content': 'We need answer. Need obey. Paragraphs A",
+      "denk_tokens": 33,
+      "antwort_tokens": 35,
+      "kosten_usd": 2.2136e-05,
+      "anbieter": "Relace"
+    }
+  },
+  "teil2_programm": [
+    {
+      "modell": "deepseek/deepseek-v4.1-flash",
+      "endpunkt": "relace",
+      "reasoning": {
+        "enabled": false
+      },
+      "bedient_haben": {
+        "Relace": 96
+      },
+      "beantwortet": 48,
+      "gestellt": 48,
+      "fehler": {},
+      "f1": 0.7669823232323232,
+      "f1_standardfehler": 0.05576425930326427,
+      "lm_aufrufe": 96,
+      "kosten_usd": 0.005640368,
+      "kosten_je_programmlauf_usd": 0.00011750766666666667,
+      "denk_tokens_je_aufruf": 0.0,
+      "denk_tokens_max": 0,
+      "abgeschnitten": 0,
+      "latenz_median_s": 5.725686717501958,
+      "dauer_s": 39.724660767002206
+    },
+    {
+      "modell": "deepseek/deepseek-v4.1-flash",
+      "endpunkt": "open-inference/fp4",
+      "reasoning": {
+        "enabled": false
+      },
+      "bedient_haben": {
+        "OpenInference": 96
+      },
+      "beantwortet": 48,
+      "gestellt": 48,
+      "fehler": {},
+      "f1": 0.7808712121212121,
+      "f1_standardfehler": 0.056078185411370975,
+      "lm_aufrufe": 96,
+      "kosten_usd": 0.00906922,
+      "kosten_je_programmlauf_usd": 0.0001889420833333333,
+      "denk_tokens_je_aufruf": 0.0,
+      "denk_tokens_max": 0,
+      "abgeschnitten": 0,
+      "latenz_median_s": 12.40570210399892,
+      "dauer_s": 88.24364548200538
+    }
+  ],
+  "teil3_openrouter_angaben": [
+    {
+      "tag": "relace",
+      "quantization": "unknown",
+      "preis_prompt_je_mio": 0.016,
+      "preis_antwort_je_mio": 0.6,
+      "uptime_last_1d": 100,
+      "supported_parameters": [
+        "reasoning",
+        "include_reasoning",
+        "temperature",
+        "top_p",
+        "top_k",
+        "min_p",
+        "stop",
+        "max_tokens",
+        "logit_bias",
+        "frequency_penalty",
+        "presence_penalty",
+        "repetition_penalty",
+        "tools",
+        "tool_choice",
+        "reasoning_effort"
+      ]
+    },
+    {
+      "tag": "open-inference/fp4",
+      "quantization": "fp4",
+      "preis_prompt_je_mio": 0.02,
+      "preis_antwort_je_mio": 1.0,
+      "uptime_last_1d": 91.4833215046132,
+      "supported_parameters": [
+        "reasoning",
+        "include_reasoning",
+        "temperature",
+        "max_tokens",
+        "stop",
+        "seed",
+        "top_p",
+        "frequency_penalty",
+        "presence_penalty",
+        "top_k",
+        "min_p",
+        "logit_bias",
+        "repetition_penalty",
+        "response_format",
+        "structured_outputs",
+        "tools",
+        "tool_choice",
+        "reasoning_effort"
+      ]
+    }
+  ],
+  "teil4_ohne_wiederholungen": {
+    "gelaufen_am": "2026-10-10 02:52:58",
+    "fragen": "trainingsdaten[48:96]",
+    "wiederholungen": 0,
+    "nichts_nochmal": {
+      "angenommen": true,
+      "antwort": "{'text': 'France', 'reasoning_content': 'We need answer. Need use paragraphs. A ",
+      "denk_tokens": 35,
+      "antwort_tokens": 35,
+      "kosten_usd": 2.2136e-05,
+      "anbieter": "Relace"
+    },
+    "ohne_wiederholungen": [
+      {
+        "modell": "deepseek/deepseek-v4.1-flash",
+        "endpunkt": "relace",
+        "reasoning": {
+          "enabled": false
+        },
+        "bedient_haben": {
+          "Relace": 83
+        },
+        "beantwortet": 40,
+        "gestellt": 48,
+        "fehler": {
+          "rate_limit": 8
+        },
+        "f1": 0.7757142857142857,
+        "f1_standardfehler": 0.057206618883008764,
+        "lm_aufrufe": 83,
+        "kosten_usd": 0.004991256,
+        "kosten_je_programmlauf_usd": 0.00010398450000000001,
+        "denk_tokens_je_aufruf": 0.0,
+        "denk_tokens_max": 0,
+        "abgeschnitten": 0,
+        "latenz_median_s": 5.238701388501795,
+        "dauer_s": 34.340908308004146
+      },
+      {
+        "modell": "deepseek/deepseek-v4.1-flash",
+        "endpunkt": "open-inference/fp4",
+        "reasoning": {
+          "enabled": false
+        },
+        "bedient_haben": {
+          "OpenInference": 96
+        },
+        "beantwortet": 48,
+        "gestellt": 48,
+        "fehler": {},
+        "f1": 0.763095238095238,
+        "f1_standardfehler": 0.053691186641208546,
+        "lm_aufrufe": 96,
+        "kosten_usd": 0.00938146,
+        "kosten_je_programmlauf_usd": 0.00019544708333333333,
+        "denk_tokens_je_aufruf": 0.0,
+        "denk_tokens_max": 0,
+        "abgeschnitten": 0,
+        "latenz_median_s": 12.64714610649753,
+        "dauer_s": 85.94485167999665
+      }
+    ]
+  }
+}

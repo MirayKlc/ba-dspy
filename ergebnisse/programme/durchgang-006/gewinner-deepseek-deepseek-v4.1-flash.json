@@ -1,0 +1,144 @@
+{
+  "programm.find_evidence": {
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Are the Sternbergia and Echinopsis genuses of plants both native to the same regions?",
+        "paragraphs": "Sternbergia vernalis: Sternbergia vernalis is a bulbous flowering plant in the family Amaryllidaceae, subfamily Amaryllidoideae, which is sometimes used as an ornamental plant. It has yellow flowers which appear in spring. The species is native to central and southwestern Asia (Turkmenistan, Tajikistan, Uzbekistan, Armenia, Azerbaijan, Georgia, Iran, Iraq, Lebanon, Syria and Turkey).\n\nEchinopsis backebergii: Echinopsis backebergii is a species of flowering plant in the cactus family Cactaceae, native to eastern Bolivia and southern Peru. It grows to 5 cm tall and wide, with single or clustered globose stems 4-5 cm thick, with about 15 ribs and covered in grey-brown spines. Large, showy, carmine-red flowers are borne in summer. As the minimum temperature requirement is 10 C , in temperate regions it must be grown under glass with heat.\n\nSternbergia: Sternbergia is a genus of Eurasian and North African plants in the Amaryllis family, subfamily Amaryllidoideae.\n\nSternbergia colchiciflora: Sternbergia colchiciflora is a bulbous flowering plant in the family Amaryllidaceae, subfamily Amaryllidoideae, which is sometimes used as an ornamental plant. The species is native to southern Europe from Spain to Ukraine, as well as from Morocco, Algeria, Turkey, Syria, Lebanon, Palestine, Iran and the Caucasus. It has yellow flowers which appear in autumn.\n\nEchinopsis scopulicola: Echinopsis scopulicola is a type of cactus native to Bolivia, which contains psychedelic compounds. Many claim this species contains mescaline, which was until recently unconfirmed due to the lack of official research, but a study published in September 2010 by the International Society for Ethnopharmacology placed it in the top third of the results for their samples. This included 14 taxa/cultivars of the subgenus Trichocereus of the genus Echinopsis, with Scopulicola noted to contain 0.82% mescaline/dry weight in the outer green layer.\n\nNarcisseae: Narcisseae is a small tribe of plants belonging to the subfamily Amaryllidoideae of the Amaryllis family (Amaryllidaceae), where it forms part of the Eurasian clade, and is one of three tribes in the European (Mediterranean) clade. It contains two genera (\"Narcissus\" and \"Sternbergia\") and approximately 58 species, but probably also \"Lapiedra\". The two genera are distinguished from each other by the presence of a paraperigonium in the former.\n\nSternbergia pulchella: Sternbergia pulchella is a bulbous flowering plant in the family Amaryllidaceae, subfamily Amaryllidoideae. It has yellow flowers which appear in autumn. The species is native to Syria and Lebanon.\n\nEchinopsis: Echinopsis is a large genus of cacti native to South America, sometimes known as hedgehog cactus, sea-urchin cactus or Easter lily cactus. One small species, \"E. chamaecereus\", is known as the peanut cactus. The 128 species range from large and treelike types to small globose cacti. The name derives from \"echinos\" hedgehog or sea urchin, and \"opsis\" appearance, a reference to these plants' dense coverings of spines.\n\nEchinopsis pachanoi: Echinopsis pachanoi (syn. Trichocereus pachanoi) — known as San Pedro cactus — is a fast-growing columnar cactus native to the Andes Mountains at 2000 – in altitude. It is found in Argentina, Bolivia, Chile, Ecuador and Peru, and it is cultivated in other parts of the world. Uses for it include traditional medicine and traditional veterinary medicine, and it is widely grown as an ornamental cactus. It has been used for healing and religious divination in the Andes Mountains region for over 3,000 years. It is sometimes confused with its close relative \"Echinopsis peruviana\" (Peruvian torch cactus).\n\nEchinopsis peruviana: Echinopsis peruviana (syn. Trichocereus peruvianus), Peruvian torch cactus, is a fast-growing columnar cactus native to the western slope of the Andes in Peru, between about 2000 - above sea level. It contains the psychoactive alkaloid mescaline as well as other alkaloids, although reported levels vary considerably and do not approach the concentrations found in \"Echinopsis pachanoi\".",
+        "relevant_titles": [
+          "Sternbergia",
+          "Echinopsis"
+        ],
+        "relevant_text": "\"Sternbergia is a genus of Eurasian and North African plants in the Amaryllis family, subfamily Amaryllidoideae.\" \"Echinopsis is a large genus of cacti native to South America, sometimes known as hedgehog cactus, sea-urchin cactus or Easter lily cactus.\""
+      },
+      {
+        "augmented": true,
+        "question": "This English writer and social critic who wrote A Christmas Carol is regarded as the greatest novelist of what era?",
+        "paragraphs": "Rose Fyleman: Rose Amy Fyleman (1877–1957) was an English writer and poet, noted for her works on the fairy folk, for children. Her poem \"There are fairies at the bottom of our garden\" was set to music by English composer Liza Lehmann. Her Christmas carol \"Lift your hidden faces\", set to a French carol tune, was included in the Anglican hymnal \"Songs of Praise\" (1931) as well as in the Hutterian Brotherhood's \"Songs of Light\" (1977).\n\nA Christmas Carol (1984 film): A Christmas Carol is a 1984 British-American made-for-television film adaptation of Charles Dickens' famous 1843 novella of the same name. The film is directed by Clive Donner, who had been an editor of the 1951 film \"Scrooge\", and stars George C. Scott as Ebenezer Scrooge.\n\nKalanta Xristougenon: Kalanta Xristougenon (Κάλαντα Χριστουγέννων) is a Greek traditional Christmas carol (kalanta) translated into English simply as \"Christmas Carol.\" This carol is commonly abbreviated as \"Kalanta\" or \"Kalanda\", some other common titles for this Christmas carol are Kalin Iméran and Christos Genate. This carol is commonly sung around Christmas and accompanied by light percussion instruments such as the Triangle (musical instrument) and Guitar.\n\nWe Three Kings: \"We Three Kings\", also known as \"We Three Kings of Orient Are\" or \"The Quest of the Magi\", is a Christmas carol that was written by John Henry Hopkins, Jr. in 1857. At the time of composing the carol, Hopkins served as the rector of Christ Episcopal Church in Williamsport, Pennsylvania, and he wrote the carol for a Christmas pageant in New York City. Many versions of this song have been composed and it remains a popular Christmas carol.\n\nA Christmas Carol: A Christmas Carol in Prose, Being a Ghost-Story of Christmas, commonly known as A Christmas Carol, is a novella by Charles Dickens, first published in London by Chapman & Hall in 1843; the first edition was illustrated by John Leech. \"A Christmas Carol\" tells the story of Ebenezer Scrooge, an old miser who is visited by the ghost of his former business partner Jacob Marley and the Ghosts of Christmas Past, Present and Yet to Come. After their visits Scrooge is transformed into a kinder, gentler man.\n\nA Christmas Carol (1999 film): A Christmas Carol is a 1999 British-American made-for-television film adaptation of Charles Dickens' famous novel \"A Christmas Carol\" that was first televised December 5, 1999 on TNT. It was directed by David Jones and stars Patrick Stewart as Ebenezer Scrooge and Richard E. Grant as Bob Cratchit. The film was produced after Patrick Stewart performed a series of successful theatrical readings of \"A Christmas Carol\" on Broadway and in London.\n\nA Klingon Christmas Carol: A Klingon Christmas Carol is the first play to be performed entirely in Klingon, a constructed language first appearing in the television series \"Star Trek\". The play is based on the Charles Dickens novella, \"A Christmas Carol\". \"A Klingon Christmas Carol\" is the Charles Dickens classic tale of ghosts and redemption, adapted to reflect the Klingon values of courage and honor, and then translated into Klingon, performed with English supertitles.\n\nCharles Dickens: Charles John Huffam Dickens ( ; 7 February 1812 – 9 June 1870) was an English writer and social critic. He created some of the world's best-known fictional characters and is regarded by many as the greatest novelist of the Victorian era. His works enjoyed unprecedented popularity during his lifetime, and by the 20th century critics and scholars had recognised him as a literary genius. His novels and short stories enjoy lasting popularity.\n\nThe Chimes: The Chimes: A Goblin Story of Some Bells that Rang an Old Year Out and a New Year In, a short novel by Charles Dickens, was written and published in 1844, one year after \"A Christmas Carol\" and one year before \"The Cricket on the Hearth\". It is the second in his series of \"Christmas books\": five short books with strong social and moral messages that he published during the 1840s. In addition to \"A Christmas Carol\" and \"The Cricket on the Hearth\", the Christmas books include \"The Battle of Life\" (1846) and \"The Haunted Man and the Ghost's Bargain\" (1848).\n\nThe Muppet Christmas Carol: The Muppet Christmas Carol is a 1992 American-British musical fantasy comedy-drama film and an adaptation of Charles Dickens's 1843 novel \"A Christmas Carol\". It is the fourth in a series of live-action musical films featuring The Muppets, with Michael Caine starring as Ebenezer Scrooge. Although it is a comedic film with contemporary songs, \"The Muppet Christmas Carol\" otherwise follows Dickens's original story closely. The film was produced and directed by Brian Henson for Jim Henson Productions and released by Walt Disney Pictures.",
+        "relevant_titles": [
+          "Charles Dickens"
+        ],
+        "relevant_text": "Charles John Huffam Dickens ( ; 7 February 1812 – 9 June 1870) was an English writer and social critic. He created some of the world's best-known fictional characters and is regarded by many as the greatest novelist of the Victorian era."
+      },
+      {
+        "augmented": true,
+        "question": "Which cartridge did John Browning design that has a rim that is the same in diameter as the .50 GI?",
+        "paragraphs": "M2 Browning: The M2 Machine Gun or Browning .50 Caliber Machine Gun is a heavy machine gun designed toward the end of World War I by John Browning. Its design is similar to Browning's earlier M1919 Browning machine gun, which was chambered for the .30-06 cartridge. The M2 uses the much larger and much more powerful .50 BMG cartridge, which was developed alongside and takes its name from the gun itself (BMG standing for \"Browning Machine Gun\"). It has been referred to as \"Ma Deuce\", in reference to its M2 nomenclature. The design has had many specific designations; the official designation for the current infantry type is Browning Machine Gun, Cal. .50, M2, HB, Flexible. It is effective against infantry, unarmored or lightly armored vehicles and boats, light fortifications and low-flying aircraft. The M2 has been produced longer than any other machine gun.\n\nM1895 Colt–Browning machine gun: The Colt–Browning M1895, nicknamed \"potato digger\" because of its unusual operating mechanism, is an air-cooled, belt-fed, gas-operated machine gun that fires from a closed bolt with a cyclic rate of 450 rounds per minute. Based on a John Browning and Matthew S. Browning design dating to 1889, it was the first successful gas-operated machine gun to enter service.\n\nGuncrafter Industries Model No. 1: The Guncrafter Industries Model No. 1 (Or M1) is a variant of the widely popular M1911 handgun, modified for the .50 GI cartridge. John Browning's 1911 .45 ACP has been used for many cartridges over the past century. In every instance the cartridge used a bullet with a diameter that was the same or smaller than the original .451\". Both the Desert Eagle and the LAR Grizzly have been offered in cartridges of .50 caliber. Both are large cartridges requiring a large, heavy pistol.\n\n.32 ACP: .32 ACP (Automatic Colt Pistol), also known as the .32 Automatic is a centerfire pistol cartridge. It is a semi-rimmed, straight-walled cartridge developed by firearms designer John Browning, initially for use in the FN M1900 semi-automatic pistol. It was introduced in 1899 by Fabrique Nationale, and is also known as the 7.65×17mmSR Browning or 7.65 mm Browning Short.\n\nRemington Model 241: The Remington Arms Model 241 Speedmaster, an autoloading rimfire rifle, was manufactured from 1935 to 1951 from a John Browning design. Remington reports that 107,345 rifles were manufactured in .22 Short or .22 Long Rifle. A similar rifle is currently being sold by Browning Arms Company (the Browning SA-22 Browning 22 Semi-Auto rifle).\n\nRemington Model 24: Based on a John Browning design and manufactured from 1922-1935, the Remington model 24 is a semi-automatic rifle chambered in either .22 Short or .22 long rifle. It is very closely related to the Browning 22 Semi-Auto rifle (the Browning SA-22) which is still in production. It is a Takedown gun, meaning that the barrel and receiver are easily separated without tools, allowing for a smaller package for transport. A case deflector (seen in the image here) that hooked into the receiver and clipped onto the trigger guard was available.\n\n.45 ACP: The .45 ACP (Automatic Colt Pistol), or .45 Auto (11.43×23mm) is a handgun cartridge designed by John Browning in 1905, for use in his prototype Colt semi-automatic pistol. After successful military trials it was adopted, along with the Browning .45 Colt handgun, as the .45 M1911 cartridge. The handgun was designated M1911 pistol.\n\nFN Model 1903: The FN Model 1903 (M1903, FN Mle 1903), or Browning No.2 was a self-loading semi-automatic pistol engineered by John Browning and made by Belgian arms manufacturer Fabrique Nationale (FN). It was introduced in 1903 and fired the 9×20mmSR Browning Long cartridge. It should not be confused with the US-made Colt Model 1903 Pocket Hammerless (in .32 ACP), nor with the Colt Model 1903 Pocket Hammer (in .38 ACP). The FN Model 1903 is based on the same mechanical design as the Colt Model 1903 Pocket Hammerless, which Browning sold to both companies (and others as well), but enlarged to handle the more powerful 9mm Browning Long cartridge. Due to its reliability, accuracy, light weight, and quick reloading, the M1903 was an issued sidearm for many police forces and militaries. The pistol was initially introduced by FN as the Browning Modèle de Guerre (Browning War Model) or Browning Grand Modèle (Browning Large Model).\n\nCaliber conversion sleeve: A caliber conversion sleeve or adapter sleeve is a device which can be used to non-permanently alter a firearm to allow it to fire a different cartridge than the one it was originally designed to fire. The different cartridge must be smaller in some dimensions than the original design cartridge. Alternative names sometimes imply the type of dimensional difference. A chamber insert may be used for a shorter cartridge of similar base diameter. A supplemental chamber or cartridge adapter is typically used for a shorter cartridge of reduced diameter. A cartridge conversion sleeve may include a short barrel of reduced bore diameter. Shotgun conversion sleeves may be called subgauge inserts, subgauge tubes, or gauge reducers. Sleeves intended for rifle or handgun cartridges may have rifled barrels. Additional variations may allow centerfire weapons to fire rimfire ammunition and/or retain autoloading function with the smaller cartridge.\n\n.50 GI: The .50 GI (12.7×23mmRB) pistol cartridge was developed by Vic Tibbets and Alex Zimmermann of Guncrafter Industries. The .50 GI was introduced at the 2004 SHOT Show alongside the Guncrafter Industries Model No. 1, a variation of the M1911. The round has a rebated rim that is the same diameter as that of the .45 ACP.",
+        "relevant_titles": [
+          "Guncrafter Industries Model No. 1",
+          ".50 GI",
+          ".45 ACP"
+        ],
+        "relevant_text": "\"The Guncrafter Industries Model No. 1 (Or M1) is a variant of the widely popular M1911 handgun, modified for the .50 GI cartridge. John Browning's 1911 .45 ACP has been used for many cartridges over the past century. The .50 GI (12.7×23mmRB) pistol cartridge was developed by Vic Tibbets and Alex Zimmermann of Guncrafter Industries. The .50 GI was introduced at the 2004 SHOT Show alongside the Guncrafter Industries Model No. 1, a variation of the M1911. The round has a rebated rim that is the same diameter as that of the .45 ACP. The .45 ACP (Automatic Colt Pistol), or .45 Auto (11.43×23mm) is a handgun cartridge designed by John Browning in 1905, for use in his prototype Colt semi-automatic pistol.\""
+      },
+      {
+        "augmented": true,
+        "question": "Noam Jenkins had a role in the 2014 video game developed by which company?",
+        "paragraphs": "Watch Dogs: Watch Dogs (stylized as WATCH_DOGS) is an action-adventure video game developed by Ubisoft Montreal and published by Ubisoft. It was released worldwide on 27 May 2014 for Microsoft Windows, PlayStation 3, PlayStation 4, Xbox 360 and Xbox One, while a Wii U version was released in November 2014. Set within a fictionalized version of Chicago, Illinois, the single-player story follows a hacker and his efforts to seek revenge after the killing of his niece. The open world design lets players freely roam the urban city, suburbs, open countryside, and run-down neighborhoods of Chicago.\n\nGodzilla (2014 video game): Godzilla (also Godzilla: The Game, ゴジラ Godzilla, Gojira Godzilla, and Godzilla VS for the PS4 in Japan) is a 2014 video game developed by Natsume and published by Bandai Namco Games for the PlayStation 3 and PlayStation 4 based on the Japanese monster \"Godzilla\" franchise by Toho. It was first released on December 18, 2014 in Japan only for the PlayStation 3. It was released on July 14, 2015 in North America and on July 17, 2015 in Europe. The Western PlayStation 4 version is based on the upgraded Japanese release called \"Godzilla VS\", released on July 14, 2015, containing more content such as additional monsters.\n\nLost Dimension: Lost Dimension (ロストディメンション , Rosuto Dimenshon ) is a 2014 video game developed by Lancarse originally for the PlayStation 3 and PlayStation Vita. It is a tactical role-playing video game with visual novel-like elements, where the choices of the player determine the fate of the game's story, as well as its characters. The game's protagonist is 18-year-old Sho Kasugai, a member of S.E.A.L.E.D., an organisation tasked with stopping a mysterious man named \"The End\", who wants to destroy the world. A Microsoft Windows version, published by Ghostlight, will be released in 2017.\n\nSentinels of the Multiverse: The Video Game: Sentinels of the Multiverse: The Video Game is a 2014 video game developed and published by Handelabra Games. It is an adaptation of the board game of the same name. The game was released for iOS and Android on October 15, 2014 and for Steam on December 22, 2014.\n\nJet Car Stunts: Jet Car Stunts is a 2014 video game developed by Grip Games and published by BitComposer Entertainment. It is a remake of the 2009 iOS game of the same name.\n\nThe Evil Within 2: The Evil Within 2 is an upcoming third-person survival horror video game developed by Tango Gameworks and published by Bethesda Softworks for Microsoft Windows, PlayStation 4 and Xbox One. It is the sequel to the 2014 video game \"The Evil Within\".\n\nSometimes Always Monsters: Sometimes Always Monsters is an upcoming role-playing video game developed by Vagabond Dog and published by Devolver Digital. It is the sequel to the well-received 2014 video game \"Always Sometimes Monsters\".\n\nFossil Fighters: Frontier: Fossil Fighters: Frontier, known in Japan as Kasekihorider Mugengear (カセキホリダー ムゲンギア , lit. \"Fossil Diggers Infinite Gear\" ) , is a 2014 video game developed by Spike Chunsoft, with assistance from Red Entertainment and Cyclone Zero, and published by Nintendo for the Nintendo 3DS console. The game is the third title in the \"Fossil Fighters\" series, and the first on the Nintendo 3DS. It was released in Japan on February 27, 2014, in North America on March 20, 2015, and on May 29, 2015 in Europe, making it the first installment of the series to be officially released in that part of the world.\n\nNoam Jenkins: Noam Jenkins is a Canadian actor, voice actor, and television director. He is best known for his portrayal as Aiden Pearce in the 2014 video game \"Watch Dogs\", and Detective Jerry Barber on Global's \"Rookie Blue\".\n\nLord of Magna: Maiden Heaven: Lord of Magna: Maiden Heaven is a 2014 video game developed by Marvelous for the Nintendo 3DS handheld video game console. The game was released in Japan in October 2014, and was released worldwide in June 2015 by XSEED Games.",
+        "relevant_titles": [
+          "Watch Dogs",
+          "Noam Jenkins"
+        ],
+        "relevant_text": "\"Watch Dogs (stylized as WATCH_DOGS) is an action-adventure video game developed by Ubisoft Montreal and published by Ubisoft.\" \"Noam Jenkins is a Canadian actor, voice actor, and television director. He is best known for his portrayal as Aiden Pearce in the 2014 video game \"Watch Dogs\", and Detective Jerry Barber on Global's \"Rookie Blue\".\""
+      }
+    ],
+    "signature": {
+      "instructions": "You are an expert research analyst specializing in multi-hop reasoning and evidence retrieval. Your task is to identify the specific paragraphs from the provided list that contain the necessary information to answer the given question. Then, extract and quote the exact sentences from those relevant paragraphs that provide the direct evidence needed to resolve the query. Ignore irrelevant distractor paragraphs and focus solely on the factual basis required for the answer.",
+      "fields": [
+        {
+          "prefix": "Question:",
+          "description": "${question}"
+        },
+        {
+          "prefix": "Paragraphs:",
+          "description": "ten paragraphs, only a few of them are relevant"
+        },
+        {
+          "prefix": "Relevant Titles:",
+          "description": "titles of the paragraphs that are needed to answer the question"
+        },
+        {
+          "prefix": "Relevant Text:",
+          "description": "the sentences from those paragraphs that are needed, quoted verbatim"
+        }
+      ]
+    },
+    "lm": {
+      "_dspy_lm_class": "dspy.clients.lm.LM",
+      "model": "openrouter/deepseek/deepseek-v4.1-flash",
+      "model_type": "chat",
+      "cache": false,
+      "num_retries": 10,
+      "temperature": 0.0,
+      "max_tokens": 1000,
+      "extra_body": {
+        "provider": {
+          "only": [
+            "inference-net/fp8"
+          ],
+          "allow_fallbacks": false
+        },
+        "reasoning": {
+          "enabled": false
+        }
+      },
+      "finetuning_model": null,
+      "launch_kwargs": {},
+      "train_kwargs": {}
+    }
+  },
+  "programm.answer_question": {
+    "traces": [],
+    "train": [],
+    "demos": [],
+    "signature": {
+      "instructions": "You are an expert analyst tasked with answering questions based strictly on provided evidence. Your goal is to extract a concise, short-phrase answer from the input text.\n\n**Instructions:**\n1. **Analyze the Question**: Understand exactly what specific information is being requested (e.g., a name, date, era, yes/no, or quantity).\n2. **Filter Evidence**: Read the provided `relevant_text` carefully. Ignore any information not present in these sentences. Do not use outside knowledge.\n3. **Extract Answer**: Identify the specific segment of the text that directly answers the question.\n4. **Format Output**: Return ONLY the short phrase or exact term found in the text. Do not write full sentences, do not include introductory phrases like \"The answer is\", and do not add explanations.\n\n**Examples:**\n- If the question asks for an era and the text says \"...greatest novelist of the Victorian era.\", reply: \"Victorian era\"\n- If the question asks for a comparison and the text indicates different regions, reply: \"no\"\n- If the question asks for a cartridge name and the text mentions \".45 ACP\", reply: \".45 ACP\"\n\n**Input:**\nQuestion: {question}\nRelevant Text: {relevant_text}\n\n**Output:**",
+      "fields": [
+        {
+          "prefix": "Question:",
+          "description": "${question}"
+        },
+        {
+          "prefix": "Relevant Text:",
+          "description": "the sentences that were found to be relevant"
+        },
+        {
+          "prefix": "Answer:",
+          "description": "a short phrase, not a sentence"
+        }
+      ]
+    },
+    "lm": {
+      "_dspy_lm_class": "dspy.clients.lm.LM",
+      "model": "openrouter/deepseek/deepseek-v4.1-flash",
+      "model_type": "chat",
+      "cache": false,
+      "num_retries": 10,
+      "temperature": 0.0,
+      "max_tokens": 1000,
+      "extra_body": {
+        "provider": {
+          "only": [
+            "inference-net/fp8"
+          ],
+          "allow_fallbacks": false
+        },
+        "reasoning": {
+          "enabled": false
+        }
+      },
+      "finetuning_model": null,
+      "launch_kwargs": {},
+      "train_kwargs": {}
+    }
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.13",
+      "dspy": "3.3.1",
+      "cloudpickle": "3.1"
+    }
+  }
+}

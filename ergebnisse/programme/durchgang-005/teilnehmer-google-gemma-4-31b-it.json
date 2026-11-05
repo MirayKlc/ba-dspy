@@ -1,0 +1,795 @@
+{
+  "programm.find_evidence": {
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "The news media gave this name to an organized crime group founded by Albert Anastasia whom also founded American Mafia?",
+        "paragraphs": "Serb mafia in Scandinavia: The Serb mafia in Scandinavia, also known as \"Juggemaffian\" (\"Yugo Mafia\") is an organized crime group in Sweden and Denmark. The foundations of the gang began during the mass immigration of Yugoslav guest-workers to Sweden in the 1970s. Its power base is in the cities of Stockholm and Copenhagen, and territory in Malmö and Gothenburg, among other cities in western Sweden. They received significant media attention in Sweden especially during the 1990s, thanks to flashy top-ranking members such as Dragan \"Jokso\" Joksović. The founder and first leader of the gang is believed to be warlord Željko \"Arkan\" Ražnatović, and the current leader is alleged to be Milan Ševo.\n\nMala del Brenta: The Mala del Brenta, also known as Mafia veneta (\"Venetian mafia\") or Mafia del Piovese, is an organized crime group based in the Veneto and Friuli-Venezia Giulia, north-eastern Italy.\n\nGeorge Anastasia: George Anastasia (born February 5, 1947, in Philadelphia, Pennsylvania) is an American author and was a long-time writer for \"The Philadelphia Inquirer\". He is widely considered to be an expert on the American Mafia. He was an organized crime investigative reporter, who was once targeted for death by then-Philadelphia crime family boss John Stanfa. He has twice been nominated for a Pulitzer Prize and has won the Sigma Delta Chi Award. He has also been described on a \"60 Minutes\" television profile as \"One of the most respected crime reporters in the country.\" Anastasia lives in Pitman, New Jersey.\n\nMurder, Inc.: Murder, Inc. (or Murder Incorporated) was the name the news media gave to organized crime groups in the 1930s and 40s that acted as the enforcement arm of the Italian-American Mafia, Jewish mob, and connected organized crime groups in New York and elsewhere. The groups were largely composed of Italian-American and Jewish gangsters from the Brooklyn neighborhoods of Brownsville, East New York, and Ocean Hill. Originally headed by Louis \"Lepke\" Buchalter, and later by Albert \"The Mad Hatter\" Anastasia, Murder, Inc. was believed to be responsible for between 400 and 1,000 contract killings, until the group was exposed in the early 1940s by former group member Abe \"Kid Twist\" Reles. In the trials that followed, many members were convicted and executed, and Abe Reles himself died after \"falling out of a window\". Thomas E. Dewey first came to prominence as a prosecutor of Murder, Inc. and other organized crime cases.\n\nDubois Brothers: The Dubois Brothers were a French-Canadian organized crime group, who operated mostly in Montreal in the 1950s to the mid-1980s. The Dubois Brothers began their reputation for their criminal behaviour and their toughness throughout their teenage years. By the 1960s the Dubois Brothers were gaining control and were becoming the only crime group in Montreal that were considered to rival the Cotroni Clan in the 1960s and 1970s. The Dubois Brothers engaged in extortion, the exploitation of strippers and prostitutes, drug trafficking, loan sharking, and the murder of rival victims. A report by the Quebec Crime Commission called the gang \"the most important criminal organization in Quebec,\" so vicious and strong that they were known to be feared by both motorcycle gangs and the nearby mafia.\n\n'Ndrangheta: The 'Ndràngheta (] ) is an organized crime group centered in Calabria, Italy. Despite not being as famous abroad as the Sicilian Mafia, and having been considered more rural than the Neapolitan Camorra and the Apulian Sacra Corona Unita, the 'Ndrangheta became the most powerful crime syndicate in Italy in the late 1990s and early 2000s. While commonly tied together with the Sicilian Mafia, the 'Ndrangheta operates independently from them, though there is contact between the two, due to the geographical proximity and shared culture and language between Calabria and Sicily. A US diplomat estimated that the organization's narcotics trafficking, extortion and money laundering activities accounted for at least 3% of Italy's GDP in 2010. Since the 1950s, the organization has spread towards Northern Italy and worldwide. According to a 2013 \"Threat Assessment on Italian Organised Crime\" of Europol, the 'Ndrangheta is among the richest and most powerful organised crime groups at a global level.\n\nAlbanian mafia: The Albanian Mafia or Albanian organized crime (Albanian: \"Mafia Shqiptare\" ) are the general terms used for criminal organizations based in Albania or composed of ethnic Albanians. Albanian organized crime is highly active in Europe, North America, South America, and various other parts of the world including the Middle East and Asia. The Albanian Mafia participates in a diverse range of criminal enterprises including trafficking in drugs, arms, humans, and human organs. The Albanian criminal scenario is characterized by diversified criminal plans which, in their complexity, show one of the highest criminal capacities in the world. In Albania alone, there are over 15 mafia families that control organized crime. According to Wikileaks reports, the Albanian mafia has monopolized various international affiliations from as far east as Israel, to as far west as South America. These reports primarily indicate a strong connection between politicians and various Albanian mafia families. According to the Research Institute for European and American Studies (RIEAS), Albanian mafia groups are actually hybrid organizations (various sectors of society), often involved in both criminal and political activities.\n\nAlbert Anastasia: Albert Anastasia (born Umberto Anastasio, September 26, 1902 – October 25, 1957) was one of the most ruthless and feared Cosa Nostra mobsters in United States history. A founder of both the American Mafia and Murder, Inc., Anastasia was boss of what would become the modern Gambino crime family.\n\nAmerican Mafia: The American Mafia (commonly shortened to the Mafia or Mob) or Italian-American Mafia, is a highly organized Italian-American criminal society. The organization is often referred to by members as Cosa Nostra (] , \"our thing\") and by the government as La Cosa Nostra (LCN). The organization's name is derived from the original \"\"Mafia\"\" or \"Cosa nostra\", the Sicilian Mafia, and it originally emerged as an offshoot of the Sicilian Mafia; however, the organization eventually encompassed or absorbed other Italian-American gangsters and Italian-American crime groups (such as the American Camorra) living in the United States and Canada that are not of Sicilian origin. It is often referred to as the Italian Mafia or Italian Mob, though these terms may also apply to the separate yet related organized crime groups in Italy.\n\nOrganized crime: Organized crime is a category of transnational, national, or local groupings of highly centralized enterprises run by criminals who intend to engage in illegal activity, most commonly for money and profit. Some criminal organizations, such as terrorist groups, are politically motivated. Sometimes criminal organizations force people to do business with them, such as when a gang extorts money from shopkeepers for so-called \"protection\". Gangs may become disciplined enough to be considered \"organized\". A criminal organization or gang can also be referred to as a mafia, mob, or crime syndicate; the network, subculture and community of criminals may be referred to as the underworld. European sociologists (e.g. Diego Gambetta) define the mafia as a type of organized crime group that specializes in the supply of extra-legal protection and quasi law enforcement. Gambetta's classic work on \"the Sicilian Mafia\" generates an economic study of the mafia, which exerts great influence on studies of \"the Russian Mafia\", \"the Chinese Mafia\", \"Hong Kong Triads\" and \"the Japanese Yakuza\".",
+        "relevant_titles": [
+          "Murder, Inc.",
+          "Albert Anastasia"
+        ],
+        "relevant_text": "\"Murder, Inc. (or Murder Incorporated) was the name the news media gave to organized crime groups in the 1930s and 40s that acted as the enforcement arm of the Italian-American Mafia, Jewish mob, and connected organized crime groups in New York and elsewhere. Originally headed by Louis \\\"Lepke\\\" Buchalter, and later by Albert \\\"The Mad Hatter\\\" Anastasia, Murder, Inc. was believed to be responsible for between 400 and 1,000 contract killings, until the group was exposed in the early 1940s by former group member Abe \\\"Kid Twist\\\" Reles. A founder of both the American Mafia and Murder, Inc., Anastasia was boss of what would become the modern Gambino crime family.\""
+      },
+      {
+        "id": "5add52715542992200553aa4",
+        "question": "Who specializes in horror movies, Rob Schneider or Christophe Gans?",
+        "answer": "Christophe Gans",
+        "paragraphs": [
+          {
+            "title": "Crying Freeman (film)",
+            "sentences": [
+              "Crying Freeman is a 1995 Canadian action film, directed by Christophe Gans, based on the \"Portrait of a Killer\" arc of the best-selling manga of the same name by Kazuo Koike and Ryoichi Ikegami.",
+              " The film was shot in British Columbia in October 1994."
+            ]
+          },
+          {
+            "title": "John Schneider (producer)",
+            "sentences": [
+              "John Schneider (born April 23, 1962) is an American film, television and multi-media producer and artists' manager based in Los Angeles, California.",
+              " The Pacifica, California native made his first forays into show business when he took on the position of personal manager for his younger brother, comedian and actor Rob Schneider, and subsequently managed the San Francisco area rock band Head On.",
+              " Eventually, John transitioned into producing movies such as \"The Hot Chick\" and \"\", alongside executive producers Adam Sandler and Jack Giarraputo."
+            ]
+          },
+          {
+            "title": "H.P. Lovecraft's: Necronomicon",
+            "sentences": [
+              "H.P. Lovecraft's: Necronomicon, original title Necronomicon, also called Necronomicon: Book of the Dead or Necronomicon: To Hell and Back is an American anthology horror film released in 1993.",
+              " It was directed by Brian Yuzna, Christophe Gans and Shusuke Kaneko and was written by Gans, Yuzna, Brent V. Friedman, and Kazunori Itō.",
+              " The film stars Bruce Payne as Edward De Lapoer, Richard Lynch as Jethro De Lapoer, Jeffrey Combs as H. P. Lovecraft, Belinda Bauer as Nancy Gallmore, and David Warner as Dr. Madden."
+            ]
+          },
+          {
+            "title": "Silent Hill (film)",
+            "sentences": [
+              "Silent Hill is a 2006 horror film directed by Christophe Gans and written by Roger Avary, Gans, and Nicolas Boukhrief.",
+              " The film is an adaptation of Konami's video game series \"Silent Hill\".",
+              " It stars Radha Mitchell, Sean Bean, Laurie Holden, Deborah Kara Unger, Kim Coates, Tanya Allen, Alice Krige, and Jodelle Ferland."
+            ]
+          },
+          {
+            "title": "Beauty and the Beast (2014 film)",
+            "sentences": [
+              "Beauty and the Beast (French: La Belle et la Bête ) is a 2014 Franco-German romantic fantasy film based on the traditional fairy tale of the same name by Gabrielle-Suzanne Barbot de Villeneuve.",
+              " Written by Christophe Gans and Sandra Vo-Anh and directed by Gans, the film stars Léa Seydoux as Belle and Vincent Cassel as the Beast."
+            ]
+          },
+          {
+            "title": "The Apparition",
+            "sentences": [
+              "The Apparition is a 2012 American supernatural horror film, written and directed by Todd Lincoln, making his directorial debut, and starring Ashley Greene, Sebastian Stan, Tom Felton, Julianna Guill and Rick Gomez.",
+              " The plot follows three college students who, after the death of their friend, must battle a supernatural force they summoned themselves.",
+              " The film was loosely inspired by the Philip experiment conducted in 1972.",
+              " The film was a box office bomb and was cited by critics as one of the worst horror movies of 2012.",
+              " It was also the last Warner Bros.",
+              " Pictures horror film to be released under its own label before resorting to New Line Cinema to release all future horror movies made by Warner Bros."
+            ]
+          },
+          {
+            "title": "Brotherhood of the Wolf",
+            "sentences": [
+              "Brotherhood of the Wolf (French: Le Pacte des loups ) is a 2001 French historical action horror film directed by Christophe Gans, co-written by Gans and Stéphane Cabel, and starring Samuel Le Bihan, Mark Dacascos, Émilie Dequenne, Monica Bellucci and Vincent Cassel."
+            ]
+          },
+          {
+            "title": "Brian Yuzna",
+            "sentences": [
+              "Brian Yuzna (born August 30, 1949) is a cult producer, director, and writer, known for \"Honey, I Shrunk the Kids\", \"Bride of Re-Animator\" and \"Beyond Re-Animator\" who has been active within the independent horror genre for over thirty years.",
+              " He is widely known as the producer behind \"Re-Animator\", as well as being the first American filmmaker to adapt a manga into a live-action feature.",
+              " He has helmed several adaptations of the work of H. P. Lovecraft, and has assisted many first time directors, including Stuart Gordon, Christophe Gans and Luis De La Madrid, in getting their projects made."
+            ]
+          },
+          {
+            "title": "Christophe Gans",
+            "sentences": [
+              "Christophe Gans (born 11 March 1960) is a French film director, producer and screenwriter, who specializes in horror and fantasy movies."
+            ]
+          },
+          {
+            "title": "Rob Schneider",
+            "sentences": [
+              "Robert Michael Schneider (born October 31, 1963) is an American actor, comedian, screenwriter, and director.",
+              " A stand-up comic and veteran of the NBC sketch comedy series \"Saturday Night Live\", he went on to a successful career in feature films, including starring roles in the comedy films \"\", \"The Hot Chick\", \"The Benchwarmers\", and \"Grown Ups\"."
+            ]
+          }
+        ],
+        "gold_titles": [
+          "Rob Schneider",
+          "Christophe Gans"
+        ]
+      },
+      {
+        "id": "5adc7c275542994650320d20",
+        "question": "What is the nickname of the boxer that Krzysztof Zimnoch has an amateur win over?",
+        "answer": "The Bronze Bomber",
+        "paragraphs": [
+          {
+            "title": "Sylvester Mittee",
+            "sentences": [
+              "Sylvester \"The Master Blaster\" Mittee ( (1956--) 29 1956 (age 61 ) ) is a Saint Lucian/British amateur lightweight and professional light welter/welter/light middleweight boxer of the 1970s and '80s who as an amateur won the 1973 Amateur Boxing Association of England (ABAE) Junior Class-B title boxing out of Crown and Manor ABC , Hoxton, London, won the 1976 Amateur Boxing Association of England (ABAE) lightweight title, against Thomas McCallum (Sparta BC), boxing out of Repton Amateur Boxing Club , Bethnal Green, London, and represented Great Britain as a lightweight in the Boxing at the 1976 Summer Olympics in Montreal, Quebec, Canada, losing to eventual silver medal winner Simion Cuţov of Romania, and as a professional won the British Boxing Board of Control (BBBofC) Southern (England) Area light welterweight title, BBBofC British welterweight title and Commonwealth welterweight title, and was a challenger for the BBBofC British light welterweight title against Clinton McKenzie, and European Boxing Union (EBU) welterweight title against Lloyd Honeyghan, his professional fighting weight varied from 139 lb , i.e. light welterweight to 151+1/2 lb , i.e. light middleweight."
+            ]
+          },
+          {
+            "title": "Tony Zale",
+            "sentences": [
+              "Tony Zale, born Anthony Florian Zaleski (May 29, 1913 – March 20, 1997) was an American boxer.",
+              " Zale was born and raised in Gary, Indiana, a steel town, which gave him his nickname, \"Man of Steel.\"",
+              " In addition, he had the reputation of being able to take fearsome punishment and still rally to win, reinforcing that nickname.",
+              " Zale, who held the World Middleweight title multiple times, was known as a crafty boxer and strong body puncher who punished his opponents and steadily wore them down before knocking them out."
+            ]
+          },
+          {
+            "title": "Krzysztof Zimnoch",
+            "sentences": [
+              "Krzysztof Zimnoch (born September 6, 1983) is a Polish professional heavyweight boxer affiliated to the Hetman Białystok Boxing Club.",
+              " He holds an amateur win over current WBC heavyweight champion Deontay Wilder."
+            ]
+          },
+          {
+            "title": "Skeets Gallacher",
+            "sentences": [
+              "Richard \"Skeets\" Gallacher (24 August 1925 in Renton, Scotland – 10 December 2013) was a British boxer.",
+              " As a boy he was trained as a boxer by his father, who identified him as a natural southpaw.",
+              " Richard was nicknamed Skeets after a film character of the day and had his first fight in 1942 weighing only 7 stones (44 kg).",
+              " Skeets went on to win 34 consecutive amateur contests and in doing so became Scottish and British Champion.",
+              " Defeats of French and American rivals later saw him crowned unofficial amateur flyweight champion of the world.",
+              " His professional careers was cut short by injury, but he remained a well-respected figure still involved in later years in keep fit classes and local boxing clubs.",
+              " Gallacher Way in Renton was named after him in 1995."
+            ]
+          },
+          {
+            "title": "Roman Romanchuk (boxer)",
+            "sentences": [
+              "Roman Romanovich Romanchuk (Russian: Роман Романович Романчук ; 3 June 1979 – 8 September 2016) was a Ukrainian (until 2000) and Russian (since 2000) amateur boxer.",
+              " He won silver at super heavyweight during the 2005 World Amateur Boxing Championships and helped the Russian team win the 2005 Boxing World Cup.",
+              " He also had success as an amateur kickboxer."
+            ]
+          },
+          {
+            "title": "Wayne Elcock",
+            "sentences": [
+              "Wayne Elcock (born 12 February 1974) is a British former professional boxer.",
+              " Who was managed by Frank Maloney at the start of his career and promoted by Panix promotions before moving after 2 winning fights to Frank Warren, then later to Mick Hennessy.",
+              " Elcock was trained in Leicester to begin with by Jez brogan, before moving to London to be trained by both Frank Maloney and Alan Smith, along with several visits to america to build on his skills, where Wayne worked with Goody Petronelli the trainer of former world champions Marvelous Marvin Hagler and Steve Collins at his famous Brockton gym.",
+              " Wayne came back to his home town to team up with Birmingham's most successful boxing trainers brothers Paddy & Tommy Lynch.",
+              " Knocking out fellow contender Darren Rhodes in 1 minute 30 seconds in Elcocks homecoming and first ever fight with the Lynch brothers in Birmingham at a sold out Aston Events Centre, this setting up his first attempt at the prestigious British title Lonsdale Belt against Plymouth's Scott Dann (boxer) in the first British title fight to ever be scored by three judges, after defeat Wayne bounced back with two back to back knockout victories one of them a British title eliminator winning by TKO against Scotland's Lawrence Murphy, who was the only other boxer to have beaten Elcock, In Wayne's next contest he faced the English champion Steven Bendall who was to be yet another stopped, but this time over eight punishing rounds and setting up his next contest where he would become the first British boxer to beat long standing British champion Howard Eastman to win the coveted Lonsdale Belt in 2007, Elcock also won the Commonwealth title and the minor WBU World Middleweight title becoming the first Birmingham born fighter to ever hold a version of a World title.",
+              " Elcock challenged for the IBF middleweight title against the unbeaten World champion Arthur Abraham on 8 December 2007, losing by a fifth round knockout.",
+              " Wayne bounced back from his world title attempt defending the lonsdale belt with a TKO win against local Dudley rival Darren McDermott, before losing the next defence to fellow Birmingham fighter Matthew Macklin in the Battle of Brum Elcock retired at the age of 36 in 2009 to concentrate fully on his other business matters and today Wayne can be found mentoring in schools and behind the counter at Mad Dog's Boxing shop in Boldmere, Birmingham, as well as coaching in the evening at the multi award winning company Wayne Elcock's Box Clever and at his own amateur boxing club Wayne Elcock's Boxing Academy, located in Chelmsley Wood, not far from where he grew up."
+            ]
+          },
+          {
+            "title": "Percy Lewis (boxer)",
+            "sentences": [
+              "Percy Lewis ( (1927--) 31 1927 (age 89 ) ) is a Trinidad and Tobago/British amateur featherweight and professional feather/super feather/lightweight boxer of the 1950s and '60s who as an amateur was runner-up for the 1950 Amateur Boxing Association of England (ABAE) featherweight title, against Peter Brander (Slough Centre ABC), boxing out of The Royal Air Force, was runner-up for the 1951 Amateur Boxing Association of England (ABAE) featherweight title, against Jim Travers (Lansdowne BC), boxing out of The Royal Air Force, won the 1952 Amateur Boxing Association of England (ABAE) featherweight title, against Steve Trainer (Hulme Lads ABC), boxing out of The Royal Air Force, represented Great Britain at featherweight in the Boxing at the 1952 Summer Olympics, losing to Georghe Ilie of Romania, and won the 1953 Amateur Boxing Association of England (ABAE) featherweight title, against Alan Sillett (The British Army), boxing out of Oxford YMCA ABC, and as a professional won the British Empire featherweight title, his professional fighting weight varied from 124+1/2 lb , i.e. featherweight to 134 lb , i.e. lightweight, he served with the Royal Air Force."
+            ]
+          },
+          {
+            "title": "Deontay Wilder",
+            "sentences": [
+              "Deontay Leshun Wilder (born October 22, 1985) is an American professional boxer.",
+              " He has held the WBC heavyweight title since 2015, and in doing so became the first American world heavyweight champion in nine years, which was the longest period of time in boxing history without an American heavyweight champion.",
+              " As an amateur he won a bronze medal in the heavyweight division at the 2008 Olympics.",
+              " This led to his nickname of \"The Bronze Bomber\", which Wilder coined after Joe Louis, who was known by the nickname of \"The Brown Bomber\"."
+            ]
+          },
+          {
+            "title": "Camera Buff",
+            "sentences": [
+              "Camera Buff (Polish: \"Amator\" , meaning \"amateur\") is a 1979 Polish drama film written and directed by Krzysztof Kieślowski and starring Jerzy Stuhr.",
+              " The film is about a humble factory worker whose newfound hobby, amateur film, becomes an obsession, and transforms his modest and formerly contented life.",
+              " \"Camera Buff\" won the Polish Film Festival Golden Lion Award and the FIPRESCI Prize and Golden Prize at the 11th Moscow International Film Festival, and the Berlin International Film Festival Otto Dibelius Film Award in 1980."
+            ]
+          },
+          {
+            "title": "List of Wycombe Wanderers F.C. seasons",
+            "sentences": [
+              "Wycombe Wanderers Football Club is an English association football club based in the town of High Wycombe, Buckinghamshire.",
+              " Founded in 1887 as an amateur club, the team entered the FA Amateur Cup for the first time in 1894–95, made their FA Cup debut the following season, and joined the Southern League in 1896.",
+              " They played in the Second Division of the Southern League until 1908, when after twice finishing bottom of that league, the club declined the invitation to continue membership and opted for the amateur Great Western Suburban League instead.",
+              " When competitive football resumed after the First World War they spent two seasons in the Spartan Leaguewinning the title on each occasionbefore being accepted into the Isthmian League, in which they spent the remainder of the inter-war period.",
+              " They finished third in 1930–31, but the highlight of the season was victory in the Amateur Cup.",
+              " In the final, held at Arsenal's Highbury Stadium, Wycombe beat Hayes 1–0 to win the trophy for the first and only time.",
+              " The goal was scored by Alf Britnell after 81 minutes.",
+              " Between 1953–54 and 1959–60, Wycombe never finished outside the top four in the Isthmian League.",
+              " They won the championship for the first time in 1955–56, retained the title in 1956–57, and reached the Amateur Cup Final that same year.",
+              " This time, they lost 3–1 in front of a crowd of 90,000 at Wembley Stadium as Bishop Auckland won their third consecutive Amateur Cup."
+            ]
+          }
+        ],
+        "gold_titles": [
+          "Krzysztof Zimnoch",
+          "Deontay Wilder"
+        ]
+      },
+      {
+        "id": "5abb40a1554299642a094a7c",
+        "question": "Are the Sternbergia and Echinopsis genuses of plants both native to the same regions?",
+        "answer": "no",
+        "paragraphs": [
+          {
+            "title": "Sternbergia vernalis",
+            "sentences": [
+              "Sternbergia vernalis is a bulbous flowering plant in the family Amaryllidaceae, subfamily Amaryllidoideae, which is sometimes used as an ornamental plant.",
+              " It has yellow flowers which appear in spring.",
+              " The species is native to central and southwestern Asia (Turkmenistan, Tajikistan, Uzbekistan, Armenia, Azerbaijan, Georgia, Iran, Iraq, Lebanon, Syria and Turkey)."
+            ]
+          },
+          {
+            "title": "Echinopsis backebergii",
+            "sentences": [
+              "Echinopsis backebergii is a species of flowering plant in the cactus family Cactaceae, native to eastern Bolivia and southern Peru.",
+              " It grows to 5 cm tall and wide, with single or clustered globose stems 4-5 cm thick, with about 15 ribs and covered in grey-brown spines.",
+              " Large, showy, carmine-red flowers are borne in summer.",
+              " As the minimum temperature requirement is 10 C , in temperate regions it must be grown under glass with heat."
+            ]
+          },
+          {
+            "title": "Sternbergia",
+            "sentences": [
+              "Sternbergia is a genus of Eurasian and North African plants in the Amaryllis family, subfamily Amaryllidoideae."
+            ]
+          },
+          {
+            "title": "Sternbergia colchiciflora",
+            "sentences": [
+              "Sternbergia colchiciflora is a bulbous flowering plant in the family Amaryllidaceae, subfamily Amaryllidoideae, which is sometimes used as an ornamental plant.",
+              " The species is native to southern Europe from Spain to Ukraine, as well as from Morocco, Algeria, Turkey, Syria, Lebanon, Palestine, Iran and the Caucasus.",
+              " It has yellow flowers which appear in autumn."
+            ]
+          },
+          {
+            "title": "Echinopsis scopulicola",
+            "sentences": [
+              "Echinopsis scopulicola is a type of cactus native to Bolivia, which contains psychedelic compounds.",
+              " Many claim this species contains mescaline, which was until recently unconfirmed due to the lack of official research, but a study published in September 2010 by the International Society for Ethnopharmacology placed it in the top third of the results for their samples.",
+              " This included 14 taxa/cultivars of the subgenus Trichocereus of the genus Echinopsis, with Scopulicola noted to contain 0.82% mescaline/dry weight in the outer green layer."
+            ]
+          },
+          {
+            "title": "Narcisseae",
+            "sentences": [
+              "Narcisseae is a small tribe of plants belonging to the subfamily Amaryllidoideae of the Amaryllis family (Amaryllidaceae), where it forms part of the Eurasian clade, and is one of three tribes in the European (Mediterranean) clade.",
+              " It contains two genera (\"Narcissus\" and \"Sternbergia\") and approximately 58 species, but probably also \"Lapiedra\".",
+              " The two genera are distinguished from each other by the presence of a paraperigonium in the former."
+            ]
+          },
+          {
+            "title": "Sternbergia pulchella",
+            "sentences": [
+              "Sternbergia pulchella is a bulbous flowering plant in the family Amaryllidaceae, subfamily Amaryllidoideae.",
+              " It has yellow flowers which appear in autumn.",
+              " The species is native to Syria and Lebanon."
+            ]
+          },
+          {
+            "title": "Echinopsis",
+            "sentences": [
+              "Echinopsis is a large genus of cacti native to South America, sometimes known as hedgehog cactus, sea-urchin cactus or Easter lily cactus.",
+              " One small species, \"E. chamaecereus\", is known as the peanut cactus.",
+              " The 128 species range from large and treelike types to small globose cacti.",
+              " The name derives from \"echinos\" hedgehog or sea urchin, and \"opsis\" appearance, a reference to these plants' dense coverings of spines."
+            ]
+          },
+          {
+            "title": "Echinopsis pachanoi",
+            "sentences": [
+              "Echinopsis pachanoi (syn.",
+              " Trichocereus pachanoi) — known as San Pedro cactus — is a fast-growing columnar cactus native to the Andes Mountains at 2000 – in altitude.",
+              " It is found in Argentina, Bolivia, Chile, Ecuador and Peru, and it is cultivated in other parts of the world.",
+              " Uses for it include traditional medicine and traditional veterinary medicine, and it is widely grown as an ornamental cactus.",
+              " It has been used for healing and religious divination in the Andes Mountains region for over 3,000 years.",
+              " It is sometimes confused with its close relative \"Echinopsis peruviana\" (Peruvian torch cactus)."
+            ]
+          },
+          {
+            "title": "Echinopsis peruviana",
+            "sentences": [
+              "Echinopsis peruviana (syn.",
+              " Trichocereus peruvianus), Peruvian torch cactus, is a fast-growing columnar cactus native to the western slope of the Andes in Peru, between about 2000 - above sea level.",
+              " It contains the psychoactive alkaloid mescaline as well as other alkaloids, although reported levels vary considerably and do not approach the concentrations found in \"Echinopsis pachanoi\"."
+            ]
+          }
+        ],
+        "gold_titles": [
+          "Sternbergia",
+          "Echinopsis"
+        ]
+      }
+    ],
+    "signature": {
+      "instructions": "You are an expert at extracting specific evidence from a set of documents to answer complex questions. Your goal is to identify the precise information needed to resolve the query, filtering out irrelevant noise.\n\nGiven the question and a list of 10 paragraphs:\n1. Analyze the question to determine what specific facts or entities are being sought.\n2. Read through the provided paragraphs to find which ones contain this information. Note that only a few paragraphs will be relevant.\n3. Identify the titles of these relevant paragraphs.\n4. Extract the exact sentences from these relevant paragraphs that provide the necessary evidence. Quote them verbatim.\n\nOutput your findings in the following format:\n- `relevant_titles`: A list of the titles of the paragraphs that contain the answer.\n- `relevant_text`: The verbatim sentences from those paragraphs that are crucial for answering the question.",
+      "fields": [
+        {
+          "prefix": "Question:",
+          "description": "${question}"
+        },
+        {
+          "prefix": "Paragraphs:",
+          "description": "ten paragraphs, only a few of them are relevant"
+        },
+        {
+          "prefix": "Relevant Titles:",
+          "description": "titles of the paragraphs that are needed to answer the question"
+        },
+        {
+          "prefix": "Relevant Text:",
+          "description": "the sentences from those paragraphs that are needed, quoted verbatim"
+        }
+      ]
+    },
+    "lm": {
+      "_dspy_lm_class": "dspy.clients.lm.LM",
+      "model": "openrouter/google/gemma-4-31b-it",
+      "model_type": "chat",
+      "cache": false,
+      "num_retries": 10,
+      "temperature": 0.0,
+      "max_tokens": 1000,
+      "extra_body": {
+        "provider": {
+          "only": [
+            "deepinfra/turbo"
+          ],
+          "allow_fallbacks": false
+        },
+        "reasoning": {
+          "enabled": false
+        }
+      },
+      "finetuning_model": null,
+      "launch_kwargs": {},
+      "train_kwargs": {}
+    }
+  },
+  "programm.answer_question": {
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "id": "5a80aa47554299485f598694",
+        "question": "US Airways Flight 1549 piloted by Chesley Sullenberger and Jeffrey Skiles struck a flock of geese near this bridge owned by Port Authority of what two states?",
+        "answer": "New York and New Jersey",
+        "paragraphs": [
+          {
+            "title": "George Washington Bridge",
+            "sentences": [
+              "The George Washington Bridge – known informally as the GW Bridge, the GWB, the GW, or the George – is a double-decked suspension bridge spanning the Hudson River between the Washington Heights neighborhood of Manhattan in New York City and Fort Lee, New Jersey.",
+              " s of 2016 , the George Washington Bridge carried over 103 million vehicles per year, making it the world's busiest motor vehicle bridge.",
+              " It is owned by the Port Authority of New York and New Jersey, a bi-state government agency that operates several bridges, tunnels and airports, as well as marine seaports, and the PATH rapid transit system."
+            ]
+          },
+          {
+            "title": "Disaster Eyewitness",
+            "sentences": [
+              "Disaster Eyewitness is a TV program reviewing various disasters, produced by Raw Cut TV for Discovery Channel.",
+              " It features footage recorded by mobile phones, CCTV cameras and digital cameras.",
+              " The program interviews survivors of the disasters, as well as the people who recorded the footage.",
+              " Detailed computer graphics show exactly what caused the disasters.",
+              " One recent disaster shown was the Enschede fireworks disaster in the eastern Dutch city of Enschede, which was caused by mishandling of 900 kg of fireworks, leading to another 177 tons of fireworks to explode.",
+              " Another disaster shown was the US Airways Flight 1549, which crashed into the Hudson River after hitting a flock of Canada geese"
+            ]
+          },
+          {
+            "title": "US Airline Pilots Association",
+            "sentences": [
+              "The US Airline Pilots Association (USAPA) was the collective bargaining agent for the majority former US Airways \"East\" pilots, and the minority former America West Airlines \"West\" pilots.",
+              " USAPA bullied its West pilots, and violated its duty to fairly represent them.",
+              " USAPA was led by East pilot Mike Cleary.",
+              " USAPA was formed by East pilots for the exclusive and immoral - if not illegal - purpose of attempting to renege upon the results of a binding arbitration into which the East pilots had previously entered with the West pilots.",
+              " After USAPA's dissolution, a number of East activists withheld millions of dollars from the entire membership.",
+              " During the fair representation trial, USAPA used as courtroom witnesses East pilots Sully Sullenberger and Jeffrey Skiles of the infamous Hudson River flight 1549.",
+              " Both witnesses testified in support of the discriminatory practices of USAPA, and why they felt justified in bullying, and attempting to break their arbitrated agreement with the innocent West pilots."
+            ]
+          },
+          {
+            "title": "US Airways Express",
+            "sentences": [
+              "US Airways Express was the brand name for the regional affiliate of US Airways, under which a number of individually owned commuter air carriers and regional airlines operate short and medium haul routes.",
+              " This code sharing service was previously operated as USAir Express.",
+              " Mainline carriers often outsource to regional airlines to operate services in order to increase frequency, serve routes that would not sustain larger aircraft, or for other competitive reasons.",
+              " US Airways Express operations were conducted from smaller markets in the United States, Canada, and the Bahamas primarily centered on US Airways' major hubs and focus cities.",
+              " Upon the completion of US Airways' merger process with American Airlines, US Airways Express was rebranded as American Eagle on October 17, 2015."
+            ]
+          },
+          {
+            "title": "Highest Duty: My Search for What Really Matters",
+            "sentences": [
+              "Highest Duty: My Search for What Really Matters is a memoir written by Chesley Sullenberger and Jeffrey Zaslow (1958–2012) describing the events of US Airways Flight 1549.",
+              " The \"New York Times\" bestselling autobiography of Capt. Chesley “Sully” Sullenberger—the pilot who landed a crippled airplane in New York's Hudson River, saving the lives of the 155 passengers—discusses leadership, responsibility, and service, along with his life story."
+            ]
+          },
+          {
+            "title": "Fly by Wire",
+            "sentences": [
+              "Fly by Wire: The Geese, the Glide, the Miracle on the Hudson is a book written in 2009 by William Langewiesche about US Airways Flight 1549 with emphasis on the role played by the advanced fly-by-wire flight control system of the aircraft."
+            ]
+          },
+          {
+            "title": "Chesley Sullenberger",
+            "sentences": [
+              "Chesley Burnett \"Sully\" Sullenberger III (born 1951) is an American retired airline captain celebrated for the January 15, 2009 water landing of US Airways Flight 1549 in the Hudson River off Manhattan after the plane was disabled by striking a flock of Canada geese immediately after takeoff; all 155 people aboard survived.",
+              " Sullenberger is an international speaker on airline safety and has helped develop new protocols for airline safety.",
+              " He served as the co-chairman, along with First Officer Jeffrey Skiles, of the EAA's Young Eagles youth introduction-to-aviation program from 2009 to 2013.",
+              " He retired from US Airways after 30 years as a commercial pilot on March 3, 2010.",
+              " In May of the following year, Sullenberger was hired by CBS News as an Aviation and Safety Expert."
+            ]
+          },
+          {
+            "title": "US Airways Flight 1549",
+            "sentences": [
+              "US Airways Flight 1549 was an Airbus A320-214 which, three minutes after takeoff from New York City's LaGuardia Airport on January 15, 2009, struck a flock of Canada geese just northeast of the George Washington Bridge and consequently lost all engine power.",
+              " Unable to reach any airport, pilots Chesley Sullenberger and Jeffrey Skiles glided the plane to a ditching in the Hudson River off Midtown Manhattan.",
+              " All 155 people aboard were rescued by nearby boats and there were few serious injuries."
+            ]
+          },
+          {
+            "title": "Sully (film)",
+            "sentences": [
+              "Sully (also known as Sully: Miracle on the Hudson) is a 2016 American biographical drama film directed by Clint Eastwood and written by Todd Komarnicki, based on the autobiography \"\" by Chesley Sullenberger and Jeffrey Zaslow.",
+              " The film stars Tom Hanks as Sullenberger, with Aaron Eckhart, Laura Linney, Anna Gunn, Autumn Reeser, Holt McCallany, Jamey Sheridan, and Jerry Ferrara in supporting roles.",
+              " The film follows Sullenberger's January 2009 emergency landing of US Airways Flight 1549 on the Hudson River, in which all 155 passengers and crew survived with only minor injuries, and the subsequent publicity and investigation."
+            ]
+          },
+          {
+            "title": "US Airways Group",
+            "sentences": [
+              "US Airways Group Inc. was an airline holding company based in Tempe, Arizona.",
+              " US Airways Group operated US Airways, along with its subsidiaries PSA Airlines, Inc. and Piedmont Airlines, Inc., which are wholly owned but marketed under the branding of US Airways Express.",
+              " It merged with America West Holdings Corporation, parent of America West Airlines, in 2005, and the combined company adopted the better-known US Airways name; the two airlines' operating certificates merged in 2007.",
+              " It also operates additional companies that provide associated services.",
+              " ACE Aviation Holdings, the Canadian parent of Air Canada retained a roughly 6.1% investment stake in US Airways Group.",
+              " The route network covered destinations in 47 states, as well as international destinations."
+            ]
+          }
+        ],
+        "gold_titles": [
+          "US Airways Flight 1549",
+          "George Washington Bridge"
+        ]
+      },
+      {
+        "id": "5ab2c9f855429916697740d7",
+        "question": "What 2 characteristics do Jolt Cola and Tab Clear share? ",
+        "answer": "contained caffeine",
+        "paragraphs": [
+          {
+            "title": "Tab Clear",
+            "sentences": [
+              "Tab Clear was a variation of Tab.",
+              " It is Coca-Cola's contribution to the short-lived \"clear cola\" movement during the early 1990s.",
+              " It was introduced in the United States on December 14, 1992, in the United Kingdom a month later and in Japan in March 1993 to initially positive results.",
+              " Tab Clear was, however, discontinued after only a short time of marketing in 1994.",
+              " Unlike most other \"clear\" soft drinks, Tab Clear contained caffeine and, according to the company, had the flavor of cola."
+            ]
+          },
+          {
+            "title": "Jolly Cola",
+            "sentences": [
+              "Jolly Cola is an original Danish soft drink dating back to 1959.",
+              " Jolly Cola is now produced by the Danish brewery ‘Vestfyen’, which also produces Jolly Light, the sports drink Jolly Time and Jolly Orange.",
+              " Up until the 1980s, Jolly Cola had a market share of about 40% of the Danish cola market.",
+              " This was extraordinary, as Denmark is one of a few countries in the world, where another cola than the original Coca-Cola has had a larger market share."
+            ]
+          },
+          {
+            "title": "Tab (drink)",
+            "sentences": [
+              "Tab (stylized as TaB) is a diet cola soft drink produced by The Coca-Cola Company, introduced in 1963.",
+              " The soda was popular throughout the 1960s and 1970s, and several variations were made, including Tab Clear as well as caffeine-free versions."
+            ]
+          },
+          {
+            "title": "Samsung Galaxy Tab 2 7.0",
+            "sentences": [
+              "The Samsung Galaxy Tab 2 7.0 is a 7-inch Android tablet produced and marketed by Samsung Electronics.",
+              " Samsung Galaxy Tab 2 is Ice Cream Sandwich sequel.",
+              " It belongs to the second generation of the Samsung Galaxy Tab series, which also includes a 10.1-inch model, the Galaxy Tab 2 10.1.",
+              " It was announced on 13 February 2012, and launched in the US on 22 April 2012.",
+              " It is the successor to the Samsung Galaxy Tab 7.0 Plus."
+            ]
+          },
+          {
+            "title": "Diet Pepsi",
+            "sentences": [
+              "Diet Pepsi and Diet Pepsi Classic Formula Blend (stylized as diet PEPSI CLASSIC SWEETENER BLEND) are no-calorie carbonated cola soft drinks produced by PepsiCo, introduced in 1964 as a variant of Pepsi-Cola with no sugar.",
+              " First test marketed in 1963 under the name Patio Diet Cola, it was re-branded as \"Diet Pepsi\" the following year, becoming the first diet cola to be distributed on a national scale in the United States.",
+              " In the 1960s and 1970s its competition consisted of Tab, produced by The Coca-Cola Company, and Diet Rite soda, produced by Royal Crown.",
+              " Diet Coke was a later entrant to the diet cola market; though shortly after entering production in 1982 it became the primary competing diet cola to Diet Pepsi."
+            ]
+          },
+          {
+            "title": "Tab Energy",
+            "sentences": [
+              "Tab Energy is marketed as a low calorie energy drink named after Tab, Coca-Cola's original low-calorie cola brand.",
+              " While it shares the Tab name, it is not a cola product like the original Tab. \"",
+              "Fashion Week Daily\" describes it as a “sweet and sour beverage” with a taste “reminiscent of a liquid Jolly Rancher”.",
+              " It is sweetened with sucralose (rather than saccharin), is pale pink, and lightly carbonated."
+            ]
+          },
+          {
+            "title": "Jolt Cola",
+            "sentences": [
+              "Jolt Cola was a carbonated soft drink produced by The Jolt Company, Inc. (later known as Wet Planet Beverages).",
+              " The cola drink was created in 1985 by C. J. Rapp as a highly caffeinated beverage.",
+              " It was targeted towards students and young professionals, stressing its use as a stimulant in a similar manner as energy drinks. Its slogan reads \"All the sugar, twice the caffeine!\""
+            ]
+          },
+          {
+            "title": "C. J. Rapp",
+            "sentences": [
+              "C.J. Rapp is an American beverage inventor best known for inventing and marketing high-caffeine Jolt Cola."
+            ]
+          },
+          {
+            "title": "Wet Planet Beverages",
+            "sentences": [
+              "Wet Planet Beverages, of Pittsford, New York is the company which produces Jolt Cola, Napa Valley Soda, Thornwood Estates, Autumn Frost, and DNA.",
+              " They are also a distributor for Martinelli's Sparkling Cider."
+            ]
+          },
+          {
+            "title": "Samsung WatchON",
+            "sentences": [
+              "Samsung WatchON, first introduced on Galaxy S4 devices, was a service that allowed users to view programming information on their TV or set-top box, and choose programs directly from their mobile devices.",
+              " Samsung WatchON also provides real-time programming and VOD content recommendations based on the user's viewing patterns; it also includes a virtual remote controller which uses the built-in IR Blaster of the device to control televisions, home theater systems, and media players of any brand, provided they are IR compatible.",
+              " Samsung WatchON is available on the Galaxy S4, Galaxy S4 Mini, Galaxy S5, Galaxy S5 Mini, Galaxy Note 3, Galaxy Note 3 Neo, Galaxy Note 4, Galaxy Note Edge, Galaxy Alpha, Galaxy Note 8.0, Galaxy Note 10.1, Galaxy Note 10.1 2014 Edition, Galaxy Note Pro 12.2, Galaxy Tab 2 7.0, Galaxy Tab 2 10.1, Galaxy Tab 3 7.0, Galaxy Tab 3 8.0, Galaxy Tab 3 10.1, Galaxy Tab 4 7.0, Galaxy Tab 4 8.0, Galaxy Tab 4 10.1, Galaxy Tab Pro 8.4, Galaxy Tab Pro 10.1, Galaxy Tab Pro 12.2, Galaxy Tab S 8.4, Galaxy Tab S 10.5, and Gear 2 devices."
+            ]
+          }
+        ],
+        "gold_titles": [
+          "Jolt Cola",
+          "Tab Clear"
+        ]
+      },
+      {
+        "id": "5a835b545542992ef85e2283",
+        "question": "In what number military engagement of the Texas revolution was Come and take it used as a slogan?",
+        "answer": "first",
+        "paragraphs": [
+          {
+            "title": "Fort Bend",
+            "sentences": [
+              "Fort Bend was a blockhouse built in a large bend of the Brazos River in what is now Fort Bend County, Texas, to provide protection against Indian raids.",
+              " It was erected in November 1822 by several members of Stephen F. Austin's Old Three Hundred, including William W. Little, Joseph Polley, William Smithers[Smeathers], Charles Beard, Henry Holster and is described as a \"little log shanty.\"",
+              " The location was reportedly selected by Austin, and a settlement soon grew up around the post.",
+              " As the site provided one of the more favorable fords of the Brazos River, it became important during the Texas Revolution.",
+              " The Fort Bend crossing was briefly defended in April 1836 by a rear guard detachment led by Wiley Martin.",
+              " After Martin was maneuvered out of the position Gen. Antonio López de Santa Anna transported a portion of his Mexican army across the Brazos at the crossing.",
+              " After Santa Anna's defeat at the battle of San Jacinto the site was used briefly by the Texas army.",
+              " Troops under Thomas Jefferson Green, who were in pursuit of retreating Mexican forces led by Gen. Vicente Filisola, halted for a short time in mid-May 1836 at Fort Bend.",
+              " Because Fort Bend had been the center of activity in the area its name was given to the county when it was established in 1837.",
+              " The next year nearby Richmond, Texas was selected as the county seat and soon absorbed the smaller Fort Bend settlement.",
+              " In 1936 the Texas Centennial Commission erected a monument to commemorate Fort Bend's role in the Texas Revolution."
+            ]
+          },
+          {
+            "title": "Siege of Béxar",
+            "sentences": [
+              "The Siege of Béxar (or Bejar) was an early campaign of the Texas Revolution in which a volunteer Texian army defeated Mexican forces at San Antonio de Béxar (now San Antonio, Texas, US).",
+              " Texians had become disillusioned with the Mexican government as President and General Antonio Lopez de Santa Anna's tenure became increasingly dictatorial.",
+              " In early October, 1835, Texas settlers gathered in Gonzales to stop Mexican troops from reclaiming a small cannon.",
+              " The resulting skirmish, known as the Battle of Gonzales, launched the Texas Revolution.",
+              " Men continued to assemble in Gonzales and soon established the Texian Army.",
+              " Despite a lack of military training, well-respected local leader General Stephen F. Austin was elected commander."
+            ]
+          },
+          {
+            "title": "Battle of Nogales (1915)",
+            "sentences": [
+              "The Second Battle of Nogales was a three-sided military engagement of the Mexican Revolution, fought in November 1915 at the border towns of Nogales, Sonora and Nogales, Arizona.",
+              " On the morning of November 26, rebel forces of Pancho Villa, who occupied Nogales, Sonora, began firing on United States Army soldiers in Nogales, Arizona.",
+              " The Americans responded with counter fire for over two hours before a force of Carrancistas (aka.",
+              " Constitutionalistas ) arrived to attack the Villistas.",
+              " Later that day, the Constitutionalistas accidentally opened fire on American soldiers and another short skirmish was fought.",
+              " The battle resulted in the deaths of several Mexicans and was the first significant engagement fought between Villistas and the United States military."
+            ]
+          },
+          {
+            "title": "2014 Texas Revolution season",
+            "sentences": [
+              "The 2014 Texas Revolution season was the team's fifteenth season as a professional indoor football franchise, fifth in the Indoor Football League (IFL), and second as the \"Texas Revolution\".",
+              " One of nine teams in the IFL for the 2014 season, the Texas Revolution competed in the United Conference for the second consecutive year.",
+              " The team played their home games at the Allen Event Center in Allen, Texas.",
+              " Chris Williams returned to the IFL as the Texas Revolution's director of football operations and head coach for 2014.",
+              " The team started strong but faltered, compiling a 3–11 record and missing the playoffs.",
+              " In the post-season, Williams resigned and the team announced their departure from the IFL."
+            ]
+          },
+          {
+            "title": "Battle of Gloucester Point (1861)",
+            "sentences": [
+              "The Battle of Gloucester Point, Virginia was an inconclusive exchange of cannon fire between a shore battery on the York River which was manned by Virginia (soon to be Confederate) forces and the Union gunboat USS \"Yankee\".",
+              " The action occurred on May 7, 1861, three weeks after the start of the American Civil War (Civil War) at Fort Sumter in the harbor at Charleston, South Carolina on April 14, 1861.",
+              " The Gloucester Point engagement is notable as the earliest exchange of gunfire between the Union Navy and organized Rebel (Confederate) forces after the U.S. Army surrendered Fort Sumter to the Confederates and as the earliest reported Civil War military engagement in Virginia.",
+              " Like other early engagements between Union gunboats and Confederate shore batteries, the battle at Gloucester Point was part of the Union Navy effort to blockade the Southern States in general and the Chesapeake Bay in particular.",
+              " The engagement also was part of the effort by Confederate forces to deny the use of rivers in Virginia to Union military and commercial traffic."
+            ]
+          },
+          {
+            "title": "Battle of Yurkud (2012)",
+            "sentences": [
+              "The Battle of Yurkud was a three-hour-long military engagement on 10 March 2012 fought between Ethiopian military forces and al-Shabab militants approximately 40 km from the Ethiopian border.",
+              " According to Ethiopian sources, al-Shabab initiated the engagement with an attack on a military base in Yurkud at around 6 a.m. Fighting continued for three hours before, as locals report, al-Shabab was forced to retreat.",
+              " The number of dead on either side is not known, with reports varying widely.",
+              " Al-Shabab claimed to have lost five and killed 73, while one local resident said he saw at least 17 al-Shabab dead and another claimed he had seen six dead Ethiopian soldiers."
+            ]
+          },
+          {
+            "title": "Strategy of the Roman military",
+            "sentences": [
+              "The strategy of the Roman military contains its grand strategy (the arrangements made by the state to implement its political goals through a selection of military goals, a process of diplomacy backed by threat of military action, and a dedication to the military of part of its production and resources), operational strategy (the coordination and combination of the military forces and their tactics for the goals of an overarching strategy) and, on a small scale, its military tactics (methods for military engagement in order to defeat the enemy).",
+              " If a fourth rung of \"engagement\" is added, then the whole can be seen as a ladder, with each level from the foot upwards representing a decreasing concentration on military engagement.",
+              " Whereas the purest form of tactics or engagement are those free of political imperative, the purest form of political policy does not involve military engagement.",
+              " Strategy as a whole is the connection between political policy and the use of force to achieve it."
+            ]
+          },
+          {
+            "title": "2013 Texas Revolution season",
+            "sentences": [
+              "The 2013 Texas Revolution season was the team's fourteenth season as a football franchise, fourth in the Indoor Football League (IFL), and first as the \"Texas Revolution\".",
+              " One of just nine teams competing in the IFL for the 2013 season, the Texas Revolution were realigned to the United Conference.",
+              " The team played their home games at the Allen Event Center in Allen, Texas.",
+              " Head coach Billy Back led the team to a 5–9 record and they failed to qualify for post-season play."
+            ]
+          },
+          {
+            "title": "Come and take it",
+            "sentences": [
+              "\"Come and take it\" is a historic slogan, first used in the Battle of Thermopylae  as \"Molon labe\", and later in 1778 at Fort Morris in the Province of Georgia during the American Revolutionary War, and in 1835 at the Battle of Gonzales during the Texas Revolution."
+            ]
+          },
+          {
+            "title": "Battle of Gonzales",
+            "sentences": [
+              "The Battle of Gonzales was the first military engagement of the Texas Revolution.",
+              " It was fought near Gonzales, Texas, on October 2, 1835, between rebellious Texian settlers and a detachment of Mexican army soldiers ."
+            ]
+          }
+        ],
+        "gold_titles": [
+          "Come and take it",
+          "Battle of Gonzales"
+        ]
+      },
+      {
+        "id": "5ac073325542996f0d89cbd5",
+        "question": "Louis Ngwat-Mahop's childhood idol has won the Afircan Player of the Year award how many times?",
+        "answer": "four",
+        "paragraphs": [
+          {
+            "title": "I'm with Busey",
+            "sentences": [
+              "I'm with Busey was a comedy/documentary television show which aired on Comedy Central in the summer of 2003.",
+              " It revolved around a young writer named Adam de la Peña, who met and befriended his childhood idol, actor Gary Busey.",
+              " Although the show lasted for only one season and the popularity of the show was limited, it has developed a cult following in the years after its cancellation."
+            ]
+          },
+          {
+            "title": "One-Eyed Jack (album)",
+            "sentences": [
+              "One-Eyed Jack is Garland Jeffreys' fourth solo album.",
+              " It was released in 1978 on A&M Records.",
+              " It was recorded at Atlantic Studios, New York City and produced by Jeffreys and David Spinozza.",
+              " It was dedicated: \"in Memory of my childhood idol, Jackie Robinson...here comes the One-Eyed Jack, Sometimes white and sometimes black\"."
+            ]
+          },
+          {
+            "title": "Kellyjackie",
+            "sentences": [
+              "Jackie Chan Hiu-ki, also known as Kellyjackie, is a Hong Kong pop singer and a former member of a band called the Royals.",
+              " Her artist name, Kellyjackie, is an amalgam of the name of her childhood idol, Kelly Chen, and her own name \"Jackie\"."
+            ]
+          },
+          {
+            "title": "Samuel Eto'o",
+            "sentences": [
+              "Samuel Eto'o Fils (] ; born 10 March 1981) is a Cameroonian professional footballer who plays as a striker for Turkish club Antalyaspor.",
+              " He is the most decorated African player of all time, having won the African Player of the Year award a record four times: in 2003, 2004, 2005 and 2010.",
+              " He was third in the FIFA World Player of the Year award in 2005."
+            ]
+          },
+          {
+            "title": "Louis Ngwat-Mahop",
+            "sentences": [
+              "Ngwat-Mahop was born in Yaoundé on 16 September 1987, and grew up having Samuel Eto'o as his idol.",
+              " He started his career for Cameroonian minnows Dragon Club de Yaoundé, being one of the most notable players ever to come out of the club."
+            ]
+          },
+          {
+            "title": "Jack Taylor (wrestler)",
+            "sentences": [
+              "Jack Taylor (born 1887) was a Canadian successful amateur and professional wrestler.",
+              " Considered to be Canada's first great wrestling superstar in his time he was the childhood idol of wrestling icon Stu Hart and trained Toots Mondt."
+            ]
+          },
+          {
+            "title": "Islak Islak",
+            "sentences": [
+              "Islak Islak is the first album by Turkish rock musician Barış Akarsu.",
+              " It was released in 2005 by Seyhan Müzik after Akarsu's success at \"Akademi Türkiye\" (Academy Turkey).",
+              " The album became famous thanks to its first single \"Islak Islak\" which is a well known piece from Cem Karaca, Turkish musician and childhood idol of Akarsu.",
+              " Akarsu also pays tribute to his hometown with the song \"Amasra\"."
+            ]
+          },
+          {
+            "title": "James Younghusband",
+            "sentences": [
+              "James Joseph Younghusband (born 4 September 1986) is a Filipino footballer who plays as right midfielder or Striker for Davao Aguilas and the Philippines national team.",
+              " He was also called as the \"David Beckham of the Philippines\" due to his childhood idol David Beckham and also his playing style is similar to Beckham."
+            ]
+          },
+          {
+            "title": "List of My Hero Academia chapters",
+            "sentences": [
+              "\"My Hero Academia\" is a Japanese manga series written and illustrated by Kōhei Horikoshi.",
+              " It began its serialization in the manga magazine \"Weekly Shōnen Jump\" on July 7, 2014.",
+              " Its individual chapters have been collected into eight \"tankōbon\" volumes, the first released on November 4, 2014.",
+              " The story is set in a world where most of the world population has a superhuman ability known as a \"Quirk\".",
+              " The main character Izuku Midoriya is a teenage boy who does not have a Quirk, despite his longtime dream to be a superhero, until he is approached by All Might, the world's most famous hero and his childhood idol, who chooses him to inherit his Quirk \"One For All\"."
+            ]
+          },
+          {
+            "title": "The Catechism Cataclysm",
+            "sentences": [
+              "The Catechism Cataclysm is a 2011 independent, psychotronic dark comedy film directed by Todd Rohal.",
+              " The film's narrative concerns a bumbling priest named Father Billy who embarks on a camping trip with his childhood idol, Robbie."
+            ]
+          }
+        ],
+        "gold_titles": [
+          "Louis Ngwat-Mahop",
+          "Samuel Eto'o"
+        ]
+      }
+    ],
+    "signature": {
+      "instructions": "You are an expert reasoning engine designed to answer questions based strictly on provided evidence. Your task is to analyze the `question` and the `relevant_text` (which contains specific, verified sentences extracted from source documents).\n\nFollow these steps:\n1. **Analyze the Question**: Identify the core entity or concept being asked about and the specific attribute or relationship requested.\n2. **Scan the Evidence**: Carefully read the `relevant_text`. Look for explicit statements, names, dates, or comparisons that directly address the question. Ignore any information not present in this text.\n3. **Synthesize**: Formulate a direct answer based *only* on the findings in step 2. Do not use external knowledge, assumptions, or generalities.\n4. **Format Output**: Provide the final answer as a concise short phrase (e.g., a name, a date, \"yes\", \"no\", or a brief title). Do not write full sentences or explanations.\n\nExample Logic:\n- If the text states \"X was founded by Y\" and the question asks \"Who founded X?\", the answer is \"Y\".\n- If the text compares regions and the question asks if they are the same, the answer is \"yes\" or \"no\".\n\nQuestion: {question}\nRelevant Text: {relevant_text}\nAnswer:",
+      "fields": [
+        {
+          "prefix": "Question:",
+          "description": "${question}"
+        },
+        {
+          "prefix": "Relevant Text:",
+          "description": "the sentences that were found to be relevant"
+        },
+        {
+          "prefix": "Answer:",
+          "description": "a short phrase, not a sentence"
+        }
+      ]
+    },
+    "lm": {
+      "_dspy_lm_class": "dspy.clients.lm.LM",
+      "model": "openrouter/google/gemma-4-31b-it",
+      "model_type": "chat",
+      "cache": false,
+      "num_retries": 10,
+      "temperature": 0.0,
+      "max_tokens": 1000,
+      "extra_body": {
+        "provider": {
+          "only": [
+            "deepinfra/turbo"
+          ],
+          "allow_fallbacks": false
+        },
+        "reasoning": {
+          "enabled": false
+        }
+      },
+      "finetuning_model": null,
+      "launch_kwargs": {},
+      "train_kwargs": {}
+    }
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.13",
+      "dspy": "3.3.1",
+      "cloudpickle": "3.1"
+    }
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "gelaufen_am": "2026-10-03 12:24:24",
+  "num_trials": 2,
+  "trainingsdaten": 200,
+  "validierungsdaten": 200,
+  "laeufe": [
+    {
+      "modell": "openai/gpt-oss-120b",
+      "endpunkt": "deepinfra/bf16",
+      "abgeschlossen": true,
+      "ausfuehrungskosten_je_programmlauf": 0.00011414716500000005,
+      "wanduhr_sekunden": 686.4,
+      "optimierung": {
+        "dollar": 0.11572829300000001,
+        "lm_aufrufe": 1013,
+        "programmlaeufe": 470,
+        "fehlgeschlagene_programmlaeufe": 0,
+        "formatfehler": 0,
+        "anbieterfehler": 0,
+        "anbieter": {
+          "Alibaba": 47,
+          "DeepInfra": 966
+        },
+        "stoerungen": [],
+        "dauer_sekunden": 558.3175611999995,
+        "latenz_mittelwert_sekunden": null,
+        "latenz_median_sekunden": null,
+        "bewertung": 0.8203
+      },
+      "nachbewertung": {
+        "dollar": 0.02282943300000001,
+        "lm_aufrufe": 400,
+        "programmlaeufe": 200,
+        "fehlgeschlagene_programmlaeufe": 0,
+        "formatfehler": 0,
+        "anbieterfehler": 0,
+        "anbieter": {
+          "DeepInfra": 400
+        },
+        "stoerungen": [],
+        "dauer_sekunden": 128.10575570000037,
+        "latenz_mittelwert_sekunden": 5.078596531499979,
+        "latenz_median_sekunden": 4.661957499999971,
+        "bewertung": 0.8205090144060732
+      }
+    },
+    {
+      "modell": "google/gemma-4-31b-it",
+      "endpunkt": "deepinfra/turbo",
+      "abgeschlossen": true,
+      "ausfuehrungskosten_je_programmlauf": 0.00017416524999999995,
+      "wanduhr_sekunden": 626.0,
+      "optimierung": {
+        "dollar": 0.11785935799999978,
+        "lm_aufrufe": 1015,
+        "programmlaeufe": 470,
+        "fehlgeschlagene_programmlaeufe": 0,
+        "formatfehler": 0,
+        "anbieterfehler": 0,
+        "anbieter": {
+          "Alibaba": 47,
+          "DeepInfra": 968
+        },
+        "stoerungen": [],
+        "dauer_sekunden": 504.7996383999998,
+        "latenz_mittelwert_sekunden": null,
+        "latenz_median_sekunden": null,
+        "bewertung": 0.8402
+      },
+      "nachbewertung": {
+        "dollar": 0.03483304999999999,
+        "lm_aufrufe": 400,
+        "programmlaeufe": 200,
+        "fehlgeschlagene_programmlaeufe": 0,
+        "formatfehler": 0,
+        "anbieterfehler": 0,
+        "anbieter": {
+          "DeepInfra": 400
+        },
+        "stoerungen": [],
+        "dauer_sekunden": 121.1720994999996,
+        "latenz_mittelwert_sekunden": 4.7348071110000225,
+        "latenz_median_sekunden": 4.429207149999911,
+        "bewertung": 0.8397664557664558
+      }
+    },
+    {
+      "modell": "deepseek/deepseek-v4.1-flash",
+      "endpunkt": "open-inference/fp4",
+      "abgeschlossen": true,
+      "ausfuehrungskosten_je_programmlauf": 0.00014534175499999994,
+      "wanduhr_sekunden": 1272.9,
+      "optimierung": {
+        "dollar": 0.10514535600000006,
+        "lm_aufrufe": 1012,
+        "programmlaeufe": 470,
+        "fehlgeschlagene_programmlaeufe": 3,
+        "formatfehler": 3,
+        "anbieterfehler": 0,
+        "anbieter": {
+          "Alibaba": 47,
+          "OpenInference": 965
+        },
+        "stoerungen": [
+          "3 von 470 Programmlaeufen sind ohne Ergebnis geblieben und mit 0,0 bewertet worden."
+        ],
+        "dauer_sekunden": 1010.9458806000002,
+        "latenz_mittelwert_sekunden": null,
+        "latenz_median_sekunden": null,
+        "bewertung": 0.8542000000000001
+      },
+      "nachbewertung": {
+        "dollar": 0.02906835099999999,
+        "lm_aufrufe": 400,
+        "programmlaeufe": 200,
+        "fehlgeschlagene_programmlaeufe": 0,
+        "formatfehler": 0,
+        "anbieterfehler": 0,
+        "anbieter": {
+          "OpenInference": 400
+        },
+        "stoerungen": [],
+        "dauer_sekunden": 261.98366309999983,
+        "latenz_mittelwert_sekunden": 10.265343221999997,
+        "latenz_median_sekunden": 10.000886199999968,
+        "bewertung": 0.8525941792412381
+      }
+    },
+    {
+      "modell": "openai/gpt-6-luna",
+      "endpunkt": "openai",
+      "abgeschlossen": true,
+      "ausfuehrungskosten_je_programmlauf": 0.00020960204999999988,
+      "wanduhr_sekunden": 546.1,
+      "optimierung": {
+        "dollar": 0.30968231599999985,
+        "lm_aufrufe": 1111,
+        "programmlaeufe": 470,
+        "fehlgeschlagene_programmlaeufe": 5,
+        "formatfehler": 5,
+        "anbieterfehler": 0,
+        "anbieter": {
+          "Alibaba": 47,
+          "OpenAI": 1064
+        },
+        "stoerungen": [
+          "5 von 470 Programmlaeufen sind ohne Ergebnis geblieben und mit 0,0 bewertet worden."
+        ],
+        "dauer_sekunden": 473.8585429999994,
+        "latenz_mittelwert_sekunden": null,
+        "latenz_median_sekunden": null,
+        "bewertung": 0.7372
+      },
+      "nachbewertung": {
+        "dollar": 0.04192040999999998,
+        "lm_aufrufe": 400,
+        "programmlaeufe": 200,
+        "fehlgeschlagene_programmlaeufe": 0,
+        "formatfehler": 0,
+        "anbieterfehler": 0,
+        "anbieter": {
+          "OpenAI": 400
+        },
+        "stoerungen": [],
+        "dauer_sekunden": 72.28539939999973,
+        "latenz_mittelwert_sekunden": 2.8452440894999835,
+        "latenz_median_sekunden": 2.7541786499996306,
+        "bewertung": 0.7401308385101488
+      }
+    }
+  ]
+}
